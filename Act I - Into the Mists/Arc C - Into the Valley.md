@@ -852,7 +852,7 @@ If the players speak with the Wachter brothers, Nikolai and Karl are wary at fir
 (See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom** (p. 100)</span>.
 ### The Ringmaster Arrives
 Soon after the Wachter brothers receive their drinks, Rictavio arrives, entering the taproom through the front door. He is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>.
-![[Pasted image 20231031184628.png]]
+![[Rictavio.png]]
 > [!profile]+ **Profile: Rictavio**
 >
 > **Roleplaying Information**
@@ -920,7 +920,7 @@ As the players exit the Blue Water Inn on their first morning in Vallaki, they f
 * The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
 * Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
 * As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
-![[Pasted image 20231031184726.png]]
+![[Izek Strazni.png]]
 > [!profile]+ **Profile: Baron Vargas Vallakovich**
 >
 > **Roleplaying Information**
