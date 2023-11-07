@@ -198,7 +198,7 @@ His right hand and forearm are a pale bluish-white, with much of the skin puffy 
 
 Kasimir welcomes the players warmly, though obviously with some discomfort. If the players ask for the signet ring, he produces it from his cloak and wishes them luck, noting that he could not identify it himself—odd, he thinks, given his knowledge of pre-Barovian heraldry and his long history in the valley. (He isn’t sure whether the Baron’s library might hold more information, but believes it a lead worth pursuing.)
 
-![[Pasted image 20231031184046.png]]
+![[Khazan's Ring.png]]
 
 The symbol on the signet ring resembles the connected series of lines depicted on <span class="citation">V2. Tower Door (p. 169)</span>, but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
 
@@ -272,7 +272,7 @@ If the players gain access to <span class="citation">N3l. Library (p. 107)</span
 In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
 Shortly after the players discover these records, however, they are interrupted by the arrival of Victor Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
-![[Pasted image 20231031184902.png]]
+![[Victor Vallakovich.png]]
 > [!profile]+ **Profile: Victor Vallakovich**
 >
 > **Roleplaying Information**
@@ -452,7 +452,7 @@ The tower door is largely as described in <span class="citation">V2. Tower Door 
 </div>
 
 The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in <span class="citation">V2. Tower Door (p. 169)</span>. If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
-![[Pasted image 20231031184845.png]]
+![[Tower Door.png]]
 Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
 A player who compares the platinum signet ring to the symbols notices that the evocation and necromancy runes exactly match the appearance of their corresponding symbols on the door. To unlock the door, the players must press the buttons in the order given by the pattern of crossed lines on the signet ring, beginning with either the evocation or necromancy symbol and moving along the lines in the proper sequence. 
@@ -480,7 +480,7 @@ A successful DC 15 Intelligence (Investigation) check or a ten-minute search of 
 
 * A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
 * Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
-![[Pasted image 20231031184830.png]]
+![[Carnival Poster.png]]
 
 As the players search the room, any character who looks out one of the windows toward Lake Zarovich notices something odd: a patch of lily pads approximately fifteen feet from the shore stained a bright, flamboyant yellow, at clear odds with the muted greens of the lily pads nearby. 
 

@@ -73,7 +73,7 @@ Victor then sighs, runs a hand through his greasy hair, and reluctantly informs 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
 No matter the case, if the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
-![[Pasted image 20231031184548.png]]
+![[Stella Wachter.png]]
 Victor then shares the following information:
 
 * Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from a old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
@@ -371,7 +371,8 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 >
 > Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
 > 
->![[Pasted image 20231031184752.png]]
+>![[Soul Leech.png]]
+>
 >The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
 >
 > Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
@@ -764,7 +765,7 @@ Though the players cannot find healing magic capable of curing cackle fever in V
 If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc J - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # I8. The Ritual
 Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
-![[Pasted image 20231031184711.png]]
+![[Heartstone.png]]
 [[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
 
 If present, Lady Wachter leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual. (See **D1b. Infiltrating the Estate** above for more information about sneaking into Wachterhaus.)
@@ -776,7 +777,7 @@ The inside of the chamber is largely as described in **N4t. Cult Headquarters**.
 <p>Thousands of gouges and scratches line the stone walls around the circle, many stained with faded blood centuries old. The far wall of the chamber bears a three-foot tall carving of a dagger with a curved hilt, with the phrase <em>In Silence, Death</em> carved in twelve-inch letters immediately below it. As you take in the scratches along the walls and ceiling, you notice that most form a particular word, endlessly repeated in the ancient stonework: <em>Traitor.</em></p>
 </div>
 
-![[Pasted image 20231031184454.png]]
+![[Leo's Dagger.png]]
 
 Leo Dilisnya used his vampiric claws to carve these words and images into the stone. The phrase “In Silence, Death” is the motto of the Ba’al Verzi, the secret assassins’ guild to which Leo belonged.
 

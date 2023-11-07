@@ -108,7 +108,7 @@ This area is largely as described in <span class="citation">Blood of the Vine Ta
 </div> 
 
 The statue bears a weather-worn plaque at its base. It reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C.” (“B.C.” stands for “Barovian Calendar.”) 
-![[Pasted image 20231031184609.png]]
+![[Ismark the Great.png]]
 ### Entering the Tavern
 Instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. Alenka, Mirabel, and Sorvia are merely patrons, visiting from Tser Pool to drink and gather news. 
 
