@@ -1,16 +1,19 @@
 ---
-description: "Welcome to Curse of Strahd: Reloaded—a comprehensive guide to D&D's darkest adventure for new and veteran Dungeon Masters alike. Experience enhanced storytelling, organized information, and scene-level guidance that make it easier than ever to bring Barovia to life."
-keywords: D&D, Dungeons and Dragons, Curse of Strahd, DM Guide, Barovia, Role-playing Game, DM Tips, Campaign Guide, Strahd Von Zarovich, Tabletop Games
+description: "Welcome to Curse of Strahd: Reloaded—a comprehensive guide to running Curse of Strahd for new and veteran Dungeon Masters alike. Experience enhanced storytelling, organized information, and scene-level guidance that make it easier than ever to bring Barovia to life."
+keywords: Curse of Strahd guide, DM's guide to Curse of Strahd, guide to running Curse of Strahd, how to run Curse of Strahd, D&D, Dungeons and Dragons, Curse of Strahd, DM Guide, Barovia, Role-playing Game, DM Tips, Campaign Guide, Strahd Von Zarovich, Tabletop Games
 cover: preview.png
 ---
-<img class="image-dark" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/cover-dark.png">
-<img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/cover-light.png">
+<img class="image-dark" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-dark.png">
+<img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-light.png">
+
 
 **Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Dungeon Masters than their players.
 
-That's where ***Curse of Strahd: Reloaded*** comes in. As your personal guide to DMing the adventure, *Reloaded* will help you take your players on an unforgettable journey through the Mists—one that's been revised to be as easy and enjoyable to run as possible.
-# Welcome to Reloaded
-*Curse of Strahd: Reloaded* aims to transform the original adventure into something far more accessible, cohesive, and resonant. That's why this guide:
+That's where ***Curse of Strahd: Reloaded*** comes in. As your personal *Curse of Strahd* guide, *Reloaded* will help you take your players on an unforgettable journey through the Mists—one that's been revised to be as easy and enjoyable as possible to run. 
+
+Whether you're looking for a guide to roleplaying Strahd von Zarovich, a comprehensive history of Barovia, or a full *Curse of Strahd* campaign walkthrough, look no further—for you've come to the right place.
+# Your Personal *Curse of Strahd* Guide
+*Curse of Strahd: Reloaded* aims to transform the original adventure into something far more accessible, cohesive, and resonant. That's why this DM's guide to *Curse of Strahd*:
 
 * **Simplifies** your preparation material, presenting the campaign in an organized, Dungeon Master-friendly format.
 * **Guides** you through complex scenes with NPC profiles, pre-written descriptions, and tips for table management.
@@ -25,7 +28,7 @@ That's where ***Curse of Strahd: Reloaded*** comes in. As your personal guide to
 * ***Empowerment.*** Game design that allows your players to be the heroes of Barovia, rather than the victims of a dark and soul-crushing survival-horror experience.
 * ***Accessibility.*** Detailed notes and preparation, allowing you to focus on running engaging sessions instead of getting bogged down in planning and prep work.
 
-If you're ready to begin your adventure through the Mists, check out the Table of Contents below—and get ready for a campaign you and your players won't soon forget.
+You can [[Using This Guide|click here]] to learn how to use and read this guide. Otherwise, if you're ready to begin your adventure through the Mists, check out the Table of Contents below—and get ready for a campaign you and your players won't soon forget.
 
 > [!info]+ **Download this Guide**
 > Want to download *Reloaded* as an Obsidian Vault for use, editing, and review on your local device? You can download all files using the [Github Repository](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) .
@@ -83,10 +86,13 @@ If you're ready to begin your adventure through the Mists, check out the Table o
 [[Amber Shards]]. Fragments of ancient evil to tempt and taint your players.
 
 <hr>
+
 # Acknowledgments
 ***Curse of Strahd: Reloaded*** is written by **DragnaCarta**. You can support his work by joining his [Patreon](https://www.patreon.com/DragnaCarta). 
 
 This unofficial free guide is made available under the Wizards of the Coast [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). You can purchase the official *Curse of Strahd* campaign module on the *Dungeons & Dragons* [website](https://dnd.wizards.com/products/curse-strahd-revamped) or via [D&DBeyond](https://www.dndbeyond.com/sources/cos).
+
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC, available [here](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available [here](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ***Art.*** Cover and background artwork by [JamesRPGArt](https://jamesrpgart.com/), available on [Patreon](https://www.patreon.com/jamesrpgart). Additional illustrations by [Caleb Cleveland](https://calebisdrawing.com/).
 
