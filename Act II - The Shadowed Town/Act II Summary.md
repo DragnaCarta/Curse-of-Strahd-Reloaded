@@ -16,6 +16,13 @@ The players begin this act at 4th level and end it at 5th level, with each playe
 * obtain the *Tome of Strahd* (750 XP)
 * restore the soul of Stella Wachter (1,750 XP)
 * gain entry to the gates of Krezk (750 XP)
+
+> [!info]+ **Vallakian Merchants**
+> While in Vallaki, players can purchase goods from Arasek Stockyard as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>, but at the ordinary price provided in the *Player's Handbook*.
+> 
+> In addition, players who peruse the town's stores can find most items with a price of 25 gp or less, including weapons and armor. Players can also purchase spellbook materials and spell components up to a value of 50 gp each.
+> 
+> When purchasing items from the players, Vallakian merchants will pay the item's full value for magic items and treasure, but half of the item's value for all other goods (e.g., weapons or armor). Merchants also have limited funds. A store cannot provide more than 50 gold pieces for a single item, but may provide store credit for its remaining value.
 # Timeline
 Once the players arrive in Vallaki and Act II begins, the timeline of events unfolds as follows.
 ## Day Zero
@@ -30,8 +37,10 @@ At dawn, Father Lucian Petrovich discovers the missing bones. Players who bring 
 Izek Strazni and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin [[Arc H - The Strazni Siblings]] if Izek has not already seen Ireena.
 
 Ireena Kolyana seeks an audience with Baron Vargas Vallakovich in order to obtain aid for the Barovian refugees. She is denied, but learns that the Baron's household has experienced a series of recent hauntings. Players who seek to speak with the Baron about these problems after this point begin [[Arc I - The Lost Soul]].
+
+That night, if the players defied Baron Vallakovich or aided Willemina Rikalova on their first morning in Vallaki, the players receive an invitation left by Ernst Larnak inviting them to dine with Lady Fiona Wachter at Wachterhaus. Players who accept Lady Wachter's invitation at this point begin [[Arc G - Lady Wachter's Wish]].
 ## Day Two
-If the players defied Baron Vallakovich or aided Willemina Rikalova on their first morning in Vallaki, the players receive an invitation left by Ernst Larnak inviting them to dine with Lady Fiona Wachter at Wachterhaus. Players who accept Lady Wachter's invitation at this point begin [[Arc G - Lady Wachter's Wish]].
+Arabelle's nameday takes place at the Vistani encampment. (If the players haven't yet rescued her in [[Arc F - The Missing Vistana]], she is missing, and no celebration occurs.)
 
 If Izek Strazni saw Ireena outside of the Blue Water Inn on the players' first morning in Vallaki, he visits the Inn while the players are away—preferably at dusk, during Lady Wachter's dinner—and ransacks it in a search for Ireena. [[Arc H - The Strazni Siblings]] then begins.
 ## Day Three
@@ -41,7 +50,7 @@ That night, if the players completed [[Arc F - The Missing Vistana]] and have no
 ## Day Four
 If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.
 
-If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> at noon as described in <span class="citation">Festival of the Blazing Sun (p. 123)</span>.
+If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> at dawn as described in <span class="citation">Festival of the Blazing Sun (p. 123)</span>. If Izek kidnapped Ireena in [[Arc H - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at dawn.
 
 At sundown, the parishioners of St. Andral's Church attend a service observing the holiday of St. Andral's Feast. 
 
@@ -52,6 +61,8 @@ If the players failed to prevent Volenta's attack or otherwise defend St. Andral
 Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc E - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in <span class="citation">Q9. Servants' Quarters (p. 133)</span> in Argynvostholt.
 ## Day Six
 At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)
+
+If the players haven't yet rescued Arabelle and reunited her with her family, she dies shortly after dusk of her wasting disease. Van Richten discovers her body the following morning. He then departs Vallaki in despair and surrenders himself to Strahd at Castle Ravenloft. He is imprisoned in <span class="citation">K76. Torture Chamber (p. 82)</span>, where he is tortured nightly.
 ## Day Seven
 If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving Victor Vallakovich hears the call of an *amber shard* buried in the cemetery of St. Andral's Church. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.
 
@@ -61,8 +72,9 @@ If the players have not yet restored Stella Wachter's soul to her body, her spir
 >
 > If Ireena has already encountered or heard of the Baron’s temperament, she is under no illusions as to the difficulty of winning his favor. However, she is determined to do her best to at least try to help her people—and, as a noble, she is no stranger to the realities of negotiation, compromise, and manipulation.
 >
-> During Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates. If the players are present at this meeting and befriend or antagonize the Baron, he responds as described in <span class="citation">Roleplaying the Vallakovich Family (p. 105)</span>.
-
+> During Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates. 
+> 
+> If the players are present at this meeting and befriend or antagonize the Baron, he responds as described in <span class="citation">Roleplaying the Vallakovich Family (p. 105)</span>. He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 # Diverging Paths
 The town of Vallaki can be a tangled web of assorted paths in the original module. While this guide aims to present it in a more streamlined and predictable manner, DMs may still find the number of possible events, characters, and outcomes to feel overwhelming. To help you digest this act, two of many potential paths have been provided below to guide you in understanding how your players' choices might drive the narrative forward.
 ## The Zealous Crusaders

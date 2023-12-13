@@ -50,7 +50,7 @@ Both everywhere and nowhere, the Dark Powers are not quite a proper faction—th
 
 As part of Strahd’s punishment, however, the Dark Powers quietly work to keep the soul of Tatyana Federovna—now reincarnated as Ireena Kolyana—out of the vampire’s reach. For all their might, it is against the nature of the Dark Powers to act directly upon the souls within their domains: they can neither destroy her, nor command her spirit. 
 
-However, as they once did with Strahd, the Dark Powers can always offer a choice—in Ireena’s case, a choice to end her existence, to flee from Strahd’s pursuit, and to find the safety of temporary oblivion. Nearly five hundred years ago, Tatyana Federovna accepted this offer, and leapt from the Pillarstone of Ravenloft to her doom. Two centuries later, Marina Ulrich did the same, and let slip to her father the secret of Strahd’s pursuit.
+However, as they once did with Strahd, the Dark Powers can always offer a choice—in Ireena’s case, a choice to end her existence, to flee from Strahd’s pursuit, and to find the safety of temporary oblivion. Nearly five hundred years ago, Tatyana Federovna accepted this offer, and leapt from the Pillarstone of Ravenloft to her doom. Forty years later, Marina Ulrich did the same, and let slip to her father the secret of Strahd’s pursuit.
 
 Time and time again, the women bearing Tatyana’s soul have been offered this choice and, bereft of other options, made the decision to accept it. It is not yet Ireena’s time—but the Dark Powers are patient, and they know that, alone, she will inevitably fall once more into their grasp.
 
@@ -137,8 +137,7 @@ Even so, that is not dead which can eternal lie. From the chill of their amber t
 
 Elisabeth Durst of Death House once bore one of these amber shards; Izek Strazni of Vallaki holds one today. These shards are merely a gateway, however—through small tastes of power, the vestiges hope to lure their victims to the Amber Temple itself. There, the vestiges can offer their greatest dark gifts—and, in doing so, claim their true price and prize: a sliver of the victim’s soul.
 
-With each scrap of spirit a vestige claims, it grows in power, inching closer to the day that it will have the strength to break free of its amber prison. One has already succeeded. Others are now on the precipice. And for those that remain—eternity is full of possibilities, and the dead have nothing but time.
-
+With each scrap of spirit a vestige claims, it grows in power, inching closer to the day that it will have the strength to break free of its amber prison. Several are now on the precipice. And for those that remain—eternity is full of possibilities, and the dead have nothing but time.
 ## The Ladies of the Fanes
 
 With their holy places desecrated and their worshippers weakened and divided, two of the three Ladies of the Fanes—the Weaver and the Huntress—have been reduced to little more than spirit, unable to take action or exercise the power they once wielded. Only the Seeker, who forged a pact with Katarina, the bastard sister of Strahd von Zarovich, to free the valley from Strahd’s evil, survives. Through their pact, the Seeker subsumed Katarina’s soul to manifest an avatar of her divine power: the Vistana seer Madam Eva.

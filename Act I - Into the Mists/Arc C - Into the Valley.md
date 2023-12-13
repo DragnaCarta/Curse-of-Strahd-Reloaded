@@ -1,5 +1,4 @@
 *An adventure for five 3rd-level characters.*
-<link href="https://fonts.cdnfonts.com/css/chomsky" rel="stylesheet">
 
 In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
 
@@ -20,9 +19,8 @@ Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. T
 > The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, <span class="citation">Tser Falls (p. 37)</span> makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
 >
 > To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
-
 # C1. The Svalich Woods
-The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour. 
+The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
 ## C1a. The Barovian Scouts
 As the players travel, read:
 
@@ -50,7 +48,12 @@ If the players received the location of Van Richten’s hidden weapons cache fro
 <p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. A sixth figure, bearing the remnants of tattered leather armor, stands just beside the tree, its white eyes staring dully into the canopy overhead. This figure’s flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the forest floor around it before dissipating into the air.</p>
 </div>
 
-The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys. The sixth figure is a **zombie plague spreader** (*Van Richten’s Guide to Ravenloft*, p. 255) created by Strahd, and the former leader of the undead siege.
+The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys. The sixth figure is a **zombie plague spreader** (*Van Richten’s Guide to Ravenloft*, p. 255) created by Strahd, and the former leader of the undead siege. (Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.)
+
+> [!design]- **Design Note: The Plague Spreader**
+> The original **zombie plague spreader** is a "glass cannon." Although it has a Challenge Rating of 4, it has an underlying "Offensive Challenge Rating" of 7 (due to the high damage of its multiattack and ***virulent miasma***) and "Defensive Challenge Rating" of 1/2 (due to its low Armor Class). This creates a high risk of a "swingy" combat," in which the players either kill the plague spreader before it deals notable damage or die to its high damage output before they can kill it.
+> 
+> These modifications decrease the plague spreader's "Offensive Challenge Rating" to 4 and increase its "Defensive Challenge Rating" to 3, keeping its Challenge Rating constant while providing for a longer, steadier fight.
 
 The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
 
@@ -70,7 +73,7 @@ The players can see a driver sitting in the coach box: the **vampire spawn** Esc
 
 > [!abstract]+ **What If The Players Flee?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player—emerge from the fog behind them and snarl, obstructing the players' escape.
+> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
 
 The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
@@ -102,19 +105,39 @@ Whether Ireena is with the party or not, add:
 >
 > Muriel heard the first five cards that Madam Eva read, but doesn’t know the last two. More information about Muriel and her escape from Strahd’s minions can be found in [[#C3. The Strix]] below.
 
+>[!profile]+ **How to Enjoy Roleplaying Strahd**
+>Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
+>
+>* **Enjoy Invincibility.** Strahd is the one NPC in the entire campaign that (until they obtain the *Sunsword*) your players cannot hurt in any meaningful way. Their strongest attacks do little more than tickle him. Their cruelest insults merely amuse him. Enter Strahd-related scenes without fear of player action.
+>* **Embrace Unpredictability.** In each scene before [[Arc R - The Tyrant's Trials]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
+>* **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
+
 > [!abstract]+ **The Players Misbehave**
 >
-> If any of the players act rudely toward Strahd, he doesn't feel a need to "punish" or "discipline" them. Instead, he responds with amusement, like a parent soothing a child throwing a tantrum. Strahd doesn't view the players as a threat to either his ego, his person, or his reputation, and treats them accordingly.
->
-> In such a situation, Strahd might draw upon [the following lines of dialogue](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips) when responding to a misbehaving player:
+>  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
+>  
+>  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fixate their gazes on the rude player. 
+>  
+>  The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
+>  
+>  The third time that a player disrespects Strahd, he frowns. Read the following:
+>  
+>  <hr>
+>  
+> "You seem to be under the misunderstanding that you are special," Strahd says. "You are not. You are an outsider to my lands, with nary an ounce of respect or common wit. It amuses me, from time to time, to take the measure of those who enter the valley from beyond the Mists."
 > 
-> - "Do not imagine that you are the first to invade my realm."
-> - "If you are trying to impress me, you have failed."
-> - "What lies do you tell yourself before you close your eyes at night?"
-> - "There is none in all of Barovia whose honor you have more cause to trust."
-> - "Faith is that faculty which enables us to believe things which we know to be untrue."
->
-> If, at any point during the encounter, the players move to threaten Strahd or flee, read:
+> His eyes narrow. "But you have taken your own measure, and I have found it wanting. You are not brave. You are not cunning. You invite death, and I have never been one to deny my subjects such a wish, no matter how foolish. This final chance, I shall grant you, to save your own life - for I see no value it above that of the lowliest creature that crawls in the muck." 
+> 
+> He holds up a third finger. "The next time you speak, my pets will kill you. Any who defend you will share the same fate."
+> 
+> <hr>
+> 
+> If the player violates Strahd's ultimatum, pause the game and address the player out-of-character. Note that Strahd has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end. 
+> 
+> If the players confirms their decision, resume the game. Strahd's dire wolves then attack that player. If any or all of the other players do not interfere, Strahd continues his conversation with them, undisturbed.
+
+> [!abstract]+ **Running Away**
+> If, at any point during the encounter, the players move to flee, read:
 > 
 > <hr>
 > 
@@ -130,7 +153,22 @@ Whether Ireena is with the party or not, add:
 > 
 > The wolves are **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
 > 
-> If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to attack Strahd or flee, the wolves attack.
+> If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
+
+> [!abstract]+ **Challenging Strahd**
+> If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
+> 
+> If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for five full rounds. During this time, each attack the player makes against Strahd automatically hits, and Strahd automatically fails all Strength and Dexterity saving throws.
+> 
+> When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins." 
+> 
+> Assuming his [[Strahd von Zarovich#The Mage|Mage]] form, Strahd casts ***telekinetic grasp*** each round to suspend the player in the air above him, and casts ***blindness/deafness*** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against ***telekinetic grasp***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
+> 
+> The first time the player succeeds their saving throw against ***telekinetic grasp***, Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
+> 
+> If the player asks to be freed from Strahd's ***telekinetic grasp***, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
+> 
+> If the player is knocked unconscious by Strahd's ***telekinetic grasp***, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
 ## C2b. The Conversation Begins
 If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
 
@@ -138,13 +176,9 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks 
 
 (He does not, however, deny his attack on the village of Barovia, noting only that the people of the village defied him in an act of utmost treason. "I am sure that you can agree that my response was a measured one," he says. "After all, no lord could tolerate a settlement that fostered such sedition. The good people of Barovia needed to be taught a lesson. Their discipline was a kindness that few others would entertain.")
 
-As the conversation progresses, Strahd notes that he's heard "such wonderful things" of the players' exploits at "a certain old house at the edge of my domain." Strahd then makes brief reference to the players' actions in Death House, sardonically lauding:
+As the conversation progresses, Strahd notes that he's heard "such wonderful things" of the players' exploits at "a certain old house at the edge of my domain." Strahd then makes brief reference to the players' actions in Death House, sardonically lauding their "fierce and fiery valor."
 
-* their "heroic and compassionate spirits" if they put Walter's spirit to rest;
-* their "fierce and fiery valor" if they defeated the flesh mound; and/or
-* their "cunning and ruthless will" if they made a sacrifice on the cult's altar.
-
-(If the players ask about the nature of Death House, or its purpose in bringing them to Barovia, Strahd smiles coldly and says only, "The souls of the damned are tragically twisted things. Do not linger upon their madness.")
+If the players ask about the nature of Death House, or its purpose in bringing them to Barovia, Strahd smiles coldly and says only, "The souls of the damned are tragically twisted things. Do not linger upon their madness."
 
 If the players ask about Strahd's driver, Strahd introduces him as Escher, "my coachman and cupbearer." Escher does not respond to the players’ questions or statements and simply stands demurely at Strahd’s side.
 ## C2c. Strahd's Questions
@@ -179,22 +213,98 @@ If the players appear to doubt Strahd's fidelity to his concessions, [he promise
 
 When the players have answered all of Strahd's questions to his satisfaction, he bids them farewell and steps back into the black carriage.
 
-As he does, Strahd’s six **dire wolves** emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage then departs for Castle Ravenloft.
+As he does, Strahd’s **dire wolves**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage then departs for Castle Ravenloft.
 ## C2e. Departing the Crossroads
 As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter <span class="citation">The Hanged One (p. 35)</span>. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
 # C3. The Strix
 Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, the players hear the sound of a distressed bird cawing from above. A raven with blue-tipped wings—recognizably the same raven that met them in the village of Barovia—then crashes into the road at the players’ feet, visibly wounded. This is, again, the **wereraven** Muriel, in disguise with 1 hit point. Her wings and torso have been penetrated by several dozen silver barbs, leaving her unable to fly, regenerate, or transform until removed.
 
-The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix** (using the statistics of a **manticore**): an enormous artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers. (Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.)
+The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers. 
+
+The **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 
 ![[Greater Strix.png]]
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
 These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players if they obstruct it. It fights to the death.
 
+> [!warning]+ **Don't Hurt Ireena**
+> Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
+
 If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
 
+<div class="statblock"> 
+<h2>Muriel Vinshaw</h2> 
+<em>Medium humanoid (human, shapechanger), chaotic good</em> 
+<hr> 
+<strong>Armor Class</strong> 12 (leather armor) 
+<br> 
+<strong>Hit Points</strong> 63 (7d8 + 7) 
+<br> 
+<strong>Speed</strong> 30 ft., fly 50 ft. in raven and hybrid forms 
+<hr> 
+<table class="ability-table"> 
+  <thead> 
+    <tr> 
+<th>STR</th> 
+<th>DEX</th> 
+<th>CON</th> 
+<th>INT</th> 
+<th>WIS</th> 
+<th>CHA</th> 
+</tr> 
+</thead> 
+<tbody> 
+<tr> 
+<td>10 (+0)</td> 
+<td>16 (+3)</td> 
+<td>11 (+0)</td> 
+<td>13 (+1)</td> 
+<td>15 (+2)</td> 
+<td>14 (+2)</td> 
+</tr> 
+</tbody> 
+</table> 
+<hr> 
+<strong>Skills</strong> Insight +4, Perception +6
+<br> 
+<strong>Senses</strong> passive Perception 16
+<br> 
+<strong>Languages</strong> Common (can't speak in raven form)
+<br> 
+<strong>Challenge</strong> 2 (450 XP)
+<br> 
+<strong>Proficiency Bonus</strong> +2
+<br> 
+<hr> 
+<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p> 
+<p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p> 
+<p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p> 
+<h3>Actions</h3> 
+<p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p> 
+<p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage, and Muriel can mark the target.</p> 
+<p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack</em>: +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
+<p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p> 
+<h3>Bonus Actions</h3> 
+<p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her human form if she dies.</p> 
+<h3>Reactions</h3> 
+<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits a target, other than Muriel, within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p> 
+</div>
+
 If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
+
+> [!info]+ **Muriel Incognito**
+> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators.
+> 
+> While accompanying the group, Muriel may use her ***mimicry*** feature to produce any of the following sounds to prompt or react to the players:
+> 
+> * **Whistle.** To signal secrecy or caution.
+> * **Snoring.** To signal boredom.
+> * **Laughter.** To signal amusement.
+> * **Jingling.**  To indicate someone's arrival.
+> * **Clicking (like a key turning).** To applaud a solution to a problem.
+> * **Trumpet.** To celebrate a victory or achievement.
+
 # C4. Tser Pool
 <span class="citation"><em>This scene takes place in Chapter 2: Area G.</em></span>
 
@@ -204,7 +314,9 @@ This area is largely as described in <span class="citation">G. Tser Pool Encampm
 
 As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*.
 
-Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. However, he will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
+Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. (The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. The Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill.)
+
+However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
 
 If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
 ## C4b. The Tarokka Reading
@@ -242,6 +354,9 @@ Madam Eva then asks the players if they would like their fortunes read, and prod
 <div class="description"><p>Madam Eva’s voice is a low hiss as she speaks, her silhouette dancing in the flickering candlelight. "A shadow is approaching my tent: a lone servant of Darkness. They seek knowledge of your future—secrets that I am sworn never to reveal to any but their keepers. </p>
 <p>“Do not look, child, nor rush to greet them; if they learn the import of what we have discussed, all may be lost. Do not reveal, even, that you know of their true nature, for their master will know that I have told you, and his wrath will descend upon us all. I will read the cards as swiftly as I dare before they arrive, and you will listen closely, for I shall never again repeat what they say. Are you ready?"</p></div>
 
+> [!warning]+ **Placing the Tome**
+> Don't forget to choose the location of the *Tome of Strahd* before delivering the reading. (The card the players receive will change depending on the location you choose. See the reading below for more information.)
+
 If the players respond affirmatively, read the following text, choosing the appropriate descriptions and narration where appropriate:
 
 <div class="description"><p>Her old hands working deftly, the ancient seer removes fourteen cards from the top of the deck, setting them aside. The remaining cards, she shuffles nimbly twice, three times, four.</p>
@@ -251,11 +366,7 @@ If the players respond affirmatively, read the following text, choosing the appr
 <p>The crone then moves her wrinkled hand to the left-most card—the first. She closes her eyes and tilts her head, as if listening to an unspoken word. The arcane lights swirl and then shift, their colors changing to a deep, piercing blue.</p>
 <p>"This card tells of history. Knowledge of the ancient will help you better understand your enemy."</p>
 <p>She flips the card.</p>
-<p>The cerulean light dances across its surface, revealing an illustration of:</p>
-<ul>
-<li><strong><em>Nine of Swords—Torturer.</em></strong> A scowling, bearded man, clad in leather armor and a hood tipped with spikes, his calloused, gnarled hands turning the wheel of a grisly device. “The Nine of Swords—the Torturer.” Her dark pupils shift from side to side, as though reading from an unseen text. (See <span class="citation">Swords (Spades), p. 12</span>, for this card’s foretelling.)</li>
-<li><strong><em>Nine of Glyphs—Traitor.</em></strong> A smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. “Look for a wealthy woman. A wary servant of the devil, she keeps the treasure under lock and key, with the bones of an ancient enemy.”</li>
-</ul>
+<p>The cerulean light dances across its surface, revealing an illustration of a smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The wandering soul will lead you to him."</p>
 <p>She moves her hand to the second card, this one at the top of the cross. As she closes her eyes and listens once more, the candlelight flares, its color bursting into a fierce, cheery yellow.</p>
 <p>"This card tells of a powerful force for good and protection, a holy symbol of great hope." She flips the card.</p>
 <p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the shadows that lurk in the corners of the tent. (See <span class="citation">Swords (Spades), p. 12</span>, for this card’s foretelling.)</p>
@@ -287,13 +398,11 @@ Unless the players intervene, the conversation unfolds as follows:
 * Eliza greets the players immediately, giving them a warm welcome to the Tser Pool Encampment. 
 * As Stanimir approaches, Eliza clicks her tongue and scolds him for his lack of hospitality, noting that the players seem to have traveled a long way. 
 * Stanimir amusedly reminds Eliza that fate waits for no one, but nonetheless invites the players to rest their weary feet at the camp’s central fire, offering wine, food, and song should the players join.
-* If the players accept and move to accompany Stanimir, Arturi hesitates, then asks if the players would mind if he accompanied them. He notes that he has heard that they have just arrived from Barovia, and has recently arrived himself from the west to seek information regarding the village. (He adds, somewhat awkwardly, that it has been some time since he had last shared a Vistani fire, and apologizes for imposing upon them and the others.)
+* If the players accept and move to accompany Stanimir, Arturi hesitates, then asks if the players would mind if he accompanied them. He notes that he has heard that they have just arrived from Barovia, and he is curious to hear news from the village. (He adds, somewhat awkwardly, that it has been some time since he had last shared a Vistani fire, and apologizes for imposing upon them and the others.)
 
 > [!profile]+ **Arturi and Eliza**
 >
-> **Arturi Radanavich**, a close friend of Dr. Rudolph van Richten, has recently arrived at the Tser Pool encampment. He has now heard that travelers have arrived from the village of Barovia and hopes to hear whether the Barovians have obtained any information regarding Dr. Van Richten’s whereabouts. (See **The Curse of Arturi Radanavich** below for more information about Arturi's connection to Dr. Rudolph van Richten.)
->
-> Arturi is a thoughtful, soft-spoken man in his late thirties with a distant, almost absent-minded countenance and a near-painful sincerity.
+> **Arturi Radanavich**, a cursed Vistana, arrived at the Tser Pool encampment two weeks after Strahd's reawakening. (See **The Curse of Arturi Radanavich** below for more information about Arturi's presence in Barovia and his connection to Dr. Rudolph van Richten.) Arturi is a quiet, soft-spoken man in his late thirties with a distant, almost absent-minded countenance and a near-painful sincerity.
 >
 > Meanwhile, **Eliza**, one of Strahd’s spies, has heard that outsiders have entered the pool from beyond the Mists, and hopes to glean information about their goals, capabilities, and weaknesses. (Eliza had hoped to eavesdrop on the players’ Tarokka reading as well, but was foiled by Madam Eva’s foresight.)
 >
@@ -315,31 +424,19 @@ Unless the players intervene, the conversation unfolds as follows:
 >
 > ***Arturi's Curse.*** Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, clinging to him like a burial shroud. “Undead take you,” Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him *mortu*, or “outcast,” a word that can also be more directly translated as “living dead.” No village gave Arturi sanctuary; no town’s walls would protect him.
 >
-> For eighteen years Arturi wandered, ever-evading his eternal pursuers. One day, however, he came upon a Vistana caravan while traveling the roads, from whom he learned that Van Richten, the murderer of Arturi’s family, had suffered beneath the weight of a curse as well—a curse placed by the *raunie*, or leader, of the Radanavich caravan with her dying words: “Live you always among monsters, and see everyone you love die beneath their claws!” A flutter of hope emerged in Arturi’s heart—hope that, together, their two curses might be lifted.
+> For eighteen years Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, shortly after Strahd's reawakening, he traveled to Barovia, where he sought the counsel of the Vistana seer Madam Eva. "Find the man who forged your fetters," she told him. "His final breath will set you free."
+> 
+> Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache, containing a half-written manuscript and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
+> 
+> Arturi has often returned to Madam Eva's camp to enjoy her hospitality—but stays no longer than dusk each time. For the walking dead never rest, and Arturi dare not lead them to Tser Pool . . . 
 >
-> Arturi spent three weeks searching for Van Richten, eventually finding him in a small cottage at the edge of a sleepy village. Concealing himself from view, Arturi watched Van Richten rage against the lives taken by the raunie’s curse, then finally crumple into sleep, alone and undefended. No lust for vengeance stirred Arturi’s hand to the dagger at his side, though—instead, he felt only commiseration and pity.
->
-> When Van Richten awoke, Arturi was there to greet him, suggesting that, together, they could aid one another and see their curses lifted. Though Arturi was not sure how, he suggested that the two spend a year traveling among the Vistani caravans, so that Van Richten could come to know the people that had taken his son, and so Arturi could come to know the man who had murdered his family. After some discussion, Van Richten reluctantly agreed.
->
-> ***Redemption & Understanding.*** The two men set off together—awkwardly, at first, but soon coming to a quiet understanding. For the next twelve months, they visited each of the largest Vistani caravans in turn, exposing Van Richten to the lives, joys, and sorrows of his most hated foes. Arturi, in turn, learned of Van Richten’s grief: of the love he bore for his son, Erasmus, and the guilt he felt for his friends who had fallen.
->
-> When the year had ended, Arturi warned Van Richten that only blood could pay for his crime. Van Richten, head bowed with the weight of his guilt, promised not to resist should Arturi choose to take his life. Instead, however, Arturi sliced both their palms and took Van Richten’s hand, allowing their lifeblood to intermingle. In that moment, the two became blood-brothers, and released their hatred forever.
->
-> Somehow, the two knew that there was one thing left to do. They traveled to the old wreckage of the Radanavich caravan and set it aflame, defending its burning husk from legions of the undead that swarmed from the darkness. When dawn finally broke, the undead had gone—and the wreckage was naught more than a pile of smoking ash. The two men embraced, laughing, knowing that their curses had finally come to an end.
->
-> ***The Next Chapter.*** Arturi and Van Richten parted ways soon after—Van Richten returning to his family home to compile a lifetime’s notes, and Arturi returning to the solitude of the roads, too distant from his people to truly return to their camps. Not long thereafter, Arturi’s travels took him to a southern port, where he purchased a small, trained monkey—a **baboon** named Piccolo—and had him delivered to Van Richten’s home as a memento and gift.
->
-> Several months later, Arturi heard rumors from the Vistani that Van Richten had been sighted once more—this time, in Barovia, the cursed valley of the vampire Strahd von Zarovich—and that he was now widely believed to be dead. Fearful for his friend, Arturi set off for Barovia through the Mists, hoping to find Van Richten should he still be alive—and to ensure him a proper burial should he have fallen in battle.
->
-> **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995..
+> **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
 
 If the players make their way to the Vistani fire, Eliza—and Arturi, if he is present—introduce themselves. Eliza also asks the players’ names in return. (If asked why he has not shared a Vistani fire until recently, Arturi winces and admits only that the situation is complicated.)
-
-While seated around the fire, the players are given wine and food, including a midday meal of bread, cheese, and pickled beets. As they eat, Eliza asks the players about their next destination. If the players note that they are headed toward Vallaki or otherwise indicate an interest in staying the night, Stanimir invites them to rest at the camp overnight, noting that the roads can be long and dangerous beyond Madam Eva’s wagons.
 ## C4d. The Dancing Fire
-As dusk descends around the campfire, the Vistani serve the players a dinner of a hearty stew of rabbit, potatoes, turnips, lentils, and parsnips alongside hearty chunks of flatbread. 
+As dusk descends around the campfire, the Vistani serve the players a dinner of a hearty stew of rabbit, potatoes, turnips, lentils, and parsnips alongside hearty chunks of flatbread. As they eat, Eliza asks the players about their next destination. If the players note that they are headed toward Vallaki or otherwise indicate an interest in staying the night, Stanimir invites them to rest at the camp overnight, noting that the roads can be long and dangerous beyond Madam Eva’s wagons.
 
-If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes sorrowfully that Van Richten is a friend of his, and that he had recently heard a rumor that he had come to harm while traveling to Barovia. Arturi is unsure whether he believes Van Richten to be dead, but is hopeful that he still lives—if for no other reason than that the old man is impressively hard to kill.
+If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance friend of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
 
 After dinner, Stanimir cheerfully informs the players that, as guests at a Vistani fire, they are now expected to play the Game of Stories, and asks whether the players will accept. To play, each participant must put up a wager, which can be an object of small monetary, intellectual, or sentimental value. Each participant must then share a story to make a man “laugh or weep.” Each time a story is told, the other participants in the game must guess whether the story is truth, falsehood, or both. At the end of the game, the participant with the most correct guesses wins the pot.
 
@@ -397,14 +494,19 @@ Lugdana was indeed a paladin of the Morninglord who bore the legendary *Holy Sym
 ### Arturi’s Tale
 After three of the players have gone, Arturi then shares the following tale:
 
-<div class="description"><p>“There was once a silver Fox, renowned among all for his curative touch. On a cold, moonlit night, however, a rustle of wings disturbed his peaceful reprieve. A flock of Sparrows brought him one of their own, the tendrils of Death clutching its small, shivering body. The Silver Fox took the sickly sparrow into his den, but with all his wisdom and skill, he could not cure its ailment, and it breathed its last in his paws.</p>
-<p>“Fearing the Sparrows’ anger, the Fox begged them to take anything in exchange for peace. The Sparrows, hearts filled with grief, departed into the moonlit night. It was only at dawn that the Fox realized what they had taken: His beloved kit had vanished, taken by the Sparrows’ claws.</p>
-<p>“The Fox pursued the sparrows through barren lands and shadowed woods. He found them slumbering amidst the branches of a gnarled tree—and, in his cleverness, snatched two of their flock in the jaws of his teeth.</p>
-<p>“‘Where is my kit?’ the silver Fox roared. The Sparrows, now prey in his claws, shared the terrible truth: they had given his kit to the Kingdom of Night, where the cursed Sovereign of Dusk dwelled in the darkness.</p>
-<p>“And so the Fox passed from light into dark, his legs aching and sore, his paws bramble-pricked and bloody. It was in the keep of Dusk’s Sovereign that he found his lost quarry—and uncovered his kit’s dreadful fate. His kit now shared the Sovereign’s curse,  the features of life now twisted and warped, his once-lively eyes now deadened and cold.</p>
-<p>The kit begged for reprieve—for his father to free him from his cursed existence. And the silver Fox, with a heart heavier than the mountains, with eyes stinging with tears, did the unthinkable—and ended his kit’s torment. As the Fox’s anguished howl shattered the night, so, too, did his heart. A father had entered the Kingdom that day, but it was a phantom, born of anguish and rage, that vanished into the shrouded night.”</p></div>
+<div class="description">
+<p>There once was a Fox, renowned for his wisdom and skill, who dwelled with his kit in the misted woods. On a cold, moonlit night, a pair of Sparrows brought him their child, the tendrils of Death clutching its shivering body. The Fox took the chick into his den, but for all his knowledge, he could not cure its ailment, and it breathed its last in his paws.</p>
 
-When his tale has ended and all participants have made their guesses—Stanimir and Eliza going last, with Stanimir voting “True” and Eliza voting “False”—Arturi reveals that his story was true. He politely declines, however, to reveal anything further, noting only, with a sad smile, that “Some stories are not mine to tell.”
+<p>Driven mad in their grief, the vengeful Sparrows, aided by four of their kin, stole the Fox's kit in the night. They delivered him to the Wolf, who had long hungered for the taste of fox-flesh. The Wolf devoured the kit, and the Sparrows departed to return to their flock.</p>
+
+<p>When the Fox found what the Sparrows had done, rage clutched his own heart. In his cunning, he knew that the Rats, in their burrows beneath the earth, had always despised the songs of the Sparrows far above. The Fox descended to the kingdom of the Rats, and he promised them a forest free of the songs of the Sparrows. Intrigued, the Rats agreed.</p>
+
+<p>The Rats could not find the Sparrows' nest alone. But the crafty Fox could, and as the Sparrows slumbered in the hollow of a great oak, the Rats fell upon them to feast with tooth and claw. For the crimes of six, the flock perished, with nary an egg spared.</p>
+
+<p>The misted wood is darkened, now, and the trees no longer sing with the songs of the Sparrows. But some say that the Rats hunt still—that a lone chick yet escaped their clutches, and that one day, they will find it, and gobble it up like the rest.</p>
+</div>
+
+When his tale has ended and all participants have made their guesses—Stanimir and Eliza going last, with Stanimir voting “True” and Eliza voting “False”—Arturi reveals that his story was true. He politely declines, however, to reveal anything further, noting only with a sad smile that "A story cannot truly be told until it has ended."
 ### Ireena’s Tale
 After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireena]] (if present) then shares the following tale:
 
@@ -418,13 +520,19 @@ After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireen
 When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—Ireena reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
 
 If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks Ireena for sharing her tale.
+### Arturi Departs
+When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow." 
 
-> [!abstract]+ **Confronting Arturi**
->
-> If one of the players confronts Arturi after the Game of Stories has ended and suggests that the Silver Fox of his tale is a pseudonym for Dr. Rudolph van Richten, Arturi graciously admits it. He notes, wistfully, that Van Richten has suffered many pains in life—some just, some unjust—but that, in due time, he found healing and redemption for both his sins and the sins of others. Arturi says, however, that the continuation of Van Richten’s tale is not for him to tell.
->
-> Arturi does note, though, that Van Richten *did* later find precious friends who began to heal his broken heart, including his student Ezmerelda d'Avenir. He concludes by sharing his hopes that Van Richten still lives, if only so that he may one day find the peace he has long searched for.
+A player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
 
+Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
+
+* Thirty minutes after Arturi arrives, twelve **zombies** arrive to mill about the base of the tree. 
+* Two hours later, five **ghouls** arrive to claw and howl at the trunk of the tree. 
+* Two hours later, three **ghasts** arrive to join the ghouls. 
+* Two hours later, four **wights** emerge silently to stand guard around the base of the tree.
+
+The undead vanish into the woods shortly before dawn.
 ## C4e. A Gift for Arabelle
 As the players prepare to depart Tser Pool, they are approached by [[Non-Player Characters#Madam Eva|Madam Eva]], who greets them with a friendly cackle. Once pleasantries are disposed of, she proffers a velvet pouch containing 10 gp and asks the players to bring it to Blinsky Toys, in Vallaki, to purchase a toy for her great-grand-niece, Arabelle. (Blinsky’s are Arabelle’s favorites.) She adds that the players are welcome to keep any change as payment for their efforts.
 
@@ -518,11 +626,11 @@ The journey from Tser Falls to the <span class="citation">Black Carriage (p. 37)
 
 This area is as described in <span class="citation">Black Carriage (p. 37)</span>. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
 
-The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in <span class="citation">Gates of Barovia (p. 38)</span>, but seen from the opposite side.
+The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in <span class="citation">Gates of Barovia (p. 33)</span>, but seen from the opposite side.
 # C9. Old Bonegrinder
 <span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
 
-The journey from the Gates of Ravenloft to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
+The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
 
 <div class="description"><p>The road continues forward, passing between a patch of dark woods. The air here is as quiet as the grave, the trees standing perfectly still in the unnerving silence.</p>
 <p>Not far from the road, nestled in the overgrown underbrush, stands a mossy stone slab standing just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some kind of carving.</p></div>
@@ -533,11 +641,11 @@ If the players remain silent or continue ahead, read:
 
 <div class="description"><p>The road soon emerges from the woods once more, veering between two hills. Before long, it bends to the north, hugging the base of a mountain.</p></div>
 
-The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>.
+The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill. 
 
 As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
 
-This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart. (Because her ***shapechange*** ability is a polymorph effect, a paladin’s ***divine sense*** and similar abilities don’t detect her fiendish nature.)
+This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
 Morgantha greets the players warmly, calling them "weary travelers," and shares her hope that the road has not been too hard on them. She freely shares the following information if asked:
 
@@ -549,9 +657,18 @@ Morgantha has a few "dream pastries" left from her workday—"filled with the li
 
 If asked how she manages to travel the roads safely, Morgantha only smiles and promises the players that "an old woman has her tricks." ("But," she complains, "my back and poor feet do complain from time to time. I can't wait to soak them in a tub of nice, hot water once I'm home.")
 
-When the conversation runs out of steam, Morgantha bids the players a safe journey, and lets them know that they can find her outside of Vallaki's gates in the future, should they like to purchase additional pastries. 
+If the players ask to enter her home, Morgantha apologizes for her lack of hospitality, but notes that she's tired and not prepared for visitors, besides. (The players are welcome, she says, to visit another day if they'd like.)
+
+When the conversation runs out of steam, Morgantha bids the players a safe journey, and lets them know that they can find her outside of Vallaki's gates in the future, should they like to purchase additional pastries.
 
 Before she departs, Morgantha warns the players that the guards at the Vallaki gates are confiscating silver coins and visible silver items from travelers as a tax. "But," she says, tapping her nose with a cheeky, half-toothed grin, "you didn't hear it from me."
+
+> [!abstract]+ **Morgantha Detected**
+> If a player discerns Morgantha's fiendish nature, such as by using a paladin's ***divine sense***, and confronts her about it, she pauses, then congratulates them on their perceptiveness. She then smiles sweetly and notes she is breaking no laws, asking: "Is it a crime to be as one was made?" If the player insisted on attacking her, she adds: "And does such a crime demand immediate execution?"
+> 
+> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her ***etherealness*** feature, cackling. 
+> 
+> If the players approach the windmill, she notifies Bella and Offalia, who join her in the Ethereal Plane. If the players attempt to damage or destroy the windmill, the hags then return to the Material Plane and warn them to stop on pain of death. See [[Arc I - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] for more information on conflict with the hags. (The windmill currently doesn't contain any children, and won't until [[Arc I - The Lost Soul]] begins.)
 # C10. The Deep Woods
 The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-quarter miles long and takes two hours. As the players make this journey, read:
 
@@ -587,6 +704,8 @@ Soon after the first wolf appears, the pack attacks. Read:
 
 <div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
 <p>Then, without warning, eight snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p></div>
+
+The wolves attack the players from all directions, aiming to surround them. 
 
 Have the players, **wolves**, **werewolf** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
 
@@ -625,7 +744,7 @@ Use the statblock below for the **werewolf**, rather than the one in the *Monste
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +4<br>
+<strong>Saving Throws</strong> Str +5<br>
 <strong>Skills</strong> Perception +4, Stealth +3<br>
 <strong>Senses</strong> darkvision, passive Perception 14<br>
 <strong>Languages</strong> Common (can't speak in wolf form)<br>
@@ -639,10 +758,11 @@ Use the statblock below for the **werewolf**, rather than the one in the *Monste
 <p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
 <p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
 <p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</p>
+<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
 </div>
+ 
 
 Each wolf gains the following additional action option:
 
@@ -673,11 +793,13 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 >
 > Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on the sixth night after they first arrive in Vallaki.**
 
-# C11. The Town of Vallaki
-## C11a. The Vallakian Gates
+# C12. The Town of Vallaki
+## C12a. The Vallakian Gates
 The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
 
 <div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
+
+If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
 
@@ -701,9 +823,9 @@ Following her interaction with the refugees, Ireena is enraged by the Baron's ca
 ### The Guards at the Gates
 The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
 
-The guards demand that each person first identify themselves, then pay 1 gold piece as a toll in order to enter the village. (The Baron has imposed this law to prevent werewolves or Vistani from entering the town.)
+The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
 
-The guards refuse to accept payment on behalf of the refugees, who the Baron has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
+The guards then demand each player pay 1 gold piece as a toll in order to enter the village. The guards refuse to accept payment on behalf of the refugees, who the Baron has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
 
 If the players pay the toll, the guards also insist that each entrant opens their purse (or equivalent) and surrender any silver pieces in their possession. (If the players complain, the guards assure them that the silver is needed to produce the silvered weapons necessary to defend the town from werewolves.) In exchange for any silver coins that they give up, the players receive an amount of copper coins of equal value—minus a ten percent tax.
 
@@ -730,14 +852,14 @@ Otherwise, if the players arrive at night, add:
 The cloaked figure is Willemina Rikalova, as described in <span class="citation">St. Andral's Church (p. 97)</span>. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
 
 As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to <span class="citation">N4. Wachterhaus (p. 110)</span> to report back to Lady Wachter when the players leave his sight.)
-## C11b. The Blue Water Inn
+## C12b. The Blue Water Inn
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
-This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>.
+This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
 
-When the players first arrive, assuming they arrive between late afternoon and early evening, the inn contains the following notable NPCs:
+When the players first arrive, the inn contains the following notable NPCs:
 
-* Danika Martikov, who is pouring drinks and serving patrons in **N2c. Taproom**; 
+* Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**; 
 * Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
 * Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
 * Rictavio, who is feeding his horse, Drusilla, in **N2f. Stable**.
@@ -778,16 +900,24 @@ When the players first arrive, assuming they arrive between late afternoon and e
 >
 > ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
 ### Entering the Inn
-When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]] greets them and asks them to wait at the bar while she tends to other patrons.
+The taproom is as described in <span class="citation">N2c. Taproom (p. 100)</span>. However, add the following text to the end of this area's description:
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) 
+<div class="description">
+<p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laugher rippled through the group, followed by a smattering of light applause.</p>
+</div>
+
+The man is the ringmaster Rictavio, who is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+![[Rictavio.png]]
+When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
+
+If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
 
 Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
 
 Before Urwin can reply to the players, Danika returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
 
 * Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies. 
-* Danika tells the players that Urwin has already let one other guest stay for free for almost a week, and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.) 
+* Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.) 
 * "After all," Urwin says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
 * Danika pecks Urwin's cheek with a kiss and says, "The table by the window is getting hungry." Urwin winks at the players, picks up the tray again, and exits the bar to deliver the food.
 
@@ -797,62 +927,12 @@ The players then have a few minutes to talk with Urwin and Danika or amongst the
 
 Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
 
-The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See ***Arc K: The Stolen Gem*** for more information.)
-### The Wolf-Hunters Arrive
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom. (See **Map 5.2: Blue Water Inn**.) While the players wait to be served, Szoldar Szoldarovich and Yevgeni Krushkin enter the inn and proceed to the bar, where they order pints of wine.
+The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc K - The Stolen Gem]] for more information.)
 
-Assuming the players do not interrupt, they can overhear the following conversation between Danika, Szoldar, and Yevgeni while Danika pours the wolf-hunters' drinks:
+If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
+### The Ringmaster's Tale
+If any of the players approach Rictavio's table, Nikolai and Karl Wachter urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. (Szoldar Szoldarovich, the wolf hunter, has turned his chair away from the bar to listen in.)
 
-* Danika greets Szoldar and Yevgeni and asks how the day's "wolf hunt" has gone.
-* Szoldar tells Danika that they've managed to kill several wolves in the Svalich Wood west of Vallaki, but more keep coming—both ordinary wolves and horse-sized dire wolves.
-* Danika thanks the two for their work, and notes that the inn will need another shipment of wolf steaks soon, an order that Szoldar promises to fill.
-
-Szoldar and Yevgeni then take two seats at the south side of the bar, where they nurse their drinks for the rest of the evening.
-
-If the players approach them and strike up a conversation, Szoldar and Yevgeni are largely as described in <span class="citation">N2c. Taproom (p. 100)</span>. Additionally, the wolf-hunters can tell the players about Lake Zarovich, the nearby Vistani camp, the haunted mansion to the west, and the abandoned village to the south, as described in <span class="citation">Vallaki Lore (p. 96)</span>.
-### Dinner is Served
-Shortly after Szoldar and Yevgeni are served their drinks, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
-
-Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
-
-If the players do not interrupt, Danika scolds the boys as follows:
-
-* Danika sharply (though not unkindly) addresses Brom and Bray by their full names. Both children snap to attention.
-* Danika asks the boys, "What did your father tell you about wearing those masks in the taproom?" Both boys remove their masks, flushed, and Brom says, sheepishly, "We're not supposed to do it."
-* Danika then asks the boys, "And what did I tell you about running in the taproom?" The two are quiet, then Bray pipes up, " . . . we're not s'posed to do it?" Danika replies, "Exactly."
-
-If the soup was spilled, Danika directs Bray to fetch a pail of water from **N2a. Well** outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
-
-In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, Danika smiles fondly and says, "They can be a handful sometimes, but they're good boys."
-
-If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadolf Blinsky, who works at <span class="citation">N7. Blinsky Toys (p.118)</span>.
-### The Brothers Wachter
-As the players eat their dinner, Nikolai and Karl Wachter enter the taproom, obviously at least somewhat drunk. (The two are as described in <span class="citation">N2c. Taproom (p. 100)</span>.)
-
-Slightly slurring his words, Nikolai announces to the bar, "My fellow Vallakians! All is not well!" The room abruptly becomes quiet and tense. If the players do not interrupt, a beat later, Karl steps forward, leaning on his brother, and booms, " . . .at least, not until I've got a bellyfull of wine!" A tense, humorless chuckle rolls through the taproom, and the other patrons return to their business.
-
-Karl and Nikolai then stumble toward the bar, where Danika is regarding them skeptically. If the players do not interrupt, they can overhear the following conversation:
-
-* [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
-* Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming." 
-* Danika replies, "We're starting to run a bit low on some of our vintage stock—can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
-* As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
-
-Shortly after the Wachter brothers arrive, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of food, which he sets down at a nearby table. On his way back to the kitchen, he stops at the players' table and asks their opinions on the food.
-
-If the players ask about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about the response to Nikolai's declaration that "All is not well," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
-
-If the players speak with the Wachter brothers, Nikolai and Karl are wary at first, but happy (if prodded) to rant about:
-
-* the Festival of the Blazing Sun, 
-* Vallaki's recent history of festivals, 
-* the Baron's response to those who speak ill of the festivals, and 
-* the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
-
-(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom** (p. 100)</span>.
-### The Ringmaster Arrives
-Soon after the Wachter brothers receive their drinks, Rictavio arrives, entering the taproom through the front door. He is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>.
-![[Rictavio.png]]
 > [!profile]+ **Profile: Rictavio**
 >
 > **Roleplaying Information**
@@ -871,37 +951,93 @@ Soon after the Wachter brothers receive their drinks, Rictavio arrives, entering
 >
 > ***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
 
-Though Rictavio appears to be headed for the stairs leading to **N2j. Great Balcony**, Nikolai and Karl catch sight of him and begin to hoot and holler in his direction, calling, "It's the carnival-man! Tell us a story, carnival-man!" (As they do, the players can see Brom and Bray standing beside the bar, helping Danika wipe some glasses dry.) 
+After clearing his throat, Rictavio shares the following story:
 
-A few patrons around the bar pick up the cry, and Rictavio turns, flourishing his cape, and beams, vowing, "Who would Rictavio be if he did not quench his fans' thirst for revelry?"
+<div class="description">
+<p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
+<p>Poor Count Belasco had a terrible secret: In his ancient age, his scalp was beginning to rot, his hair falling out in great clumps and knots. In embarrassment, he commanded Igoron to purchase a beautiful raven-black wig, hoping to preserve the handsome, younger man he had once been.</p>
+<p>"A handsome man indeed," agreed one of his guests—an elderly, near-blind widow named Dorina—one particular moonlit night. Dear Dorina kept to herself, spending her days sorting and re-sorting her late husband's rock collection, which she kept lovingly in her purse. Despite the Count's odd behavior and pale skin, she suspected nothing, her old vision too blurry to make out the fangs that poked down amidst his teeth.</p>
+<p>As always, the Count felt an urge to feed upon her—and though her flattering words quelled his interest, he felt the thirst in his fangs all the same. "Igoron!" he boomed. "Fetch my coat—I'm going hunting."</p>
+<p>"Yes, sire," Igoron wheezed. As he returned, he whimpered, "Best be back before dawn, milord. I'm cleaning the curtains tonight. Want you nice and safe in your coffin before sunrise."</p>
+<p>Count Belasco scoffed. "Fear not, simple Igoron," he boasted. "I know well the hour of my enemy. Not a thing could stir my spirit to linger beneath its dreadful rays."</p>
+<p>And so the Count departed. He lurked in alleyways and prowled across rooftops—yet he found not a single morsel to sate his thirst. It was with surprise, that the hungry, defeated Count finally looked up to the velvet skies and saw the periwinkle-grey of approaching morning.</p>
+<p>With panic, he flew through the streets. Four blocks away. A streak of orange began to slice across the sky. Three blocks. Two—</p>
+<p>—the door to the inn slammed shut behind him.</p>
+<p>"Goodness," Dorina said, yawning atop the staircase. "Have you been out all night?"</p>
+<p>In an eyeblink, the Count's great silhouette towered far above her. "Yes," he growled. "But I've only just found what I've been looking for. Dorina—<i>I want to suck your blood!</i>"</p>
+<p>Ordinarily, one of Count Belasco's victims would scream, flee, or faint—yet he had made one, terrible mistake.</p>
+<p>He had forgotten that Dorina's cataract-ridden eyes couldn't quite see his fangs.</p>
+<p>"You disgusting man!" Dorina screeched, and whirled eighteen years' worth of rare rocks and minerals directly toward his head. There was a terrible thud—and a terrible splintering of wood—and Count Belasco went tumbling down to the floor below. When he opened his eyes, he saw Dorina staring in horror, not at him, but at his <i>head</i>—his <i>bare</i> head.</p>
+<p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p> 
+<p>There was a sizzle, a hiss, and a burst of smoke and flame. Dorina, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
+</div>
 
-Unless interrupted, Rictavio then leaps halfway up the staircase leading from the taproom to **N2j. Great Balcony**, where he delivers the following tale:
+"Poor Dorina never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
 
-<div class="description"><p>I was making my way through the forest on Drusilla, my trusty steed, along with my coterie of carnival companions, when I heard something carried to me on an errant breeze. A voice it was, singing a melody so beautiful it brought a tear to my eye. </p>
-<p>I couldn't help but follow the sound, leading Drusilla deeper into the woods. And soon enough, I found the source of the singing. </p>
-<p>There, before my very eyes, was a plant quite unlike anything I had ever seen. It was gigantic, towering high above me with a mouth that could swallow a grown man whole. And yet, there it was, singing with a voice that could fill an angelic choir with jealousy.</p>
-<p>By all the gods, I could not believe my luck. A singing plant! This was just the kind of oddity I had been looking for. </p>
-<p>I approached it, trying to get a better look at it. That's when I saw one of my companions from the carnival—a man by the name of Wilfred—approaching the plant with a mischievous grin on his face.</p>
-<p>"What are you doing, Wilfred?" I asked.</p>
-<p>He laughed and replied, "I'm going to give this plant a taste of what it's been missing." </p>
-<p>Before I could stop him, Wilfred dropped his trousers and began to, ah, "water the bushes"—right on the plant's stalk.</p>
-<p>Well, let me tell you, that was not the wisest move on Wilfred's part. The plant, it seems, was not amused. It opened its giant mouth and, with one swift movement, swallowed Wilfred whole. There was a moment of stunned silence, and then the plant continued to sing as if nothing had happened.</p>
-<p>Despite what I had just seen, I couldn't help but burst out laughing at the absurdity of it all. And as I looked around at my carnival members, their faces a mixture of shock and disbelief, I knew: This singing, man-eating plant would be the star of our next show.</p>
-<p>And so it was. "Ladies and gentlemen," I announced not long thereafter, curtain rope in hand. "It is with equal parts caution and excitement that I present to you, the singing carnivorous plant! And do remember, folks—keep your distance, and try not to pour out any libations on it, lest <em>you</em> wind up on the menu."</p>
-<p>The carnival erupted in giddy laughter and applause. In a moment, I knew that this would be one of our greatest hits. And, as for poor Wilfred—well, I suppose he'll be singing in a different kind of choir now.</p></div>
+If spoken with, Rictavio is willing to share the following information over drinks:
 
-The patrons of the inn burst into laughter and applause—a welcome respite from the previous dreary mood. Rictavio takes another flourishing bow and excuses himself, retiring for the night to **N2n Private Guest Room**.
+* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that Rictavio's words sound a bit too smooth and practiced.)
+* He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
 
-Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony during Rictavio's tale, unseen by the inn's patrons.)
-### End of the Evening
-The taproom slowly clears out over the following two hours. If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served an hour after sunrise," she says warmly, and adds, "Feel free to let us know if you need anything else."
+During the conversation, Rictavio subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
 
-***Milestone.*** Arriving in Vallaki completes a story milestone. When the party takes its first long rest in Vallaki, award each player 900 XP, plus an additional 100 XP if they successfully escorted Ireena to Vallaki. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
-## B4c. Morning in Vallaki
+When he's finished his drink, Rictavio takes another flourishing bow and excuses himself. As he does, Nikolai and Karl boo and urge Rictavio to tell another story. "We've heard one about a stupid Count," Nikolai says. "What about a stupid Baron?"
+
+If the players don't intervene, the following sequence of events then occurs:
+
+* The table and nearby taproom go silent, with many patrons eyeing Nikolai and Rictavio nervously.
+* From his place at the bar, Szoldar rumbles, "Best not, boy." (Behind him, Yevgeni grunts, then echoes, "Best not.")
+* Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
+* Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>. 
+
+Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
+### The Brothers Wachter
+If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
+
+- the Festival of the Blazing Sun,
+- Vallaki's recent history of festivals,
+- the Baron's response to those who speak ill of the festivals, and
+- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
+
+(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+
+Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc I - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
+
+At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
+
+- [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
+- Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
+- Danika replies, "We're starting to run a bit low on some of our vintage stock—can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
+- As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
+
+If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
+### Eating Dinner
+Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
+
+Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+
+If the players do not interrupt, Danika scolds the boys as follows:
+
+* Danika sharply (though not unkindly) addresses Brom and Bray by their full names. Both children snap to attention.
+* Danika asks the boys, "What did your father tell you about wearing those masks in the taproom?" Both boys remove their masks, flushed, and Brom says, sheepishly, "We're not supposed to do it."
+* Danika then asks the boys, "And what did I tell you about running in the taproom?" The two are quiet, then Bray pipes up, " . . . we're not s'posed to do it?" Danika replies, "Exactly."
+
+If the soup was spilled, Danika directs Bray to fetch a pail of water from **N2a. Well** outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
+
+In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, Danika smiles fondly and says, "They can be a handful sometimes, but they're good boys."
+
+If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadolf Blinsky, who works at <span class="citation">N7. Blinsky Toys (p.118)</span>.
+
+The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
+
+If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+
+***Milestone.*** Arriving in Vallaki completes a story milestone. When the party takes its first long rest in Vallaki, award each player 1,000 XP, plus an additional 250 XP if they successfully escorted Ireena to Vallaki. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
+## C11c. Morning in Vallaki
 ### Urwin's Advice
-When the players next awaken in the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin]] knocks on their door and asks to speak with them.
+When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
 
-After exchanging pleasantries, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in <span class="citation">Vallaki Lore (p. 96)</span>:
+Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in <span class="citation">Vallaki Lore (p. 96)</span>:
 
 * The date of the Festival of the Blazing Sun,
 * Vallaki's recent history of festivals,
@@ -911,8 +1047,45 @@ After exchanging pleasantries, Urwin warns the players that they must be cautiou
 Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
 
 If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in <span class="citation">Vallaki Lore (p. 96)</span>.
+
+As Urwin's conversation draws to a close, Rictavio descends the stairs from <span class="citation">N2n. Private Guest Room</span> and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
+
+> [!abstract]+ **What's In the Parcel?**
+> If asked, Urwin can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
+### Following the Ringmaster
+If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to <span class="citation">N2f. Stable (p. 101)</span> without difficulty.
+
+Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
+
+> [!info]+ **Group Checks**
+> See <span class="citation">Group Checks (p. 175)</span> for more information on how to use group ability checks.
+
+> [!abstract]+ **Detecting Magic**
+> If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
+> 
+> * the aura of illusion magic surrounding his _hat of disguise_,
+> * the aura of enchantment magic surrounding his _ring of mind shielding_, and
+> * the aura of abjuration magic surrounding his _amulet of proof against detection and location_, which he wears hidden beneath his shirt.
+
+If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
+
+If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
+
+If confronted regarding his magic items or true identity, Rictavio directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
+
+* If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
+* If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
+
+These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies and additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+
+Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
+
+If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
+
+> [!abstract]+ **Following Rictavio**
+> Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc F - The Missing Vistana#F7c. Rictavio’s Wagon|F7c. Rictavio's Wagon]].
 ### Exiting the Inn
-As the players exit the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
+As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
 
 * The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession. 
 * The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
@@ -921,6 +1094,7 @@ As the players exit the Blue Water Inn on their first morning in Vallaki, they f
 * Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
 * As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
 ![[Izek Strazni.png]]
+
 > [!profile]+ **Profile: Baron Vargas Vallakovich**
 >
 > **Roleplaying Information**
@@ -975,7 +1149,7 @@ The Baron imperiously orders that he see to it, then informs the players that th
 
 The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
 
-If Ireena is with the party, she has drawn up the cloak of her hood upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc H - The Strazni Siblings]] then begins.
+If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc H - The Strazni Siblings]] then begins.
 
 If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
 

@@ -1,6 +1,6 @@
 _An adventure for five 5th-level characters._
 
-In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the fifth day after the players first arrive in Vallaki.
+In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
 
 Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
 
@@ -45,38 +45,31 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > Since then, Victor has been rapidly attempting to enhance his magical abilities, either to somehow repurpose the faulty *teleportation circle* to restore Stella’s soul or to become powerful enough to cast the high-level _etherealness_ spell in Khazan’s spellbook.
 > 
 > However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
-# I1. Burgomaster’s Mansion
+
+# I1. Erasmus' Plea
+On the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
+
+The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
+
+If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
+
+While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
+
+The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
+# I2. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-The players can learn of Stella’s tragic fate by speaking to [[Non-Player Characters#Victor Vallakovich|Victor Vallakovich]] in <span class="citation">N3t. Victor's Workroom (p. 109)</span> in the Burgomaster’s mansion in Vallaki. This can occur in one of the following ways:
+If the players received [[#I1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
 
-***Quest for the Tome.*** If you have placed the *Tome of Strahd* in the attic of the Burgomaster’s mansion and the players, upon seeing it on Victor’s desk, express an interest in obtaining it, Victor agrees to allow them to take it only if they first assist him with a particular task.
-
-***Ghost Busters.*** If the players speak with Victor about the ghost haunting the mansion after receiving Baron Vallakovich’s mission to exorcise it, Victor glances at the *spirit mirror* in his workroom and protests, “Them? Really? But they’re strangers!” (He is responding to the soul of Stella Wachter, who is silently communicating with him from the mirror.) 
-
-> [!abstract]+ **Erasmus’s Plea**
->
-> If the players haven’t received this quest by the end of their third day in Vallaki, but they *have* completed **_Arc F: The Missing Vistana_**, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
->
-> The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
->
-> If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
->
-> While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
->
-> The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
-
-Victor then sighs, runs a hand through his greasy hair, and reluctantly informs the players that his “friends” thinks that they’re trustworthy, and that they’ll help solve the ghost problem if the players assist them with a particular task.
-
-***Erasmus’s Plea.*** If the players received **Erasmus’s Plea** (see above) and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. If the players describe Erasmus's visitation to Victor, he glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+If the players describe Erasmus's visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
-No matter the case, if the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
+If the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
 ![[Stella Wachter.png]]
 Victor then shares the following information:
 
-* Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from a old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
+* Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from an old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
 * Ten weeks ago, they’d finally finished a prototype circle. After two experiments involving undead rabbits that Victor animated using bones purchased from Szoldar and Yevgeni, Stella insisted on volunteering as a live, human trial. However, the test went horribly wrong—the circle failed to teleport Stella’s body anywhere, and the backlash exposed her soul to the Ethereal Plane. 
 * During the brief moments that her spirit was within the Ethereal Plane, Stella was attacked by a dark shadow, whose claws severed her soul from her body. She would have died had Erasmus not spirited her away to safety.
 * After two weeks of worrying that he had accidentally somehow destroyed his friend’s mind, Victor learned that one of his parents’ servants had seen the ghost of a young woman reflected in a mirror in his mother’s parlor. Victor learned that the mirror was a *spirit mirror* that reflected both the Material and Ethereal Planes. Using it, he was able to see and communicate with Stella’s wandering spirit—first through gestures and crude lip-reading, and eventually through handsigns learned from a book in his father’s library.
@@ -140,8 +133,8 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 >
 > Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
 >
-> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, ever-careful to keep their names from falling into enemy hands.
-# I2. The Refugee Camp
+> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
+# I3. The Refugee Camp
 When the players first enter the refugee camp, read:
 
 <div class="description">
@@ -157,13 +150,13 @@ Emeric and Magda are cautious of outsiders, but curious to know why the players 
 
 Emeric and Magda can share the following general information about the camp:
 
-* The Barovian refugees arrived at Vallaki's gates a few days ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
+* The first Barovian refugees arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
 * Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
 * Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
 * Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
 * Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>.
 
-If the players mention Ismark or Ireena, Emeric and Magda can tell them that many are cold toward Ireena, and all are unwilling to accept her offers of help. Some blame her, as well as Ismark "the Lesser" and the late Burgomaster of Barovia, for their failure to prorect them from Strahd's awakening and invasion. Others recall a superstition that red-haired Barovian woman bring misfortune, and suggest that Ireena herself has brought a curse upon their people. None have any wish to deal with her further.
+If the players mention Ismark or Ireena, Emeric and Magda can tell them that many are cold toward Ireena, and all are unwilling to accept her offers of help. Some blame her, as well as Ismark "the Lesser" and the late Burgomaster of Barovia, for their failure to protect them from Strahd's awakening and invasion. Others recall a superstition that red-haired Barovian woman bring misfortune, and suggest that Ireena herself has brought a curse upon their people. None have any wish to deal with her further.
 
 If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
 
@@ -176,21 +169,26 @@ Emeric and Magda lead the players to a small, lonely tent set up at the end of t
 <p>A young woman kneels in the mud beside the full-size pallet, clutching a bundle of wilted herbs in one fist and holding a damp rag over the forehead of a frail, gaunt-looking man lying across the pallet. The man's skin is pale and drenched in sweat, his clothes torn and ragged. Wispy, scraggled hair rises from his wrinkled scalp, while his face, illuminated beneath the dying light of a single, sputtering candle, is etched with exhaustion. A full moment passes before you realize that this ghost of a man is likely scarcely older than thirty.</p>
 </div>
 
-The man is Franz. The woman, an anxious healer named Nyanka, has been tending to Franz since morning, but has been unable to identify or treat his condition.
+The man is Franz. The woman is his sister, a woman named Nyanka. Nyanka has been tending to Franz since morning, but has been unable to identify or treat his condition.
 
 Upon seeing the players, Franz wheezes with laughter and asks whether they are demons sent by Mother Night, come to drag his soul into the Mists. Nyanka apologizes for his behavior and mentions that he’s been delirious ever since the nightmares and sickness began.
 
 If the players ask Franz about the **night hag**, he first demands that Nyanka, Emeric, and Magda depart and leave him alone with the players. (None of the three other refugees mind this request.) Franz can then share the following information with the players:
 
-* Three months ago, he joined the first two-dozen refugees who left the village of Barovia for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old Fyodor and five-year-old Myrtle—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
-* A few weeks after arriving in the camp, Franz began to purchase dream pastries from the peddler Morgantha. The visions brought by these pastries allowed him to dream of his wife, Alana, who had passed away the previous year.
-* Franz purchased Morgantha’s dream pastries regularly, spending hours, then days lost in peaceful dreams. Eventually, however, his savings ran out, and Morgantha refused to sell him additional pastries—unless he paid a terrible price.* Three nights ago, Franz led Fyodor and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
-* The following night, Franz suffered terrible nightmares in which he was strapped to a millstone, its four arms raised above him. On his chest sat a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth, holding a twisted onyx-black stone against his forehead and whispering of damnation. In the background, he could hear Fyodor and Myrtle sobbing beyond his view, a pair of high-pitched cackles, and the sound of a windmill’s blades grinding in the wind. 
-* For the duration of the nightmare, Franz was paralyzed and unable to look away or even twitch a single muscle. When he awoke, his body had already begun to waste away before him. Morgantha hasn’t returned since.
+* Three months ago, not long after his wife, Alana died of illness, Franz joined the first two-dozen refugees who left the village of Barovia for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old Fyodor and five-year-old Myrtle—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
+* A few weeks after arriving in the camp, Franz began to purchase dream pastries from the peddler Morgantha. The visions brought by these pastries allowed him to dream of Alana, returned to his arms as though she had never died at all.
+* Franz purchased Morgantha’s dream pastries regularly, spending hours, then days lost in peaceful dreams. Eventually, however, his savings ran out, and Morgantha refused to sell him additional pastries—unless he paid a terrible price.
+* Three nights ago, Franz led Fyodor and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into a magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
+* As Morgantha turned to depart, Franz heard Myrtle cry out for him in her sleep, and immediately regretted what he had done. He demanded Morgantha return his children at once; when she laughed and told him their bargain was final, he attempted to take his children by force. With a wave of her hands, however, she put him to sleep—and when he awoke, she was nowhere to be found.
+* Franz searched the woods for hours, but found no trace of Morgantha or his children. When he finally collapsed, exhausted, back in his tent at the camp, he suffered terrible nightmares, which have repeated each night since.
+* In the nightmare, he is strapped to a millstone, its four arms raised above him. On his chest sits a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth, holding a twisted onyx-black stone against his forehead and whispering of damnation. In the background, he can hear Fyodor and Myrtle sobbing beyond his view, a pair of high-pitched cackles, and the sound of a windmill’s blades grinding in the wind. 
+* For the duration of the nightmare, Franz is paralyzed and unable to look away or even twitch a single muscle. Each time he awakens, his body wastes away before him. (Morgantha hasn't returned to the camp since the first nightmare.)
 
-With a croaking voice, Franz begs the players to save Fyodor and Myrtle from Morgantha’s clutches. While he believes that his current condition is a curse sent by the gods as punishment for his sins and welcomes the penance of death, he believes that his children don’t deserve the suffering that Morgantha is likely inflicting upon them. He can offer the players no gold and no treasure for their efforts—only his gratitude.
+With a croaking voice, Franz begs the players to save Fyodor and Myrtle from Morgantha’s clutches. While he believes that his current condition is a curse sent by the gods as punishment for his sins and welcomes the penance of death, he believes that his children don’t deserve the suffering that Morgantha is likely inflicting upon them. He can offer the players no gold and no treasure for their efforts—only his gratitude. 
 
-Before the players leave Franz’s tent, he grabs for the closest one and rasps, "I could feel it—the heart of the windmill, beating in the millstone beneath me. The gnarled arm holds the key." He then collapses, falling into a deep, fitful sleep.
+If the players ask, Franz can tell them that his sister Nyanka, who currently believes the children were devoured by werewolves in the Svalich Wood, would gladly watch and care for them while he recovers. "I know I don't deserve to be their father," he rasps, tears falling from his eyes. "All I want is to see them safe and happy."
+
+Before the players leave Franz’s tent, he grabs for the closest one and rasps, "I could feel it—the heart of the windmill—three black hearts beating as one in the millstone beneath me. The gnarled arm holds the key." He then collapses, falling into a deep, fitful sleep.
 
 > [!abstract]+ **Franz’s Fate**
 >
@@ -198,7 +196,7 @@ Before the players leave Franz’s tent, he grabs for the closest one and rasps,
 >
 > If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. In the meantime, however, he offers to keep Franz safe from Morgantha's hauntings through the use of his *talisman of protection from evil and good* if Franz can be surreptitiously moved to Van Richten’s current location for supervision.
 
-# I3. Victor’s Plan
+# I4. Victor’s Plan
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
 As the players depart the refugee camp, one among them receives the following *sending* spell from [[Non-Player Characters#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
@@ -208,18 +206,17 @@ When the players return to Victor’s workroom at the Burgomaster’s mansion, h
 * There are two possible ways to obtain a heartstone from a night hag: willingly, or by force. 
 * To obtain the heartstone willingly, the players must likely bargain something of great value in exchange for a loan of the heartstone. Hags are legendary dealmakers, and can be trusted to hew to the letter of their word—but *only* the letter.
 * To obtain the heartstone by force, the players will need to incapacitate or kill the hag. However, this is far more difficult for multiple reasons. First, hags tend to gather in covens of three, a practice that makes each hag stronger and provides easy access to allies. (Victor asks the players nervously whether the hag is known to have any “sisters” or “daughters.”) Second, **night hags** in particular can use their heartstones to flee into the Ethereal Plane as soon as they feel threatened—an escape mechanism that can’t be counteracted.
-* To prevent the hag from escaping into the Ethereal Plane mid-combat, the players will need to seal her in a binding circle before initiating hostilities. Victor isn’t sure how to make such a binding circle, but asks the players to give him an additional day to research it before setting off for the hag’s lair. Victor also advises the players to obtain silvered weapons, which will be needed to bypass the hags’ strong demonic defenses.
+* To prevent the hag from escaping into the Ethereal Plane mid-combat, the players will need to seal her in a binding circle before initiating hostilities. Victor also advises the players to obtain silvered weapons, which will be needed to bypass the hags’ strong demonic defenses.
+### The Heart of the Windmill
+If the players tell Victor about Franz's words, he recognizes the "twisted, onyx-black stone" as resembling the description of a night hag's heartstone provided in *Ethereal Entities.* 
 
-If the players tell Victor about Franz's words, he responds as follows:
+Victor isn't sure what Franz meant about "the heart of the windmill." (He's sure it's not a heartstone, because night hags always keep their heartstones on their person.)
 
-* Victor recognizes the "twisted, onyx-black stone" as resembling the description of a night hag's heartstone provided in *Ethereal Entities.*
-* Victor isn't sure what Franz meant about "the heart of the windmill." However, he agrees to attempt to research the windmill in his father's library to investigate further.
-# I4. Stella’s Discovery
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
+Victor recalls seeing information about the windmill in an old book of records in his father's library. (Victor recalls the book bitterly because Vargas made him write a report on Vallakian history as punishment when Victor spoke ill of the town's founder, Boris Vallakovich.)
 
-When the players return to [[Non-Player Characters#Victor Vallakovich|Victor]]’s workroom the following day, he is able to provide a blueprint of the windmill found in a book of records in his father's library, located alongside the original assignment of land from Baron Boris Vallakovich to Gustav and Elisabeth Durst. He points out excitedly that the design for the millstone contains a compartment built into its side—likely as a place for storage. If the hags are hiding something other than a heartstone in the windmill, it's likely located in that compartment.
-
-He anxiously informs them that he has been unable to find a means of performing the binding ritual. Turning to the relevant page in his spellbook, he shows them an illustration that depicts a binding circle, but complains that the book itself provides no information about how to actually create one.
+Upon retrieving the book, Victor opens it to reveal a blueprint of the windmill, located alongside the original assignment of land from Baron Boris Vallakovich to Gustav and Elisabeth Durst. He points out excitedly that the design for the millstone contains a compartment built into its side—likely as a place for storage. If the hags are hiding something other than a heartstone in the windmill, it's likely located in that compartment.
+### The Binding Ritual
+Victor anxiously informs the players that he has been unable to find a means of performing the binding ritual. Turning to the relevant page in his spellbook, he shows them an illustration that depicts a binding circle, but complains that the book itself provides no information about how to actually create one.
 
 Soon thereafter, Stella’s spirit can be seen excitedly gesturing from the *spirit mirror*. As he interprets her handsigns, Victor’s eyes widen and his face pales. “You can’t be serious,” he stammers. “Absolutely not!”
 
@@ -267,7 +264,7 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request L
 # I5. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is as described in [[Arc G - Lady Wachter’s Wish]] and [[Arc D - The Tome of Strahd]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+Wachterhaus is as described in [[Arc G - Lady Wachter's Wish]] and [[Arc D - The Tome of Strahd]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
 
 Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
 
@@ -277,7 +274,7 @@ Lady Wachter then asks the players what brings them to her manor. If Victor Vall
 
 If the players reveal Stella’s fate, Lady Wachter’s eyes tighten, and she asks them for a full explanation of how Stella came to inhabit her current state. 
 
-When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims. (She refuses to journey to the Vallakovich manor if the players suggest using the *spirit mirror* to allow her to view Stella directly, dismissing it as a “foolish” suggestion.)
+When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims.
 
 The players can persuade Lady Wachter to deactivate the protective circle around Wachterhaus and allow Stella to manifest there (and so prove the players’ story) with a successful DC 10 Charisma (Persuasion) check. The players succeed on the check automatically if they have previously won Lady Wachter’s favor (such as by killing Izek).
 
@@ -322,7 +319,7 @@ The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarte
 Midway through the trip, the players are disturbed by a rustling in the trees above. Read:
 
 <div class="description">
-<p>A gaunt figure with wild hair and bare feet crouches on a thick, gnarled branch above your heads, wearing a tattered gown of stitched animal skins. It stops, sniffs the air, and laughs like a lunatic. “Little songbirds wandering the dark woods?” it asks, leering down at you.</p>
+<p>A gaunt figure with wild hair and bare feet crouches on a thick, gnarled branch above your heads, wearing a tattered gown of stitched animal skins. Red streaks run across its cheeks, with two more fang-shaped streaks staining the skin beneath its lips.  It stops, sniffs the air, and laughs like a lunatic. “Little songbirds wandering the dark woods?” it asks, leering down at you.</p>
 </div>
 
 The figure is a **druid** of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
@@ -343,7 +340,7 @@ If the players ask about her conversation with the druid, Lady Wachter is willin
 # I7. Old Bonegrinder
 <span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
 
-Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Additionally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
+Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
 
 If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
 
@@ -353,7 +350,7 @@ Lady Wachter then attempts to confirm the following details:
 * whether there are children within the windmill, and how the players intend to rescue them
 * how the players intend to combat the hags once the binding circle is raised
 
-Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisibile using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
+Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
 
 However, Victor warns the players that, according to *Ethereal Entities*, hag covens often possess the ability to dispel enchantments while within close proximity to their lair. Once Lady Wachter's binding circle is erected, he'll need to stay close to the windmill to protect it with his *counterspell.* 
 
@@ -397,7 +394,7 @@ The players can obtain the hags' true names by retrieving the contract from the 
 
 One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
 
-The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Bella Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
+The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
 
 The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. The charm allows the wielder to give any number of creatures within 30 feet the benefit of a *potion of heroism* as an action. Once they do so, the charm vanishes from their person.
 
@@ -435,16 +432,18 @@ If the players fail to convince Morgantha of a comforting cover story, she immed
 
 After a brief period of time (during which she reveals nothing of note to the players), she briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
 
-While Bella and Offlia descend from <span class="citation">O3. Bedroom (p. 127)</span>, Morgantha smiles pleasantly at the players and informs them that her daughters are her most valued taste-testers and she is always grateful for their opinions. (“Folks warn you about old age, but it’s true,” she says pleasantly. “It can be so difficult to run a business like this on your own.”)
+While Bella and Offalia descend from <span class="citation">O3. Bedroom (p. 127)</span>, Morgantha smiles pleasantly at the players and informs them that her daughters are her most valued taste-testers and she is always grateful for their opinions. (“Folks warn you about old age, but it’s true,” she says pleasantly. “It can be so difficult to run a business like this on your own.”)
 
 When Bella and Offalia arrive, they greet the players with awkward, overdramatic curtsies. Bella then frowns and exclaims, “Mother! I thought you said you were going to get the front door fixed!” 
 
 Assuming the players do not interfere, Bella sweeps across the room toward the front entrance to the windmill. She then pretends to inspect the hinges, obstructing the players’ exit, and complains, “Its squeaking is driving me mad!” 
 
-Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Belle, and Offalia then immediately move to attack. If the players are defeated, Morgantha also feeds the two strongest players the concotions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
+Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Belle, and Offalia then immediately move to attack. 
+
+If the players are defeated, Morgantha also feeds the two strongest players the concoctions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
 
 The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See **Escape From Old Bonegrinder** below for more information regarding the players’ escape.
-## I7c. Claiming the Heartstone
+## I7b. Claiming the Heartstone
 ### The Binding Circle
 If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
 
@@ -472,17 +471,19 @@ Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage a
 
 Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibian Cacophany*** lair action to lure the children back to the windmill.)
+As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibian Cacophony*** lair action to lure the children back to the windmill.)
 
 If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
 
 Morgantha greets the players warmly and congratulates them on taking their "ransom." She then asks, pleasantly, what items or boons they've come to bargain for.
 
-If informed that the players want to borrow a heartstone, Morgantha is glad to allow them to do so for a period of three days—if the players return the coven's contract and the two children that they "stole."
+If informed that the players want to borrow a heartstone, Morgantha is glad to allow them to do so for a period of three days—if the players return the "livestock" that they "stole." (Unless the players were detected doing so, Morgantha hasn't yet realized that the players stole the contract.)
 
 If the players challenge Morgantha's predation of Franz and the children, she scoffs, noting, "Child, their souls were forfeit from the moment that they were born into these Mists—a soul bag larger than any one I could craft, and holding a far deeper evil. What difference does it make who claims them, or when?" 
 
 Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the contract and children. (If the players then do so, Morgantha shares the three secrets noted in **Morgantha's Plea** below.)
+
+![[The Bonegrinder Coven.png]]
 ### Battle with the Hags
 The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
 
@@ -496,7 +497,6 @@ The hags fight in self-defense, or if the players make clear that they will not 
 > - **_Gust of Wind._** The coven casts _gust of wind._
 > - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or immediately use its reaction, if available, to move up to 30 feet closer to the mill.
 > - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
-
 
 <div class="statblock">
 <h2>The Bonegrinder Coven</h2>
@@ -541,15 +541,16 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <hr>
 <p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on the coven's initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
+<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
 <p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Sickening Radiance (Bella Only).</em></strong> Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within 30 feet. Each creature within that area must succeed on a Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
-<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage if it fails the saving throw, or half damage on a success.</p>
+<p><strong><em>Sickening Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
+<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
 <p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
 <p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Blight (Morgantha Only).</em></strong> Necromantic energy washes over a creature of Morgantha's choice within 30 feet, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Blight (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
 <p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
@@ -558,9 +559,9 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
 <h3>Reactions</h3>
-<p><strong><em>Mirror Image (Bella Only).</em></strong> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Hideous Laughter (Offalia Only).</em></strong> In response to taking damage from a creature that Offalia can see within 30 feet, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witch Bolt (Morgantha Only).</em></strong> In response to taking damage from a creature that Morgantha can see within 30 feet, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning between Morgantha and the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the attacker takes the same amount of damage.</p>
+<p><strong><em>Mirror Image (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
+<p><strong><em>Hideous Laughter (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, componenets V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
+<p><strong><em>Witch Bolt (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning between Morgantha and the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the attacker takes the same amount of damage.</p>
 <p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
 </div>
 <br>
@@ -616,26 +617,26 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses *eyebite*. A target that succeeds on the saving throw is dazed instead.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn.</p>
+<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 16 Constitution saving throw or be dazed until the start of Bella's next turn.</p>
 <p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 17 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her horn. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
-<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn.</p>
+<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her horn. Each humanoid creature within a 60-foot radius must make a DC 16 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
+<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn.</p>
 <p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 16 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
 <h3>Reactions</h3>
-<p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a ***tail*** attack against her attacker.</p>
-<p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a ***gore*** attack against her attacker.</p>
+<p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
+<p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
 <p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
 <p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 16 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
 <p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast *absorb elements*.</p>
 </div>
 
-***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same prefered target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
+***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
 ***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains aloft through the use of his *fly* spell, maintaining a height of 60 feet above the battlefield—and remaining within 60 feet of the windmill—at all times. 
 
-Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 3rd, 2nd, and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
+Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
 Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.)
 
@@ -670,8 +671,8 @@ Morgantha's secrets are as follows:
 Before the binding circle is lowered, the players can also demand that Morgantha lend them a heartstone with a successful DC 10 Charisma (Intimidation) check. If persuaded to do so, Morgantha commands Bella to produce her heartstone, which—after a loud and vehement dissent—Bella grimly offers to the players.
 
 If Morgantha’s request for parley is denied, the coven fights to the death.
-## I7d. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 4 hours after their defeat in **O4. Domed Attic,**. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
+## I7c. Escape From Old Bonegrinder
+If the hags knock the players unconscious, the players awaken 1d4 + 4 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
 
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
@@ -683,7 +684,7 @@ Morgantha then pleasantly asks them to tell her who they are and why they have c
 
 ***Defying Morgantha.*** If the player proves obstinate or defiant, Morgantha releases her disguise and returns to her horrifying **night hag** form. She leans in close toward that player, baring her sharp, yellowed teeth, and whispers in their ear, “Children always fancy themselves heroes in their dreams. But dreams can so easily become nightmares—and nightmares are my bread and meat.” Morgantha then casts *bestow curse* on that player, cursing their Constitution saving throws and recasting the spell if it is initially unsuccessful.
 
-Once the player is cursed, Morgantha draws a single claw across that player’s cheek, making an ***unarmed strike*** against that player and choosing to deal 1 damage on a hit. (Because the players did not previously take damage from the fight with the hags, this shouldn’t render that player unconscious.) Any damage taken forces that player to make a Constitution saving throw against the effects of cackle fever. Morgantha continues to make small scratches across the player’s flesh until the player succumbs to the effects of cackle fever, forcing all other humanoids in the attic to make DC 10 Constitution saving throws or be infected with cackle fever themselves.
+Once the player is cursed, Morgantha draws a single claw across that player’s cheek, making an ***unarmed strike*** against that player and choosing to deal 1 damage on a hit. (Assuming the player expended hit dice to recover hit points during a short rest while unconscious, this shouldn’t render that player unconscious.) Any damage taken forces that player to make a Constitution saving throw against the effects of cackle fever. Morgantha continues to make small scratches across the player’s flesh until the player succumbs to the effects of cackle fever, forcing all other humanoids in the attic to make DC 10 Constitution saving throws or be infected with cackle fever themselves.
 
 Morgantha then warmly informs the players that there are two children imprisoned in the bedroom below. Tonight, the hags will kill them and grind their bones into flour to make more dream pastries. When the players inevitably fall asleep, the hags will ensure that they suffer horrible nightmares and gain no rest from their sleep. In the morning, the players will be fed the dream pastries made from the children’s remains and provided an additional opportunity to answer Morgantha’s questions. 
 
@@ -768,7 +769,7 @@ Once the players have obtained a *heartstone*, they will need a location at whic
 ![[Heartstone.png]]
 [[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
 
-If present, Lady Wachter leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual. (See **D1b. Infiltrating the Estate** above for more information about sneaking into Wachterhaus.)
+If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual. (See [[Arc D - The Tome of Strahd#D2b. Infiltrating the Estate|Arc D - The Tome of Strahd]] for more information about sneaking into Wachterhaus.)
 
 The inside of the chamber is largely as described in **N4t. Cult Headquarters**. However, modify the descriptive text to read as follows:
 
@@ -790,6 +791,9 @@ Lady Wachter has been unable to remove the scratches and carvings, despite her b
 If Lady Wachter is not with the players, [[Non-Player Characters#Victor Vallakovich|Victor]] expresses surprise at the presence of the pentagram, noting with some awe that he could easily repurpose it for the purposes of the *etherealness* ritual. If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, she offers the pentagram for use in the ritual, which Victor gladly accepts.
 
 Victor then places the *heartstone* at the center of the pentagram and directs the players to stand just inside the edge of the pentagram circle. If Lady Wachter is with the players, she rolls up her sleeves and enters the circle with them. If challenged, she gives the players a cool, steely look and says, “Of course I’m coming to get my little girl.”
+
+> [!abstract]+ **Fiona's Absence**
+> If the players attempt the ritual without Lady Wachter's assistance, the *etherealness* ritual fails. However, the disturbance draws Lady Wachter to the scene, where she can inform the players—if told and persuaded of their mission—that Wachterhaus's protective circle must first be lowered in order to allow creatures to pass into and out of the Ethereal Plane.
 
 When the players are ready to begin, Victor retrieves his copy of *Ethereal Entities* from a pocket in his cloak, using his *mage hand* spell to hold it open before him. Read:
 
@@ -853,7 +857,7 @@ Erasmus can also teach the players how to move in the Ethereal Plane. (See **Wel
 
 When the conversation with Erasmus concludes, Victor directs Stella to stand in the center of the circle. As he takes up a position beside her, Victor informs the players that, once it begins, the ritual will take 10 minutes to complete. 
 
-During that time, Eramus adds, the circle’s magic will blaze like a beacon, attracting wayward spirits that might seek to take Stella’s place and return to life by inhabiting her soulless body. 
+During that time, Erasmus adds, the circle’s magic will blaze like a beacon, attracting wayward spirits that might seek to take Stella’s place and return to life by inhabiting her soulless body. 
 
 As such, Erasmus asks the players and (if present) Lady Wachter to aid him in guarding Stella’s soul until the ritual is complete.
 ### The Wayward Souls
@@ -864,6 +868,13 @@ One minute after Victor begins reading the ritual’s incantation from his spell
 * “Please. Please. *Please* . . .”
 
 Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
+
+***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+
+Cantrips (at will): *light, toll the dead, thaumaturgy*
+1st level (4 slots): *command, sanctuary, bane*
+2nd level (3 slots): *blindness/deafness, zone of truth, hold person*
+3rd level (2 slots): *animate dead, spirit guardians*
 ### The Ghost of Leo Dilisnya
 At the end of the first round of combat with the specters, any surviving specters flee. The ghost of Leo Dilisnya—in the form of a **gallows speaker** (*Van Richten’s Guide to Ravenloft*, p. 234) appears a few moments thereafter. Read:
 
@@ -873,10 +884,12 @@ At the end of the first round of combat with the specters, any surviving specter
 <p>As it moves, its long, flowing cloak billows around it, revealing humanoid visages woven into the fabric itself. Each face in this tapestry bears an ever-shifting expression of pain, sorrow, fear, regret, anger, or despair, their dark mouths whispering a mournful, maddening cacophony.</p>
 <p>From the clouds of mist bob five wispy balls of light, flickering with soft golden glows as they flank the cloaked figure two to a side, with the final wisp hovering above the figure’s head. Faint and distant whispers ride on a cold and hungry wind beside them, belying the evident warmth promised by their small, lamp-light forms.</p>
 <p>Between them, the ghostly figure's skeletal jaw opens, its hollow eye sockets a dark, unending void. When it speaks, its hateful voice reverberates through the Ethereal Plane, the sound cutting through the mists like the grinding of bone against bone.</p>
-<p>"I am Leo Dilisnya," the figure rasps. "And we have come for the blood that is owed." It reaches out one skeletal hand—a single clawed finger pointing directly at Stella Wachter.</p>
+<p>"I am Leo Dilisnya," the figure rasps. "And we have come for the blood that is owed." One of its skeletal hands tightens its grasp around a lump upon its chest—an old, leather-bound tome, its cover a deep, crimson red inset with platinum filigree. The figure then reaches out another skeletal hand—a single clawed finger pointing directly at Stella Wachter.</p>
 </div>
 
-The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding.
+![[Gallows Speaker.png]]
+
+The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *Tome of Strahd*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance. (See [[Arc D - The Tome of Strahd]] for more information about how the *Tome of Strahd* arrived in Wachterhaus.)
 
 The gallows speaker shares freely that it intends to kill Stella’s spirit, followed by Lady Wachter. Once it has done so, it intends to cross over into the Material Plane, where it will kill Lady Wachter’s sons, Nikolai and Karl.
 
@@ -895,6 +908,8 @@ A player who makes a successful DC 15 Wisdom (Insight) check discerns that the g
 * On the morning of Sergei’s wedding, Leo climbed to the window of Strahd’s royal chambers, carrying with him a cursed Ba’al Verzi dagger that prevented its victims from being resurrected.
 * When Lovina Wachter’s bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to “betray” him and Reinhold’s memory.
 
+If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
+
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
 
 ***Erasmus van Richten.*** In battle, Erasmus fights by hurling furniture at the gallows speaker from range through the use of his ***telekinetic thrust*** feature.
@@ -908,6 +923,8 @@ In battle, Lady Wachter also gains the following reaction:
 ***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it. Consumed by hatred and rage, the gallows speaker never retreats, nor does it reposition except to pursue its current target.
 
 When reduced to 0 hit points, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
+
+When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[Arc D - The Tome of Strahd#D3. Unlocking the Tome|Unlocking the Tome]] for more information about the *Tome* and its contents.
 ### Return to the Material Plane
 As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
 
@@ -1035,12 +1052,13 @@ When the players have bid their farewells, Victor turns to Erasmus and gives him
 <p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Melee or Ranged Weapon Attack:</em> +8 to hit, reach 5 ft. or range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure, and taking half the necrotic damage on a success. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it.</p>
-<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
+<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure, and taking half the necrotic damage on a success. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it.</p>
+<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). Leo can then immediately move up to half his speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits whirls in a 5-foot-radius sphere around the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
 <h3>Reactions</h3>
+<p>The avenger can take up to three reactions per round, though no more than one per turn.</p>
 <p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
 <p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
 <p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
@@ -1070,6 +1088,8 @@ The following morning, Victor also sends the players the following message with 
 >
 > Once per day while attuned, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
 
+> [!abstract]+ **Van Richten & the Spirit Mirror**
+> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 

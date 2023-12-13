@@ -11,8 +11,17 @@ While no *Dungeons & Dragons* campaign can be perfectly predicted, this guide us
 Note that, because *Curse of Strahd* is a sandbox campaign, it is reasonably possible for the players to trigger a new act before completing all of the adventure arcs in the previous act. If this happens, the players can still continue and complete any adventure arcs in the previous acts—assuming, of course, that it is still possible for those arcs to be completed. (For example, if the players fail to recover the bones of Saint Andral before the night of Saint Andral's Feast, the congregation of Saint Andral's Church is massacred and the quest can no longer be completed.)
 
 It is, of course, always possible for players to go "off the rails" and forge their own path in this adventure. This guide's Session Zero guidelines have been shaped with the explicit intent of minimizing this possibility (by, for example, discouraging players from creating non-heroic characters). However, it is important to remember that this guide's narrative presents, at best, a single "critical path" that your players may follow, and that the threads of fate might always guide them along another.
-# Adventure Hooks
 
+> [!info]+ **Levels & Milestones**
+> *Curse of Strahd: Reloaded* allows players to increase their level by earning experience points each time they complete a story milestone. Players will ordinarily earn a specified amount of milestone XP each time they complete an arc. Players might also earn additional milestone XP for completing a segment of an arc, or by completing optional "bonus content."
+> 
+> Players can earn XP only where noted in the guide, and cannot earn XP by defeating monsters or other means.
+
+> [!design]- **Design Note: Milestone XP**
+> *Curse of Strahd* is, at its core, a nonlinear adventure. Although *Curse of Strahd: Reloaded* provides additional structure to the sandbox, each act can still be completed in a variety of different ways, with some arcs potentially remaining unfinished until a far-later act. Additionally, because most arcs within an act can be completed in any order, most acts lack a clear "climax" or "capstone," which means that players may often feel anxious for a sense of progression while mid-act.
+> 
+> Milestone XP resolves these problems, ensuring that players have a sense of mechanical progression as they complete arcs while also assigning an amount of XP commensurate with each arc's difficulty.
+# Adventure Hooks
 In contrast to the original *Curse of Strahd* module, this guide offers a single, original adventure hook to guide the players into Barovia. In this hook, Death House serves as a portal to Strahd's domain: the players enter Death House in their own world, and—upon defeating or pacifying the cult—emerge into the land of Barovia. However, this hook can be implemented in two possible ways:
 
 * ***Lost in the Mists.*** In this version, the players are members of a mercenary adventuring party that has been hired to investigate a series of mysterious disappearances tied to a particular house (Death House). This hook focuses the players' attention solely on Strahd's tyranny and the Barovians who suffer under his rule, encouraging the players to immerse themselves in the campaign's lore and to develop unique relationships with its diverse cast of characters.
@@ -32,7 +41,7 @@ One or more of Strahd's spies check in on the players once each day and once eac
 |Village of Krezk|1 **swarm of rats**|1 **swarm of bats**|
 |Mount Ghakis|1 **dire wolf** or 1 **berserker**|1 **swarm of bats**|
 
-Strahd's spies report the following information, which you should track using the [**Strahd's Espionage** handout](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/Strahd's%20Espionage.pdf):
+Strahd's spies, which all understand Common, report the following information, which you should track using the [**Strahd's Espionage** handout](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/Strahd's%20Espionage.pdf):
 
 * any conversations that the players are heard having;
 * any spells, weapons, or abilities that the players are seen using; and
@@ -41,26 +50,12 @@ Strahd's spies report the following information, which you should track using th
 Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see ***Arc C: Into the Valley***), the players may later speak with him at Yester Hill (see ***Arc M: The Missing Gem***) and dine with him at Castle Ravenloft (see ***Arc L: Dinner with Strahd***).
 
 Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc Y: The Devil’s Ordeals*** for more information.
+
+> [!warning]+ **Combat Tactics**
+> Combat encounters in this guide have been designed using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a system that calibrates encounter difficulty to ensure challenging, balanced encounters. Unless specifically provided in this guide, or unless necessary to compete with players using similar tactics, enemies (including Strahd) should not need to use any tactics (e.g., targeting weak players or focus-firing) in order to provide a challenging experience.
 # The Tarokka Reading
 ## The Tome of Strahd
-Insert the following text into the *Tome of Strahd*: 
-
-<div style="height:1px;"></div>
-<div class="description">
-<p>. . . I fear and hate it as much as the sun. </p>
-<p><strong>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</strong></p>
-<p>I have often hunted for Tatyana . . .</p>
-<hr>
-<p>
-<Strong><em>Source:</em></strong> amerigoV, <a href="https://savage-ravenloft.obsidianportal.com/wikis/tome-of-strahd"><em>Tome of Strahd</em></a>, <strong>Savage Ravenloft</strong> (Oct. 10, 2010).
-</p>
-</div>
-
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones.
-
-Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: an equilateral triangle containing two concentric circles, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the circles the amber sarcophagi, and the wavy line the vestiges sealed within.) 
-
-The symbol can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook).
+The contents of the Tome of Strahd are now as described in [[Arc D - The Tome of Strahd#Reading the Tome|Arc D - The Tome of Strahd]].
 ## The Holy Symbol of Ravenkind
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
@@ -85,10 +80,7 @@ Immediately before the scene in which the players meet Madam Eva, if you are usi
 
 When choosing which card(s) to use for which part of the reading, select from the following lists.
 ### The Tome of Strahd
-Place the *Tome of Strahd* in one of the following locations:
-
-* ***Nine of Swords—Torturer.*** Choose the attic of the Burgomaster's mansion in Vallaki if you want to give the players a reason to befriend or antagonize Baron Vargas Vallakovich. (If you do, the *Tome* has been relocated in Victor Vallakovich’s workroom within the attic.)
-* ***Nine of Glyphs—Traitor***. Choose the master bedroom of Wachterhaus if you want to give the players a reason to befriend or antagonize Lady Fiona Wachter.
+The Tome of Strahd is not present in the Material Plane of Barovia. Instead, it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc I - The Lost Soul]] for more information about the gallows speaker.
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword

@@ -1,5 +1,5 @@
 # Official Material
-Consider *Curse of Strahd: Reloaded* your all-in-one grimoire for running this campaign. You'll only need to reference the original *Curse of Strahd* module when this guide tells you to do so, though you should feel free to read the original module to familiarize yourself with the bones of the campaign first.
+Consider *Curse of Strahd: Reloaded* your all-in-one guide to running this campaign. You'll only need to reference the original *Curse of Strahd* module when this guide tells you to do so, though you should feel free to read the original module to familiarize yourself with the bones of the campaign first.
 
 > [!warning] **A Brand-New Barovia**
 > *Curse of Strahd: Reloaded* is meant to be a complete substitute to the original *Curse of Strahd*, incorporating the original material only by reference. 
@@ -10,6 +10,8 @@ Consider *Curse of Strahd: Reloaded* your all-in-one grimoire for running this c
 
 As you read through this guide, make sure you have access to the following resources:
 
+* the *Player's Handbook*,
+* the *Dungeon Master's Guide*
 * the *Monster Manual*,
 * *Xanathar's Guide to Everything*, and
 * *Van Richten's Guide to Ravenloft*.
