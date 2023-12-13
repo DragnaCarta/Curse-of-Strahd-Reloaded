@@ -1,31 +1,42 @@
 *All dates are given in the Barovian calendar, in which "B.U." stands for "Before Unification", and "B.C." stands for "Barovian Calendar." The year 1 B.C. is marked by the founding of the first Kingdom of Zarovia by King Barov von Zarovich I.*
 # The Ancient Era (3,000 BU–0 BC)
 ## Origins of the Valley
-Nearly four millenia ago, the land of Barovia was a peaceful valley inhabited by the First Folk: a nomadic society of hunter-gatherers. When they arrived in the valley—which they called "Cerunnos," meaning "fertile land"—the First Folk brought with them the worship of a trio of minor fey goddesses that they called the *Rozana*. 
+Nearly four millenia ago, the land of Barovia was a peaceful valley inhabited by the First Folk: a nomadic society of hunter-gatherers. When they arrived in the valley—which they called "Cerunnos," meaning "fertile land"—the First Folk brought with them the worship of a quartet of minor fey goddesses that they called the *Rozana*—the Ladies.
 
-To honor them, the First Folk built three sacred fanes at places of natural power—the Swamp Fane, the Forest Fane, and the Mountain Fane. These fanes served as conduits for the goddess' power, allowing the *Rozana*—known informally as the Ladies Three, or simply the Ladies—to walk among their worshippers and to anchor themselves to the land they loved.
+Each of the four sister goddesses oversaw a particular season:
 
-The Ladies Three wielded powerful magic, bringing good fortune to those that followed their ways. Only their most devout priests knew the Ladies’ names; to all others, they were known as the Weaver, the Huntress, and the Seeker.
+* The Weaver, the goddess of spring and the eldest sister, governed birth, family, and the growth of new life. Her sigil was the spider.
+* The Huntress, the goddess of summer, governed hunting, war, and the flames of young passion. Her sigil was the wolf.
+* The Seeker, the goddess of autumn, governed foresight, harvest, and the wisdom of age. Her sigil was the raven.
+* The Dreamer, the goddess of winter and the youngest sister, governed rest, hope, and the chill of the grave. Her sigil was the butterfly.
 
 For as long as they ruled the land, the Ladies acted as its sovereigns, making their will known through auguries and omens. Through intermediaries, they wielded powerful magic, but one different from that of mages. They drew power from water, air, and earth, and were bound to the ancient valley in which they dwelled. It was said that the Ladies could hear everything that happened in their woods, predict the future, twist the threads of human lives and bring blessings as well as curses. 
 
 Two of the Ladies bestowed upon their most faithful worshippers the gifts of lycanthropy: flocks of wereravens served the Seeker’s will, while packs of Good-aligned werewolves called wolfir raced through the woods to join the Huntress’s Wild Hunt. Meanwhile, the Weaver fashioned three gemstones the size and shape of pinecones, imbued them with the raw energies of life, and delivered them to her priests with a promise that the bounties of the woods would always feed them and their children.
+
+Together, the Weaver, the Huntress, and the Seeker became known as the Ladies Three. To honor them, the First Folk built three sacred fanes at places of natural power—the Swamp Fane, the Forest Fane, and the Mountain Fane. These fanes served as conduits for the goddess' power, allowing them to walk among their worshippers and anchor themselves to the land they loved.
+
+The First Folk, however, built no shrine to the Dreamer, too fearful of her grim portfolio to invite her into their tents and prayers. Embittered and enraged, the Dreamer fell into jealousy and envy—and the whispers of Mother Night, the greater goddess of darkness, lured her into corruption.
+
+The Dreamer forsake her place among her sisters and became the Devourer—a shadowed, twisted creature whose hunger knew no bounds. Her icy claws reached out for the spirits of the First Folk, turning dreams into endless nightmares as she claimed their very souls.
+
+To defend their people, the other three goddesses rose up against the Devourer and struck her down. Her corpse became the Whispering Wall: a shroud of mist that towered into the skies by Yester Hill. Her divine spark, severed from her body, laid amidst the snowy slopes of Mount Ghakis nearby. Her sisters mourned her—but, slowly, knowledge of the Dreamer and her fate departed from living memory, and was lost to the ages.
 ## The Amber Temple
-Though the First Folk were the first to claim the valley, they were far from the last. Two thousand years after the First Folk passed through the Balinok Mountains, a secret society of wizards worshipping a nameless god of secrets came into the valley. These wizards founded the Amber Temple near the peak of Mount Ghakis, as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>, and used it to contain the vestiges of dead, hateful gods, which they imprisoned in amber sarcophagi in the temple’s deepest vaults.
+Though the First Folk were the first to claim the valley, they were far from the last. Two thousand years after the First Folk passed through the Balinok Mountains, a secret society of wizards worshipping a nameless god of secrets came into the valley, drawn there by the remnants of the Devourer's power. They sealed her divine spark in a block of amber and founded the Amber Temple near the peak of Mount Ghakis, as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>, to contain her vestige and those of other dead, hateful gods, which they imprisoned in amber sarcophagi in the temple’s deepest vaults.
 
 When the forces of evil sought to claim the vestiges’ power for their own, the wizards resolved to guard the Temple themselves, and built a road from the Temple through the mountains to import supplies. To protect it, they constructed the defenses described in <span class="citation">T1. Gatehouse Portcullis</span>, <span class="citation">T2. Demon Statues</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span> along the winding Tsolenka Pass. 
 
 However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The lone survivor—an archmage named Neferon—was transfigured to an immortal, monstrous form and settled in to guard his “hoard.”
 ## Fall of the First Folk
-The seven tribes of the First Folk kept largely apart from one another until, one day, a proud and ambitious warlord named Kavan led his tribe down the slopes of the Balinok Mountains, waging a bloody war to unite them. His magic spear, the symbol of his might, drank the blood from his enemies and fed their strength to its wielder; for this, Kavan was called Blood-Drinker, and his spear *bloodthorn*.
+The seven tribes of the First Folk kept largely apart from one another until, one day, a young, impulsive warrior named Kavan entered the Whispering Wall, eager to set foot within its forbidden mists. In the fog, Kavan saw greatness—*his* greatness—and emerged with a deep and terrible ambition.
+
+Kavan became warlord of his tribe, and led his people down the slopes of the Balinok Mountains, waging a bloody war to unite the First Folk under a single banner. With the Devourer whispering in his ear through the mist of the Whispering Wall, he stole the Huntress's sacred spear from the Forest Fane and bathed it in a pool of blood to bend its power to his will. With the blessing of Mother Night, Kavan's spear drank the blood from his enemies and fed their strength to its wielder; for this, Kavan was called Blood-Drinker, and his spear *Bloodthorn*.
 
 Kavan’s conquest united the tribes, but broke their sacred peace. The Ladies’ words grew mournful and quiet on the wind, even as their priests—the druids who enacted their sacred rituals—found themselves subject to the whims and scorn of Kavan’s warrior caste. The wolfir fled into the woods, and the wereravens to the mountains. Fearful of the corruption that Kavan might wreak upon them, the Weaver’s eldest druids bestowed her life-giving gems to the wereravens for safekeeping, ensuring that the secrets of their power would die with them.
 
-When Kavan passed and was buried with his spear at Yester Hill, a new chieftain fought to take his place, beginning a line of brutal successions that lasted for centuries. Where the wizards of the Amber Temple had been content to keep to themselves, however, the First Folk could not remain isolated forever. 
+Kavan ruled the First Folk with an iron fist, but he lived long enough to see his empire crumble. In Kavan's waning years, as his children squabbled and fought to claim his throne, a new power descended upon the valley: King Dostron, a cruel and ambitious monarch described further in <span class="citation">Crypt 34: King Dostron the Hellborn (p. 92)</span>, sought to claim Barovia’s splendor for his own nearby kingdom. He invaded the valley, massacred its inhabitants, and desecrated their holy places with wanton abandon.
 
-Four centuries after Kavan’s death, King Dostron, a cruel and ambitious monarch described further in <span class="citation">Crypt 34: King Dostron the Hellborn (p. 92)</span>, sought to claim Barovia’s splendor for his own nearby kingdom. He invaded the valley, massacred its inhabitants, and desecrated their holy places with wanton abandon.
-
-Dostron's invasion shattered the Ladies' power, driving their surviving followers back into the slopes of the Balinok Mountains. To cement his claim to the valley, Dostron bade his troops to builld an enormous stone fortress atop a mountain to the east and settled there to taste the land’s many riches. 
+Dostron's invasion shattered the Ladies' power, driving their surviving followers back into the slopes of the Balinok Mountains. To cement his claim to the valley, Dostron bade his troops to build an enormous stone fortress atop a mountain to the east and settled there to taste the land’s many riches. 
 
 However, King Dostron’s hand reached too far, leaving his kingdom rocked by calamity and war. When he died, thirty years after he had first invaded the valley, his generals buried him in the crypts beneath his fortress and left it behind to fall into ruin.
 
@@ -352,7 +363,11 @@ One hundred and eighty years after Barovia’s isolation, a **deva** named Lumie
 
 The Abbot’s arrival, however, reminded Strahd of the world that lay beyond the Mists, inspiring him to renew his efforts to escape. On a whim, he visited the Vistani fortuneteller Madam Eva and bade her to read his future. When Madam Eva, however, foretold the coming of a Grand Conjunction—a time, more than a century in the future, when the borders between worlds would grow thin, and the Mists would touch the Material Plane—the fragile light of hope reignited within Strahd’s blackened heart.
 
-Decades prior, Strahd had learned that the Heart of Sorrow—the invulnerable crystal heart that hovered at the peak of Ravenloft’s tallest tower—represented the bond between himself and the Mists, which allowed him to control others’ passage in and out of the valley even as he himself proved unable to leave. Now, he returned to the Fanes of Barovia, where he bound their power ever-closer to his own. 
+Strahd realized, however, that he would need greater knowledge and power to take advantage of this opportunity. He returned to the Amber Temple—and there came upon the vestige of the Devourer, whose shreds of power resonated pitifully with the magic that linked him to the Fanes.
+
+Strahd tore the Devourer from her prison and sealed her within the Heart of Sorrow—the invulnerable crystal heart that hovered at the peak of Ravenloft's tallest tower. There, he tore from her the secrets of her past and her knowledge of the Fanes, and forced her to share her mastery of the magic of souls.
+
+With his new knowledge and power, Strahd began to craft a terrible plan. Decades prior, Strahd had learned that the Heart represented the bond between himself and the Mists, which allowed him to control others’ passage in and out of the valley even as he himself proved unable to leave. Now, he returned to the Fanes of Barovia, where he bound their power ever-closer to his own. 
 
 In doing so, he channeled their energies into the Heart, laying the foundations for a weapon that, on the eve of the Grand Conjunction, would carve a hole through the Mists for Barovia’s escape. He told no one of his grand designs—not even Rahadin, his faithful chamberlain—fearful that speaking it aloud would invite interference.
 
@@ -415,19 +430,15 @@ Madam Eva’s foretelling proved prescient. As described in <span class="citatio
 
 Not far away, in the Vistani encampment just outside of Vallaki, the Vistana Luvash became the proud father of Arabelle—an unknowing descendant of Madam Eva’s blood.
 
-Months later, Ezmerelda, now a young woman, ran from home in search of Dr. Van Richten. Two years passed before she finally found him, becoming his apprentice as described in <span class="citation">Ezmerelda d'Avenir (p. 231)</span>. Their companionship lasted for two more years, after which they parted ways after months of infighting. Less than a year later, a werewolf bit off Ezmerelda’s right leg following a rescue mission gone wrong, sidelining her for months while she commissioned an artisan to craft a prosthetic. 
+Months later, Ezmerelda, now a young woman, ran from home in search of Dr. Van Richten. Two years passed before she finally found him, becoming his apprentice as described in <span class="citation">Ezmerelda d'Avenir (p. 231)</span>. Their companionship lasted for two more years—until Van Richten came to learn the terrible truth of the Vistani curse that haunted him. Unwilling to either reveal the truth to Ezmerelda or risk her death at the curse's dark hands, Van Richten staged a fierce and raw argument, driving Ezmerelda and his other students away for—he believed—their own safety.
+
+Ezmerelda, determined to prove her skills as a monster hunter and spite Van Richten in the process, set off to make a name for herself. Less than a year later, however, the **werewolf** Kiril Stoyanovich bit off Ezmerelda’s right leg following a rescue mission gone wrong, sidelining her for months in Barovia while she commissioned Gadof Blinsky to craft a prosthetic. 
 
 Back in Barovia, the young Victor Vallakovich found an old spellbook in his father’s library—the lost spellbook of the lich Khazan—and began to teach himself magic. That same winter, Nikolai Wachter, the husband of Lady Fiona Wachter, died of illness, breaking Fiona’s heart. Meanwhile, the last elders of the Vallakian Vistani encampment passed away, leaving Luvash—and his younger brother Arrigal—in charge of the caravan.
 ## Strahd’s Return
-Two years after Nikolai Wachter’s death, Dr. Van Richten came to learn the terrible truth of the Vistani curse that haunted him. Maddened with rage, he became determined to seek vengeance upon the Vistani people for the deaths of those he had lost across the years. He was saved, however, by the return of Arturi Radanavich—the sole survivor of Van Richten’s massacre two decades before.
+Three years after Nikolai Wachter’s death, a lonely and despondent Rudolph van Richten determined that it was time to finally seek out his final foe: the legendary vampire, Strahd von Zarovich.
 
-Unbeknownst to Van Richten, the words he had spoken to unleash the undead horde had cursed Arturi, driving undead to pursue him wherever he went. Arturi, exiled from the Vistani caravans, sought Van Richten’s aid to lift this curse—and offered a chance to lift Van Richten’s in turn.
-
-Together, the two men spent a year among the Vistani: Arturi, the exile, and Van Richten, the enemy. Van Richten learned their ways, came to know their people, and slowly released the hatred that had gripped his heart. When the year came to an end, Arturi and Van Richten became blood-brothers, forgiving one another the sins of their pasts and lifting their curses.
-
-Finally at peace, Van Richten retired to his home accompanied by a parting gift from Arturi: a mischievous monkey named Piccolo. However, as Van Richten prepared to document his life’s work, he recalled that Strahd von Zarovich—the greatest vampire of all—still lurked within Barovia like a shadow beneath the land. 
-
-Van Richten’s research confirmed that Strahd still slumbered in the catacombs of Ravenloft, but he knew that the vampire would not remain vulnerable forever. Determined to see the task done before his last years were upon him, Van Richten prepared his tools one final time and set off through the Mists.
+Van Richten’s research confirmed that Strahd still slumbered in the catacombs of Ravenloft, but he knew that the vampire would not remain vulnerable forever. Determined to see the task done before his last years were upon him, Van Richten prepared his tools one more time and set off through the Mists.
 
 Six months later, Van Richten—now disguised as a traveling scholar and accompanying a caravan of Vistani—arrived in the quiet village of Barovia. The burgomaster, a man named Kolyan Indirovich, welcomed him as an honored guest, and Van Richten settled in to gather intelligence and prepare his attack.
 

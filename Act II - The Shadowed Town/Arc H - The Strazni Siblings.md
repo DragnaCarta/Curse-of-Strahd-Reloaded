@@ -9,7 +9,7 @@ If the players neither stop Izek nor take extraordinary measures to keep Ireena 
 ## H1a. Izek’s Visit
 Just over a day after catching a glimpse of Ireena Kolyana for the first time—either in the street outside of the Blue Water Inn, in Vallaki’s town square, or in some other location—Izek Strazni recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 
 
-Izek soon comes to believe that Ireena is a guest at the Blue Water Inn—either because he observed her in the vicinity of the Blue Water Inn on the players’ first morning in Vallaki, or, if the players failed to disguise her upon their entry into Vallaki, because he learned of her recent arrival from the guards at the gates. (If Izek did not see Izek outside of the Blue Water Inn and the players kept Ireena disguised upon entering Vallaki, Izek learns of Ireena’s location from one of his spies an additional day later, unless the players have taken extraordinary measures to keep her hidden.)
+Izek soon comes to believe that Ireena is a guest at the Blue Water Inn—either because he observed her in the vicinity of the Blue Water Inn on the players’ first morning in Vallaki, or, unless players disguised her upon their entry into Vallaki, because he learned of her recent arrival from the guards at the gates. (If Izek did not see Ireena outside of the Blue Water Inn and the players kept her disguised upon entering Vallaki, Izek learns of Ireena’s location from one of his spies an additional day later, unless the players have taken extraordinary measures to keep her hidden.)
 
 While the players are away—and preferably during the players’ dinner with Lady Fiona Wachter in [[Arc G - Lady Wachter’s Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena’s location, describing her by appearance. Urwin and Danika deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which Urwin and Danika reluctantly allow.
 
@@ -43,6 +43,8 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] was at the inn when Izek arri
 
 Ireena is shaken, confused, and disturbed by Izek’s visit, but deeply grateful to the Martikovs for their efforts to keep her from harm. (If asked, she can inform the players of the existence of the inn’s secret corridor and staircase, but asks them to promise to keep the Martikovs’ secrets safe.) 
 
+If Ireena was at St. Andral's Church when Izek visited the inn, she visits the inn the following morning and sees the aftermath herself.
+
 ***Ireena's Choice.*** Whether Ireena was at the inn or church during Izek's attack, she is filled with guilt, rage, and frustration upon learning of it. With a tremble in her voice, she demands that the players allow her to accompany them should they decide to put a stop to Izek's rampage. Ireena doesn't care about Izek's motivation; she simply wants others to stop suffering for their decisions to protect her.
 
 > [!abstract]+ **Urwin's Aid**
@@ -60,12 +62,22 @@ One day after his visit to the Blue Water Inn, Izek directs the town guards to b
 # H3. The Kidnapping
 One day after Izek’s posters are published around Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Burgomaster’s mansion regarding her current location. 
 
-That night, just before midnight, [[Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena’s current location and attempts to kidnap her. [[Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
+The next time that Ireena and the players are apart, [[Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena’s current location and attempts to kidnap her. [[Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
 
 * ***Blue Water Inn.*** If Ireena is still at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin]] and [[Non-Player Characters#Danika Dorakova|Danika]], alerted by a **wereraven** about Izek’s approach, swiftly move once to hide her in the hidden staircase. However, Izek notices a strand of Ireena’s hair caught in the secret door and forces the door open, finding her. As he hauls Ireena away, he commands the guards to place Urwin in the town stocks. He uses his ***hurl flame*** ability to set fire to the Blue Water Inn, causing severe property damage before Danika and six **wereraven** members of the Keepers of the Feather are able to extinguish it using water from the inn’s well.
 * ***St. Andral’s Church.*** If Ireena has been moved to St. Andral’s Church, Izek interrupts [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] in the middle of a sermon and demands to know Ireena’s location. Despite Father Petrovich’s protests, Izek finds Ireena in the priest’s office (which Father Petrovich and Yeska have converted into a makeshift third bedroom) and seizes her. Izek coldly vows that he will return to punish the church for hiding Ireena from him, but departs without causing further harm.
 
-If Izek is successful, he then takes Ireena by force to his room in the Baron’s mansion (described in **N3j. Izek's Bedroom**, p. 107), where he binds her with rope, gags her, and places her on his bed. He then takes a chair and several bottles of wine from the first floor, places the chair in his room beside the bed, and proceeds to silently stare at her without moving for the next seventy-two hours.
+If Izek is successful, he then takes Ireena by force to his room in the Baron’s mansion (described in **N3j. Izek's Bedroom**, p. 107), where he binds her with rope, gags her, and places her on his bed. He then takes a chair and several bottles of wine from the first floor, places the chair in his room beside the bed, and remains there until the day of the Festival of the Blazing Sun.
+
+> [!lore]+ **Izek's Sacrifice**
+> Shortly after Izek brings Ireena to the mansion, Ireena demands to know the reason for her kidnapping. If Ireena is unaware of her relationship to Izek, Izek then reveals it; otherwise, Izek demands to know why she kept away from him despite knowing.
+> 
+> In either case, Ireena is disturbed by the depth of Izek's psychopathy and obsession, and her loyalty to her adoptive family and village anger Izek, who deems her a "fake" sent to deceive him. Spiraling into madness, Izek decides that he must sacrifice Ireena in flames to bring his "real" sister back to him. 
+> 
+> At dawn on the morning of the Festival of the Blazing Sun, Izek removes the offerings to the Morninglord—incense, salted meats, wooden carvings, and jewelry—from the hollow interior of the wicker sun, dumps them on the floor of his bedroom, and secretly replaces them with a bound and gagged Ireena. Izek then insists on personally guarding and escorting the wicker sun to the Festival. 
+> 
+> If the players fail to rescue Ireena, the wicker sun is brought to the town square at nine o'clock in the morning, and burned at noon at the height of the "festivities," killing Ireena.
+
 # H4. The Rescue
 The players can rescue Ireena from Izek’s clutches by first gaining access to his bedroom in the Baron’s mansion. They can do so by infiltrating the mansion or openly storming it.
 
@@ -93,22 +105,138 @@ The NPCs in the mansion ordinarily behave as follows:
 >
 > Izek’s fire-based abilities are likely to set the wooden floors and paneling of the mansion aflame. If they do, apply the following rules:
 >
-> Each contiguous collection of ignited squares counts as a single **fire**. On initiative count 20 of each round, for each fire, roll a number of d4s equal to the number of squares in that fire. For each 4 rolled, an additional square adjacent to the fire also ignites (your choice), becoming a part of the fire. Ignited squares can include either floors or walls. (An ignited wall is engulfed with flames on both sides.)
->
-> When the fire spreads, each creature within its area must make a DC 10 Dexterity saving throw. On a successful save, that creature can immediately move to an adjacent, unoccupied square within 5 feet.
->
-> A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage.
->
-> All squares within 10 feet of a **fire** are heavily obscured by smoke. A creature other than Izek that starts its turn in the smoke must make a DC 10 Constitution saving throw or be **poisoned** until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
+> * Each contiguous collection of ignited squares counts as a single **fire**. On initiative count 20 of each round, for each fire, roll a number of d4s equal to the number of squares in that fire. For each 4 rolled, an additional square adjacent to the fire also ignites (your choice), becoming a part of the fire. Ignited squares can include either floors or walls. (An ignited wall is engulfed with flames on both sides.)
+> * When the fire spreads, each creature within its area must make a DC 10 Dexterity saving throw. On a successful save, that creature can immediately move to an adjacent, unoccupied square within 5 feet.
+> * A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage.
+> * All squares within 10 feet of a **fire** are heavily obscured by smoke. A creature other than Izek that starts its turn in the smoke must make a DC 10 Constitution saving throw or be **poisoned** until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
 >
 > One minute after the first fires ignite, Victor Vallakovich descends to the battlefield if able and commands all combatants to move behind him. He then casts _cone of cold_ to extinguish all burning squares.
 
 ## H4a. Infiltrating the Manor
 If the players infiltrate the manor and successfully make their way to Izek’s bedroom, the door is locked as described in <span class="citation">N3j. Izek's Bedroom (p. 107)</span>. If the players attempt to pick the lock and [[Non-Player Characters#Izek Strazni|Izek]] is awake (see ***Don’t Wake Izek*** below), they must also succeed on a DC 13 Dexterity (Stealth) check to do so without alerting him.
 
+> [!warning]+ **Surprising Izek**
+> Don't forget that Izek, even if surprised, can still use his reactions after the end of his first turn in combat. See <span class="citation">Surprise (<em>Player's Handbook</em>, p. 189)</span> for more information.
+
 The players will find it difficult to lure Izek from his bedroom while Ireena is present, but can do so with sufficiently creative and provocative efforts—assuming, of course, they roll sufficiently high. Otherwise, Izek draws his silvered battleaxe and fights at the slightest provocation.
 
 During the battle, Izek can break through one of the interior walls of the Baron’s manor by expending 15 feet of his movement. If he does, he takes 7 (2d6) bludgeoning damage.
+
+If conscious, Ireena uses a dagger concealed in her boot to cut herself free from Izek's restraints on her first turn in combat. She then joins the battle on the second round of combat. 
+
+<div class="statblock">
+<h2>Izek Strazni, 1st Form</h2>
+<em>Medium humanoid, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 14 (studded leather)
+<br>
+<strong>Hit Points</strong> 110 (13d8 + 42)
+<br>
+<strong>Speed</strong> 30 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20 (+5)</td>
+      <td>15 (+2)</td>
+      <td>18 (+4)</td>
+      <td>10 (+0)</td>
+      <td>9 (-1)</td>
+      <td>15 (+2)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Str +8, Con +7<br>
+<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
+<strong>Damage Resistances</strong> fire<br>
+<strong>Senses</strong> passive Perception 12<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 6 or 5 if poisoned<br>
+<hr>
+<p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
+<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
+<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
+<p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
+<h3>Reactions</h3>
+<p>Izek can take up to three reactions per round, but only one per turn.</p>
+<p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
+<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack with his battleaxe.</p>
+</div>
+
+<br>
+
+<div class="statblock">
+<h2>Izek Strazni, 2nd Form</h2>
+<em>Medium humanoid, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 14 (studded leather)
+<br>
+<strong>Hit Points</strong> 110 (13d8 + 42)
+<br>
+<strong>Speed</strong> 30 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20 (+5)</td>
+      <td>15 (+2)</td>
+      <td>18 (+4)</td>
+      <td>10 (+0)</td>
+      <td>9 (-1)</td>
+      <td>15 (+2)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Str +8, Con +7<br>
+<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
+<strong>Damage Immunities</strong> fire<br>
+<strong>Senses</strong> passive Perception 12<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 6 or 5 if poisoned<br>
+<hr>
+<p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
+<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
+<p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
+<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
+<h3>Reactions</h3>
+<p>Izek can take up to three reactions per round, but only one per turn.</p>
+<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
+<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
+<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
+</div>
+
 ## H4b. Storming the Manor
 If the players cause a ruckus at the front door or on the first floor of the manor, [[Non-Player Characters#Izek Strazni|Izek]] overhears them and exits his bedroom, bringing his silvered battleaxe in case of battle. He fights at the slightest provocation.
 ## H4c. Ireena's Gratitude

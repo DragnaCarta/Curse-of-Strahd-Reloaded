@@ -4,11 +4,15 @@ In this arc, if the players defied the Baron’s will on their first morning aft
 
 When the players arrive at Wachterhaus that night, Lady Wachter welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that Baron Vargas Vallakovich is a menace who must be deposed.
 
-Iif Lady Wachter determines that the players are suitable allies, she asks them to kill the Baron’s right-hand man, Izek Strazni, and to bring her his head. Lady Wachter promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
+If Lady Wachter determines that the players are suitable allies, she asks them to kill the Baron’s right-hand man, Izek Strazni, and to bring her his head. Lady Wachter promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
 
 If the players accept Lady Wachter’s assignment, Ernst provides them with a bottle of poisoned wine for use in intoxicating Izek, as well as information that the players can use to track Izek in order to assassinate him. The players can find Izek in Vallaki’s town square, and eventually track him to the shore of Lake Zarovich, where—if the players successfully planted it—he drinks the poisoned wine.
 
 If the players deliver Izek’s severed head to Lady Wachter, she visits Baron Vallakovich under cover of darkness the following night, accompanied by a trio of **cult fanatics.** Upon viewing Izek’s head, the Baron surrenders peacefully to Lady Wachter’s rule. The following morning, the Baron publicly abdicates to Lady Wachter in Vallaki’s town square.
+
+> [!abstract]+ **Tea with Fiona**
+> If the players visit Wachterhaus before receiving a formal invitation, Lady Wachter is happy to immediately have tea with them if they express an interest in overthrowing the Baron. Otherwise, her manservant Haliq makes an appointment for them to meet with her the following day.
+
 # G1. The Blue Water Inn
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
@@ -97,9 +101,9 @@ Haliq arrives shortly thereafter bearing a tray of wine glasses for those that r
 ## G2c. Drinks in the Parlor
 During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] can share the following information:
 
-* The young woman was Stella Wachter, her daughter and youngest child. Stella suffers from a mysterious illness—one that has left her mind in a vegetative state for nearly the past three months. Lady Wachter has tried every means available to her to cure Stella’s sickness, but none has succeeded.
+* The young woman was Stella Wachter, her daughter and youngest child. Stella suffers from a mysterious illness—one that has left her mind in a vegetative state for the past two months. Lady Wachter has tried every means available to her to cure Stella’s sickness, but none has succeeded.
 * The man with Stella was Nikolai Wachter II, Lady Wachter’s eldest son. Nikolai is named for his father, Nikolai Wachter, who died of a wasting sickness three years ago.
-* Nikolai and his younger brother, Karl, can be mischievious and troublesome louts at times, but Lady Wachter believes that they both have good hearts—if highly disorganized ones. (She is fond of her sons, but regrets that both grew wild and thrill-seeking following their father’s death.)
+* Nikolai and his younger brother, Karl, can be mischievous and troublesome louts at times, but Lady Wachter believes that they both have good hearts—if highly disorganized ones. (She is fond of her sons, but regrets that both grew wild and thrill-seeking following their father’s death.)
 
 Lady Wachter also attempts to engage the players in small talk, asking questions about their histories, their homes, their interests, and the means by which they came to Vallaki and the valley of Barovia. Throughout the conversation, she offers compliments on any visible armor, weaponry, or arcane or holy foci, and lightly questions the players as to their training in the martial, arcane, or holy arts.
 
@@ -152,7 +156,7 @@ Lady Wachter can also share the following information about Izek:
 Where appropriate, Lady Wachter can also share the following story about her daughter, Stella:
 
 * Six months ago, against her advice, Lady Wachter’s daughter, Stella, began visiting Victor Vallakovich, the Baron’s son. Lady Wachter warned her against entanglement with the Vallakovich family, but Stella ignored her pleas.
-* Three months ago, Izek Strazni returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
+* Just over two months ago, Izek Strazni returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
 * Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile constitution and her family’s exposure to the Devil were to blame. Victor Vallakovich himself has refused to speak to her at all.
 * Fiona is convinced that Izek or the Vallakoviches did something terrible to Stella—and that, even if they did not, their cold refusal to assist or even commiserate with her illness proves their unfitness to rule.
 
@@ -210,6 +214,9 @@ If the players reject Lady Wachter’s argument, she replies curtly with the fol
 If the players insist that Madam Eva foresaw the existence of the *Sunsword*, she pauses, then notes that, as much as the “Vistana seer” might *believe* what she saw, “the future is notoriously difficult to interpret.” She is willing to concede—albeit with some amusement—that, despite her doubts, she may be more willing to believe the players’ arguments should the sword itself be found.
 
 ***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on Izek Strazni’s schedule—and provide the bottle of poisoned wine—the following morning.
+
+> [!lore]+ **Ezra: What Barovians Know**
+> Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation">Van Richten's Guide to Ravenloft (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovian passed into the mists, and that no Barovian had heard the goddess's name before then.
 # G3. Return to the Blue Water Inn
 The following morning, as the players enter the taproom of the Blue Water Inn, [[Non-Player Characters#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players’ invitation the previous day.
 
@@ -286,7 +293,10 @@ When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspec
 ## G4c. Ambushing Izek
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
 
-Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds north through the Zarovich Gate until arriving at Lake Zarovich. As he sits upon the shore, he drains the second bottle of wine in his case—gaining the **poisoned** condition  for the duration of the following hour—and regards the doll with obsessive fixation. 
+Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds north through the Zarovich Gate until arriving at Lake Zarovich. As he sits upon the shore, he drains the second bottle of wine in his case—gaining the **poisoned** condition for the duration of the following hour—and regards the doll with obsessive fixation.
+
+> [!warning]+ **Poisoned Izek**
+> Remember that Izek remains **poisoned** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
 
 <div class="statblock">
 <h2>Izek Strazni, 1st Form</h2>
@@ -333,7 +343,7 @@ Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds n
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
-<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 3d6 fire damage.</p>
+<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
 <p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
@@ -342,6 +352,8 @@ Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds n
 <p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack with his battleaxe.</p>
 </div>
+
+<br>
 
 <div class="statblock">
 <h2>Izek Strazni, 2nd Form</h2>
@@ -390,13 +402,13 @@ Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds n
 <p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 10 feet must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage.</p>
-<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 10-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 9 (2d8) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
+<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
+<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
 <h3>Reactions</h3>
 <p>Izek can take up to three reactions per round, but only one per turn.</p>
-<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a burning punch attack against a creature within range.</p>
-<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the start of Izek's next turn.</p>
-<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 9 (2d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
+<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
+<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
+<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
 </div>
 
 While he is poisoned in this way, treat Izek’s passive Wisdom (Perception) score as 8. 
@@ -413,7 +425,7 @@ If the players loot Izek’s body following his death, they can recover his silv
 >
 > In his fury, Izek forgets the case containing the poisoned wine on Blinsky’s counter. The players can persuade Blinsky to help them poison Izek when he returns by showing Blinsky kindness and treating his wounds or with a successful DC 15 Charisma (Persuasion) check.
 
-## G4d. Aftermath of the Mission
+# G5. Aftermath of the Mission
 If the players successfully deliver Izek’s severed head to [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], she thanks them and assures them that she and her associates will “take it from here.” If the players are concerned about the possibility of further bloodshed, Lady Wachter assures them that, once shown Izek’s head, Baron Vallakovich will step down peacefully. She promises to provide them with any promised compensation the following evening at Wachterhaus, and invites them to attend a public transition ceremony in the town square the following morning.
 
 > [!abstract]+ **The Transfer of Power**
@@ -444,7 +456,15 @@ If asked his opinion on Lady Wachter, Father Petrovich states, carefully, that h
 
 Father Petrovich also briefly expresses his regret for his younger sister, Baroness Lydia Petrovna, who has faced many challenges over the past several months and years, and shares his hopes that the Vallakovich family will find a sense of peace amidst their new circumstances.
 
-If the players return to Wachterhaus to obtain their promised compensation (if any), Lady Wachter provides it to them with gratitude. The players are free to take up to thirty silvered crossbow bolts and four silvered spears, as well as up to two pairs of any piece of armor worth 100 gp or less, and up to one of any piece of armor worth 400 gp or less. (All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek’s chronic mismanagement.)
+If the players return to Wachterhaus to obtain their promised compensation (if any), Lady Wachter provides it to them with gratitude. Their reward is as follows:
+
+* Up to thirty silvered crossbow bolts
+* Up to four silvered spears
+* Up to two sets of armor worth 100 gp or less
+* Up to one set of armor worth 400 gp or less
+* Enough raw silver to silver up to two additional weapons
+
+All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek’s chronic mismanagement.
 
 ***Milestone.*** Assassinating Izek completes a story milestone. When Lady Wachter takes power, award each player 1,250 XP.
 
@@ -452,7 +472,7 @@ If the players return to Wachterhaus to obtain their promised compensation (if a
 >
 > When Lady Wachter’s speech is complete, she returns to Wachterhaus and there establishes her seat of government. She summons each of Vallaki’s town guards and meets with them personally, reassuring them that their employment will be protected and their salaries maintained. She further recruits one dozen members of her cult to serve as “deputy guards” to assist in patrolling the walls and keeping the peace throughout the town.
 >
-> Lady Wachter then commands the guards to open the gates to the Barovian refugees, resettling them in the town square until such a time as housing can be found. (Any Barovian refugees addicted to dream pastries continue to visit the eastern Morning Gate daily to purchase fresh pastries from Morgantha, and are joined by a number of Vallakians interested in her wares.)
+> Lady Wachter then commands the guards to open the gates to the Barovian refugees, resettling them in the town square until such a time as housing can be found. (Any Barovian refugees addicted to dream pastries continue to visit the eastern Morning Gate daily to purchase fresh pastries from Morgantha, and are joined by a number of Vallakians interested in her wares.) Any Vistani who wish to are also free to enter the town as they choose.
 >
 > Baron Vargas Vallakovich and his family are placed under unofficial house arrest, with the mansion guarded by two of Lady Wachter’s **cultists** at all times—one guarding the front door and one guarding the back. The cultists assure Baron Vallakovich that they are present for his protection, both from ungrateful townsfolk and servants of Strahd, but are under strict orders to bar him and his family from exiting the manor. Victor Vallakovich, the Baron’s son, is mildly perturbed by this development, but takes no action against it.
 >

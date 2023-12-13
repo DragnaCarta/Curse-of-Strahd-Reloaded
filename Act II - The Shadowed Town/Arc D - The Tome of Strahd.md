@@ -1,5 +1,8 @@
 _An adventure for five 4th-level characters._
 
+> [!warning]+ **You're Reading Deprecated Material**
+> As of **December 12, 2023**, the Tome of Strahd has been relocated from Vallakovich Mansion/Wachterhaus to the clutches of Leo Dilisnya. (See [[Arc I - The Lost Soul]] for more information.) This Arc has been retained to allow an easier transition for DMs using an earlier version of the guide, but will be removed in future updates.
+
 In this arc, the players must locate and retrieve the Tome of Strahd from one of two locations, depending on which Tarokka card Madam drew in Tser Pool: the attic in Baron Vallakovich’s mansion or the master bedroom closet of Wachterhaus. To obtain the Tome, the players must somehow gain access to its hiding spot through subterfuge, infiltration, or by performing a task for Victor Vallakovich or Lady Wachter, respectively. Upon finding it, the players must either bypass the magical lock securing it or uncover the passphrase that unseals its secrets . . .
 
 > [!lore]+ **What Happened to the Tome?**
@@ -25,6 +28,8 @@ The players can gain access to the attic of the Burgomaster’s Mansion through 
 The *Tome of Strahd* can currently be found on the edge of [[Non-Player Characters#Victor Vallakovich|Victor Vallakovich's]] workdesk. A player viewing it through a *detect magic* spell can see that it is surrounded by magic, and can use an action to discern that the magic is of the abjuration school.
 
 Victor won’t relinquish the *Tome* willingly. After finding it in his parents’ attic and recognizing the Von Zarovich crest, he is determined to one day unlock and read its contents. However, he is willing to surrender it to the players if they first help him restore the soul of Stella Wachter to her body. See [[Arc I - The Lost Soul]] for more information on this quest.
+
+***Milestone.*** Obtaining the *Tome* completes a story milestone. If the players obtain the *Tome* from Victor, award each player 750 XP.
 # D2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
@@ -77,6 +82,8 @@ If she feels cordial toward the players, Lady Wachter plays coy, pretending to d
 If she feels warmly toward the players (e.g., because they have killed Izek for her), Lady Wachter instead gladly retrieves the Tome from her closet and presents it to them. 
 
 In either case, Lady Wachter warns the players that she cannot be held responsible for what the book contains. Before handing the Tome over, she also exacts a promise that the players tell no one of where they obtained it.
+
+***Milestone.*** Obtaining the *Tome* completes a story milestone. If the players obtain the *Tome* from Lady Wachter, award each player 750 XP.
 ## D2b. Infiltrating the Estate
 The players may choose to infiltrate Wachterhaus, rather than obtaining the Tome with Lady Wachter’s permission. 
 
@@ -136,12 +143,12 @@ If questioned regarding her proposed bargain, Lady Wachter truthfully tells them
 If the players describe Madam Eva’s reading to her—specifically by mentioning an item “kept under lock and key” or “with the bones of an ancient enemy,” Lady Wachter instantly realizes that they are referring to the magical book locked in the trunk in the closet of <span class="citation">N4o. Master Bedroom (p. 113)</span> and promises to deliver it to them once they fulfill their end of the bargain.
 
 If the players refuse her bargain, Lady Wachter takes no action to resist them, but will not disclose the Tome’s location under any circumstances, even under threat of physical harm. She remains cold and unhelpful toward the players for the remainder of the adventure (though she takes no actual hostile action against them), until and unless they restore the soul of her daughter, Stella. (See [[Arc I - The Lost Soul]] for more information.)
+
+***Milestone.*** Obtaining the *Tome* completes a story milestone. If the players obtain the *Tome* from Lady Wachter, award each player 750 XP.
 # D3. Unlocking the Tome
 The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc L - Dinner with Strahd]] for more information about Sasha Ivliskova.)
 
-The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete. 
-
-The lock is also enchanted with a magical trap. A character that fails to break, pick, or dispel the lock must make a DC 19 Constitution saving throw, taking 10 (3d6) necrotic damage on a failure or half as much on a success.
+The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
 ## Reading the Tome
 Once successfully opened, the contents of the *Tome* now read as follows: <sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/i4euxw/plaything_of_darkness_a_philosophy_students_take/">6</a></sup>
 
@@ -156,7 +163,8 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. But the sword, that cursed sword that Sergei brought! I must dispose of that awful tool! I fear and hate it as much as the sun.</p>
 <p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
 <p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, but each time, she flees from me again. But she cannot run forever—and I have nothing but time.</p>
-<p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory, and reclaim what is rightfully mine.</p></div>
+<p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
+<p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
 
 The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc T - The Amber Temple]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
 

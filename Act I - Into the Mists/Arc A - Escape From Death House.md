@@ -1,11 +1,11 @@
 *An adventure for five 2nd-level characters.*
 
-> [!tip] **A Taste of Horror**
-> The following pages contain a guide to the first acts arcs of the campaign: **Act I: Into the Mists** and **Act II: The Shadowed Town**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
+> [!tip]+ **A Taste of Horror**
+> The following pages contain a guide to the first acts of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and the first third of **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
 > 
 > You can sign up to receive update notifications in your email inbox by joining the free DragnaCarta community on [Patreon](https://www.patreon.com/DragnaCarta).
 > 
-> You can also get an early peek at drafts of the chapters involving **Act III: The Devil's Hand**, as well as outlines and notes for all following acts and arcs, by supporting this guide on [Patreon](https://www.patreon.com/DragnaCarta).
+> You can also get an early peek at drafts of the remainder of **Act III: The Broken Land**, as well as outlines and notes for all following acts and arcs, by supporting this guide on [Patreon](https://www.patreon.com/DragnaCarta).
 
 The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
 
@@ -14,6 +14,9 @@ When the relics they carry sense the presence of Death House, however, the playe
 Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
 
 If the players kill the monster, the house begins to collapse, forcing them to flee or be lost in the rubble. Upon emerging, they find that their surroundings have changed, transporting them to the darkened land of Barovia.
+
+> [!lore]+ **The History of Death House**
+> See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
 # A1. Daggerford
 ## A1a. The Nightmare’s Bridle
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
@@ -87,7 +90,7 @@ Read all players the following text:
 <p>A grand manor stands before you, four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs forming a picture of austere, chilling grandeur. Midway up, a narrow balcony juts out from the third floor, offering a grim perch from which to survey the surrounding grounds.</p>
 <p>The centerpiece of this imposing facade is the portico, a stone arch standing sentinel before the house's oaken doors. A wrought-iron gate fills this arch, its rusty hinges creaking as it sways in the wind.</p>
 <p>On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.</p>
-<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and and proud—an unwelcome entrance to the house beyond.</p>
+<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—an unwelcome entrance to the house beyond.</p>
 <p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
 </div>
 
@@ -285,12 +288,14 @@ The parchment is a piece of handwritten sheet music for the harpsichord titled *
 <div class="description">
 <p>As you press your fingers to the keys, the notes echo, a haunting melody filling the quiet, dusty room. As you continue to play, the music seems to take on a life of its own, your hands moving across the keys unbidden as if guided by an unseen force.</p>
 <p>From the edges of the room, spectral figures begin to materialize, spinning and weaving in a ghostly dance as though led by the song. Most are unfamiliar to you, but you recognize two: Elisabeth Durst, in the corner, watching Gustav's apparition dancing with a beautiful young woman wearing humble clothes.</p>
-<p>The eyes of Elisabeth's apparition eyes narrow into a cold, furious stare. The dancers pay her little heed, however, the song growing faster as the spirits whirl to the rhythm of the harpsichord's crescendo.</p>
+<p>The eyes of Elisabeth's apparition narrow into a cold, furious stare. The dancers pay her little heed, however, the song growing faster as the spirits whirl to the rhythm of the harpsichord's crescendo.</p>
 <p>With a swift movement, Elisabeth reaches for a pendant around her spectral neck—a shimmering amber shard hung on a cord of ethereal mist. As her ghostly fist curls around it, her eyes flash a bright, menacing amber—and the spectral dancers dissipate, swept away as if by an unseen wind.</p>
 <p>Elisabeth's apparition lingers but a moment longer before disappearing with the rest. As it does, a sound resonates through the room: the low sound of scraping wood, originating from the room across the hall. The floor trembles faintly—and you hear a crash from the mantelpiece. Two of the alabaster figurines have fallen from their place on the shelf: one, toppled over on its side; the other, shattered across the floor.</p>
 </div>
 
 A player who inspects the fallen figurines finds that the toppled figurine has cracked across its face, arms, and torso, and depicts a young and slender female dancer. The shattered figurine has broken into dozens of pieces, and appears to have once depicted a comely, older man. A third, female dancer figurine remains defiantly standing atop the mantelpiece where all three once stood.
+
+Playing *Waltz for Klara* also causes the bookshelf in the [[#Library]] to swing open, exposing the locked secret door beyond. (The scraping sound is the sound of the bookshelf scraping against the floor.)
 ### Library
 <span class="citation"><em>This scene takes place in Appendix B: Area 8.</em></span>
 
@@ -346,7 +351,7 @@ This room is largely as described in <span class="citation">Secret Room (p. 214)
 <p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
 </div>
 
-Change Strahd’s letter to read as follows:
+The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
 
 <div class="description">
 <p>My most pathetic servant,</p>
@@ -357,6 +362,10 @@ Change Strahd’s letter to read as follows:
 </blockquote>
 
 The players do not recognize the name "Strahd von Zarovich."
+
+> [!design]- **Design Note: Removing the Deed**
+> Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Arc C - Into the Valley]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
+
 ## A2d. The Third Floor
 As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
 ### Balcony
@@ -382,7 +391,7 @@ When a player first approaches this door, read:
 <div class="description">
 <p>These grand doors loom tall, their dark wood frames enclosing a pair of dusty stained-glass windows. Each pane is etched with intricate designs that resemble windmills, their once-vibrant hues now faded and obscured beneath a thick veil of grime.</p>
 <p>Through the dusty haze that prickles your eyes , you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, but the mere sight of it seizes your muscles in a vice-like grip, your limbs refusing to obey your conscious mind.</p>
-<p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distance creaks and whispers are swallowed by a heavy silence.</p>
+<p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distant creaks and whispers are swallowed by a heavy silence.</p>
 <p>The shadow behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
 <p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
 </div>
@@ -391,7 +400,7 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 
 <div class="description">
 <p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
-<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the roomstands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
+<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
 <p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
 <p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
 </div>
@@ -411,6 +420,8 @@ A roll of parchment is half-buried in the grain beside the shard. If unfurled, i
 </div>
 
 A player can present the shard and speak Walter's name as a bonus action while within 30 feet of the **flesh mound** in the [[#Ritual Chamber]] to force the mound to make a DC 13 Wisdom saving throw or be dazed until the start of the player's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
+
+***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
 ### Bathroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
 
@@ -440,7 +451,7 @@ This room is largely as described in <span class="citation">Nursemaid’s Suite 
 
 ***The Bed.*** A player that removes the covers from the bed finds that there is nothing beneath them. Instead, the player only finds a bloodstained mattress and crude hand-and-foot restraints made from barbed wire nailed to the four posts of the bed frame.
 
-***The Doors.*** A player that exits the bedroom through the stained-glass doors and onto the balcony sees that the town of Daggerford has vanished. Instead, the balcony looks out over an endless, mist-filled chasm.
+***The Doors.*** A player that exits the bedroom through the stained-glass doors and onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
 
 ***The Book.*** The book is a cobwebbed copy of a raunchy romance novel titled *Blue-Blooded Lips*. It tells the story of a peasant woman's romance with a wealthy duke.
 
@@ -497,10 +508,12 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 
 This room is largely as described in **Children’s Room** (p. 215-16).
 
+![[Rose and Thorn.png]]
+
 > [!profile]+ **Profile: Rosavalda "Rose" Durst**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her > earnest efforts to aid the players.
+> ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
 >
 > ***Emotions.*** Rose most often feels apprehensive, curious, defiant, or bold.
 >
@@ -933,6 +946,8 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 <p><strong><em>Engulf.</em></strong> The flesh mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of the mound’s turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time.</p>
 </div>
 
+<br>
+
 <div class="statblock">
 <h2>Flesh Mound, 2nd Form</h2>
 <em>Large undead, chaotic evil</em>
@@ -1005,7 +1020,7 @@ The spirit is recognizable as Gustav Durst. Gustav pleads with the players to gi
 
 If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
 
-The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness.
+The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
 
 If the players successfully persuade Gustav to stand aside, he warns them that "her other servants" are lying in wait ahead to block the players' escape. "Don't fear them," he says. "Their only power is fear." He then vanishes.
 

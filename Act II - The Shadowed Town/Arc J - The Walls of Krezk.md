@@ -186,19 +186,25 @@ The village of Krezk is as described in <span class="citation">S3. Village of Kr
 
 If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested.
 
+Upon entering Krezk, the players begin [[Arc L - The Fallen Abbey]].
+
 ***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
+## J6a. The Blessed Pool
+This area is largely as described in <span class="citation">S4. Pool and Shrine (p. 146)</span>. However, add the following to the end of this area's description:
 
-> [!abstract]+ **Seeking the Abbot**
->
-> If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must climb a switchback road up the spur of Mount Baratok, which is as described in <span class="citation">S5. Winding Road (p. 147)</span>. The road leads to <span class="citation">S6. North Gate (p. 147)</span>.
->
-> If the players awaken Otto and Zygfrek Belview by opening the gate or noisily climbing over the wall, the two **mongrelfolk** greet the players as described in <span class="citation">S6. North Gate (p. 147)</span>. If the players accompany Otto and Zygfrek past <span class="citation">S7. Graveyard (p. 148)</span>, through <span class="citation">S10. Abbey Entrance</span>, and into <span class="citation">S12. Courtyard (p. 150)</span>, the two Belviews ask them to wait while they enter <span class="citation">S13. Main Hall (p. 150)</span> and inform the Abbot of the players’ arrival. One minute later, Otto and Zygfrek return and invite the players inside to speak with the Abbot.
->
-> The main hall of the Abbey is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. If the players seem friendly and ask for a cure for cackle fever, the Abbot is glad to immediately use his **_healing touch_** to cure their cackle fever. In exchange, he asks them to promise to secure a bridal gown for his **flesh golem** Vasilka within the next three days. If the players agree to do so, they immediately begin [[Arc O: Something Borrowed]].
->
-> In gratitude for the players’ assistance, the Abbot also offers them a tour of the Abbey. He notes that it’s rare for the Abbey to have more than two sets of guests in such a short time, but suggests that they might enjoy the company of the Abbey’s other temporary occupant—a Vistani by the name of Ezmerelda d’Avenir. If the players accept, the Abbot leads them on a brief tour as described in **_Arc M: Strahd’s Enemy._**
+<div class="description">
+<p>Small purple flowers dot the shores around the pool, their stalks swaying gently above the snow-covered grasses below.</p>
+<p>A handsome young man in a brown monk's robe kneels before one of the flowers, cupping its petals delicately in his hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck, and he gazes thoughtfully at the flower between his fingers.</p>
+</div>
 
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for _**K: The Missing Gem**_ and _**Arc L: Strahd's Enemy**_, as well as outlines and notes for _**Act III: The Broken Land**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
+The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in <span class="citation">S13. Main Hall (p. 150)</span> and <span class="citation">The Abbot (p. 151)</span>.
+
+Should the players approach or address him, the Abbot, without looking up from the flower, says: "A ward against evil, and yet a deadly poison. Is it not strange that a mere flower can hold such duality within it?"
+
+After the players have had an opportunity to discuss and debate his question, if any are infected with the curse of werewolf lycanthropy, the Abbot's nose wrinkles. He then turns to any infected players, his brows furrowing. "Forgive me, my friend," he says, "but you bear the stench of the wolf. It is an unpleasant thing and befouls the air of this sacred place. May I remove it from you?" If the player assents, the Abbot uses his _healing touch_ to cure their lycanthropy. 
+
+If the players ask his identity, the Abbot introduces himself as the Abbot of the Abbey of St. Markovia and invites them to visit the Abbey should they wish to learn its history. (Should they wish to do so immediately, he is glad to accompany them.) 
+
+If asked the source of his power, the Abbot laughs softly, stating only: "Beneath the Morninglord's light, all things are possible."
+## J6b. The Abbey of St. Markovia
+If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must ascend the switchback road to the Abbey of St. Markovia, where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[Arc L - The Fallen Abbey]] for more information about visiting the Abbey.

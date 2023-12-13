@@ -57,6 +57,15 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc H - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
 [[Arc I - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
 [[Arc J - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
+## Act III - The Broken Land
+[[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
+[[Arc K - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
+[[Arc L - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
+[[Arc M - The Den of Wolves]]. Coming soon.
+[[Arc N - Argynvost's Beacon]]. Coming soon.
+[[Arc O - The Moonlit Murders]]. Coming soon.
+[[Arc P - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
+[[Arc Q - Ravenloft Heist]]. Coming soon.
 
 > [!tip]+ **Under Construction**
 > *Curse of Strahd: Reloaded* is an ongoing project. New releases, including additional arcs and edits to existing arcs, are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).
@@ -64,14 +73,6 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 > Alternatively, if you'd like to read drafts, outlines, and notes for upcoming releases, you can do so by becoming a paid supporter of DragnaCarta's [Patreon](https://www.patreon.com/DragnaCarta).
 > 
 > If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]].
-## Act III - The Broken Land
-[[Act III Summary]]. Coming soon.
-[[Arc K - The Missing Gem]]. Coming soon.
-[[Arc L - The Fallen Abbey]]. Coming soon.
-[[Arc M - The Den of Wolves]]. Coming soon.
-[[Arc N - Argynvost's Beacon]]. Coming soon.
-[[Arc O - Dinner with the Devil]]. Coming soon.
-[[Arc P - Ravenloft Heist]]. Coming soon.
 ## Act IV - Secrets of the Ancient
 [[Act IV Summary]]. Coming soon.
 [[Arc Q - The Tyrant's Trials]]. Coming soon.
@@ -96,6 +97,6 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 ***Art.*** Cover and background artwork by [JamesRPGArt](https://jamesrpgart.com/), available on [Patreon](https://www.patreon.com/jamesrpgart). Additional illustrations by [Caleb Cleveland](https://calebisdrawing.com/).
 
-***Special Thanks to*** **Twi**, whose deliberation and creativity made this revision possible;  **Ziopliukas** and **Paintknight** for their encouragement and support;  **Friendly**, **shmamy**, **Nancy**, **yaboicorny**, **Busdriver**, and **Scarfe** for their frequent counsel and feedback; and [**GPT-4**](https://chat.openai.com/) for assistance in brainstorming and revision.
+***Special Thanks to*** **Twi**, whose deliberation and creativity made this revision possible;  **Ziopliukas** and **Paintknight** for their encouragement and support; **Friendly**, **shmamy**, **Nancy**, **yaboicorny**, **Busdriver**, **Cheese**, **Eliza**, and **Scarfe** for their frequent counsel and feedback; and [**GPT-4**](https://chat.openai.com/) for assistance in brainstorming and revision.
 
-***Additional thanks to*** Eban921, Zumarius, arkansandragoness, murdoc, Az, Werben, a_Kyrill, calebisdrawing, Timetheif, Massiah, Schelling, joshuacc, ELQUEMANDA4, DerkLucas, Sigmarius, Mr_Gelan, rave98, BeaverBoy99, Maurycy-skell, whatistheancient, Galahadred, LordMordor, justadmhero, xxItsAJackalxx, JaeOnasi, KrempelRitter, terrible_boots, Numerous-Ad-1357, PM_me_your_PhDs, sunirgerep, dead_dads, Mon5teRico, CrazyEnough1757, rawnan, AlexanderThulin, InconditeCullion, BetaMax-Arcana, greenglowstix, Anp117, ShapKees, Arow-Remade, Exdeth, FinRingil, ericthealfabee1, Tirrigon, InsideNervous, chroma900, and DarthHarambae, taffer, Starless, Aonbarr, farlet10, Eve, Ebonhawk, Aeristria, mattjanor, jabberdoot, snickduck, continuity, snarkycatboy, and styx for feedback, playtesting, and review.
+***Additional thanks to*** Eban921, Zumarius, arkansandragoness, murdoc, Az, Werben, a_Kyrill, calebisdrawing, Timetheif, Massiah, Schelling, joshuacc, ELQUEMANDA4, DerkLucas, Sigmarius, Mr_Gelan, rave98, BeaverBoy99, Maurycy-skell, whatistheancient, Galahadred, LordMordor, justadmhero, xxItsAJackalxx, JaeOnasi, KrempelRitter, terrible_boots, Numerous-Ad-1357, PM_me_your_PhDs, sunirgerep, dead_dads, Mon5teRico, CrazyEnough1757, rawnan, AlexanderThulin, InconditeCullion, BetaMax-Arcana, greenglowstix, Anp117, ShapKees, Arow-Remade, Exdeth, FinRingil, ericthealfabee1, Tirrigon, InsideNervous, chroma900, and DarthHarambae, taffer, Starless, Aonbarr, farlet10, Eve, Ebonhawk, Aeristria, mattjanor, jabberdoot, snickduck, continuity, snarkycatboy, Berzingh, Yazstromo, ActualPaperweight, SkroxiousDM, Ishna, Miata07, JehutyPT, Franz, Windsock, styx, JoeyGrizzle, Alantes, BenD, Silver, Massiah, Rustyroo, Lucky Actor, aevinpaos, Bruuneri, JRL, szemere, ElderDovah, nyletak, Ispanicos, IneptHackberry, Cryptid, Dice, Fezznick, RaePi, Dumaka, terribleOpera, LFrog, TehBestAtGames, Alfie, Helan, and StoRmVoRtex for feedback, playtesting, and review.

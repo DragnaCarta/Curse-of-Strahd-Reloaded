@@ -16,11 +16,9 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 
 > [!lore]+ **Strahd’s Bounty**
 >
-> When Strahd received Madam Eva’s most recent fortelling, he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
+> When Strahd received Madam Eva’s [[Arc C - Into the Valley#C8. Black Carriage|most recent fortelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
->
-> Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and Volenta, succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. Yan agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
 > 
 > ***Escher & Yan's Deal.*** Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and Volenta, succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. Yan agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
 > 
@@ -50,13 +48,15 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > In the morning, Van Richten hid Arabelle in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with the Gunther and Yelena Arasek to store the wagon (still holding Arabelle) in Arasek Stockyard, and took up residence in the private guest room of the Blue Water Inn.
 >
-> ***Aftermath of the Kidnapping.*** Arabelle’s absence, didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, Luvash had discovered the hungover Alexei and learned of his daughter’s disappearance. The Vistani and dusk elves spread out among the nearby woods, searching in vain for any sign of the missing girl.
+> ***Aftermath of the Kidnapping.*** Arabelle’s absence didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, Luvash had discovered the hungover Alexei and learned of his daughter’s disappearance. The Vistani and dusk elves spread out among the nearby woods, searching in vain for any sign of the missing girl.
 >
 > At nearly the same time that Van Richten and Arabelle were riding through Vallaki’s gates, a dusk elf named Savid found Yan’s decapitated body amidst the reeds of the Luna River amid signs of a struggle. Savid also found a strange trinket atop the bloodied grass: a platinum signet ring stamped with a strange sigil. He returned it to Luvash, who ordered Savid to deliver it to Kasimir Velikov—the dusk elves’ leader and scholar—for inspection upon Kasimir’s return. Luvash has continued the search for Arabelle, though his personal efforts came to a bloody and brutal halt when his right leg was caught in a well-hidden wolf trap.
 >
-> Meanwhile, Van Richten delivers Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
+> Meanwhile, Van Richten plans to deliver Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
 >
 > Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
+> 
+> Arabelle hasn't told him, however, that she suffers from a strange and terrible wasting disease—one which will swiftly kill her if left untreated. The sole remedy is an herbal tincture she must receive once every month—and the time left to do so is fast ticking down.
 # F1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
@@ -93,7 +93,7 @@ As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards*
 
 The path from Vallaki to the Vistani Camp is as described in <span class="citation">N9. Vistani Camp (p. 119)</span>.
 
-When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see **E2a. The Vistani Encampment**) or speak with one the dusk elves guarding the hovels at the base of the hill (see **E2b. Dusk Elf Hovels** below).
+When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#F2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#F2b. Dusk Elf Hovels]]).
 ## F2a. The Vistani Encampment
 ### Entering the Vistani Camp
 The Vistani are largely as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>, with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
@@ -105,7 +105,7 @@ When the players first enter the tent, modify the descriptive text as follows:
 <p>A shirtless young man kneels on the dead grass by the center of the tent, his eyes downcast and his face pale. Beside him, a broken wooden crate sits amidst a pile of broken pottery shards, several of which are still wobbling from the force of impact.</p>
 <p>A dozen feet from the kneeling youth stands an older, larger man wearing studded leather armor and a thick, well-trimmed beard. His eyes are bloodshot, and his right hand is trembling. He appears to be leaning his weight against a makeshift wooden crutch for support; looking down, you see that his lower right leg is wrapped in blood-stained bandages.</p>
 <p>"You were supposed to keep her safe!" the larger man bellows hoarsely. He whirls, his hand grabbing blindly as if for something else to throw. Sweat beads on his forehead, and he chokes back a sob of rage. "My little girl! And now—"</p>
-<p>He wavers unsteadily—and stumbles. In a blink, a third man, also clad in studded leather and wearing a fine-trimmed goatee, steps out from his shadow and catches the larger man on his shoulder before he falls. "Easy, brother," the third man murmurs. "You've lost a lot of blood." He glances up and catches sight of you, his brow tightening imperceptibly. "And it would appear that we have company."</p>
+<p>He wavers unsteadily—and stumbles. In a blink, a third man, also clad in studded leather and wearing a fine-trimmed goatee, steps out from his shadow and catches the larger man on his shoulder before he falls. "Easy, brother," the third man murmurs. "You've lost a lot of blood." He glances up and catches sight of you, his brow tightening almost imperceptibly. "And it would appear that we have company."</p>
 </div>
 
 If the players do not respond first, Luvash hails them warily and—leaning back on his crutch to conceal any weakness—asks them their business. If the players share that they have come to deliver Madam Eva’s gift, Luvash tells them that Arabelle—his daughter—has recently gone missing.
@@ -154,12 +154,31 @@ Luvash can share the following information with the players:
 * Luvash led the search for Arabelle, joining more than a dozen Vistani and nearly that many dusk elf scouts from the hovels below the hill. Luvash himself had to return to the encampment after his right leg was caught in a wolf trap, leaving him too wounded to walk.
 * The search parties haven’t yet found Arabelle. However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
 * Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
+* Luvash is desperate to recover Arabelle soon, who has suffered from a strange and terrible wasting disease since the age of five. If she does not receive a particular herbal tincture once per month, the disease will devour her muscles and bones, killing her within a week's time or less. She was due to receive her next dose today, and Luvash fears that if she is not already dead, she will be soon. 
+
+> [!lore]+ **Arabelle's Disease**
+> When Arabelle's powers as a seer first emerged at the age of five, the divine spark of the Seeker within her kindled as well. Unlike Madam Eva, however, Arabelle was a mere mortal, her physical form unable to contain the power of a goddess, and her small body rapidly began to waste away.
+> 
+> To save her, Luvash took her to Tser Pool, where Madam Eva prescribed a particular tincture brewed from chamomile, lavender, elderflower, rosemary, and—most importantly—mugwort and wormwood, which grow only near a hill on the eastern side of the Vallakian basin. (The hill in question is the promontory on which Old Bonegrinder sits; mugwort and wormwood grow near the Mountain Fane, which lies at its base. A player who succeeds on a DC 14 Intelligence (Nature) check identifies mugwort and wormwood as herbs associated with divination and prophecy.)
+> 
+> Arabelle knows that, if she does not receive her next dose of medicine, she will die. However, she also knows that if Strahd captures her, he will turn her into a vampire or extract her power for his own purposes. Though she does not relish the thought, she is willing to accept the terror of death if doing so will deprive Strahd of the victory he seeks.
+> 
+> She also knows that, the longer she remains with Van Richten, the greater the chance of detection and capture. But she has seen a future in which she is discovered by someone different—someone who can reconcile those who wish to keep her safe. Her sole hope, she believes, lies with that future.
 
 Luvash believes that the sigil on the signet ring may lead him to Arabelle’s location. Though Kasimir has been unable to make sense of it, Baron Vargas Vallakovich of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
 
 Luvash asks the players to recover the ring from Kasimir, then research its sigil in Baron Vallakovich’s library. Should the players return to him with actionable information about Arabelle’s whereabouts—or, better yet, Arabelle herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
 
 If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hovels** to meet with Kasimir.
+
+> [!abstract]+ **Tracking Arabelle**
+> If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of <span class="citation">P. Luna River Crossroads (p. 40)</span>.
+> 
+> A player who searches the area where Arabelle disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
+> 
+> A player who inspects the footprints and makes a DC 15 Intelligence (Investigation) check can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river.
+> 
+> Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 ## F2b. Dusk Elf Hovels
 The dusk elf hovels are as described in <span class="citation">N9b. Dusk Elf Hovels (p. 121)</span>. The dusk elves themselves are as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>. If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
 
@@ -175,6 +194,8 @@ Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir
 </div>
 
 The players can find Kasimir sitting on the green rug facing the fire, meditating. He is as described in <span class="citation">Kasimir Velikov (p. 232)</span>, but has recently sustained a black eye and several cuts across his cheek.
+
+![[Kasimir Velikov 1.png]]
 
 > [!profile]+ **Profile: Kasimir Velikov**
 >
@@ -219,7 +240,7 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 # F3. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
 
-The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3s. Attic Storage (p. 109)</span>. See [[#F3c. Speaking with Victor]] below, or [[Arc I - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#F3c. Speaking with Victor]] below, or [[Arc I - The Lost Soul]] for more information about the mirror.
 
 If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## F3a. Entering the Mansion
@@ -227,13 +248,14 @@ If Ireena Kolyana has already visited the mansion alone and obtained an audience
 
 If the players visit the library, proceed to [[#F3b. Searching the Library]] below.
 ### 1. Persuading the Baron
-If the players ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
+Upon first greeting the players, the Baron inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
+
+If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
 
 While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, Vargas is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
 
 * For the past two months, a spirit has haunted the Vallakovich mansion. 
 * Servants have seen its reflection in mirrors or darkened windows, and have reported cold drafts, strange sounds, and objects that move of their own volition.
-
 * The mansion’s butler and the baroness's lady-in-waiting have already left the Baron's employment, too fearful of the ghost to continue working in the house.
 * The Baron’s wife, Baroness Lydia Petrovna, hosts daily lunches for a group of Vallakian women, who Vargas uses to prepare costumes and decorations for his weekly festivals. Vargas is desperate to ensure that the women remain ignorant of the spirit’s existence.
 * The Baron's cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before the Baron convinced her to stay by (reluctantly) increasing her pay.
@@ -251,7 +273,7 @@ The kitchen is largely as described in <span class="citation">N3g. Kitchen (p. 1
 * The Baroness’s lady-in-waiting, a quiet woman named Valentina, reported seeing the spirit in the Baroness’s mirror on multiple occasions. The Baroness hid the mirror away in the attic shortly thereafter.
 * Valentina described the spirit’s appearance as the distorted silhouette of a young woman. All of the servants agree that its hauntings universally carry a sense of sorrow, loneliness, and longing.
 * Few members of the household enter the attic anymore, though the Baron’s son, Victor Vallakovich, has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
-* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” nearly three months ago. (Tereska doesn’t remember her name, but knows that the girl was Lady Fiona Wachter’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
+* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was Lady Fiona Wachter’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
 
 If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in <span class="citation">N3o. Master Bedroom (p. 108)</span>. She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#F3c. Speaking with Victor]] below.
 ### 2. Infiltrating the Mansion
@@ -293,9 +315,9 @@ Shortly after the players discover these records, however, they are interrupted 
 
 Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
-If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successfuly DC 15 Charisma (Persuasion) check. 
+If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
 
-If Victor agrees to aid the players by sharing information about his book, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to **N3t. Victor’s Workroom** to speak further. He won’t share any information outside of his workroom.
+If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to **N3t. Victor’s Workroom** to speak further. He won’t share any information outside of his workroom.
 
 > [!abstract]+ **Ethereal Entities**
 >
@@ -313,17 +335,19 @@ If Victor agrees to aid the players by sharing information about his book, he fi
 ## F3c. Speaking with Victor
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* spell, rather than *remove curse.*
+Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Miska. Victor’s teleportation circle is perfectly constructed, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
+Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
 
-The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes—the spirit of Stella Wachter.
+The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
 
-If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+> [!abstract]+ **Meeting Victor**
+> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+>
+> Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#F3b. Searching the Library]] above.
 
-If the *Tome of Strahd* is located within Victor’s workroom, it can be found atop Victor’s desk among his other papers. If the players attempt to pick up the *Tome of Strahd*, Victor immediately casts *mage hand* to retrieve it, revealing his position.
-
-Otherwise, shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#F3b. Searching the Library]] above.
+> [!info]+ **The Tome of Strahd**
+> A previous version of this guide placed the *Tome of Strahd* within Victor's workroom. If the *Tome of Strahd* is located within Victor’s workroom, it can be found atop Victor’s desk among his other papers. If the players attempt to pick up the *Tome of Strahd*, Victor immediately casts *mage hand* to retrieve it, revealing his position.
 
 If persuaded to aid the players in finding Arabelle, Victor can share the following information:
 
@@ -339,7 +363,14 @@ If the players are interested in speaking with Szoldar, Victor directs them to a
 
 Victor can tell the players that, while Szoldar and Yevgeni spend most mornings checking their traps for captured game, they usually return to the dressing shack by early afternoon to clean their weapons, reset their traps, and whittle and fletch fresh arrows.
 
-If the players ask Victor about the haunting of the burgomaster’s mansion, or inquire too deeply about the silhouette in the *spirit mirror*, the players begin ***Arc I. The Lost Spirit.*** Otherwise, Victor tries to avoid discussing Stella or the haunting, preferring to keep his involvement as quiet as possible.
+> [!abstract]+ **The Haunting**
+> If the players ask Victor about the haunting of the burgomaster's mansion, he reluctantly "reveals" that his magic is responsible, claiming that he's experimented with magic to produce an assortment of odd effects, including cold temperatures, objects that move without being touched, and strange glowing lights. He also claims that many of the strange noises likely came from Miska, his skeleton **cat**. 
+>  
+> Victor truthfully tells the players that he's tried to keep his magic secret from his father, for fear that he would disapprove. However, his claims that his magic has caused the "hauntings" is a lie, and a DC 10 Wisdom (Insight) check reveals that he hesitates when telling his story, his eyes briefly darting toward the mirror leaned against the wall.
+> 
+> If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that the Baron might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
+> 
+> Victor doesn't reveal the spirit's true identity (Stella Wachter) or origins. See [[Arc I - The Lost Soul]] for more information.
 
 > [!lore]+ **Khazan’s Staff**
 >
@@ -358,12 +389,15 @@ As the players journey west toward Szoldar’s shack, read:
 
 <div class="description">
 <p>The path ahead is uneven, littered with pebbles and overgrown in parts by moss and wild grass. To the left, the trees of the Svalich Wood stand tall and foreboding; to the right, a chill breeze sweeps in from the lake, tinged with a faint, brackish scent and the damp earthiness of old silt. Other than the mournful croak of a distant raven, the only sound that breaks the eerie silence is the squelching of mud beneath your feet and the quiet lapping of the waves against the shore.</p>
-<p>It's not long, however, before the air is tinged with the faint scents of fur and a familiar, metallic tang. Ahead, you can hear the sound of rushing water, and see a place where the dark waters of the lake flow swiftly into a river that disappears southward into the dark woods. A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age.</p>
+<p>It's not long, however, before the air is tinged with the faint scents of fur and a familiar, metallic tang. Ahead, you can hear the sound of rushing water, and see a place where the dark waters of the lake flow swiftly into a river that disappears southward into the dark woods.</p>
+<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away lies an old stone slab, resting on a cracked, mossy stone circle.</p>
 </div>
 
 If the players arrive between the hours of noon and dusk, Szoldar and Yevgeni can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.
 
 When Szoldar and Yevgeni are away, the door to the shack is locked with a padlock. (Both wolf hunters carry a key.) If either wolf hunter is inside, the door is unlocked and hangs ajar.
+
+If the players choose to investigate the slab, they find that it bears a carving of a butterfly, the grooves lined with lichen and moss. (The slab is an ancient monument to the Dreamer, the divine sister of the Ladies Three. Szoldar and Yevgeni don't know what the carving means.)
 
 If the players enter the shack, read:
 
@@ -405,7 +439,7 @@ If this is the first time that the players have visited the Luna River Crossroad
 
 <div class="description">
 <p>The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast.</p>
-<p>Scattered across the intersection are four, small dead saplings, their branches and trunks blackened and gnarled. Some lean at slight angles, while others stand stubbornly upright, their twig-like structures idle and quiet in the windless air.</p>
+<p>Scattered across the intersection are four small dead saplings, their branches and trunks blackened and gnarled. Some lean at slight angles, while others stand stubbornly upright, their twig-like structures idle and quiet in the windless air.</p>
 <p>Nearby, a pair of scarecrows appear to have been mounted along two separate trees, bodies hewn of rough straw and weathered cloth clinging to twisted, low-hanging branches. Their painted sackcloth eyes seem almost mocking, and black raven's feathers poke from their stuffed guts.</p>
 <p>The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.</p>
 </div>
@@ -434,9 +468,9 @@ A player who approaches the wagon detects a faint scent of sulfur, and notices t
 >
 > If so, have all involved players roll initiative. (The first player is, of course, free to change their mind and cease their original action at any time.)
 
-A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made approximately three days before the players first arrived in Vallaki.
+A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
 
-A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately three days before the players first arrived in Vallaki. 
+A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
 
 If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
 
@@ -464,7 +498,7 @@ The two possible proper sequences are:
 
 Each time a button is pressed, its symbol glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
 
-A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 25 Strength check; on a failure, a stroke of lightning blasts out from the door in a straight line 100 feet long and 5 feet wide. Each creature in the line must make a Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one. (Triggering the lightning multiple times doesn't cause the door to collapse.)
+A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 25 Strength check; on a failure, a stroke of lightning blasts out from the door in a straight line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one. (Triggering the lightning multiple times doesn't cause the door to collapse.)
 
 If eight different symbols are pressed in an incorrect sequence, their lights briefly flicker, then go out again. The first time this happens, the griffon statues atop the tower roof—four disguised **gargoyles**—come to life and attack. The gargoyles fight to the death.
 ### 2. The Scaffolding
@@ -474,7 +508,7 @@ The scaffolding is as described in <span class="citation">V3. Rickety Scaffoldin
 ### 3. Inside the Tower
 <span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
 
-The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. However, the wooden box containing Yan's severed head has been removed from the tower.
+The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. However, the wooden box containing Yan's severed head has been removed from the tower. Additionally, the suit of armor is nonmagical and a functional suit of plate armor.
 
 A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the room reveals two clues:
 
@@ -490,28 +524,14 @@ As the players search the room, any character who looks out one of the windows t
 >
 > If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
 
-If read, the burned journal page now reads as follows:
+If read, the burned journal page now reads only as follows:
 
 <div class="description">
-<p>For nearly two decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.</p>
-<p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. I expect that those who think me a hero will change their minds when they know the whole truth about my life as a hunter of the unnatural. Nevertheless, I must reveal, here and now, the truth of my fate—and the fates of those I have loved.</p>
-<p>I have related the tragic story of how my only child Erasmus was taken by Vistani and sold to a vampire. I explained how Erasmus was made a minion of the night stalker, and how it was my miserable part to free him from that fate at the point of a stake. What I have neglected to illuminate before, however, is how I returned to track Erasmus's kidnappers once more across the land—and the terrible choice that I made when I found them.</p>
-<p>In fact, the Vistani took Erasmus with my own, unwitting permission. They had brought an ill member of their tribe to me one evening and insisted that I treat him—but I was unable to save the young man's life. In fear of their retribution, I begged the Vistani to take anything of mine if only they would withhold their terrifying powers, of which I knew nothing. To my lasting astonishment, they chose to surreptitiously take my son in exchange for their loss! By the time I realized what had occurred, they were already an hour gone.</p>
-<p>Incensed beyond reason, I strapped the body of the dead young man to my horse and doggedly followed the Vistani caravan through the woods, naively allowing the sun to set before me without seeking shelter from the night. But when I found them and demanded my son, they replied that he had been sold to the vampire, Baron Metus.</p>
-<p>A short time later, I found my dear Erasmus made into a vampire. He begged me to end his curse, which I did with a heavy heart. The darkness had torn him from my loving arms forever, and I foolishly believed that the curse had exacted its deadly toll. I wept until an insatiate desire for vengeance filled the bottomless rift in my heart. I set off into the twilight, in search of the Vistani caravan once more.</p>
-<p>When I found that they had gone, I found the grave of the man who had died and carried his corpse with me, in search of his family or one who could tear the secrets from his dead lips. I searched for many months, alone and driven by the fury of the damned.</p>
-<p>As I traveled, I was beset by undead that would have slain me, had not their master—a lich—intervened and spared my life, for reasons that I do not completely understand. He somehow detected me and, with his powerful magic, took control of a pack of zombies that wandered in the forest. He spoke to me through the mouths of the dead things and placed a magic ward against undead on me, then animated the dead Vistana and bade it tell me where I could find its people.</p>
-<p>Unfortunately (I say in hindsight), the plan worked. I found the child-stealers, and my unwelcome entourage included a growing horde of voracious undead that could not touch me, thanks to the lich's ward. When I finally found the caravan, something inside me snapped. I released the zombies, and the entire tribe was eaten alive.</p>
-<p>Yet the story had not yet ended. Before she died, the leader cursed me, saying, "Live you always among monsters, and see everyone you love die beneath their claws!" Even now, so many years later, I can hear her words with painful clarity, haunting me still.</p>
-<p>After nearly two decades of bloodshed and agony and loss, it slowly dawned on me that the Vistana’s curse had never slaked its thirst for revenge—and that all the true and stalwart friends I had come to know and lost were victims, not of ourtageous fortune, but of my own actions. True to the words of the dying Vistana, my life had been shielded from fate again and again, while those I esteemed above any treasure had taken my place!</p>
-<p>When the horrifying enormity of my revelation swept over me, I railed bitterly at the cruel irony of my life. I contemplated deliberately ending my wretched existence in the most violent of ways—but, thankfully, patience and wisdom stayed my hand. Drained of all spirit, I cast myself into bed and wept, as I had not done since my former, blissful life was forever ripped from me.</p>
-<p>But fate had not finished with me yet. When the dawn next came, it brought with it a man whose name invoked terror in me above all else: Arturi Radanavich, a sole survivor of the massacre I had perpetrated. Yet he came not to destroy me, but to heal me—and himself.</p>
-<p>I learned that, in commanding the death of his family, I had cast a deadly curse of my own: “Undead take you, as you have taken my son!” As my hands had been stained with the blood of my friends, so, too, had Arturi been pursued those many years by the walking dead, leaving him an exile in the eyes of his people.</p>
-<p>For one year, I traveled with him—learning the ways of the Vistani that I had come to hate, so that I could learn their ways and comprehend life through their eyes. When the year had ended, joy and despair filled my breath—joy at the realization that those I had dreaded as my longtime enemies had never truly been enemies at all, and despair for all the wasted years of bitter anger and resentment.</p>
-<p>I offered my life to Arturi as forfeit for my crimes against his family, insisting that he must consider my curse on his tribe null and void, for there was little left to forgive. He drew a knife from his boot—but instead of delivering judgment, pulled his blade across our palms, opening them, then clasped our hands together until our blood mingled as brothers.</p>
-<p>There was but one task left to complete. Together, we journeyed to the wreckage of the Radanavich caravan, where we both had left it so many years ago. We burned it, defending its blazing husk as undead fell upon us—and when dawn shone over the ashes, there was nothing left there, for them or for us.</p>
+<p>For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.</p>
+<p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.</p>
 </div>
 
+The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Arc B - Welcome to Barovia#Settling In|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
 # F7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
@@ -528,14 +548,14 @@ Zsolt warns the players that the road has become dangerous for travelers, and su
 
 <div class="description">
 <p>A light glints in Zsolt’s amber eyes. "There's been a tale echoing through these woods of late. A tale of a Vistana woman, a kind of phantom, who stalks the paths under the moon's gaze. They say she's not of this world, but from the realms of death itself.”</p>
-<p>He licks his lips. "She's said to be a frightful sight, with eyes that burn like embers in the darkness. They say she's clad in a patchwork of cloaks, like a wandering vagabond, but don't let that fool you. For in her hand, she carries a wicked blade—a weapon that thirsts for the blood of innocents.”</p>
+<p>He licks his lips. "She's said to be a frightful sight, with eyes that burn like embers in the darkness, and an iron leg that shrieks in the night. They say she's clad in a patchwork of cloaks, like a wandering vagabond, but don't let that fool you. For in her hand, she carries a wicked blade—a weapon that thirsts for the blood of innocents.”</p>
 <p>He chuckles lightly. "And oh, does her blade drink well! She's been butchering good folk in the woods, they say. Men, women—it matters not. Whip! goes her blade, and off come their heads, trophies for her dark desires.”</p>
 <p>He pauses, and his lips spread into a wolfish grin,  "But I'm sure we'll have naught to worry about with fine, strong folks like you on the roads. And besides—how deadly can a tale truly be?"</p>
 </div>
 
 When his story is complete, Zsolt playfully asks the players whether they have good steel to defend themselves, should the murderess find them upon the road. 
 
-If at least two characters show that they’re carrying silvered weapons or ammunition, the playful light fades from Zsolt’s eyes, and the playful light fades from Zsolt's eyes, replaced by a momentary glint of wariness. His grip tightens around his spear, and his gaze meets Mathilda's for a brief, near-imperceptible moment. He congratulates the players on entering the woods well-prepared, but the joviality in his voice has become hollow. Unless stopped or provided with a suitable excuse, Zsolt and Mathilda accompany the players in silence as far as the Luna River Crossroads, then depart south toward Berez.
+If at least two characters show that they’re carrying silvered weapons or ammunition, the playful light fades from Zsolt’s eyes, replaced by a momentary glint of wariness. His grip tightens around his spear, and his gaze meets Mathilda's for a brief, near-imperceptible moment. He congratulates the players on entering the woods well-prepared, but the joviality in his voice has become hollow. Unless stopped or provided with a suitable excuse, Zsolt and Mathilda accompany the players in silence as far as the Luna River Crossroads, then depart south toward Berez.
 
 Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack. 
 
@@ -574,7 +594,7 @@ Use the statblock below for the **werewolves**, rather than the one in the *Mons
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +4<br>
+<strong>Saving Throws</strong> Str +5<br>
 <strong>Skills</strong> Perception +4, Stealth +3<br>
 <strong>Senses</strong> darkvision, passive Perception 14<br>
 <strong>Languages</strong> Common (can't speak in wolf form)<br>
@@ -588,7 +608,7 @@ Use the statblock below for the **werewolves**, rather than the one in the *Mons
 <p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
 <p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
 <p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.</p>
+<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
 </div>
@@ -596,11 +616,11 @@ Use the statblock below for the **werewolves**, rather than the one in the *Mons
 In battle, the werewolves prioritize players wielding silvered weapons, if any. If one werewolf is killed or both are bloodied, they flee into the Svalich Woods.
 
 The players experience no other encounters on their journey to Vallaki.
-# F6c. Return to Vallaki
+# F8. Return to Vallaki
 When the players return, they can pursue their leads either by seeking out Rictavio at the Blue Water Inn, or by directly investigating Rictavio’s wagon in Arasek Stockyard. 
 
 As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
-## 1. Confronting Rictavio
+## F8a. Confronting Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
 If the players visit the Blue Water Inn first, they can learn from [[Non-Player Characters#Danika Dorakova|Danika]] that Rictavio recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where Rictavio has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
@@ -623,14 +643,14 @@ Van Richten can share the following information:
 If the players ask Van Richten about his arrival in Barovia or the revolt against Strahd, he can also share the following information:
 
 * When Van Richten first arrived in Barovia, he hoped to face Strahd alone, taking advantage of the vampire’s hibernation to destroy him in his coffin. 
-* His plans were foiled when an undead direwolf attacked a trio of Barovia children, and the resulting battle revealed his identity to the onlooking Doru.
+* His plans were foiled when an undead dire wolf attacked a trio of Barovia children, and the resulting battle revealed his identity to the onlooking Doru.
 * Doru blackmailed Van Richten into leading a full-scale revolt on the castle, threatening to bring an untrained mob to Ravenloft’s doors if Van Richten didn’t lead them there. Van Richten, fearful that such a mob could awaken Strahd and destroy his own plans, reluctantly agreed.
 * Shortly after entering the castle, however, they were betrayed. Escher, Doru’s “lieutenant,” vanished from the group as they explored the catacombs. Not long thereafter, the mob found Strahd’s coffin empty—and Strahd himself attacked shortly thereafter. Van Richten fled, knowing from his long studies of Strahd that victory was impossible. 
 * Upon escaping Castle Ravenloft and recovering his horse, Van Richten began the journey to warn the Barovians of the vampire’s awakening. However, he was stopped by the Vistani seer Madam Eva, who warned him: “The message you bring shall be born by another. Should you return to the village while light lingers in the valley, you shall surely meet your grave.” 
 * Knowing full well of Eva’s reputation, Van Richten reluctantly set forth for Lake Baratok instead, weeping bitter tears for the sons and daughters of Barovia. 
 
 If the players demand it, Van Richten agrees to bring them to his wagon at Arasek Stockyard to see Arabelle for themselves. Proceed to [[#F7c. Rictavio’s Wagon]] below.
-## 2. Following Rictavio
+## F8b. Following Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
 If the players follow [[Non-Player Characters#Rictavio|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
@@ -638,11 +658,13 @@ If the players follow [[Non-Player Characters#Rictavio|Rictavio]] to Arasek Stoc
 If the players confront him, Rictavio greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover, Rictavio’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
 
 If the players muster sufficient evidence of their good faith or succeed on a DC 15 Charisma (Persuasion) check, Rictavio sighs and commands the players to form a protective wall around the rear of the wagon. If the players antagonize Rictavio instead, or otherwise fail to convince him, a young girl’s voice quietly rings out from the wagon: “They mean me no harm. Please, open the door.”
-# F7c. Rictavio’s Wagon
-*This scene corresponds to Chapter 5: Area N5
+## F8c. Rictavio’s Wagon
+<span class="citation"><em>This scene takes place in Chapter 5: Area N5</em></span>
 
 Once the players or Arabelle have convinced him to do so, [[Non-Player Characters#Rictavio|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
 
+![[Arabelle.png]]
+### Meeting Arabelle
 Unless diverted by the players, the conversation unfolds as follows:
 
 * Arabelle greets the players warmly, thanks them for their efforts to find her, and shares her regret for the wounds they have sustained along the way. 
@@ -658,7 +680,7 @@ During this conversation, Van Richten can also reveal the following information 
 * Van Richten and Arabelle then traveled to Vallaki, with Van Richten adopting the identity of Rictavio to hide in plain sight. Arabelle has remained concealed in his wagon ever since.
 * While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. 
 * As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
-
+### Arrigal's Arrival
 As the conversation draws to a close, [[Non-Player Characters#Arrigal|Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the conversation, it proceeds as follows: 
 
 * Arrigal thanks Van Richten for the “fascinating story,” thanks the players for their “aid and guidance,” and commands Arabelle to exit the wagon and return with him.
@@ -678,7 +700,7 @@ Van Richten asks the following five questions and receives the following five an
 * How did you die? *A man’s sword cut my head from my shoulders.*
 
 Arrigal is shaken by Yan’s apparent testimony, but not entirely convinced—until Arabelle speaks up to confirm Van Richten’s story, calmly reporting that Yan kidnapped her, that Van Richten rescued her, and that she overheard Yan asking another man whether “Castle Ravenloft” would pay its debts in exchange for the “whelp’s delivery” before hearing the exchanging of coins shortly thereafter.
-
+### Brokering an Agreement
 Van Richten is unwilling to allow Arrigal to take Arabelle back to the Vistani encampment. However, Arrigal is unwilling to allow Van Richten to keep Arabelle hidden in Vallaki, away from her family. It is up to the players to broker an agreement between them.
 
 As they do, keep the following interests in mind:
@@ -691,11 +713,11 @@ Because neither Van Richten nor Arrigal will concede any of these priorities; th
 
 When a final agreement is reached, Arabelle places a small hand on one of the players’ arms and softly thanks them for their efforts. If the players do not intervene, she then steps forward and takes Van Richten’s hand in hers. The following sequence then unfolds:
 
-* Arabelle thanks Dr. Van Richten for helping him, and informs him that he’s a good man—a sentiment that his son agrees with.
+* Arabelle thanks Dr. Van Richten for helping her, and informs him that he’s a good man—a sentiment that his son agrees with.
 * The blood drains from Van Richten’s face, and he sways on his feet, as though he’s about to faint. “My son?” he croaks.
 * Arabelle pats the back of Van Richten’s hand, and tells him that his son has been keeping her safe in the wagon. She promises him that his son loves him very much, and shares her belief that he has been keeping Van Richten safe as well. (Van Richten quietly thanks her, now resembling a weary old man far more than a veteran monster hunter.)
-
-A few moments later, Arabelle staggers, her eyes rolling back into her head, and the whites of her eyes becoming the color of storm clouds. When she speaks, her voice seems to echo with the sound of a second, far older woman’s voice as she delivers the following prophecy:
+### Arabelle's Prophecy
+A few moments later, Arabelle staggers, her eyes rolling back into her head as the whites of her eyes become the color of storm clouds. When she speaks, her voice seems to echo with the sound of a second, far older woman’s voice as she delivers the following prophecy:
 
 <div class="description" style="text-align: center;">
 <p>In darkest night, the light shall flee,</p>
@@ -718,7 +740,7 @@ Van Richten is troubled by Arabelle’s prophecy, and the resemblance it bears t
 >
 > _Wondrous item, rare (requires attunement)_
 >
-> This talisman has 4 charges. While holding it, you can use an action to spend 1 of its charges to cast the _gentle repose_ spell, or 2 of its charges to cast the _speak with dead_ spell.
+> This talisman has 4 charges. While holding it, you can use an action to spend 1 of its charges to cast the _gentle repose_ spell, or 2 of its charges to cast the _speak with dead_ spell. (The spell *speak with dead* isn't affected by the spell's ordinary ten-day limit when cast in this way.)
 >
 > The talisman regains 1d4 expended charges daily at dawn. If you expend the talisman's last charge, roll a d20. On a 1, the talisman crumbles into ashes and is destroyed.
 

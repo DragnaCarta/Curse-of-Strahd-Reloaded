@@ -1,3 +1,103 @@
+# Version 2.0.5 (Dec. 13, 2023)
+**General Changes**
+* Changed unique monster spells to use in-line "lambda" spellcasting formatting  
+* Added new artwork by artist Caleb Cleveland  
+* Merged Act IV into Act III  
+* Fixed assorted typos
+* Added [[Arc K - The Stolen Gem]], the first half of [[Arc L - The Fallen Abbey]], and the beginning of [[Arc P - Dinner with the Devil]].
+
+**[[Introduction]]**
+* Clarified that monsters do not award XP  
+* Clarified that RAW is inapplicable except where expressly incorporated  
+
+**[[History of Barovia]]**
+* Added new lore regarding the Dreamer/Devourer  
+* Modified Van Richten's history to restore his curse and Arturi Radanavich's curse and remove his time spent traveling with Arturi  
+* Moved King Dostron's invasion to take place in Kavan's old age  
+
+**[[Arc A - Escape From Death House]]**
+* Allowed Rose and Thorn to aid the players in bypassing Gustav  
+* Made Waltz for Klara open the first half of the secret door in the library  
+* Removed the deed from the chest in the secret room and moved the will to Gustav's desk in the library.  
+
+**[[Arc B - Welcome to Barovia]]**
+* Decreased Dalvan's tally marks to thirteen  
+* Clarified the behavior of Dalvan's compass  
+* Delayed the players' arrival in the village of Barovia to dusk  
+* Added new descriptive text for the players' arrival in the village  
+* Expanded the players' first meeting with Ismark and Mary, including an encounter with Bildrath  
+* Changed Gertruda's intended destination from Castle Ravenloft to Vallaki  
+* Added periscope peephole to Ismark and Ireena's door (for vampire detection)  
+* Added excerpt from *Van Richten's Guide to Vampires* in the players' bedroom in the mansion  
+* Allowed Ireena to attend Kolyan's funeral  
+* Allowed Doru's fangs to retract upon passing the players' test  
+* Clarified that Doru doesn't fight in self-defense  
+* Clarified the point at which the players learn the identity of the vampire who bit Ireena  
+
+**[[Arc C - Into the Valley]]**
+* Rebalanced the **zombie plague spreader** to avoid nova turns  
+* Removed Escher's scar  
+* Revised the consequences for disrespect toward Strahd  
+* Added a new sub-scene if a player challenges Strahd to a fight  
+* Gave strix vulnerability to fire and reduced the size of a **greater strix**  
+* Added new opportunities for Muriel to use her ***mimicry*** feature.  
+* Added a new reading and location for the *Tome of Strahd*  
+* Clarified Morgantha's response if the players attempt to enter her home  
+* Added Morgantha's response if the players detect her fiendish nature  
+* Clarified the locations of the wolves attacking the party  
+* Clarified Muriel's destination upon entering Vallaki  
+* Revised the Vallakian guards' test to "confirm" the players' freedom from lycanthropy  
+* Revised the players' first night at the Blue Water Inn, including Rictavio's story  
+* Added an additional scene with Rictavio on their first morning at the Blue Water Inn  
+* Increased the milestone XP for the burgomaster's burial and arrival in Vallaki  
+
+**[[Arc D - The Tome of Strahd]]**
+* Moved the Tome of Strahd to the possession of the **gallows speaker** Leo Dilisnya in the Ethereal Plane  
+* Added an additional paragraph at the end of the *Tome of Strahd*  
+
+**[[Arc E - St. Andral's Feast]]**
+* Added new scenes with Henrik and Milivoj when the players first arrive at St. Andral's Church  
+* Added a new lore box detailing the theft of the bones  
+* Changed Milivoj's knowledge of the bones to come from eavesdropping rather than asking Yeska  
+* Clarified Ireena generally remains in the church from dusk until dawn  
+* Changed Lucian to accompany the players to Milivoj's home  
+* Clarified that breaking down Henrik's door doesn't wake Volenta up  
+* Clarified how Volenta obtained her noisemaker trap  
+* Added a new post-arc scene with Rahadin, Milivoj, and Henrik  
+
+**[[Arc F - The Missing Vistana]]**
+* Reworked Rictavio's timeline to arrive on the morning of the players' arrival in Vallaki  
+* Clarified what happens if the players attempt to track Arabelle from the site of her kidnapping  
+* Removed Victor's decision to share information about Stella.  
+* Added a broken stone monument to the Dreamer near Szoldar's shack.  
+* Added Ezmerelda's metal leg to Zsolt's story  
+* Clarified Van Richten can't see Erasmus's ghost  
+* Truncated the text of Van Richten's journal entry  
+* Added Arabelle's wasting sickness to provide a time limit  
+
+**[[Arc G - Lady Wachter's Wish]]**
+* Added lore sidebar regarding Ezra  
+* Clarified how Lady Wachter reacts if the players request tea before receiving an invitation  
+* Clarified Izek retains the Poisoned condition upon changing forms  
+* Clarified Lady Wachter allows the Vistani to enter the town  
+* Added additional silver for weapons to Lady Wachter's reward  
+
+**[[Arc H - The Strazni Siblings]]**
+* Added an Ireena visit to the Blue Water Inn the morning after IZek's attack  
+* Clarified the Izek kidnaps Ireena while the players are away  
+* Added an ending in which Izek hides Ireena in the wicker sun on the morning of the Festival of the Blazing Sun, allowing her to burn alive if the players don't rescue her  
+* Added a reminder box regarding surprise mechanics in the fight with Izek  
+* Gave Ireena a dagger to escape her bindings if rescued from the mansion  
+* Reduced Izek's damage to match recalibrated numbers  
+
+**[[Arc I - The Lost Soul]]**
+* Delayed the arc to trigger on the night of the first day after the players reach 5th level.  
+* Changed Franz's nurse to be his sister and the caretaker for his children upon their return  
+* Revised Franz's story to be more sympathetic.  
+* Required Fiona to deactivate the protective circle to allow Victor to enter the Ethereal Plane  
+
+**[[Arc J - The Walls of Krezk]]**
+* Added a scene in which the Abbot cures the players' lycanthropy by Krezk's blessed pool
 # Version 2.0.4 (Aug. 23, 2023)
 * Added [[Arc D - The Tome of Strahd]], [[Arc E - St. Andral's Feast]], [[Arc F - The Missing Vistana]], [[Arc G - Lady Wachter's Wish]], [[Arc H - The Strazni Siblings]], [[Arc I - The Lost Soul]], [[Arc J - The Walls of Krezk]], and the [[Amber Shards]] appendix
 * added all-new splash art by artist Caleb Cleveland

@@ -35,10 +35,73 @@ The church's occupants follow the following schedule unless interrupted:
 > ***Morale.*** In a fight, Father Petrovich would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
 >
 > ***Relationships.*** Father Petrovich is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
-## E1a. Meeting Father Lucian
+
+> [!lore]+ **The Stolen Bones**
+> Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
+ >
+> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+> 
+> When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
+> 
+> It was a dark and windy night when Volenta paid a visit to Henrik van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely Henrik a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
+> 
+> A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in Castle Ravenloft's dungeons. Using that link, she summoned two feral **vampire spawn**—former members of Doru's rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
+> 
+> A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
+> 
+> Given his profession, Henrik had encountered Milivoj - the church's groundskeeper - on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
+> 
+> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer.     St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
+> 
+> Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Petrovich would be loathe to surrender such a relic, even though their only true value was sentimental.
+> 
+> That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Petrovich or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen Izek Strazni entering the church, so perhaps those legends have lost their luster for good cause, eh?")
+> 
+> Milivoj, eager to secure funds to care for his siblings, was easily convinced to steal those "moldy old relics" and soon agreed to Henrik's offer. He knew Yeska, a recent orphan, was a timid and fearful child who looked to Father Petrovich for safety and comfort. Though he couldn't escape the guilt he felt for leveraging the boy's fear, Milivoj decided that a few nights of Yeska's nightmares were a worthy price to pay to ensure his own family had food to eat.
+> 
+> Six days later, shortly before Yeska's lessons with Father Petrovich, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
+> 
+> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Petrovich revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with a crowbar in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
+> 
+> But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Petrovich emerged to block the exit. Without recognizing him, Father Petrovich demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
+> 
+> Yeska doesn't yet know that the bones were stolen. Instead, Father Petrovich told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, Father Petrovich sent Yeska to Henrik's shop to obtain planks and nails for the repair, which Henrik delivered personally to scope out whether Lucian suspected his involvement.
+> 
+> Father Petrovich doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Petrovich has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
+## E1a. Entering the Church
+When the players first move to enter the church, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
+
+Whether the player succeeds or fails, the near-impact makes Henrik trip, sending him tumbling to the ground. As he does, he loses his hold on a bundle of nails and planks held in his arms, which scatter across the stairs and earth below. The farsighted Henrik also loses his pair of half-cracked spectacles in the fall, which land across the steps a short ways beneath him.
+
+The players can help Henrik collect his glasses, nails, and planks as he scrambles helplessly to find them. If they do, he thanks them profusely, dabbing at his face and hands with a slightly soiled handkerchief. He is willing to share the following information if directly asked:
+
+* His name is Henrik van der Voort, and he is Vallaki's resident coffin-maker and occasional carpenter.
+* Father Petrovich asked him to visit to deliver some tools and supplies to repair some damage to the floor caused by a falling tree branch the previous night.
+* His shop can be found at the south end of Arasek Stockyard. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
+
+Henrik then excuses himself and departs to return to his shop.
+## E1b. The Chapel
+When the players first enter this area, read:
+
+<div class="description">
+<p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance.  Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
+
+<p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
+</div>
+
+The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
+
 When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
 
-If informed that Ireena is seeking sanctuary in the church from Strahd or other monsters, Father Petrovich first ensures that no other congregants are present—shooing away Yeska if present—and swears the players to secrecy.
+After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Petrovich. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
+
+* Upon noticing the players, Milivoj immediately scowls, and asks, "Father, are these outsiders bothering you? I can ask them to leave."
+* If the players say nothing, Father Petrovich chides Milivoj, noting that, "In these dark times, it's never been more important to be hospitable to others."
+* If rebuffed, Milivoj retorts: "You can't be too sure about strangers. I thought the town gates were supposed to be closed. They could be vampires, or worse." He then glowers at the players, and asks, "Unless you have some way of proving that you're not?"
+
+Milivoj is eager to prevent further investigation of the church, and hopes to persuade Father Petrovich to drive the players away. However, he's not willing to look suspicious, and drops the issue if the players or Father Petrovich push back. "You can't be too careful," he mumbles. "Be safe, Father." He then departs.
+
+Once Milivoj leaves, if Father Petrovich is informed that Ireena is seeking sanctuary in the church from Strahd or other monsters, he first ensures that no other congregants are present—shooing away Yeska if present—and swears the players to secrecy.
 
 If the players agree not to spread his words beyond the church, Father Petrovich sorrowfully informs them that, while he would love nothing more than to extend Ireena an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
 
@@ -47,22 +110,37 @@ If the players agree not to spread his words beyond the church, Father Petrovich
 * Originally, only Father Petrovich knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
 * To retain the church's protection, Father Petrovich must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
 * If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
-* Last night, someone broke into the church's crypt and stole St. Andral's bones. Without them, Father Petrovich can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
+* Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Petrovich can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
 * Father Petrovich is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Petrovich fears that the town is not as safe as it appears.
 
-Father Petrovich can also share the date of St. Andral's Feast, which will take place on the fourth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>.
-
-Father Petrovich does not know that Yeska has told anyone of the bones' existence, and firmly believes that the boy would not be capable—physically or otherwise—of stealing them. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
+Father Petrovich can also share the date of St. Andral's Feast, which will take place on the fourth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
 
 If the players express an interest in doing so, Father Petrovich is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
 
 If the players ask for the identities of other possible witnesses, Father Petrovich notes that the only other employee of the church is the groundskeeper, Milivoj. However, Milivoj hasn’t come into work today. Father Petrovich can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
 
-Before allowing the players to begin their investigation, Father Petrovich asks them to promise to retrieve him as soon as they learn of the bones' location. He takes personal responsibility for their disappearance, and—given his connections across the town and his service to the Morninglord—wishes to assist the players in recovering them if necessary.
-## E1b. The Scene of the Crime
-[[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] is glad to lead the players to the location of the crypt if prompted. The players can inspect the replaced floorboards behind the altar for clues, and Father Lucian will also reluctantly allow them to pry up the floorboards again if they want to investigate the crypt itself.
+Father Petrovich accompanies the players as they complete their investigation, answering additional questions when asked. If the players' investigation takes them beyond the church, he insists on joining them and asks Yeska to attend the chapel in his absence. (He takes personal responsibility for the bones' disappearance, and—given his connections across the town and his service to the Morninglord—wishes to assist the players in recovering them.)
 
-The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)</span>, lying beneath the chapel's altar and concealed by the chapel floorboards. The interior of the crypt is a dark and damp chamber, its walls made of rough-hewn stone blocks that are stained with age and moisture. Its center contains a small stone slab, which held the bones until recently.
+While accompanying the party, Father Petrovich fights alongside them, but allows the players to take the lead in social encounters and exploration.
+
+> [!warning]+ **Father Petrovich's Aid**
+> Without Father Petrovich's assistance—and, specifically, the damage output and radiant damage provided by his *spirit guardians* spell and ***divine eminence*** feature—the battle at the coffin-maker's shop in [[#E4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
+## E1c. The Scene of the Crime
+[[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] is glad to lead the players to the location of the crypt if prompted. Read:
+
+<div class="description">
+<p>A small pile of fresh wooden boards rests against the altar, a small pouch of nails sitting atop their surface. Not far away, the old wooden floorboards behind the crypt have been pried up and broken, with splintered edges jutting out at odd angles. Between them, a small, dark opening descends into a dark, dusty space.</p>
+</div>
+
+The fresh boards and nails were delivered by Henrik. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
+
+The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
+
+<div class="description">
+<p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
+</div>
+
+The slab held the bones until Milivoj stole them.
 
 The players can find the following information by investigating the area around the crypt:
 
@@ -76,7 +154,7 @@ The fabric was torn from Milivoj's shirt as he lowered himself down, and the rus
 The clumps of earth were left when Milivoj's boots hit the floor of the crypt. Father Lucian can inform the players that the petals are from the ramson plant, which grow in several patches in the church graveyard.
 
 The hair is Milivoj's.
-## E1c. Interviewing Yeska
+## E1d. Interviewing Yeska
 If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger.
 
 If one of the players asks Yeska whether he has told anyone else about the bones and makes a successful DC 10 Charisma (Persuasion) check, he admits to telling Milivoj about the bones three days ago. If the players first tell Yeska that the bones have been stolen, however, the DC increases to 15, and Yeska begins to cry upon admitting his actions.
@@ -135,7 +213,7 @@ If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Chari
 
 If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
 
-If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." 
+If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
 
 > [!abstract]+ **Milivoj’s Revelation**
 >
@@ -144,7 +222,7 @@ If informed that the bones may have been stolen to allow an attack upon the chur
 # E3. Return to the Church
 Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Petrovich—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
 
-If the players suggest reporting the theft of the bones to the burgomaster, Father Petrovich is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Petrovic with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
+If the players suggest reporting the theft of the bones to the burgomaster, Father Petrovich is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Petrovich to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Petrovich with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
 > [!abstract]+ **Reporting the Theft**
 >
@@ -162,10 +240,10 @@ If one of the players expresses an interest in breaking into the wagon, [[Non-Pl
 If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
 
 If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc F - The Missing Vistana]].)
-# E4. Coffin Maker's Shop
+# E5. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
 
-The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in **N6f. Vampire Nest** now contain only two **vampire spawn**, as well as **Volenta Popofsky**, one of Strahd's vampiric brides.
+The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in **N6f. Vampire Nest** have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides.
 
 Henrik van der Voort, the coffin maker, follows the following schedule:
 
@@ -174,18 +252,18 @@ Henrik van der Voort, the coffin maker, follows the following schedule:
 * In the afternoon, he builds coffins in **N6c. Workshop**.
 * In the evening, he prepares an evening meal in **N6d. Kitchen**.
 * At night, he sleeps in **N6e. Henrik's Bedroom.**
-## E4a. Entering the Shop
+## E5a. Entering the Shop
 The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**. 
 
 Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
 
-* They can break down one or both of the barred doors with a successful DC 20 Strength (Athletics) check. Doing so alerts Henrik, who comes to confront them.
+* They can break down one or both of the barred doors with a successful DC 20 Strength (Athletics) check. Doing so alerts Henrik, who comes to confront them. (Doing so doesn't alert Volenta or the **vampire spawn**, who merely assume Henrik has dropped a coffin or other wooden object.)
 * They can use magic (e.g., *mage hand* or *misty step*) to open the windows or doors from the inside. Doing so avoids alerting Henrik, who remains in his current location.
 
 In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **N6. Coffin Maker's Shop**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
 
 Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
-## E4b. Recovering the Bones
+## E5b. Recovering the Bones
 The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
 * a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
@@ -196,7 +274,10 @@ The poison needle trap can be identified and disarmed as described in the <span 
 The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
 
 Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
-## E4c. Volenta's Trap
+
+> [!lore]+ **The Noisemaker**
+> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+## E5c. Volenta's Trap
 If the players allow the bell to ring, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
 ![[Volenta Popofsky.png]]
 > [!profile]+ **Profile: Volenta Popofsky**
@@ -218,7 +299,12 @@ If the players allow the bell to ring, [[Non-Player Characters#Volenta Popofsky|
 >
 > ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
 
-Volenta uses the two vampire spawn with her as cover, placing them between her and the players. After briefly taunting the players, she playfully notes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
+Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
+
+* Volenta addresses the players as "her Lord's new toys" with amusement and disbelief.
+* She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "Ludmilla, Anastrasya, or her Lord's skinny new plaything could hold a handle to her vision." (The "skinny new plaything" is referring to Escher.)
+* She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
+* She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
 <div class="statblock">
 <h2>Volenta, First Form</h2>
@@ -271,7 +357,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
 <p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
 <p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire and hurls it at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
+<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
 </div>
 <br>
 <div class="statblock">
@@ -362,16 +448,204 @@ If any of the players are reduced to 0 hit points, Father Petrovich spends his a
 > However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Petrovich, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
 ### 3. The Vampire Spawn
 The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn are prepared to fight to the death, but retreat with Volenta if she does.
-# E5. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn of the fifth day after the players arrived in Vallaki, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Volenta’s attack is averted, and the celebration of St. Andral’s Feast begins without a hitch.
+# E6. Retrieving the Bones
+If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn of the fifth day after the players arrived in Vallaki, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc K - The Stolen Gem]].
 
-**_Milestone_**. Restoring the bones of St. Andral completes a story milestone. If the church is successfully reconsecrated, award each player 1,250 XP. 
+**_Milestone_**. Restoring the bones of St. Andral completes a story milestone. If the church is successfully reconsecrated, award each player 1,250 XP.
+# E7. Rahadin's Visit
+At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc G - Lady Wachter's Wish]] or following [[Arc H - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
+## E7a. The Invitation
+Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc P - Dinner with the Devil]], before departing.
 
-> [!abstract]+ **A Peaceful Recovery**
->
-> If the players recover the bones of St. Andral without alerting or defeating Volenta and her **vampire spawn**, Volenta is enraged by Henrik’s failure to stop them and humiliated by her plan’s failure. That same night, she uses her **_alchemist’s firebomb_** to burn down the shop, causing a fire that also damages two nearby warehouses before it’s extinguished.
->
-> If Henrik still dwells within the shop, Volenta spirits him away to Castle Ravenloft. There, she locks him in a cage in **K76. Torture Chamber** and visits painful torments upon him each night as punishment for his betrayal.
+Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Petrovich, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
+## E7b. The Trial
+When the players arrive in the town square, which is largely as described in <span class="citation">N8. Town Square (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Petrovich, who stands at the base of the platform.
+
+On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing seven younger siblings, described further in [[#E2. Milivoj’s House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
+
+Father Petrovich and Milivoj's siblings are grateful to see the players upon their arrival. Father Petrovich asks the players to help "stop this madness," noting quietly that Milivoj may have made mistakes, but hardly ones deserving of death.
+
+If confronted, Rahadin can coldly share that Milivoj and Henrik have been found guilty of crimes against Vallaki and its people.
+
+If the players demand to know which crimes Milivoj and Henrik have committed, or at another suitable point during the proceedings, the crowd parts as Lady Fiona Wachter arrives, flanked by four **guards** and two **cultists**. Lady Wachter then demands Rahadin inform her of Milivoj and Henrik's crimes. "If the servants of Castle Ravenloft presume to commandeer my guards without my knowledge or permission," she fumes, "I have that right, at least."
+
+Rahadin then reads aloud the following proclamation:
+
+<div class="description">
+<p>I, Strahd von Zarovich, Lord of Barovia, hereby find Henrik van der Voort of Vallaki GUILTY of the following charges: conspiracy to commit burglary; conspiracy to commit theft; accessory to theft; and receiving stolen property.</p>
+
+<p>I further find Milivoj of Vallaki GUILTY of the following charges: trespassing, destruction of property, conspiracy to commit burglary, burglary, and theft.</p>
+
+<p>It is therefore ordered that each receive suitable punishments as befitting the circumstances and nature of their crimes, to be determined and carried out by the Chamberlain of Castle Ravenloft with all reasonable haste.</p>
+</div>
+
+The proclamation is signed and sealed by Strahd.
+
+As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicteds' favor, presenting mitigating circumstances that alleviate the severity of their transgressions. (Lady Wachter will take no action to bar Strahd's justice, but supports the players in their efforts if friendly toward them.)
+
+Should the players do so, Rahadin plays the role of an adversarial and cold-hearted judge, pushing back against their responses and probing at the hole in their reasoning. The players might argue the following mitigating circumstances:
+
+* **Henrik:** Henrik committed his crimes subject to coercion and duress by Volenta, an ostensible agent of Strahd himself. Henrik is also unlikely to commit his crime again, has no criminal history, and committed no violent act against any person. Additionally, Henrik cooperated with the players when confronted at the coffin-maker's shop.
+* **Milivoj:** Milivoj's actions were driven by the necessity of his family's poverty, rather than by malice. He was also ignorant of the implications of stealing the bones, and was manipulated by Henrik into doing so. Like Henrik, he has no criminal history and committed no violent act against any person.
+
+The players can also argue that either character has shown sincere remorse for their actions.
+
+When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check to attempt to convince Rahadin to decresase Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
+
+The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows:
+
+* DC 5: Rahadin agrees to a heavy sentence.
+* DC 10: Rahadin agrees to a moderate sentence.
+* DC 15: Rahadin agrees to a light sentence.
+* DC 20: Rahadin agrees to free Henrik without punishment.
+
+The difficulty of convincing Rahadin to decrease Milivojs sentence is as follows:
+
+* DC 5: Rahadin agrees to an extreme sentence.
+* DC 10: Rahadin agrees to a severe sentence.
+* DC 15: Rahadin agrees to a heavy sentence.
+* DC 20: Rahadin agrees to a moderate sentence.
+
+Once the players have convinced Rahadin to decrease a prisoner's sentence, he then invites the players to suggest a suitable sentence. If the sentence they suggest is too light, he informs them and counters with an alternative suggestion of his own.
+
+Suitable punishments for each sentence include:
+
+* **Extreme.** Life imprisonment in Castle Ravenloft. (Rahadin takes the prisoner to the castle dungeons.)
+* **Severe.** Mutilation. (Rahadin removes the prisoner's dominant hand.)
+* **Heavy.** Branding. (Rahadin commands a guard to retrieve and light a torch, which he uses to heat an iron signet ring that bears the image of Castle Ravenloft—the symbol of his office. He then uses the hot ring to brand the prisoner on the neck.)
+* **Moderate.** Flogging. (Rahadin commands a guard to fetch a whip, then delivers the agreed-upon number of lashes himself.)
+* **Light.** A fine. (Rahadin directs the prisoner to pay a fine of the agreed-upon sum, to be paid to the town coffers. If the prisoner cannot afford to pay it, Rahadin also sentences him to forced labor in the town's service until he has paid off his debt.)
+
+Rahadin does not deliver any sentence until all have been agreed upon. If the players prove intransigent or appear to be stalling, Rahadin warns them that his patience is not infinite, and that he will choose and proceed with a suitable sentence unless the players can provide new evidence—not new arguments—mitigating the severity of the prisoners' crimes. "If any person interferes," he warns, "I will not hesitate to incapacitate them. I answer to none but the master of Castle Ravenloft, and you will not obstruct the exactment of justice this night."
+
+If the players appear horrified by Rahadin's chosen sentence, he coldly reminds them that the prisoners have been found guilty of conspiring to steal from a holy church. "My lord's subjects often claim he lacks appreciation for the sacred," he says. "It seems, perhaps, that he is the only one with any appreciation at all."
+
+If any players attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
+
+Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ once more and departs Vallaki for Castle Ravenloft.
+
+<div class="statblock">
+<h2>Rahadin, Castle Chamberlain</h2>
+<em>Medium humanoid (elf), lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 18 (studded leather)
+<br>
+<strong>Hit Points</strong> 285 (38d8 + 114)
+<br>
+<strong>Speed</strong> 35 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14 (+2)</td>
+      <td>22 (+6)</td>
+      <td>17 (+3)</td>
+      <td>15 (+2)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +11, Wis +7<br>
+<strong>Skills</strong> Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 16<br>
+<strong>Proficiency</strong> +5<br>
+<hr>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
+- 3/day: phantom steed<br>
+- 1/day: nondetection</p>
+<p><strong><em>Mask of the Wild.</em></strong>Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his <strong><em>saber</em></strong> or two attacks with his <strong><em>poisoned darts</em></strong>.
+<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. <em>Hit:</em> 10 (1d8 + 6) bludgeoning damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 8 (1d4 + 6) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is also poisoned until the start of Rahadin's next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure or half as much on a success.</p>
+<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure or half as much on a success. </p>
+<h3>Reactions</h3>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn.</p>
+<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make a <strong><em>saber</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Misty Step.</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
+<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 16 (3d10) psychic damage on a failure or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+</div>
+
+<br>
+
+<div class="statblock">
+<h2>Rahadin, Kinslayer</h2>
+<em>Medium humanoid (elf), lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 18 (studded leather)
+<br>
+<strong>Hit Points</strong> 285 (38d8 + 114)
+<br>
+<strong>Speed</strong> 35 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14 (+2)</td>
+      <td>22 (+6)</td>
+      <td>17 (+3)</td>
+      <td>15 (+2)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +11, Wis +7<br>
+<strong>Skills</strong> Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 16<br>
+<strong>Proficiency</strong> +5<br>
+<hr>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>shrieking souls</em></strong> feature.
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin must succeed on a DC 17 Wisdom saving throw, taking 16 (3d10) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also Dazed until the start of Rahadin's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<h3>Reactions</h3>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn.</p>
+<p><strong><em>Vengeful Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong>. This movement doesn't trigger opportunity attacks.</p>
+<p><strong><em>Disarm (2 reactions).</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Misty Escape.</em></strong> When Rahadin takes damage while at 80 hit points or fewer, he can use his reaction to cast <em>fog cloud</em> at 4th level. He can then immediately take the Hide action and move up to his speed without triggering opportunity attacks.</p>
+</div>
 
 # Design Notes: St. Andral's Feast
 ***St. Andral's Church.*** The original module's requirement that one of the players be a cleric or paladin to receive this quest has been removed to make it more accessible. 
