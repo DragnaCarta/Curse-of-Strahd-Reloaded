@@ -50,6 +50,13 @@ If the players received the location of Van Richten’s hidden weapons cache fro
 
 The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys. The sixth figure is a **zombie plague spreader** (*Van Richten’s Guide to Ravenloft*, p. 255) created by Strahd, and the former leader of the undead siege. (Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.)
 
+> [!combat]- **Balancing the Zombies**
+> This combat encounter is an **oppressive** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 86% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of zombies to one.
+> * ***Four Players.*** Reduce the number of zombies to three.
+> * ***Six Players.*** Increase the number of zombies to seven.
+
 > [!design]- **Design Note: The Plague Spreader**
 > The original **zombie plague spreader** is a "glass cannon." Although it has a Challenge Rating of 4, it has an underlying "Offensive Challenge Rating" of 7 (due to the high damage of its multiattack and ***virulent miasma***) and "Defensive Challenge Rating" of 1/2 (due to its low Armor Class). This creates a high risk of a "swingy" combat," in which the players either kill the plague spreader before it deals notable damage or die to its high damage output before they can kill it.
 > 
@@ -226,6 +233,13 @@ The **greater strix** uses the statistics of a **manticore**, but is Medium and 
 ![[Greater Strix.png]]
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
+> [!combat]- **Balancing the Strix**
+> This combat encounter is an **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the greater strix’s HP to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's HP to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (2d4) piercing damage if it has half its hit points remaining or fewer.
+> * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
+> * ***Six Players.*** Increase the number of swarms of lesser strix to three.
+
 These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players if they obstruct it. It fights to the death.
 
 > [!warning]+ **Don't Hurt Ireena**
@@ -354,12 +368,10 @@ Madam Eva then asks the players if they would like their fortunes read, and prod
 <div class="description"><p>Madam Eva’s voice is a low hiss as she speaks, her silhouette dancing in the flickering candlelight. "A shadow is approaching my tent: a lone servant of Darkness. They seek knowledge of your future—secrets that I am sworn never to reveal to any but their keepers. </p>
 <p>“Do not look, child, nor rush to greet them; if they learn the import of what we have discussed, all may be lost. Do not reveal, even, that you know of their true nature, for their master will know that I have told you, and his wrath will descend upon us all. I will read the cards as swiftly as I dare before they arrive, and you will listen closely, for I shall never again repeat what they say. Are you ready?"</p></div>
 
-> [!warning]+ **Placing the Tome**
-> Don't forget to choose the location of the *Tome of Strahd* before delivering the reading. (The card the players receive will change depending on the location you choose. See the reading below for more information.)
-
 If the players respond affirmatively, read the following text, choosing the appropriate descriptions and narration where appropriate:
 
-<div class="description"><p>Her old hands working deftly, the ancient seer removes fourteen cards from the top of the deck, setting them aside. The remaining cards, she shuffles nimbly twice, three times, four.</p>
+<div class="description">
+<p>Her old hands working deftly, the ancient seer removes fourteen cards from the top of the deck, setting them aside. The remaining cards, she shuffles nimbly twice, three times, four.</p>
 <p>Madam Eva sets both decks upon the surface of the velvet table. Closing her eyes, she places her right hand over the surface of the larger deck. The crimson flames dim and swirl in eldritch patterns as her lips move silently, a distant tension spreading through the air. The sounds of the rustling trees and rippling pool beyond the tent's walls begin to dim, the external world growing mute and insubstantial as the space within grows more solid—more real.</p>
 <p>Slowly, reverently, the crone draws three cards from the top of the deck, laying them face down separately on the table, with the second laid between and above its partners. She then moves to the smaller deck, drawing two more cards. The first, she places below the first three, forming a cross. The second, she places in the center.</p>
 <p>The lights of the candles sway like silhouettes, leaning in toward the cards like anxious watchers—yet the air in the tent is perfectly still. No light intrudes through the seams in the tent's walls; no voice rings out in the silence. Shadows and mist swirl at the boundaries of the tent, where the darkness of deepest night dwells—but here, at its center, light yet reigns.</p>
@@ -465,7 +477,7 @@ Give the players a few minutes away from the table to plan out their stories bef
 >
 > The cursed have two paths: they may resist the beast within or embrace it. Those who resist bear unending strain—until the rising full moon triggers a compulsory and horrific transformation. These individuals often experience bloody, haunting dreams: echoes of the carnage wrought in their madness.
 >
-> Some twisted souls, however, choose to accept their beastly nature. With time, they can master their abilities, calling upon the wolf's resilience and strength as they will. To do so, however, they must first perform a gruesome act: to murder another and consume their flesh.
+> Some twisted souls, however, choose to accept their beastly nature. With time, they can master their abilities, calling upon the wolf's resilience and strength as they will. To do so, however, they must first perform a particular gruesome and foul act—one which I will decline to describe in these pages.
 >
 > One sure way to identify an afflicted individual is the presence of a perpetually raw, bloody wound: the scar of the initial curse transmission. This wound never fully heals until the curse is lifted.
 >
@@ -496,13 +508,9 @@ After three of the players have gone, Arturi then shares the following tale:
 
 <div class="description">
 <p>There once was a Fox, renowned for his wisdom and skill, who dwelled with his kit in the misted woods. On a cold, moonlit night, a pair of Sparrows brought him their child, the tendrils of Death clutching its shivering body. The Fox took the chick into his den, but for all his knowledge, he could not cure its ailment, and it breathed its last in his paws.</p>
-
 <p>Driven mad in their grief, the vengeful Sparrows, aided by four of their kin, stole the Fox's kit in the night. They delivered him to the Wolf, who had long hungered for the taste of fox-flesh. The Wolf devoured the kit, and the Sparrows departed to return to their flock.</p>
-
 <p>When the Fox found what the Sparrows had done, rage clutched his own heart. In his cunning, he knew that the Rats, in their burrows beneath the earth, had always despised the songs of the Sparrows far above. The Fox descended to the kingdom of the Rats, and he promised them a forest free of the songs of the Sparrows. Intrigued, the Rats agreed.</p>
-
 <p>The Rats could not find the Sparrows' nest alone. But the crafty Fox could, and as the Sparrows slumbered in the hollow of a great oak, the Rats fell upon them to feast with tooth and claw. For the crimes of six, the flock perished, with nary an egg spared.</p>
-
 <p>The misted wood is darkened, now, and the trees no longer sing with the songs of the Sparrows. But some say that the Rats hunt still—that a lone chick yet escaped their clutches, and that one day, they will find it, and gobble it up like the rest.</p>
 </div>
 
@@ -706,6 +714,13 @@ Soon after the first wolf appears, the pack attacks. Read:
 <p>Then, without warning, eight snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p></div>
 
 The wolves attack the players from all directions, aiming to surround them. 
+
+> [!combat]- **Balancing the Wolves**
+> This combat encounter is an **bloody** encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of wolves to 3.
+> * ***Four Players.*** Reduce the number of wolves to 4.
+> * ***Six Players.*** Reduce the number of wolves to 1 and increase the number of werewolves to 2.
 
 Have the players, **wolves**, **werewolf** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
 
@@ -1033,7 +1048,7 @@ The taproom slowly clears out over the following two hours. Nikolai and Karl Wac
 If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 
 ***Milestone.*** Arriving in Vallaki completes a story milestone. When the party takes its first long rest in Vallaki, award each player 1,000 XP, plus an additional 250 XP if they successfully escorted Ireena to Vallaki. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
-## C11c. Morning in Vallaki
+## C12c. Morning in Vallaki
 ### Urwin's Advice
 When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
 
