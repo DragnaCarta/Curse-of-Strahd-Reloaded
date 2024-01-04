@@ -155,9 +155,9 @@ The clumps of earth were left when Milivoj's boots hit the floor of the crypt. F
 
 The hair is Milivoj's.
 ## E1d. Interviewing Yeska
-If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger.
+If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Petrovich has been careful to keep him away from the hole behind the altar.)
 
-If one of the players asks Yeska whether he has told anyone else about the bones and makes a successful DC 10 Charisma (Persuasion) check, he admits to telling Milivoj about the bones three days ago. If the players first tell Yeska that the bones have been stolen, however, the DC increases to 15, and Yeska begins to cry upon admitting his actions.
+If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Petrovich, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Petrovich about the church's protection in the first place.)
 # E2. Milivoj’s House
 Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
 
@@ -305,6 +305,13 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "Ludmilla, Anastrasya, or her Lord's skinny new plaything could hold a handle to her vision." (The "skinny new plaything" is referring to Escher.)
 * She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
+
+> [!combat]- **Balancing the First Bride**
+> Due to the phase mechanic and chokepoint, this is a series of three consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 72% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Remove the vampire spawn. Volenta flees once her second phase is bloodied.
+> * ***Four Players.*** Decrease the number of vampire spawn to one. 
+> * ***Six Players.*** Increase the number of vampire spawn to three.
 
 <div class="statblock">
 <h2>Volenta, First Form</h2>
@@ -473,9 +480,7 @@ Rahadin then reads aloud the following proclamation:
 
 <div class="description">
 <p>I, Strahd von Zarovich, Lord of Barovia, hereby find Henrik van der Voort of Vallaki GUILTY of the following charges: conspiracy to commit burglary; conspiracy to commit theft; accessory to theft; and receiving stolen property.</p>
-
 <p>I further find Milivoj of Vallaki GUILTY of the following charges: trespassing, destruction of property, conspiracy to commit burglary, burglary, and theft.</p>
-
 <p>It is therefore ordered that each receive suitable punishments as befitting the circumstances and nature of their crimes, to be determined and carried out by the Chamberlain of Castle Ravenloft with all reasonable haste.</p>
 </div>
 
@@ -574,7 +579,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his <strong><em>saber</em></strong> or two attacks with his <strong><em>poisoned darts</em></strong>.
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. <em>Hit:</em> 10 (1d8 + 6) bludgeoning damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
 <p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 8 (1d4 + 6) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is also poisoned until the start of Rahadin's next turn.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure or half as much on a success.</p>
@@ -634,7 +639,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>shrieking souls</em></strong> feature.
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
 <p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success, the target is no longer bleeding.)
 <p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
 <p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
