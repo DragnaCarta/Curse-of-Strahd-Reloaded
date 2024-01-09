@@ -1234,7 +1234,7 @@ A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (
     <h3>Bonus Actions</h3>
     <p><strong><em>Entangling Slime.</em></strong> If Ludmilla is currently concentrating on a <em>grease</em> spell, she casts <em>web</em> without using concentration, targeting the same 20-foot-square area as the <em>grease</em> spell. The webs vanish when she loses her concentration on <em>grease.</em></p>
     <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn.</p>
+    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
     <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
     <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>2nd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
     <p><strong><em>Mage's Reprisal.</em></strong> In response to being targeted by a spell attack or forced to make a saving throw against a spell cast by a creature she can see within 150 feet, Ludmilla imposes disadvantage on the attack roll or gains advantage on her saving throw against it. If the attack misses or if she succeeds on the saving throw, Ludmilla can immediately force the attacker to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage on a failure.</p>

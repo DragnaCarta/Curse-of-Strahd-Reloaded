@@ -231,7 +231,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Circle of Sickness.</em></strong> <em>3rd-level necromancy</em>, self, components V S M, instantaneous. <em>Effect:</em> A sphere of negative energy bursts from Strahd in a 10-foot radius. Each creature within range must make a <span class="highlight">DC 19 Constitution saving throw</span>. On a failure, a creature takes <span class="highlight">28 (8d6) necrotic damage</span> and gains <span>disadvantage</span> on its next attack roll made before the end of its next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p>
 <p><strong><em>Lightning Bolt.</em></strong> Strahd casts <em>lightning bolt</em>.</p>
 <h3>Reactions</h3>
-<p>Strahd can take up to three reactions per round, but only one per turn.</p>
+<p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Misty Step.</em></strong> In response to taking damage, Strahd casts <em>misty step</em>.</p>
 <p><strong><em>Blindness/Deafness.</em></strong> In response to taking damage from a melee attack, Strahd casts <em>blindness/deafness</em> against the attacker. A creature that fails its saving throw against the spell takes an additional <span class="highlight">7 (2d6) necrotic damage</span>.</p>
 <h3>Lair Actions</h3>
@@ -300,7 +300,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Dark Volley.</em></strong> Strahd conjures a rain of shadowy arrows to fall toward a point he can see within <span class="highlight">120 feet</span>. Each creature within a <span class="highlight">10-foot radius, 40-foot-high cylinder</span> centered on that point must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">18 (4d8) necrotic damage</span> on a failure or half as much damage on a success.</p>
 <!-- Reactions Section -->
 <h3>Reactions</h3>
-<p>Strahd can take up to three reactions per round, but only one per turn.</p>
+<p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Commander’s Retreat.</em></strong> In response to taking damage from a melee attack, Strahd forces his attacker to succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be pushed 5 feet away. He can then immediately move up to his speed away from them without provoking opportunity attacks.</p>
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from a spell or attack, Strahd moves up to his speed toward the attacker and can make a <strong><em>longsword</em></strong> attack against them. This movement doesn’t trigger opportunity attacks.</p>
 <!-- Lair Actions Section -->
@@ -329,7 +329,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Bats’ Frenzy.</em></strong> Strahd summons a swarm of bat-like shadows from his cloak, forcing each creature within <span class="highlight">10 feet</span> to make a successful <span class="highlight">DC 19 Dexterity saving throw</span> or take <span class="highlight">15 (6d4) necrotic damage</span> and gain disadvantage on the next attack roll it makes before the start of Strahd’s next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p> 
 <p><strong><em>Predator’s Fury.</em></strong> Strahd summons a pair of wolf-like shadows from his cloak and chooses up to two creatures he can see within <span class="highlight">60 feet</span> that are within 5 feet of each other. A target must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or take <span class="highlight">16 (2d10 + 5) force damage</span> and be knocked prone. A creature that succeeds on the roll takes half damage and isn’t knocked prone.</p> 
 <!-- Reactions Section --> <h3>Reactions</h3> 
-<p>Strahd can take up to three reactions per round, but only one per turn.</p> 
+<p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p> 
 <p><strong><em>Night’s Retreat.</em></strong> In response to taking damage, Strahd can fly up to his speed without provoking opportunity attacks.</p> 
 <p><strong><em>Blood Frenzy.</em></strong> In response to taking damage, Strahd can move up to his speed toward the attacker and make an <strong><em>unarmed strike</em></strong> attack.</p> <!-- Lair Actions Section --> <h3>Lair Actions</h3> 
 <p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p> 
