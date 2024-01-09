@@ -1,4 +1,6 @@
-# Hotfix 2.0.5.3
+# Hotfix 2.0.5.4 (Jan. 8, 2023)
+* Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
+# Hotfix 2.0.5.3 (Jan. 3, 2023)
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
 * Added room codes to winery scenes in [[Arc K - The Stolen Gem]]
 * Fixed assorted typos
