@@ -362,6 +362,13 @@ details[open] > summary h3 {
     --background: var(--custom-background-friendly);
   }
 
+  .callout[data-callout="combat"] {
+    --callout-color: 0, 0, 0; 
+    --callout-icon: lucide-swords;
+    --highlight: var(--highlight-combat);
+    --background: var(--custom-background-combat);
+  }
+
   .callout[data-callout="warning"] {
     --highlight: var(--highlight-warning);
     --background: var(--custom-background-warning);

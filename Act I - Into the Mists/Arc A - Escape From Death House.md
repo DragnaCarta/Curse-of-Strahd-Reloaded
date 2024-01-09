@@ -383,6 +383,13 @@ When triggered, the **animated armor** will use one or both of its **_multiattac
 If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its sixty feet of blindsight, and is too stupid to think to climb back up. 
 
 A creature that is pushed over the edge of the balcony falls two stories, or twenty feet, and takes 2d6 bludgeoning damage. That creature must succeed on a DC 15 Dexterity (Acrobatics) check or land prone.
+
+> [!combat]- **Balancing the Animated Armor**
+> This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the armor’s HP to 12.
+> * ***Four Players.*** Reduce the armor’s HP to 21.
+> * ***Six Players.*** Increase the armor’s HP to 48.
 ### Master Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 12.</em></span>
 
@@ -724,6 +731,12 @@ If the players disturb the grick, read:
 <p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
 </div>
 
+> [!combat]- **Balancing the Grick**
+> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the grick’s HP to 16. Reduce its tentacles attack to 5 (2d4) damage and its beak attack to 3 (1d6) damage.
+> * ***Four Players.*** Reduce the grick’s HP to 22. Reduce its tentacles attack to 7 (2d6) damage and its beak attack to 4 (1d8) damage.
+> * ***Six Players.*** Increase the grick’s HP to 32. Increase its tentacles attack to 11 (2d8+2) and its bite attack to 6 (1d8+2).
 ### Ghoulish Encounter
 <span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
 
@@ -735,6 +748,13 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 </div>
 
 When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked G and attack.
+
+> [!combat]- **Balancing the Ghouls**
+> Due to the choke point, this is a series of three consecutive **mild** combat encounters against a party of five 2nd-level players, each of which will consume approximately 15% of the party's total maximum hit points (for a total of 45% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter(s) as follows:
+> 
+> * ***Three Players.*** Decrease the number of ghouls to one.
+> * ***Four Players.*** Decrease the number of ghouls to two and only let one ghoul attack at a time.
+> * ***Six Players.*** Increase the number of ghouls to four and only let one ghoul attack at a time.
 
 As the ghouls attack, they mindlessly repeat any or all of the following phrases:
 
@@ -784,6 +804,13 @@ If the orb is removed from its position, the ashen **shadows** upon the walls be
 
 Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
 
+> [!combat]- **Balancing the Shadows**
+> This combat encounter is a **crushing** encounter against a party of five 2nd-level players, and will consume approximately 131% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of shadows to three.
+> * ***Four Players.*** Reduce the number of shadows to four.
+> * ***Six Players.*** Increase the number of shadows to six.
+
 If the players approach the door leading to [[#Cult Leader’s Den]], read:
 
 <div class="description">
@@ -797,6 +824,13 @@ If the players have not already seen this door from the opposite side, add:
 </div>
 
 Any creature that touches the door becomes adhered to it, whereupon the **mimic** attacks. The mimic also attacks if its takes any damage.
+
+> [!combat]- **Balancing the Mimic**
+> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the mimic’s HP to 35. Reduce its ***Pseudopod*** damage to 4 (1d8) bludgeoning damage and reduce its ***Bite*** damage to 4 (1d8) piercing damage plus 2 (1d4) acid damage.
+> * ***Four Players.*** Reduce the mimic’s HP to 46. Reduce its ***Pseudopod*** damage to 5 (1d8+1) bludgeoning damage and reduce its ***Bite*** damage to 5 (1d8+1) piercing damage and 3 (1d6) acid damage.
+> * ***Six Players.*** Increase the mimic’s HP to 70. Increase its ***Pseudopod*** damage to 8 (1d10+3) and increase its ***Bite*** damage to 8 (1d10+3) piercing damage and 5 (1d10) acid damage.
 
 When the mimic attacks, the victim's hand is sucked inside of it. The door then deforms, sprouting dozens of mouths and eyes, with the nearest mouth attempting to bite down on the now-stuck victim.
 
@@ -833,6 +867,13 @@ This room is largely as described in <span class="citation">Cult Leaders’ Quar
 The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
 
 Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
+
+> [!combat]- **Balancing the Boneless**
+> This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the boneless’ HP to 16. Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.
+> * ***Four Players.*** Reduce the boneless’ HP to 21. Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.
+> * ***Six Players.*** Increase the boneless’ HP to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
 ## A2g. The Dungeon
@@ -994,6 +1035,13 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 <p><strong><em>Gore Spray.</em></strong> The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded.</p>
 </div>
 
+> [!combat]- **Balancing the Flesh Mound**
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 2nd-level players, and will each consume approximately 28% of their total maximum hit points (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the flesh mound’s HP to 31 in each phase. For its first phase, reduce its ***slam*** attack and ***engulf*** action to 5 (2d4) bludgeoning damage. For its second phase, reduce its ***tentacle*** attack to 5 (1d10) bludgeoning damage and its ***gore spray*** action to 4 (1d8) necrotic damage.
+> * ***Four Players.*** Reduce the flesh mound’s HP to 41 in each phase. For its first phase, reduce its ***slam*** attack and ***engulf*** action to 6 (2d4+1) bludgeoning damage. For its second phase, reduce its ***tentacle*** attack to 6 (1d10+1) bludgeoning damage and its ***gore spray*** action to 6 (1d12) necrotic damage.
+> * ***Six Players.*** Increase the flesh mound’s HP to 61 in each phase. For its first phase, increase its ***slam*** attack and ***engulf*** action to 10 (2d6+3) bludgeoning damage. For its second phase, increase its ***tentacle*** attack to 9 (1d12+3) bludgeoning damage.
+
 ## A2h. Escape From Death House
 When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
 
@@ -1019,6 +1067,13 @@ Instead, as the players escape the crumbling Death House, they face two addition
 The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
 
 If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
+
+> [!combat]- **Balancing the Poltergeist**
+> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce Gustav’s HP to 13. Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.
+> * ***Four Players.*** Reduce Gustav’s HP to 18. Reduce his forceful slam attack to 8 (3d4+1) ***force damage*** and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.
+> * ***Six Players.*** Increase Gustav’s HP to 26. Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.
 
 The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
 

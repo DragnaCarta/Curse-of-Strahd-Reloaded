@@ -292,7 +292,7 @@ If told that the players are seeking a Vistana who’s staying at the Abbey, Zyg
 * **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
 
 > [!info]+ **Where's Ezmerelda?**
-> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until three days after the next full moon.
+> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until three days after the players' first full moon in Vallaki.
 
 After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach **S10. Abbey Entrance**. 
 
@@ -432,7 +432,7 @@ The barracks are largely described as in <span class="citation">S19. Barracks (p
 
 <div class="description">
 <p>At the center of the chamber, a ten-foot-square section purged of mold stands in stark contrast to the surrounding rot. An unrolled bedroll rests within this small island of cleanliness, accompanied by a worn backpack and a trio of sheathed weapons lying nearby.</p>
-<p>Beside this small camp stands a half-finished chalk circle nearly ten feet across. An olive-skinned Vistani woman stands crouched along its edge, her long, black, frizzy hair tied back with a wide, orangeclass="description"red headband.</p>
+<p>Beside this small camp stands a half-finished chalk circle nearly ten feet across. An olive-skinned Vistani woman stands crouched along its edge, her long, black, frizzy hair tied back with a wide, orange-red headband.</p>
 <p>She wears a mud-stained longcoat of similar color, a well-oiled suit of studded leather armor catching the light just beneath it. She seems to be wearing boots of two different colors: one an ordinary brown, and the other colored a dull, metallic copper. She glares at a snapped piece of white chalk in her hand.</p>
 </div>
 
@@ -476,7 +476,7 @@ Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to
 * She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
 * Upon first visiting the Abbey, Ezmerelda—a weak clairvoyant—swiftly sensed that unquiet spirits lingered within its shadowed halls. She has intended to return ever since, planning to contact those spirits to further investigate the Abbot’s identity and the cause of his growing madness. (The chalk circle is meant to provide the medium for a seance, focusing the energies Ezmerelda must call upon and acting as a protective barrier against malevolent spirits.)
 * Two nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
-* Five years ago, while hunting a brutal and bloodthirsty werewolf named Kiril Stoyanovich, Ezmerelda tracked him to the valley of Barovia and pursued him through the mists. However, she was cocky and arrogant, and her foolishness led her straight into an ambush. Kiril bit off her right leg below the knee, and it was only the quick arrival of Anna and Dmitri that saved her. The Krezkovs nursed her back to health, and took her to Vallaki to obtain a replacement leg, which she obtained from an eccentric toymaker named Gadof Blinsky.
+* Five years ago, while hunting a brutal and bloodthirsty werewolf nicknamed "the Black Terror," Ezmerelda tracked him to the valley of Barovia and pursued him through the mists. However, she was cocky and arrogant, and her foolishness led her straight into an ambush. The Black Terror bit off her right leg below the knee, and it was only the quick arrival of Anna and Dmitri that saved her. The Krezkovs nursed her back to health, and took her to Vallaki to obtain a replacement leg, which she obtained from an eccentric toymaker named Gadof Blinsky.
 
 Additionally, Ezmerelda is tentatively willing to join the players in their fight against Strahd. Before she does so, however, they must first prove their worth by assisting her in the following two tasks:
 
@@ -501,12 +501,12 @@ Once the players are ready, Ezmerelda invites the players to sit around the edge
 <p>Ezmerelda’s eyes snap open. “We are not alone," she whispers.</p>
 </div>
 
-The presence is the spirit of Saint Markovia, which can communicate with the players by flipping individual Tarokka cards faceclass="description"up from the Ethereal Plane. Each time the players ask a new question, the spirit flips all faceclass="description"up cards face down and chooses a new set of cards to flip faceclass="description"up.
+The presence is the spirit of Saint Markovia, which can communicate with the players by flipping individual Tarokka cards face-up from the Ethereal Plane. Each time the players ask a new question, the spirit flips all face-up cards face down and chooses a new set of cards to flip face-up.
 
  (A player who inspects the room using the *spirit mirror* sees Saint Markovia standing over Ezmerelda’s shoulder, wearing the clean, white robes of a priest with a golden mace in the shape of a sunburst sheathed upon her back.)
 
 > [!info]+ Seances with the Tarokka Deck
-> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243class="description"44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
 > 
 > If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
 > 
@@ -527,9 +527,9 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 
 If the players appear at a loss for which questions to ask, Ezmerelda suggests asking any or all of the following questions:
 
-* “Who are you?" (The spirit responds by flipping the Priest card, which it then flips faceclass="description"down. It then flips the Missionary card, which it then flips faceclass="description"down. It then flips the Shepherd card.)
+* “Who are you?" (The spirit responds by flipping the Priest card, which it then flips face-down. It then flips the Missionary card, which it then flips face-down. It then flips the Shepherd card.)
 * “Are you Saint Markovia?" (The spirit responds by flipping the Diviner card.)
-* “Who is the Abbot?" (The spirit responds by flipping the Healer card, which it then flips faceclass="description"down. It then flips the Broken One card.)
+* “Who is the Abbot?" (The spirit responds by flipping the Healer card, which it then flips face-down. It then flips the Broken One card.)
 * “What happened to the Abbot?" (The spirit responds by flipping the Mists card, the Marionette card, and the Enchanter card.)
 * “How can we restore the Abbot?" (The spirit responds by flipping the Artifact card.)
 * “What does this artifact do?" (The spirit responds by flipping the Healer card.)
@@ -541,14 +541,14 @@ Immediately after the spirit answers the players’ thirteenth question, the pla
 
 <div class="description">
 <p>A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.</p>
-<p>Flashes of images flicker across your mind's eyes. A whiteclass="description"robed woman kneeling before a man with wings as white as the purest snow, who presents her with a silver statuette of a cleric kneeling in supplication. The woman, standing before a halfclass="description"built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
+<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who presents her with a silver statuette of a cleric kneeling in supplication. The woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
 <p>Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state.</p>
 </div>
 
 > [!info]+ **Running Party NPCs**
-> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional roleclass="description"playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t speal the spotlight from your players. As you do, keep these guidelines in mind:
+> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t speal the spotlight from your players. As you do, keep these guidelines in mind:
 > 
-> * **Topics of Interest**: Party NPCs should generally remain in the background, speaking up only when spoken to, or when the conversation involves a topic directly related to them or their interests. They might also chime in with occasional banter or commentary where it is inclass="description"character to do so.
+> * **Topics of Interest**: Party NPCs should generally remain in the background, speaking up only when spoken to, or when the conversation involves a topic directly related to them or their interests. They might also chime in with occasional banter or commentary where it is in-character to do so.
 > * **Deference to Players**: Party NPCs should generally defer decisionmaking to the players. Their role is to support the players, not to lead them. (The sole exception lies in matters of deep personal or emotional significance to a party NPC, which may lead them to argue or even disagree with the players if doing so is in line with their character.)
 > * **Multi-NPC Conversations**: If other NPCs engage party NPCs in conversation, try to redirect the interaction to include one or more players, keeping them involved and central to the current scene.
 > * **Guidance and Advice**: Avoid using party NPCs to provide direct solutions to puzzles, challenges, or strategic decisions. Although a party NPC might provide quiet commentary where a matter pertains to their expertise, they should offer clear hints or guidance only when directly asked, and the scope of their help should be relatively restricted.
@@ -558,18 +558,18 @@ Immediately after the spirit answers the players’ thirteenth question, the pla
 Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (Perception) score of 13 or higher hear a sudden noise outside the door. Read:
 
 <div class="descrption">
-<p>Suddenly, from just outside the door, you hear a loud thud. The door shudders briefly as if struck by a falling weight, followed by a trio of highclass="description"pitched yelps and groans.</p>
+<p>Suddenly, from just outside the door, you hear a loud thud. The door shudders briefly as if struck by a falling weight, followed by a trio of high-pitched yelps and groans.</p>
 </div>
 
 A player who opens the door sees Clovin, Otto, and Zygfrek Belview lying in a tangled pile on the balcony beyond, each Belview cursing the others as they attempt to untangle themselves. When revealed, the Belviews look slightly abashed, with Clovin looking especially flushed at their discovery. (Clovin is not pleased that Otto or Zygfrek chose to join him in this eavesdropping expedition, and is further irritated that Otto’s clumsiness—while scratching an itch—caused them to get caught.)
 
 The Belviews can share that they began eavesdropping on the players because they wanted to know more of the world beyond the Abbey’s walls. Given the players’ evident interest in Castle Ravenloft, the three Belviews have decided that the players might be able to help them learn the fate of their family patriarch, Cyrus Belview, who they believe to have been “perfected" before immediately being spirited away to Castle Ravenloft.
 
-The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Clovin, Clovin promises to provide the players with a treasure that he has hidden away somewhere in the Abbey.
+The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure that he has hidden away somewhere in the Abbey.
 
-If the players accept their missive, the three Belviews are deeply grateful, with Otto leaping and heeclass="description"hawing with joy as Clovin hurries to quiet him.
+If the players accept their missive, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
 ### The Abbot’s Wrath
-When the players reclass="description"enter the North Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
+When the players re-enter the North Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
 
 As the players exit the North Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
 
