@@ -142,6 +142,13 @@ As the players enter this area, Muriel whispers that something isn’t right, no
 The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
 
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
+
+> [!combat]- **Balancing the False Trail**
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, and two CR 2 allies (Muriel Vinshaw and Ireena Kolyana), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of vine blights to three. 
+> * ***Four Players.*** Reduce the number of vine blights to three. 
+> * ***Six Players.*** Increase the number of vine blights to six. 
 ## K2e. The Huntress’s Monument
 As the players proceed past the pit trap, read:
 
@@ -281,7 +288,8 @@ If the players are still willing to enter the winery to defeat the druids within
 > * A creature can use its action and suitable means to extinguish a 5-foot section
 
 Davian also informs the players of the existence of an emergency cache that he kept in the winery, but wasn’t able to retrieve before the druids drove them out. The cache, which is hidden in the barrel nearest the northwest corner in a storage room on the main floor of the winery, contains healing supplies and other items that the players might find useful. (Davian doesn’t remember exactly what he left in the cache, but invites the players to keep its full contents for themselves—assuming, of course, that the druids haven’t found and raided it already.)
-
+### Brown Mold
+<span class="citation"><em>This scene takes place in Chapter 12, Area W15.</em></span>
 Once the players are ready to go, Muriel approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
 
 As the players pass through the tunnel, read:
@@ -291,7 +299,7 @@ As the players pass through the tunnel, read:
 <p>The tunnel soon opens into a shallow, freezing cavern. Thick brown mold carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
 </div>
 
-This area is as described in <span class="citation">W15. Brown Mold(p. 178)</span>. If the players approach the archway, read:
+This area is as described in <span class="citation">W15. Brown Mold (p. 178)</span>. If the players approach the archway, read:
 
 <div class="description">
 <p>The archway gives way to a stonework tunnel, which seemingly terminates at a blank brick wall fifteen feet beyond. </p>
@@ -309,6 +317,8 @@ A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging
 
 The tooth dissipates into frigid mist if either of these properties are used.
 ## K3b. Into the Winery
+<span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
+
 The wine cellar is largely as described in <span class="citation">W14. Wine Cellar (p. 178)</span>. However, modify the descriptive text to read as follows:
 
 <div class="description">
@@ -318,7 +328,7 @@ The wine cellar is largely as described in <span class="citation">W14. Wine Cell
 </div>
 
 > [!lore]+ **Druidic Decorations**
-> The druids and **berserkers** of the Forest Folk can be identified by the animal hides and wooden jewelry that they wear, as well as the blood-red dye that they use to paint their bodies. **Druid naturalists** use it to paint rings around their eyes, while **druid naturalists** paint vampiric fangs beneath their lips. **Berserkers** of the Forest Folk use the dye to paint rings of thorns around their forearms and calves.
+> The druids and **berserkers** of the Forest Folk can be identified by the animal hides and wooden jewelry that they wear, as well as the blood-red dye that they use to paint their bodies. **Druid naturalists** use it to paint rings around their eyes, while **druid assailants** paint vampiric fangs beneath their lips. **Berserkers** of the Forest Folk use the dye to paint rings of thorns around their forearms and calves.
 
 A player who inspects the roots can easily discern that they appear to be originating from the upper floors of the winery.
 
@@ -380,11 +390,18 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
 
+> [!combat]- **Balancing the Cellar**
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 19% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of needle blights to four.
+> * ***Four Players.*** Reduce the number of needle blights to six.
+> * ***Six Players.*** Increase the number of needle blights to ten.
+
 The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ## K3c. Ascending the Stairs
-The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 177)</span>, and **W10. Glassblower’s Workshop** (p.177). However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
+The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 177)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
 
 As the players climb the spiral staircase or back staircase toward the first floor, read:
 
@@ -392,6 +409,8 @@ As the players climb the spiral staircase or back staircase toward the first flo
 <p>The air grows steadily warmer as you approach the upper floors, your boots treading softly across the soft, supple bed of black roots that cascade across the stairs.</p>
 <p>As you approach the first landing, the silence is pierced by a haunting, desperate scream, which is followed soon after by the rustling of many feathers.</p>
 </div>
+### Fermentation Vats
+<span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
 
 The scream originates from the large room containing the winery’s fermenation vats, which is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>. However, replace the final two sentences of the room’s description with the following text:
 
@@ -446,6 +465,13 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 
 * On her first turn in combat, she uses her ***speed of the adder*** feature to cast the *entangle* spell as a bonus action, followed by a cantrip as her action. 
 * On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
+
+> [!combat]- **Balancing the Vat Room**
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
+> * ***Four Players.*** Reduce the number of elder twig blights to one.
+> * ***Six Players.*** Increase the number of swarms of twig blights to three.
 
 Because she has previously cast *speak with animals*, Silvia has only two 2nd-level spell slots remaining at the beginning of combat.
 
@@ -608,6 +634,8 @@ If the players free the ravens from their cages, they join the party as a **swar
 ## K3d. The First Floor
 The first floor of the winery is largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>.
 ### Loading Dock
+<span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
+
 Revise the description of this area to read as follows:
 
 <div class="description">
@@ -617,12 +645,20 @@ Revise the description of this area to read as follows:
 
 The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immunity to bludgeoning, piercing, and psychic damage. The druids planted it here to prevent the Martikovs from returning to the winery, and hope to nurture it until it can produce blights of its own.
 
-Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrugs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
+Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
+
+> [!combat]- **Balancing the Loading Dock**
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of vine blights to three.
+> * ***Four Players.*** Reduce the number of vine blights to four.
+> * ***Six Players.*** Increase the number of vine blights to six. Increase the number of twig blights to six.
 
 The three barrels, which stand in the southwest, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ### Barrel Storage
+<span class="citation"><em>This scene takes place in Chapter 12, Area W4.</em></span>
 
 The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, a *figurine of wondrous power (silver raven)*, and a pouch containing 75 gp.
 ## K3e. The Second Floor
@@ -632,8 +668,19 @@ However, the door leading from the balcony of <span class="citation">W9. Ferment
 
 When the players first reach the second floor, they can hear the sound of clattering objects originating from <span class="citation">W20. Printing Press (p. 179)</span>.
 ### Printing Press
+<span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
+
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
+
+> [!combat]- **Balancing the Printing Press**
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of vine blights to one.
+> * ***Four Players.*** Reduce the number of vine blights to two.
+> * ***Six Players.*** Increase the number of vine blights to four.
 ### Loading Winch
+<span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
+
 This area is largely as described in <span class="citation">W16. Loading Winch (p. 178)</span>. However, revise the descriptive text to read as follows:
 
 <div class="description">
@@ -661,6 +708,13 @@ If the players speak with him, Lorghoth is glad to share the following informati
 * Tomorrow at dawn, the mighty Wintersplinter will march from Yester Hill and reduce the winery to rubble, turning it into mulch to feed the young Gulthias tree. (Lorghoth won’t say who or what Wintersplinter is, except to cackle “Wintersplinter comes, and all will crumble in his wake!")
 
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
+
+> [!combat]- **Balancing the Loading Winch**
+> This combat encounter is a **brutal** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 68% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Remove the original two greater strix. Add three swarms of lesser strix. The greater strix flees when those three swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
+> * ***Four Players.*** Reduce the number of greater strix to one. Add two swarms of lesser strix. The greater strix flee when the two swarms and one greater strix are destroyed or when the staff is broken. The lesser strix flee when both greater strix is destroyed or when the staff is broken.
+> * ***Six Players.*** Add four swarms of lesser strix. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
 
 On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
 
@@ -765,7 +819,7 @@ When she does, read:
 <p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
 </div>
 
-Muriel introduces the spirit as the **ghost** of Kavan, the Blood-Drinker, and introduces the players by name. 
+Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name. 
 
 > [!lore]+ **Kavan's Legacy**
 > Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
@@ -897,13 +951,19 @@ As in his first encounter with the players, Strahd is glad to accept any reasona
 > 
 > If the players then move to attack Strahd or Beucephalus again, Strahd doesn’t return a second time, instead proceeding directly to meet the druids of Yester Hill.
 
-If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers a wager. Should the druids defeat them, Strahd will have the players’ unconscious bodies brought to Castle Ravenloft and turned to **vampire spawn**—as so many have before them. However, should the players succeed, Strahd invites them to meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift.
+If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager:
+
+* Each player who wishes to participate must provide Strahd with a valuable or treasured item to keep as collateral upfront.
+* If the players succeed in their task, they may meet Strahd at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer each of them a gift.
+* If the players fail, Strahd will keep the chosen items permanently. (Strahd intends to use the items to learn more about the players' values and priorities. Should the players fail, he also hopes to keep them as *scrying* focii.)
 # K5. Yester Hill
 The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
 
-<div class="descriptive">
-<p>A flash of brilliant viridian light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill..</p>
+<div class="description">
+<p>A flash of brilliant viridian light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
 </div>
+
+When the players arrive at Yester Hill, if Strahd has accompanied them, he notes that he will "see them at the top," and vanishes astride Beucephalus.
 
 The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
 
@@ -912,9 +972,9 @@ The players can climb the trail straight to <span class="citation">Y3. Druids Ci
 > 
 > Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla & Muriel]] and [[#Stopping the Ritual]] for more information on how the ravens help.
 ## K5a. Druids' Circle
-The druids' circle is largely as described in **Y3. Druids' Circle.*** However, add the following text to the end of the area's description:
+The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
 
-<div class="descriptive">
+<div class="description">
 <p>A deep viridian light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
 <p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Four figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
 </div>
@@ -965,6 +1025,13 @@ As the conversation winds down, or if the players attack or attempt to bypass Lu
 
 The two **druid assailants** and two **berserkers** work to prevent the players from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
 
+> [!combat]- **Balancing the Ritual’s Guards**
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players and two CR 2 ally (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of druid assailants to one.
+> * ***Four Players.*** Reduce the number of berserkers to one.
+> * ***Six Players.*** Increase the number of berserkers to three.
+
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
@@ -983,7 +1050,7 @@ The two **druid assailants** and two **berserkers** work to prevent the players 
 > The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
 > 
 > **The Ritual is Completed**
-> If the druids successfully complete the ritual, the <span class="citation">tree blight** Wintersplinter is born as described in **Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
+> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
 > 
 > If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
 > 
@@ -1032,7 +1099,7 @@ A creature other than Ludmilla that moves along the outer edge of the wall for t
 #### Ludmilla & Muriel
 On Ludmilla's first turn in combat, if Muriel is present, Ludmilla attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:
 
-<div class="descriptive">
+<div class="description">
 <p>Ludmilla eyes Muriel with mild curiosity. "I saw how you reacted when I mentioned the wereraven's death. Did you know him perhaps? Was he someone close to you?"</p>
 <p>A small, cold smile twists Ludmilla's lips. "Do you want to know why I dissect my test subjects? In their final moments, people reveal their true selves—their deepest fears and regrets. In a way, I know him better than you ever did."</p>
 <p>A calculating, predatory glint appears in her eyes. "Would you like to know if he was a coward in the end?"</p>
@@ -1048,7 +1115,7 @@ A player can dissuade Muriel from attacking Ludmilla with a successfull DC (25) 
 
 Each time Muriel takes damage from Ludmilla's ***vengeful ward*** feature, blood from her wounds spills onto the earth of Yester Hill below. Read:
 
-<div class=descriptive>
+<div class=description>
 <p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
 </div>
 
@@ -1167,12 +1234,19 @@ A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (
     <h3>Bonus Actions</h3>
     <p><strong><em>Entangling Slime.</em></strong> If Ludmilla is currently concentrating on a <em>grease</em> spell, she casts <em>web</em> without using concentration, targeting the same 20-foot-square area as the <em>grease</em> spell. The webs vanish when she loses her concentration on <em>grease.</em></p>
     <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn.</p>
+    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
     <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
     <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>2nd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
     <p><strong><em>Mage's Reprisal.</em></strong> In response to being targeted by a spell attack or forced to make a saving throw against a spell cast by a creature she can see within 150 feet, Ludmilla imposes disadvantage on the attack roll or gains advantage on her saving throw against it. If the attack misses or if she succeeds on the saving throw, Ludmilla can immediately force the attacker to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage on a failure.</p>
     <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, she can use her reaction to drop to 1 hit point instead and immediately cast <em>dimension door.</em></p>
 </div>
+
+> [!combat]- **Balancing the Second Bride**
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Decrease Ludmilla’s HP to 48. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
+> * ***Four Players.*** Decrease Ludmilla’s HP to 67. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
+> * ***Six Players.*** Increase Ludmilla’s HP to 97. 
 
 In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
 
@@ -1193,7 +1267,7 @@ Svarog has the statistics of a **druid naturalist**, except he gains the followi
 
 If the ritual is permanently disrupted (see **The Ritual Begins** above) or if the players retrieve the gem from the statue's chest, the ritual's destructive energy is unleashed upon the circle. Read:
 
-<div class="descriptive">
+<div class="description">
 <p>Bolts of brilliant viridian lightning crackle across the statue's surface, and the air within the circle grows thick with ozone. All around you, the druids wail and gnash their teeth, casting down their drums and staffs as they fruitlessly work to free themselves of the roots that bind them to the black earth below. The wand-bearing druid flings his wand to the earth with a shrieked curse, then lifts the staff from his shoulders to the sky, chanting words of desperation and defiance. </p>
 <p>The wind whips into a frenzied gale, screaming through your ears, as the bark of the statue begins to splinter and creak. The electric potential suffusing the air grows to a terrible peak around the statue, your flesh prickling with the energy impatiently waiting to be unleashed. </p>
 </div>

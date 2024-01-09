@@ -630,6 +630,13 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast *absorb elements*.</p>
 </div>
 
+> [!combat]- **Balancing the Hags**
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the hags’ HP to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***blight*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** madness, ***phantasmal*** ***force***, ***bestow*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
+> * ***Four Players.*** Reduce the hags’ HP to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***blight*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***bestow fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d10+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
+> * ***Six Players.*** Increase the hags’ HP to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d8) fire damage; their ***blight*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***bestow*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d10) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d8) damage.
+
 ***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
@@ -869,6 +876,13 @@ One minute after Victor begins reading the ritual’s incantation from his spell
 
 Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
 
+> [!combat]- **Balancing the Specters**
+> Due to the specters fleeing, this is a **mild** combat encounters against a party of five 5th-level players, a CR 1 ally (Majesto), and two CR 2 allies (Erasmus van Richten, Fiona Wachter), and will consume approximately 5% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of specters to four.
+> * ***Four Players.*** Reduce the number of specters to four.
+> * ***Six Players.*** Increase the number of specters to six.
+
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
 
 Cantrips (at will): *light, toll the dead, thaumaturgy*
@@ -925,23 +939,6 @@ In battle, Lady Wachter also gains the following reaction:
 When reduced to 0 hit points, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
 
 When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[Arc D - The Tome of Strahd#D3. Unlocking the Tome|Unlocking the Tome]] for more information about the *Tome* and its contents.
-### Return to the Material Plane
-As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
-
-* Erasmus drifts toward the edge of the teleportation circle. “Are you ready?” he asks quietly. Stella nods shyly, replying, “I think so. A bit afraid.”
-* Erasmus smiles sadly. “Don’t be,” he says. “Victor and your friends will take good care of you. And even if you can’t see or hear me, I’ll never be far away.”
-* Stella hiccups, tears glittering at the corners of her eyes. “Thank you,” she says, reaching out a hand. “For everything.” Erasmus swallows, and reaches out toward her hand in turn. “Stella,” he says, beaming through tears. “It was my honor.” For a brief instant, their fingers touch—and then the beads of light around Stella burst into radiant brilliance. She vanishes, leaving Erasmus touching nothing more than empty air.
-
-After a moment, Erasmus wipes his eyes on his spectral sleeve and turns to bid the players farewell. If the players attempt to comfort him, he insists that he is fine. “I’m happy for her,” he says softly. “She’s getting a second chance. Not everyone gets that.” If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] affixes Erasmus with a long, unreadable look, before her gaze abruptly softens, a flicker of warmth in her eyes. 
-
-Lady Wachter then hovers a hand over Erasmus’s shoulder and says, “Thank you for protecting my daughter. House Wachter owes you an unforgettable debt. Should you ever be in the presence of Wachterhaus, know that you will always be welcome there.” Erasmus smiles and thanks her.
-
-[[Non-Player Characters#Victor Vallakovich|Victor]] then asks the players if they are ready to depart for the Material Plane. Before they leave, however, Erasmus offers them the following warnings:
-
-* Strange giant spiders pass in and out of the Ethereal Plane amidst the ruins of the town to the southwest of Vallaki. If the players ever travel there, they should be careful. (Victor recognizes these as **phase spiders**, described further in *Ethereal Entities.*)
-* Strahd von Zarovich occasionally visits the Ethereal Plane astride a demonic horse with a charcoal-black coat and a burning, fiery mane. (Victor recognizes this as a **nightmare**, described further in *Ethereal Entities.*)
-
-When the players have bid their farewells, Victor turns to Erasmus and gives him a grateful, knowing nod, which Erasmus returns. Victor then speaks a single syllable, and the Ethereal Plane vanishes in a flare of white light.
 
 <div class="statblock">
 <h2>Speaker of the Gallows</h2>
@@ -999,7 +996,7 @@ When the players have bid their farewells, Victor turns to Erasmus and gives him
 <p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures that the gallows speaker can see within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
 <p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point it can see within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
 <h3>Reactions</h3>
-<p>The gallows speaker can take up to three reactions per round, though no more than one per turn.</p>
+<p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
 <p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
 <p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw or be frightened until the end of its next turn.</p>
 </div>
@@ -1058,11 +1055,35 @@ When the players have bid their farewells, Victor turns to Erasmus and gives him
 <p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits whirls in a 5-foot-radius sphere around the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
 <h3>Reactions</h3>
-<p>The avenger can take up to three reactions per round, though no more than one per turn.</p>
+<p>The avenger can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
 <p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
 <p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
 <p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
 </div>
+
+> [!combat]- **Balancing the Gallows Speaker**
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will each consume approximately 28% of their total maximum hit points (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce Leo’s HP to 92 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage.
+> * ***Four Players.*** Reduce Leo’s HP to 109 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage.
+>  * ***Six Players.*** Increase Leo’s HP to 143 in each phase. For his first phase, increase his foretelling touch attack to to 17 (2d12+4) damage, his will-o’-wisp attack to 15 (6d4) damage, and his wisplight flare bonus action to 16 (3d10) damage. For his second phase, increase his Ba’al Verzi dagger attack to 8 (1d8+4) piercing and 16 (3d10) necrotic damage, his grasp of the grave attack to 20 (8d4) initial damage and 10 (4d4) continual damage, his shrieking souls bonus action to 10 (4d4) damage, and his haunting echoes to 11 (2d10) damage.
+### Return to the Material Plane
+As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
+
+* Erasmus drifts toward the edge of the teleportation circle. “Are you ready?” he asks quietly. Stella nods shyly, replying, “I think so. A bit afraid.”
+* Erasmus smiles sadly. “Don’t be,” he says. “Victor and your friends will take good care of you. And even if you can’t see or hear me, I’ll never be far away.”
+* Stella hiccups, tears glittering at the corners of her eyes. “Thank you,” she says, reaching out a hand. “For everything.” Erasmus swallows, and reaches out toward her hand in turn. “Stella,” he says, beaming through tears. “It was my honor.” For a brief instant, their fingers touch—and then the beads of light around Stella burst into radiant brilliance. She vanishes, leaving Erasmus touching nothing more than empty air.
+
+After a moment, Erasmus wipes his eyes on his spectral sleeve and turns to bid the players farewell. If the players attempt to comfort him, he insists that he is fine. “I’m happy for her,” he says softly. “She’s getting a second chance. Not everyone gets that.” If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] affixes Erasmus with a long, unreadable look, before her gaze abruptly softens, a flicker of warmth in her eyes. 
+
+Lady Wachter then hovers a hand over Erasmus’s shoulder and says, “Thank you for protecting my daughter. House Wachter owes you an unforgettable debt. Should you ever be in the presence of Wachterhaus, know that you will always be welcome there.” Erasmus smiles and thanks her.
+
+[[Non-Player Characters#Victor Vallakovich|Victor]] then asks the players if they are ready to depart for the Material Plane. Before they leave, however, Erasmus offers them the following warnings:
+
+* Strange giant spiders pass in and out of the Ethereal Plane amidst the ruins of the town to the southwest of Vallaki. If the players ever travel there, they should be careful. (Victor recognizes these as **phase spiders**, described further in *Ethereal Entities.*)
+* Strahd von Zarovich occasionally visits the Ethereal Plane astride a demonic horse with a charcoal-black coat and a burning, fiery mane. (Victor recognizes this as a **nightmare**, described further in *Ethereal Entities.*)
+
+When the players have bid their farewells, Victor turns to Erasmus and gives him a grateful, knowing nod, which Erasmus returns. Victor then speaks a single syllable, and the Ethereal Plane vanishes in a flare of white light.
 
 The players then find themselves returned to the cult headquarters beneath Wachterhaus. Victor immediately moves for the exit to the cellar, frantically calling Stella’s name as he climbs toward <span class="citation">N4r. Cellar Entrance. (p. 114)</span> and passes through <span class="citation">N4d. Storage Room (p. 112)</span> and <span class="citation">N4c. Kitchen (p. 112)</span>.
 

@@ -1,3 +1,16 @@
+# Hotfix 2.0.5.4 (Jan. 8, 2023)
+* Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
+# Hotfix 2.0.5.3 (Jan. 3, 2023)
+* Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
+* Added room codes to winery scenes in [[Arc K - The Stolen Gem]]
+* Fixed assorted typos
+# Hotfix 2.0.5.2 (Dec. 14, 2023)
+* Removed Ezmerelda's knowledge of Kiril Stoyanovich's real name and replaced it with a nickname
+# Hotfix 2.0.5.1 (Dec. 13, 2023)
+* Fixed assorted typos
+* Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Arc K - The Stolen Gem]].
+* Revised Strahd's wager at Yester Hill in [[Arc K - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
+* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Arc C - Into the Valley]]
 # Version 2.0.5 (Dec. 13, 2023)
 **General Changes**
 * Changed unique monster spells to use in-line "lambda" spellcasting formatting  

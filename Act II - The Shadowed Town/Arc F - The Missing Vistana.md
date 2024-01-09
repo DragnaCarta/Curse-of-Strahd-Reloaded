@@ -447,6 +447,13 @@ If this is the first time that the players have visited the Luna River Crossroad
 If Szoldar is accompanying the players, he warns them that the saplings and scarecrows are new additions to the crossroads, and that recent rumors have reported sightings of scarecrows moving of their own volition through the woods.
 
 If the players approach the snapped signpost or move to leave the intersection, the blights and scarecrows attack.
+
+> [!combat]- **Balancing the Blights**
+> This combat encounter is a **bruising** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of scarecrows to 1.
+> * ***Four Players.*** Reduce the number of twig blights to 2.
+> * ***Six Players.*** Increase the number of scarecrows to 3.
 # F6. Lake Baratok
 Lake Baratok is as described in <span class="citation">Approaching the Tower (p. 167)</span>. The tower itself is largely as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>.
 ## F6a. Ezmerelda’s Wagon
@@ -501,6 +508,13 @@ Each time a button is pressed, its symbol glows with the color of its correspond
 A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 25 Strength check; on a failure, a stroke of lightning blasts out from the door in a straight line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one. (Triggering the lightning multiple times doesn't cause the door to collapse.)
 
 If eight different symbols are pressed in an incorrect sequence, their lights briefly flicker, then go out again. The first time this happens, the griffon statues atop the tower roof—four disguised **gargoyles**—come to life and attack. The gargoyles fight to the death.
+
+> [!combat]- **Balancing the Gargoyles**
+> This combat encounter is a **brutal** combat encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovich), and will consume approximately 77% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Two of the gargoyles are damaged and cannot animate or fight.
+> * ***Four Players.*** One of the gargoyles is damaged and cannot animate or fight.
+> * ***Six Players.*** Add a fifth gargoyle.
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
@@ -557,7 +571,14 @@ When his story is complete, Zsolt playfully asks the players whether they have g
 
 If at least two characters show that they’re carrying silvered weapons or ammunition, the playful light fades from Zsolt’s eyes, replaced by a momentary glint of wariness. His grip tightens around his spear, and his gaze meets Mathilda's for a brief, near-imperceptible moment. He congratulates the players on entering the woods well-prepared, but the joviality in his voice has become hollow. Unless stopped or provided with a suitable excuse, Zsolt and Mathilda accompany the players in silence as far as the Luna River Crossroads, then depart south toward Berez.
 
-Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack. 
+Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack.
+
+> [!combat]- **Balancing the Werewolves**
+> This combat encounter is a **bloody** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 52% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the werewolves’ HP to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
+> * ***Four Players.*** Reduce the werewolves’ HP to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
+> * ***Six Players.*** Increase the werewolves’ HP to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
 
 Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
