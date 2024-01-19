@@ -1002,6 +1002,8 @@ A player who succeeds on a DC 14 Wisdom (Perception) check notices that the obje
 ### Ludmilla’s Challenge
 Any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
 
+![[Ludmilla.png]]
+
 Unless the players intervene, the following scene then unfolds:
 
 * Ludmilla greets Strahd respectfully, calling him "my Lord," and notes with concern—and a slight edge to her voice—that she had not known he would be bringing additional company.

@@ -284,7 +284,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <strong>Challenge</strong> 21, or 19 when fought in sunlight<br>
 <strong>Proficiency Bonus.</strong> +6<br>
 <hr>
-<p><strong><em>Battlefield Awareness.</em></strong> Strahd has <span class="highlight">advantage</span> on Strength and Dexterity saving throws against effects that he can see or hear, such as traps and spells.</p>
+<p><strong><em>Battlefield Awareness.</em></strong> Strahd has <span class="highlight">advantage</span> on Strength and Dexterity saving throws against effects that he can see or hear, such as traps and spells. Additionally, Strahd can't be disarmed.</p>
 <p><strong><em>Legendary Resistance (1/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p>
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p>

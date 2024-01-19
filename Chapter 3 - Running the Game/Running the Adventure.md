@@ -84,9 +84,9 @@ The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword
-Place the *Sunsword* in the sealed treasury of the Amber Temple (***Eight of Glyphs—Bishop).
+Place the *Sunsword* in the sealed treasury of the Amber Temple (***Eight of Glyphs—Bishop***).
 ### Strahd's Enemy
-Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades).***
+Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades***).
 ### Strahd's Location
 Assign Strahd's location in Castle Ravenloft to **K20. Heart of Sorrow**, represented by the ***Marionette (Jack of Hearts).*** 
 # Design Notes: Running the Adventure
