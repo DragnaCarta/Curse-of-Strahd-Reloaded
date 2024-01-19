@@ -13,7 +13,7 @@ If the players mention their interest in the Abbey of Saint Markovia, Baron Krez
 > [!lore]+ **The Baron's Grief**
 > The Krezkov family has a secret: ever since a werewolf bit the Krezkov heir eighty years ago, some of the family’s direct descendants have been natural—born lycanthropes. Because these descendants are not the product of a union between two werewolves, they are born without the benefits of their curse, which emerges only on the night of the first full moon after their thirteenth birthday.
 > 
-> Today, Baron Dmitri Krezkov is a **werewolf**, as is his thirteen—year—old son, Ilya Krezkov. Baroness Anna Krezkova, who married into the family, does not share the curse. Their eight—year—old daughter, Kala Krezkova, is too young to know whether she also shares the curse. (Baron Krezkov also has an elder sister, Zuleika Toranescu née Krezkova, a **werewolf** who abdicated her position as heir to join her lover, the **werewolf** Emil Toranescu, as a member of the Lake Baratok werewolf pack fourteen years ago.)
+> Today, Baron Dmitri Krezkov is a **werewolf**, as is his thirteen-year-old son, Ilya Krezkov. Baroness Anna Krezkova, who married into the family, does not share the curse. Their eight-year-old daughter, Kala Krezkova, is too young to know whether she also shares the curse. (Baron Krezkov also has an elder sister, Zuleika Toranescu née Krezkova, a **werewolf** who abdicated her position as heir to join her lover, the **werewolf** Emil Toranescu, as a member of the Lake Baratok werewolf pack fourteen years ago.)
 > 
 > Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
 > 
@@ -21,7 +21,7 @@ If the players mention their interest in the Abbey of Saint Markovia, Baron Krez
 > 
 > The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
 > 
-> As a celestial, the Abbot could sense the scent of lycanthropy upon Baron Krezkov and his son, Ilya. Through the use of his ***change shape*** ability, the Abbot appeared to Ilya in the form of Ilya’s long—absent aunt, Zuleika. 
+> As a celestial, the Abbot could sense the scent of lycanthropy upon Baron Krezkov and his son, Ilya. Through the use of his ***change shape*** ability, the Abbot appeared to Ilya in the form of Ilya’s long-absent aunt, Zuleika. 
 > 
 > "Zuleika" revealed to Ilya that he and his father's line were werewolves—misunderstood creatures once feared and respected as enemies of Strahd.  She claimed, however, that Strahd had corrupted their bloodline by convincing his ancestors to poison themselves with wolfsbane and silver, removing some of his most powerful foes.
 > 
@@ -50,16 +50,16 @@ When the players enter the cottage’s front door, read:
 
 <div class="description">
 <p>The heavy wooden door creaks open to reveal an entryway with a worn rug underfoot. The scent of pine wood mingles with the earthy aroma of burning logs from a nearby fireplace, and a simple wooden table sits beside the door, holding a bowl filled with small trinkets.</p>
-<p>A mounted hand—carved board holds two hanging coats—one sized for an adult and one for a young child—with two pairs of boots hanging beneath the coats. Two additional empty pegs jut out from the board beside them.</p>
+<p>A mounted hand-carved board holds two hanging coats—one sized for an adult and one for a young child—with two pairs of boots hanging beneath the coats. Two additional empty pegs jut out from the board beside them.</p>
 </div>
 
 Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
 
 If the players intend on staying the night, Anna asks the players to assist her in completing a series of chores before dinner: feeding the chickens, mucking out the pig pen, weeding the vegetable garden, and (most importantly) obtaining a bucket of milk from the cow of Kretyana Dolvof—a widow whose cottage lies just southwest of the village’s freshwater pool. Anna also welcomes the players’ help in the kitchen as she prepares an evening meal.
 
-Though the Krezkovs’ cottage doesn’t have much space, the players are welcome to set down their packs and bedrolls in the animal pens and the structure’s only empty bedroom (see **Ilya’s Bedrom** below).
+Though the Krezkovs’ cottage doesn’t have much space, the players are welcome to set down their packs and bedrolls in the animal pens and the structure’s only empty bedroom (see [[#Ilya’s Bedroom]] below).
 ### Animal Pens
-Behind a partition in the rear of the cottage are the animal pens. When the players enter this chamber, read:
+Behind a partition in the rear of the cottage are the animal pens. When the players enter this area, read:
 
 <div class="description">
 <p>The grunting of pigs and clucking of chickens fill this area. Straw covers the floor, and wooden fences separate a pair of pens, which lie next to a trio of large chicken coops. A few lanterns hang from the ceiling, providing dim light, and a thick barn-style door leads out into the yard beyond.</p>
@@ -143,8 +143,8 @@ Baroness Anna Krezkova arrives shortly thereafter and exclaims, “There you are
 The dining room shares a space with the living room, with no wall dividing them. When the players enter this area, read:
 
 <div class="description">
-<p>This large room is divided into two halves: a dining room and a living room. In the dining room, walls of aged pine softly absorb the flickering light from an ironwrought chandelier that hangs overhead, its candles casting a cozy glow. A sideboard against one wall holds a variety of ceramic dishes and wooden utensils, as well as a few clay jars that might contain preserves or spices. The center of the room is dominated by a wooden table crafted of solid oak, its sides carved with patterns of forest leaves curled around crescents, circles, and oblong shapes. Six hand—carved wooden chairs sit around the table.</p>
-<p>A stone fireplace dominates a wall on the opposite side of the chamber, crackling softly as it bathes the space in a warm, flickering glow. A few well—worn chairs and a sofa huddle around a low wooden coffee table nearby, and shelves along the walls hold an assortment of books, family portraits, and small whittled wooden sculptures.</p>
+<p>This large room is divided into two halves: a dining room and a living room. In the dining room, walls of aged pine softly absorb the flickering light from an wrought-iron chandelier that hangs overhead, its candles casting a cozy glow. A sideboard against one wall holds a variety of ceramic dishes and wooden utensils, as well as a few clay jars that might contain preserves or spices. The center of the room is dominated by a wooden table crafted of solid oak, its sides carved with patterns of forest leaves curled around crescents, circles, and oblong shapes. Six hand-carved wooden chairs sit around the table.</p>
+<p>A stone fireplace dominates a wall on the opposite side of the chamber, crackling softly as it bathes the space in a warm, flickering glow. A few well-worn chairs and a sofa huddle around a low wooden coffee table nearby, and shelves along the walls hold an assortment of books, family portraits, and small whittled wooden sculptures.</p>
 </div>
 
 Close inspection of the patterns on the table reveals that they depict the phases of the moon. The whittled sculptures depict an assortment of small wooden wolves and ravens, as well as a carved wooden sun and moon.
@@ -166,11 +166,11 @@ Dmitri nervously asks to know why the Abbot has come to visit them. In response,
 As the conversation continues, the Abbot asks the players the following questions—ostensibly to ask their thoughts about Krezk, but meant in truth to deliver an ominous warning to the Krezkovs regarding the consequences of betrayal:
 
 * "How do you like the village? A quaint and quiet settlement, no?" (*The village is safe and quiet—for now.*)
-* "The children of Krezk have always seemed healthy and well—protected. The Krezkovs have been good stewards of this land, haven't they?" (*I gave you your child’s health. She and your neighbors will keep their lives and livelihoods—if you uphold your end of our bargain.*)
+* "The children of Krezk have always seemed healthy and well-protected. The Krezkovs have been good stewards of this land, haven't they?" (*I gave you your child’s health. She and your neighbors will keep their lives and livelihoods—if you uphold your end of our bargain.*)
 * "I see by your weapons that you're no strangers to the dangers outside these walls. It's good that the good people of Krezk are protected, isn't it, from the threats that lurk beyond?" (*Krezk’s mighty walls will not protect you from my wrath.*)
 * "Isn't it beautiful how such a small, fragile thing can exist on the corners of Strahd's domain?" (*You exist because I allow it—and you will end if I demand it.*)
 
-If asked why the Krezkovs appear to be afraid of him, the Abbot insists that they have nothing to be afraid of. “There is no fear in doing one’s duty," he says serenly, “nor shame or sin in accepting one’s fate. Like the sun, moon, and stars, we all have our parts to play, and theirs is a blessed one." (The Abbot won’t share the Krezkovs’ “duty," insisting that one’s relationship with the gods is a private matter, to be shared only as one chooses. If addressed, the Krezkovs appear paralyzed with fear, and Dmitri only shakes his head instead of responding.)
+If asked why the Krezkovs appear to be afraid of him, the Abbot insists that they have nothing to be afraid of. “There is no fear in doing one’s duty," he says serenely, “nor shame or sin in accepting one’s fate. Like the sun, moon, and stars, we all have our parts to play, and theirs is a blessed one." (The Abbot won’t share the Krezkovs’ “duty," insisting that one’s relationship with the gods is a private matter, to be shared only as one chooses. If addressed, the Krezkovs appear paralyzed with fear, and Dmitri only shakes his head instead of responding.)
 
 If further addressed, the Abbot looks briefly stricken and adds sadly, as he inspects a carved figurine of a wolf upon the mantelpiece, “It is true that many instruments of the gods have first rejected their calling. But is it not written that those who refuse to serve the divine become the tools of the divine, while those who serve the divine themselves become the divine?" He murmurs, mournfully, “The choice, I fear, is never an easy one."
 

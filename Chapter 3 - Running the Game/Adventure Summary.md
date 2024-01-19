@@ -5,6 +5,7 @@
         <li><strong>Act IV: Secrets of the Ancient (<em>8th to 9th level</em>).</strong> The players must endure Strahd's torments and the icy cold of Mount Ghakis, climbing Tsolenka Pass to the Amber Temple in order to recover the broken hilt of the <em>Sunsword</em> and unlock the secrets of the <em>Tome of Strahd</em>. Upon their descent, the players must defeat the witch of Berez, Baba Lysaga, and reconsecrate the sacred fanes of the Ladies Three.</li>
         <li><strong>Act V: The Curse of Strahd (<em>10th level</em>).</strong> After quelling an embodiment of the Mists upon the shores of Lake Zarovich, the players must journey to Castle Ravenloft to end Strahd's evil—once and for all.
     </ol>
+
 # Act I: Into the Mists
 <div class="subtitle"><em>For 2nd to 3rd-level characters.</em></div>
 In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
@@ -69,7 +70,7 @@ As the players depart Krezk, they learn that the swamp-witch Baba Lysaga has kid
 In [[Arc U - The Ladies of the Fanes]], the players must use Leo Dilisnya's dagger to expose and defeat each leech in turn—the Gulthias Tree at the Forest Fane upon Yester Hill; the corpse of Ismark the Great at the Swamp Fane in Berez; and the dead egg of the Roc of Mount Ghakis at the Mountain Fane beneath Old Bonegrinder—before using the winery's three gems to reconsecrate each Fane in turn. As they do, the land grows ever-more hostile to the players' presence, the very plants, earth, and storms of Barovia obstructing their path.
 
 Act IV ends when the players reconsecrate all three Fanes.
-# Act VI: The Curse of Strahd
+# Act V: The Curse of Strahd
 <div class="subtitle"><em>For characters of 9th level and higher.</em></div>
 In this act, soon after the last Fane is restored, Strahd's masterstroke unfolds. By releasing the stored energy bound within the Heart of Sorrow, Strahd plunges Barovia into an eternal night—and turns the valley itself into desecrated ground. Meanwhile, the Whispering Wall—resonating with the energies of the Heart of Sorrow—relocates to the surface of Lake Zarovich, where its deadly tendrils threaten to extinguish all life in Vallaki in [[Arc V - Forgotten Dreams]].
 

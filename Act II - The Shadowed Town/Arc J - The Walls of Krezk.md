@@ -54,7 +54,7 @@ The road to Krezk is as described in <span class="citation">S1. Road Junction (p
 # J2. The Gates of Krezk
 <span class="citation"><em>This scene takes place in Chapter 8: Area S2.</em></span>
 
-The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc K - The Missing Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to **J9. The Village of Krezk** below.
+The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc K - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#J6. The Village of Krezk]] below.
 
 Otherwise, rather than asking the players to secure a wagonload of wine from the Wizard of Wines, Baron Krezkov asks the players to journey to the hut of the witch Baba Lysaga in the ruins of Berez to the southeast. There, he tells them, they must beseech Baba Lysaga to perform a *scrying* spell to discern the location and condition of a particular person. 
 

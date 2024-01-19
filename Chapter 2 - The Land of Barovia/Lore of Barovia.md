@@ -153,7 +153,7 @@ However, Madam Eva foresees that Strahd will soon return to her for a final, ter
 ## The Church of the Morninglord
 The dominant faith in Barovia worships the deity known as the Morninglord, a god of dawn and renewal. In centuries past, with the sun always hidden behind overcast skies, the people’s faith had slowly slipped into empty ritual. 
 
-With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. Father Lucian Petrovich, the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morningword’s grace, as described in **N1. St. Andral’s Church (p. 97), but even he has his quiet doubts about how far that protection can go.
+With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. Father Lucian Petrovich, the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morningword’s grace, as described in <span class="citation">N1. St. Andral’s Church (p. 97)</span> but even he has his quiet doubts about how far that protection can go.
 
 > [!lore]+ **The Names of the Gods**
 >

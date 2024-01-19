@@ -243,6 +243,9 @@ Davian welcomes the players’ help in defeating the druids. If the players agre
 * There are four druids, eight **needle blights**, eight **vine blights**, and more than a few dozen **twig blights** in the winery. The skies above the winery are guarded by three patrolling **greater strix**, and the vineyard is guarded by too many **needle blights** to count.
 * The leader of the druids bears a strange magical staff, which appears to be the source of the blights’ strength and the means by which the druids are controlling them. If the players can obtain the staff and break it, the hordes of blights in the vineyard (as well as any other blights in the winery) would likely be greatly weakened, if not killed outright.
 * The safest route into the Wizard of Wines is an underground tunnel that leads from this cavern and exits through a secret door into the winery’s cellar. From there, the players will need to sneak or fight their way up until they find the druid with the magical staff.
+
+> [!info]+ **Balancing the Winery**
+> If you are rebalancing the Wizard of Wines for parties of larger or smaller size (see encounter-balancing callouts below), make sure to adjust Davian's information accordingly.
 ### Elvir’s Rage
 When Davian has given the players their mission, Claudiu mutters—just loudly enough to be heard—“What does it matter? They’re just going to die, anyway."
 
@@ -712,7 +715,7 @@ When Lorghoth tires of the players, he thanks them for their presence, promising
 > [!combat]- **Balancing the Loading Winch**
 > This combat encounter is a **brutal** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 68% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Remove the original two greater strix. Add three swarms of lesser strix. The greater strix flees when those three swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
+> * ***Three Players.*** Remove the original two greater strix. Add three swarms of lesser strix. The lesser strix flee when the staff is broken.
 > * ***Four Players.*** Reduce the number of greater strix to one. Add two swarms of lesser strix. The greater strix flee when the two swarms and one greater strix are destroyed or when the staff is broken. The lesser strix flee when both greater strix is destroyed or when the staff is broken.
 > * ***Six Players.*** Add four swarms of lesser strix. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
 
@@ -832,7 +835,7 @@ Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mount
 > 
 > When Kavan died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids he had once spurned buried his body in a lonely cairn far away from Yester Hill, cursing his spirit to linger amidst the twilight without glory, fear, or favor.
 
-Kavan greets the players warmly, hailing them as warriors, and asking to know their names and clans. If asked about his own clan, his smile fades, and he declines to respond, noting only that his relationship with his people is complex.
+Kavan greets the players warmly, hailing them as warriors, and asking to know their "clans and victories." If asked about his own clan, his smile fades, and he declines to respond, noting only that his relationship with his people is complex.
 
 Once the players have introduced themselves, Muriel begins by informing Kavan that they’ve come to seek his knowledge of the druids of Yester Hill. As she does, Kavan notices something in the woods. Read:
 
@@ -879,7 +882,7 @@ A player with a passive Wisdom (Perception) score of 17 or higher sees a humanoi
 > 
 >  As you sift through the underbrush, your fingers brush against something hard and smooth, half-buried in the soil.
 >  
->  It appears to be a small figurine of a butterfly, no larger than the palm of your hand and carved from petrified wood, which is embedded with small, glittering blue minerals that seem to dance with captured moonlight. The figurine's wings are outstretched, as though caught in mid-flight.
+>  It appears to be a small statuette of a butterfly, no larger than the palm of your hand and carved from petrified wood, which is embedded with small, glittering blue minerals that seem to dance with captured moonlight. The figurine's wings are outstretched, as though caught in mid-flight.
 
 At Muriel’s request, Kavan can share the following information about the Forest Folk of Yester Hill:
 
@@ -976,7 +979,7 @@ The druids' circle is largely as described in <span class="citation">Y3. Druids'
 
 <div class="description">
 <p>A deep viridian light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
-<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Four figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
+<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
 </div>
 
 Just beside the entrance to the ring of black boulders that forms the **Druids’ Circle** and ten feet above the ground hovers Strahd von Zarovich, who is seated on his **nightmare** Beucephalus. As the players enter the circle, if Strahd notices them, read:
@@ -987,6 +990,13 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 </div>
 
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+
+> [!combat]- **Balancing the Ritual’s Guards**
+> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players and two CR 2 ally (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * ***Three Players.*** Reduce the number of druid assailants to one.
+> * ***Four Players.*** Reduce the number of berserkers to one.
+> * ***Six Players.*** Increase the number of berserkers to three.
 
 A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
 ### Ludmilla’s Challenge
@@ -1023,14 +1033,60 @@ As the conversation winds down, or if the players attack or attempt to bypass Lu
 <p>The sounds of chanting and drum beats intensify—and sparks of deep, viridian energy begin to arc across the earth and toward the statue.</p>
 </div>
 
-The two **druid assailants** and two **berserkers** work to prevent the players from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
+The two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she creates a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See **Shroud of Mist** below.)
 
-> [!combat]- **Balancing the Ritual’s Guards**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players and two CR 2 ally (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the number of druid assailants to one.
-> * ***Four Players.*** Reduce the number of berserkers to one.
-> * ***Six Players.*** Increase the number of berserkers to three.
+<div class="statblock">
+    <h2>Muriel Vinshaw</h2>
+    <em>Medium humanoid (human, shapechanger), chaotic good</em>
+    <hr>
+    <strong>Armor Class</strong> 14 (leather armor)
+    <br>
+    <strong>Hit Points</strong> 63 (7d8 + 7)
+    <br>
+    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10 (+0)</td>
+                <td>16 (+3)</td>
+                <td>11 (+0)</td>
+                <td>13 (+1)</td>
+                <td>15 (+2)</td>
+                <td>14 (+2)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Skills</strong> Insight +4, Perception +6<br>
+    <strong>Senses</strong> passive Perception 16<br>
+    <strong>Languages</strong> Common (can't speak in raven form)<br>
+    <strong>Challenge Rating</strong> 2<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
+    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
+    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
+    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
+    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
+    <h3>Reactions</h3>
+    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits a target, other than Muriel, within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+</div>
 
 <br>
 
@@ -1225,7 +1281,7 @@ A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (
     <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
     <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
     <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change.</p>
+    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
     <h3>Actions</h3>
     <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> in a 20-foot-square area.</p>
     <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
@@ -1244,9 +1300,9 @@ A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (
 > [!combat]- **Balancing the Second Bride**
 > This combat encounter is a **mild** combat encounter against a party of five 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Decrease Ludmilla’s HP to 48. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
-> * ***Four Players.*** Decrease Ludmilla’s HP to 67. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
-> * ***Six Players.*** Increase Ludmilla’s HP to 97. 
+> * ***Three Players.*** Decrease Ludmilla’s HP to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
+> * ***Four Players.*** Decrease Ludmilla’s HP to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
+> * ***Six Players.*** Increase Ludmilla’s HP to 136. 
 
 In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
 
@@ -1307,7 +1363,13 @@ The stone is the door to a secret demiplane that contains the animating spirit o
 
 One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
 ## K5d. The Whispering Wall
-This area is largely as described in <span class="citation">Y5. Whispering Wall (p. 200)</span>. If the players recently defeated the druids and stopped their ritual, Strahd can be found here, kneeling before the wall, thirty feet away from Beucephalus. (A player that inspects Beucephalus notices that the **nightmare**'s saddlebags appear to be empty.)
+This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
+
+<div class="description">
+<p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
+</div>
+
+If the players recently defeated the druids and stopped their ritual, Strahd can be found here, kneeling before the wall, thirty feet away from Beucephalus. (A player that inspects Beucephalus notices that the **nightmare**'s saddlebags appear to be empty.)
 
 As the players approach, Strahd rises and appears to pocket something in his cloak. (Strahd won't share what this is, amusedly chiding the players for asking gifts not given.) He welcomes the players warmly, and congratulates them on defeating the Forest Folk.
 
@@ -1325,7 +1387,7 @@ Strahd warns them, however, that many have become lost in the Whispering Wall, t
 
 Strahd promises that each player who enters the Wall and returns safely will receive an additional gift: a shard of the power of the Whispering Wall itself. (He won't say more than that.) He wonders aloud, however, whether they will have the strength of will to do so. "Lesser men often lose themselves to its illusions," he says, a taunting glint in his eye. "They trade life for dreams, and receive neither. They are lost to the mist, doomed to remain there for eternity."
 
-If any or all players decline Strahd’s challenge, he frowns, shakes his head, and notes his disappointment in them.Otherwise, a player who enters the Whispering Wall finds themselves within a new location, indistinguishable from reality. The location is a reflection of that player character's deepest desire, sculpted to be as real and alluring as possible. The location is populated by any inhabitants necessary for that character's desire. Both the location and any inhabitants are illusory, but appear solid and real to those who enter.
+If any or all players decline Strahd’s challenge, he frowns, shakes his head, and notes his disappointment in them. Otherwise, a player who enters the Whispering Wall finds themselves within a new location, indistinguishable from reality. The location is a reflection of that player character's deepest desire, sculpted to be as real and alluring as possible. The location is populated by any inhabitants necessary for that character's desire. Both the location and any inhabitants are illusory, but appear solid and real to those who enter.
 
 After a period of time — which may be subjective minutes, hours, or even years after they entered — the player receives a "hook": an invitation, subtle or direct, for that player to remain. A location's hook might be, among other things, the tolling of a familiar church bell, a child asking the player to play with them, or a loved one pleading the player to stay.
 
@@ -1359,9 +1421,9 @@ When the players all either return from the Whispering Wall or decline to do so,
 > 
 > While the azurite is blue, its wielder can spend 1 charge as an action to cast *aid*.
 > 
-> While the azurite is purple, its wielder can spend 1 charge as an action to cast *spirit guardians*. When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
+> While the azurite is purple, its wielder can spend 1 charge as an action to cast *spirit guardians* (save DC 15). When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
 > 
-> The wielder can spend all 3 charges as an action at any time of day to cast _enervation._ If they do, the crest doesn’t regain charges for the next three dawns.
+> The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
 
 When all players have either accepted or declined their gifts, Strahd bids them farewell and mounts Beucephalus once again. He bids them farewell and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane. 
 # K6. Return to the Winery
@@ -1386,7 +1448,7 @@ If he is satisfied that any of the players would choose sanctity over comfort, K
 
 * In Kavan’s ailing years, a tyrant named King Dostron the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
 * When Strahd invaded the valley hundreds of years later, many members of the druidic caste—still angered by Kavan’s betrayal and Dostron’s oppression—sought out his protection. A great schism split the First Folk, with those who opposed Strahd retreating to Soldav and those who favored Strahd remaining within the Svalich Wood. Today, Barovians know them as the Mountain Folk and the Forest Folk.
-* The land of Barovia, which the First Folk once called “Cerunnos"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley.To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
+* The land of Barovia, which the First Folk once called “Cerunnos"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
 * Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. 
 * Svarog’s wand, though the Forest Folk believe it to be a marker of status, is a relic of Soldav. Should the players find the stone that marks Soldav’s entrance, they can open the way by pressing the wand against it.
 

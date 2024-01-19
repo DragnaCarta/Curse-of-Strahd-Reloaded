@@ -117,7 +117,7 @@ Lady Wachter may also respond to player questions as follows:
 
 > [!lore]+ **Who is Lysa?**
 >
-> “Lysa’s” true identity is Baba Lysaga, the swamp-witch of <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in <span class="citation">K56. Cauldron</span> (p. 72) in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieves.
+> “Lysa’s” true identity is Baba Lysaga, the swamp-witch of <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in <span class="citation">K56. Cauldron</span> (p. 72) in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieved.
 >
 > Upon learning of her family’s death, Fiona chose to return to Vallaki to claim her birthright. Baba Lysaga did not take the news well, and warned Fiona that her departure would be treated as a personal betrayal—and that she would be banished from Berez forevermore for her choice. Fiona returned to Vallaki nonetheless, taking the small grimoire that Baba Lysaga had given her as a memento of her studies.
 >
@@ -339,7 +339,8 @@ Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds n
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change.</p>
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dex saves, and creatures have advantage on attacks made against him.)
+<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
@@ -396,6 +397,7 @@ Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds n
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dex saves, and creatures have advantage on attacks made against him.)
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>

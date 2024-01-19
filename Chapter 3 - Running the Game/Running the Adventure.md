@@ -80,14 +80,11 @@ Immediately before the scene in which the players meet Madam Eva, if you are usi
 
 When choosing which card(s) to use for which part of the reading, select from the following lists.
 ### The Tome of Strahd
-The Tome of Strahd is not present in the Material Plane of Barovia. Instead, it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc I - The Lost Soul]] for more information about the gallows speaker.
+The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc I - The Lost Soul]] for more information about the gallows speaker.
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword
-Place the *Sunsword* in one of the following locations:
-
-* ***Seven of Swords—Hooded One.*** Choose the head of the giant statue in the Amber Temple if you want to force the players to fight Neferon, the **arcanaloth.**
-* ***Eight of Glyphs—Bishop.*** Choose the sealed treasury of the Amber Temple if you want to give your players a reason to delve more deeply into the Amber Temple.
+Place the *Sunsword* in the sealed treasury of the Amber Temple (***Eight of Glyphs—Bishop).
 ### Strahd's Enemy
 Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades).***
 ### Strahd's Location

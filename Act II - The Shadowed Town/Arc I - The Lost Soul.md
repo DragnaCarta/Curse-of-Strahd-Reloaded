@@ -76,7 +76,7 @@ Victor then shares the following information:
 * Since then, Victor and Stella have been working hard to restore her soul to her body, but nothing has worked. In the meantime, Stella has had to conceal herself from the many wandering spirits that roam the Border Ethereal, many of which would harm her if they could. 
 * Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
 * To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
-* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, can share all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
+* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
 * If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust Lady Fiona Wachter; that his own father, the Baron, would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
 
 If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
@@ -143,7 +143,7 @@ When the players first enter the refugee camp, read:
 <p>Dozens of people, their bodies gaunt and their faces drawn, move slowly about the camp. Their eyes are sunken and hollow, their clothes hanging loose on their thin frames. A few of them huddle about the campfires, bodies hunched against the chill air and hands outstretched for the meager warmth.</p>
 </div>
 
-## I2a. Inside the Camp
+## I3a. Inside the Camp
 If the players enter the camp, they are soon warily greeted by Emeric, a melancholy older man with graying hair, and Magda, a grief-stricken young woman with deep circles under their eyes. (While the camp doesn’t have any official leadership, Emeric and Magda were part of the initial wave of refugees from Barovia, and have pioneered the effort to welcome and organize the newcomers following Strahd’s siege.)
 
 Emeric and Magda are cautious of outsiders, but curious to know why the players have come to their camp. (Magda is briefly hopeful that the players are servants of Baron Vallakovich and that they have come to invite the refugees into Vallaki—a hope that Emeric, pointing to the players’ strange appearances, soon disabuses her of.)
@@ -161,7 +161,7 @@ If the players mention Ismark or Ireena, Emeric and Magda can tell them that man
 If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
 
 Emeric and Magda are glad to take the players to see him, but warn them that Franz, a widower, has recently lost his children as well and is likely still grieving or disturbed. Magda further adds that Franz has suffered from a strange wasting disease ever since the nightmares first began, and offers her hope that the players may be able to treat him.
-## I2b. Franz’s Tent
+## I3b. Franz’s Tent
 Emeric and Magda lead the players to a small, lonely tent set up at the end of the camp’s muddy avenue. When the players enter, read:
 
 <div class="description">
@@ -467,13 +467,13 @@ The circle, which extends five hundred feet vertically into the air, remains for
 
 As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
 
-Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on himself and any players who request it. He also uses a single third-level spell to cast *fly* on himself, though he can be persuaded to use a fourth-level spell to share its benefits with another. 
+Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
 
 Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
 As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibian Cacophony*** lair action to lure the children back to the windmill.)
 
-If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
+If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
 
 Morgantha greets the players warmly and congratulates them on taking their "ransom." She then asks, pleasantly, what items or boons they've come to bargain for.
 
@@ -495,12 +495,12 @@ The hags fight in self-defense, or if the players make clear that they will not 
 >
 > - **_Warding Wind._** The coven casts _warding wind._
 > - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or immediately use its reaction, if available, to move up to 30 feet closer to the mill.
+> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement on its next turn to move as far as it can toward the mill.
 > - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
 
 <div class="statblock">
 <h2>The Bonegrinder Coven</h2>
-<em>Large fiend, neutral evil</em>
+<em>Trio of two huge fiends and one medium fiend, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 17 (natural armor)
 <br>
@@ -543,7 +543,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
 <p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same.</p>
+<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Sickening Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
@@ -564,6 +564,9 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Witch Bolt (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning between Morgantha and the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the attacker takes the same amount of damage.</p>
 <p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
 </div>
+<br>
+![[Bella.png]]
+![[Offalia.png]]
 <br>
 <div class="statblock">
 <h2>The Nightmare Three</h2>
@@ -619,7 +622,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
 <p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 16 Constitution saving throw or be dazed until the start of Bella's next turn.</p>
 <p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 17 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her horn. Each humanoid creature within a 60-foot radius must make a DC 16 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
+<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 16 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
 <p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn.</p>
 <p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 16 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
 <h3>Reactions</h3>
@@ -633,15 +636,15 @@ The hags fight in self-defense, or if the players make clear that they will not 
 > [!combat]- **Balancing the Hags**
 > Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the hags’ HP to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***blight*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** madness, ***phantasmal*** ***force***, ***bestow*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Four Players.*** Reduce the hags’ HP to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***blight*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***bestow fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d10+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Six Players.*** Increase the hags’ HP to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d8) fire damage; their ***blight*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***bestow*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d10) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d8) damage.
+> * ***Three Players.*** Reduce the hags’ HP to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***blight*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** madness, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
+> * ***Four Players.*** Reduce the hags’ HP to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***blight*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d10+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
+> * ***Six Players.*** Increase the hags’ HP to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***sickening radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d8) fire damage; their ***blight*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d10) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d8) damage.
 
 ***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
-***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains aloft through the use of his *fly* spell, maintaining a height of 60 feet above the battlefield—and remaining within 60 feet of the windmill—at all times. 
+***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility spell* spell, remaining within 60 feet of the windmill at all times. 
 
 Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
@@ -649,7 +652,12 @@ Victor retains his lone 5th-level spell slot to cast *counterspell* in response 
 
 ***Majesto.*** In battle, Lady Wachter’s **imp** Majesto uses his ***sting*** to attack whichever hags are currently concentrating on spells.
 ### The Hags' Failed Escape
-The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***etherealness*** action to escape—which is prevented by Lady Wachter's binding circle. Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair action at the next available opportunity. When it does, read:
+The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***etherealness*** action to escape—which is prevented by Lady Wachter's binding circle. 
+
+> [!info]+ **Bloodied**
+> A creature is **bloodied** when reduced to half of its ordinary maximum hit points or fewer.
+
+Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair action at the next available opportunity. When it does, read:
 
 <div class="description">
 <p>The air grows thick with power—and then a terrible, screeching groan cuts through the wind. As the coven's eyes glow with unified purpose, the massive vanes of the windmill begin to rotate—slowly at first, then gaining momentum, the creaking of its ancient wood melding with the grinding of its weathered gears to form a terrible cacophony.</p>
@@ -829,6 +837,7 @@ Neither Victor nor Lady Wachter know what the dark shadow was, though Victor can
 > - A creature in the Ethereal Plane gains a fly (hover) speed equal to its normal speed.
 ## I8b. The Restoration Ritual
 After a few moments have passed, the players hear a teenaged girl's voice behind them, joyous and triumphant as it exclaims, "*Victor!*"
+
 The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who floats down to the players from ten feet above the ground. Stella appears largely as she does in life, though her body is translucent and her legs below the knees have begun to fade into mist. 
 
 The following sequence then unfolds, unless the players intervene:
@@ -903,7 +912,14 @@ At the end of the first round of combat with the specters, any surviving specter
 
 ![[Gallows Speaker.png]]
 
-The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *Tome of Strahd*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance. (See [[Arc D - The Tome of Strahd]] for more information about how the *Tome of Strahd* arrived in Wachterhaus.)
+The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *Tome of Strahd*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance.
+
+> [!lore]+ **What Happened to the Tome?**
+> One hundred years ago, Strahd used his Tome as a repository for his secret plans involving the Grand Conjunction and the Fanes of Barovia. When he began his hibernation amidst the crypts of Ravenloft, he did his best to hide his Tome away, safe from prying eyes. Nonetheless, it was found—by the **wereraven** Livius, who was searching for the legendary _Sigil of the Sun_ (later renamed the _Holy Symbol of Ravenkind_) while Lugdana and Ismark Antonovich kept the guardians of the castle occupied.
+> 
+> When the trio escaped the castle, Livius shared with them the Tome, wondering aloud which of Strahd’s secrets it might hold. Because they could not open its magical lock, however, Lugdana took the Tome to a bookbinder in Vallaki with a reputation for puzzle-solving and lockpicking, hoping that he might be able to open it instead.
+> 
+> Lugdana, however, was betrayed. The bookbinder’s apprentice—a scion of House Wachter—overheard their conversation and made plans to steal the Tome instead. The apprentice hid the Tome away in the bookbinder’s desk, then returned that night to steal it. The Tome remained locked away in Wachterhaus until the gallows speaker stole it on the night the Wachters died. (Because her parents died while she was still a teenager, Lady Fiona Wachter never learned of the Tome’s true origins.)
 
 The gallows speaker shares freely that it intends to kill Stella’s spirit, followed by Lady Wachter. Once it has done so, it intends to cross over into the Material Plane, where it will kill Lady Wachter’s sons, Nikolai and Karl.
 
@@ -926,6 +942,9 @@ If the players ask about the tome clutched to its chest, the gallows speaker sha
 
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
 
+> [!info]+ **How Long Does Leo Speak?**
+> Unless the players immediately attack it, assume the conversation with the gallows speaker takes more than one minute, but fewer than ten minutes (e.g., for the purposes of determining spell duration).
+
 ***Erasmus van Richten.*** In battle, Erasmus fights by hurling furniture at the gallows speaker from range through the use of his ***telekinetic thrust*** feature.
 
 ***Lady Fiona Wachter.*** [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] begins by casting *spirit guardians* (radiant damage), which takes the form of thirteen swirling fog-like entities that attack with misty tendrils. On subsequent turns, she casts *blindness/deafness* or uses her ***divine eminence*** feature as she pursues the gallows speaker with her mace.
@@ -934,9 +953,11 @@ In battle, Lady Wachter also gains the following reaction:
 
 * ***Sentinel of the Veil.*** As a reaction when another creature she can see within 30 feet suffers a critical hit, Lady Wachter can turn that hit into a normal hit.
 
-***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it. Consumed by hatred and rage, the gallows speaker never retreats, nor does it reposition except to pursue its current target.
+***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it. 
 
-When reduced to 0 hit points, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
+Consumed by hatred and rage, the gallows speaker never retreats, nor does it reposition except to pursue its current target. When it enters its second phase, the gallows speaker prefers to fight by grappling a target using its ***grasp of the grave*** feature, then dragging that target through the three-dimensional space of the ethereal Wachterhaus while using his **Ba'al Verzi dagger*** attack and other features to keep the other players at bay.
+
+When reduced to 0 hit points in its second phase, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
 
 When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[Arc D - The Tome of Strahd#D3. Unlocking the Tome|Unlocking the Tome]] for more information about the *Tome* and its contents.
 
@@ -948,7 +969,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <br>
 <strong>Hit Points</strong> 126 (28d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 30 ft. (hover)
+<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
 <hr>
 <table class="ability-table">
   <thead>
@@ -986,7 +1007,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
 <p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
 <p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
-<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the **Ba’al Verzi Avenger.** Its initiative remains the same.</p>
+<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the **Ba’al Verzi Avenger.** Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
 <p><strong><em>Foretelling Touch.</em></strong> <em>Melee Spell Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 11 (2d10) + 4 psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</p>
@@ -1009,7 +1030,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <br>
 <strong>Hit Points</strong> 126 (28d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 30 ft. (hover)
+<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
 <hr>
 <table class="ability-table">
   <thead>
@@ -1062,7 +1083,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 </div>
 
 > [!combat]- **Balancing the Gallows Speaker**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will each consume approximately 28% of their total maximum hit points (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **bloody** combat encounters against a party of five 5th-level players and two CR 2 allies (Erasmus van Richten and Lady Fiona Wachter), which will each consume approximately 42% of the party's total maximum hit points (for a total of 84% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce Leo’s HP to 92 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage.
 > * ***Four Players.*** Reduce Leo’s HP to 109 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage.
@@ -1165,7 +1186,7 @@ Lady Wachter's reliance upon the members of her cult for the binding ritual has 
 
 ***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Arc K - The Missing Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
 
-***Bargainin With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc T - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
+***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc T - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
 
 This guide intentionally foregoes alternative bargains that the hags might seek to make, such as directing the players to sell dream pastries or kidnap children for them. These alternative bargains fail for multiple reasons:
 
