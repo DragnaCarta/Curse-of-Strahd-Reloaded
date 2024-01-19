@@ -249,6 +249,8 @@ When the players arrive, Ismark directs them to knock on the door to "let Ireena
 * The peephole closes, and the players can hear someone unlocking a trio of locks.
 * The door opens, revealing Ireena Kolyana on the opposite side. "Guests, Ismark?" she asks, raising an eyebrow.
 
+![[Ireena.png]]
+
 > [!lore] **The Peephole**
 > Like most homes in Barovia, Ireena and Ismark's front door is fitted with a peephole that allows them to identify visitors before opening the door. Barovian peepholes, however, are built internally like periscopes, with a pair of hidden tiny mirrors that bounce light to reach the viewer's eye—and thereby omit any vampires, whose reflections won't appear. (The toymaker Gadof Blinsky, of [[Arc F - The Missing Vistana#F1. Blinsky Toys|Blinsky Toys]] in Vallaki, can share that these peepholes were first invented by the legendary inventor, Fritz von Weerg.)
 

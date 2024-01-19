@@ -37,7 +37,7 @@
 * Fixed assorted typos
 * Added [[Arc K - The Stolen Gem]], the first half of [[Arc L - The Fallen Abbey]], and the beginning of [[Arc P - Dinner with the Devil]].
 
-**[[Introduction]]**
+**[[Curse of Strahd Reloaded—A DM's Guide to Running Curse of Strahd]]**
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 

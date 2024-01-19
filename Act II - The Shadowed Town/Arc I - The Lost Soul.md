@@ -564,10 +564,14 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Witch Bolt (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning between Morgantha and the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the attacker takes the same amount of damage.</p>
 <p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
 </div>
-<br>
+
+
 ![[Bella.png]]
+
 ![[Offalia.png]]
-<br>
+
+![[Morgantha.png]]
+
 <div class="statblock">
 <h2>The Nightmare Three</h2>
 <em>Gargantuan fiend, neutral evil</em>
