@@ -1,3 +1,21 @@
+# Hotfix 2.0.5.5 (Jan. 18, 2023)
+• Fixed assorted typos & inconsistencies  
+• Clarified the location of the Sunsword and Tome of Strahd in [[Running the Adventure]]  
+• Removed language in [[Arc E - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
+• Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
+• Defined "bloodied" in [[Arc I - The Lost Soul]]  
+• Clarified the duration of the conversation with the gallows speaker in [[Arc I - The Lost Soul]]  
+• Clarified the tactics of the gallows speaker in [[Arc I - The Lost Soul]] and increased its fly (hover) speed to 40 ft.  
+• Revised the ***amphibious cacophony*** lair action in [[Arc I - The Lost Soul]] to force movement on the target's turn, rather than as a reaction.  
+• Replaced Victor's decision to cast *fly* in battle against the hags in [[Arc I - The Lost Soul]] with a casting of *greater invisibility*
+• Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[Arc I - The Lost Soul]]  
+• Clarified where the hag coven stands upon the players' return and the hags' sizes in [[Arc I - The Lost Soul]]  
+• Revised the area description of the Whispering Wall in [[Arc K - The Stolen Gem]]  
+• Added spell save DCs to the *twilight crest* in [[Arc K - The Stolen Gem]]  
+• Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
+• Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
+• Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Arc P - Dinner with the Devil]]  
+• Added art by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/) for Ismark Kolyanovich, as well as the second-phase forms for Bella and Offalia
 # Hotfix 2.0.5.4 (Jan. 8, 2023)
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
 # Hotfix 2.0.5.3 (Jan. 3, 2023)

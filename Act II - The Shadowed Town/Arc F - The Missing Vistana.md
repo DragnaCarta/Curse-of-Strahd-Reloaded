@@ -44,9 +44,9 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > Disguising himself as Yan, Van Richten used Arabelle’s advice to sneak into the Vistani camp itself, stealing several of the colorful paints that the Vistani used to decorate their wagons. That night, Rictavio’s Carnival of Wonders was born—and Van Richten himself became Rictavio, ringmaster of the “carnival.”
 >
-> As Van Richten worked, Arabelle—who had stowed the card in her pocket following a vague premonition that morning—felt her inner Sight flare once more. Without understanding entirely why, she hid a copy of the Hooded One Tarokka card in her pillow alongside a silvered dagger that Van Richten had given her, leaving her beaded charm bracelet wrapped around them.
+> As Van Richten worked, Arabelle—who had stowed a copy of the Hooded One Tarokka card in her pocket following a vague premonition that morning—felt her inner Sight flare once more. Without understanding entirely why, she hid the card in her pillow alongside a silvered dagger that Van Richten had given her, leaving her beaded charm bracelet wrapped around them.
 >
-> In the morning, Van Richten hid Arabelle in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with the Gunther and Yelena Arasek to store the wagon (still holding Arabelle) in Arasek Stockyard, and took up residence in the private guest room of the Blue Water Inn.
+> In the morning, Van Richten hid Arabelle in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with Gunther and Yelena Arasek to store the wagon (still holding Arabelle) in Arasek Stockyard, and took up residence in the private guest room of the Blue Water Inn.
 >
 > ***Aftermath of the Kidnapping.*** Arabelle’s absence didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, Luvash had discovered the hungover Alexei and learned of his daughter’s disappearance. The Vistani and dusk elves spread out among the nearby woods, searching in vain for any sign of the missing girl.
 >
@@ -530,7 +530,7 @@ A successful DC 15 Intelligence (Investigation) check or a ten-minute search of 
 * Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
 ![[Carnival Poster.png]]
 
-As the players search the room, any character who looks out one of the windows toward Lake Zarovich notices something odd: a patch of lily pads approximately fifteen feet from the shore stained a bright, flamboyant yellow, at clear odds with the muted greens of the lily pads nearby. 
+As the players search the room, any character who looks out one of the windows toward Lake Baratok notices something odd: a patch of lily pads approximately fifteen feet from the shore stained a bright, flamboyant yellow, at clear odds with the muted greens of the lily pads nearby. 
 
 > [!abstract]+ **The Lily Pads**
 >
@@ -690,7 +690,7 @@ Unless diverted by the players, the conversation unfolds as follows:
 
 * Arabelle greets the players warmly, thanks them for their efforts to find her, and shares her regret for the wounds they have sustained along the way. 
 * Van Richten is surprised to learn that Arabelle was expecting them, and Arabelle admits that she had a premonition that someone would follow in their tracks and that she left multiple clues—the Tarokka card, the bracelet, the handkerchief, and the ring—to guide the players in their path.
-* Arabelle thanks Van Richten for his efforts to keep him safe, but gently reminds him that they both knew that their plan could not last forever—and that, with the players present, a long-term solution is more likely within reach.
+* Arabelle thanks Van Richten for his efforts to keep her safe, but gently reminds him that they both knew that their plan could not last forever—and that, with the players present, a long-term solution is more likely within reach.
 
 During this conversation, Van Richten can also reveal the following information if he hasn't already:
 

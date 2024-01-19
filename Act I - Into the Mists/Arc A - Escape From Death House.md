@@ -223,7 +223,7 @@ This room is largely as described in <span class="citation">Dining Room (p. 213)
 
 A player who partakes in the food suffers no ill effects.
 ### Kitchen and Pantry
-*This scene corresponds to Appendix B: Area 4
+<span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
 
 This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
 
@@ -469,7 +469,7 @@ This room is largely as described in <span class="citation">Nursemaid’s Suite 
 <p>Looking down, you notice that a small object seems to have fallen beneath the crib. In the distance, you can faintly hear the sound of an infant's soft whimpering.</p>
 </div>
 
-The object is a severed human finger with several pieces of flesh stripped from it. Tiny toothmarks can be seen around the wounds. A DC 12 Wisdom (Medicine) check identifies the finger as a woman's, and the teethmarks as a human child's. 
+The object is a severed human finger with several pieces of flesh stripped from it. Tiny toothmarks can be seen around the wounds. A DC 12 Wisdom (Medicine) check identifies the finger as a woman's, and the toothmarks as a human child's. 
 
 The name "Walter" has been lovingly carved into the head of the crib. A successful DC 14 Intelligence (Arcana) identifies the runes around it as dark necromantic magic.
 
@@ -980,7 +980,7 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 <strong>Challenge</strong> 3, or 2 when its <em>heavy sleeper</em> feature is active.<br>
 <hr>
 <p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its multiattack.</p>
-<p><strong><em>Instinctual Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change.</p>
+<p><strong><em>Instinctual Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The flesh mound makes two Slam attacks. If it has a Medium or smaller creature grappled, the flesh mound then uses its Engulf on it.</p>
 <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) bludgeoning damage. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>

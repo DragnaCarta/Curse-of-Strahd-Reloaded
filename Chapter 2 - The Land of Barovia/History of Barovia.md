@@ -275,7 +275,7 @@ Before they could be wed, however, Kasimir Velikov, Patrina’s brother, learned
 
 When news of the dusk elf massacre reached Saint Markovia’s ears, she knew that she could wait no longer. Markovia rallied her followers and declared holy war on Castle Ravenloft—and when Strahd sent a group of vampire spawn to the Abbey, destroyed them with contempt.
 
-Determined to complete her crusade, Saint Markovia led her followers to Castle Ravenloft, where she battled Strahd as described in <span class="citation">Saint Markovia's Thighbone (p. 222)</span>. Strahd slayed her and her followers, and sealed her remains in the crypts below Ravenloft.
+Determined to complete her crusade, Saint Markovia led her followers to Castle Ravenloft, where she battled Strahd as described in <span class="citation">Saint Markovia's Thighbone (p. 222)</span>. Strahd slew her and her followers, and sealed her remains in the crypts below Ravenloft.
 
 Though unsuccessful, Markovia’s attack had left Strahd wounded and emptied the castle of most of its remaining staff. Adamant that a keep should lack neither guards nor attendants, Strahd raised the corpses of his former guards as **wights** and set them to patrolling the castle.
 
@@ -357,7 +357,7 @@ In this time, Strahd learned that the Mists that entrapped him and his land woul
 
 Those opportunities, however, were few and far between, with years or even decades passing between them. Bereft of lands or people to conquer, Strahd grew melancholic, withdrawing to his coffin for weeks, then months at a time, spending his solitude in a state of slumbering torpor until his servants awoke him.
 
-When not hibernating, Strahd continued to seek entertainment wherever he could find it. He took on two new brides: Anastrasya Karelova, a Vallakian noblewoman who delighted him with her cunning and wit; and Volenta Popfsky, a Barovian courtesan whose cheerful sadism was matched only by her innovative spirit. Anastrasya assumed authority over Strahd’s vast network of spies, while Volenta built traps and gruesome installations across Castle Ravenloft, including <span class="citation">Flight of the Vampire (p. 61)</span>, the floating skeletons of <span class="citation">K26. Guards' Post (p. 61)</span>, the armor traps on <span class="citation">K19. Grand Landing (p. 58)</span>, and the <span class="citation">K67. Hall of Bones (p. 78)</span>.
+When not hibernating, Strahd continued to seek entertainment wherever he could find it. He took on two new brides: Anastrasya Karelova, a Vallakian noblewoman who delighted him with her cunning and wit; and Volenta Popofsky, a Barovian courtesan whose cheerful sadism was matched only by her innovative spirit. Anastrasya assumed authority over Strahd’s vast network of spies, while Volenta built traps and gruesome installations across Castle Ravenloft, including <span class="citation">Flight of the Vampire (p. 61)</span>, the floating skeletons of <span class="citation">K26. Guards' Post (p. 61)</span>, the armor traps on <span class="citation">K19. Grand Landing (p. 58)</span>, and the <span class="citation">K67. Hall of Bones (p. 78)</span>.
 
 One hundred and eighty years after Barovia’s isolation, a **deva** named Lumiel was sent from the Upper Planes to honor Saint Markovia’s memory. Lumiel took up residence at the Abbey of Saint Markovia and called himself the Abbot. He reopened the abbey and began tending to Barovia’s sick, but—with Strahd's influence—ultimately fell from grace and descended into madness. (See <span class="citation">The Abbot (p. 225)</span>.)
 
@@ -428,13 +428,13 @@ Shortly before the wedding, however, a Vistana—acting at the behest of Madam E
 
 Madam Eva’s foretelling proved prescient. As described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, Davian blamed Urwin for the theft, leading to a bitter fight. Urwin and Danika departed the winery altogether for Vallaki, where they purchased a run-down tavern and renamed it the Blue Water Inn. The inn soon became a haven for the members of the Keepers of the Feather, who expanded their operations in Vallaki and extended their spy network. 
 
-Not far away, in the Vistani encampment just outside of Vallaki, the Vistana Luvash became the proud father of Arabelle—an unknowing descendant of Madam Eva’s blood.
+Not far away, in the Vistani encampment just outside of Vallaki, the Vistana Luvash became the proud father of Arabelle—a descendant of Madam Eva’s blood.
 
 Months later, Ezmerelda, now a young woman, ran from home in search of Dr. Van Richten. Two years passed before she finally found him, becoming his apprentice as described in <span class="citation">Ezmerelda d'Avenir (p. 231)</span>. Their companionship lasted for two more years—until Van Richten came to learn the terrible truth of the Vistani curse that haunted him. Unwilling to either reveal the truth to Ezmerelda or risk her death at the curse's dark hands, Van Richten staged a fierce and raw argument, driving Ezmerelda and his other students away for—he believed—their own safety.
 
 Ezmerelda, determined to prove her skills as a monster hunter and spite Van Richten in the process, set off to make a name for herself. Less than a year later, however, the **werewolf** Kiril Stoyanovich bit off Ezmerelda’s right leg following a rescue mission gone wrong, sidelining her for months in Barovia while she commissioned Gadof Blinsky to craft a prosthetic. 
 
-Back in Barovia, the young Victor Vallakovich found an old spellbook in his father’s library—the lost spellbook of the lich Khazan—and began to teach himself magic. That same winter, Nikolai Wachter, the husband of Lady Fiona Wachter, died of illness, breaking Fiona’s heart. Meanwhile, the last elders of the Vallakian Vistani encampment passed away, leaving Luvash—and his younger brother Arrigal—in charge of the caravan.
+Meanwhile, the young Victor Vallakovich found an old spellbook in his father’s library—the lost spellbook of the lich Khazan—and began to teach himself magic. That same winter, Nikolai Wachter, the husband of Lady Fiona Wachter, died of illness, breaking Fiona’s heart. Meanwhile, the last elders of the Vallakian Vistani encampment passed away, leaving Luvash—and his younger brother Arrigal—in charge of the caravan.
 ## Strahd’s Return
 Three years after Nikolai Wachter’s death, a lonely and despondent Rudolph van Richten determined that it was time to finally seek out his final foe: the legendary vampire, Strahd von Zarovich.
 

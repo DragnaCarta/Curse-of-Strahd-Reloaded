@@ -193,7 +193,7 @@ During the conversation, at moments when it seems natural to do so, [[Strahd von
 
 * "Ismark Kolyanovich defied me by keeping his sister from me. Why should I, as his lord, not punish him for his disloyalty?"
 * "I have claimed Ireena Kolyana, and twice marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
-* "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch with you now, in the same way that I dispatched with him?" (Strahd's question is referring to Dr. Rudolph van Richten.)
+* "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, just as I disposed of him?" (Strahd's question is referring to Dr. Rudolph van Richten.)
 
 If the players buried Walter's bones and put the spirits of Death House to rest, Strahd poses an additional question:
 
@@ -234,7 +234,7 @@ The **greater strix** uses the statistics of a **manticore**, but is Medium and 
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
 > [!combat]- **Balancing the Strix**
-> This combat encounter is an **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the greater strix’s HP to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's HP to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (2d4) piercing damage if it has half its hit points remaining or fewer.
 > * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
@@ -716,11 +716,11 @@ Soon after the first wolf appears, the pack attacks. Read:
 The wolves attack the players from all directions, aiming to surround them. 
 
 > [!combat]- **Balancing the Wolves**
-> This combat encounter is an **bloody** encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **brutal** encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel in raven form), and will consume approximately 67% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of wolves to 3.
-> * ***Four Players.*** Reduce the number of wolves to 4.
-> * ***Six Players.*** Reduce the number of wolves to 1 and increase the number of werewolves to 2.
+> * ***Four Players.*** Reduce the number of wolves to 5.
+> * ***Six Players.*** Increase the number of wolves to 9 and increase the number of werewolves to 2.
 
 Have the players, **wolves**, **werewolf** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
 
@@ -1022,7 +1022,7 @@ At some point during the conversation, Danika approaches the table to clear away
 
 - [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
 - Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
-- Danika replies, "We're starting to run a bit low on some of our vintage stock—can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
+- Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
 - As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
 
 If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
@@ -1073,7 +1073,7 @@ If one or more players follow Rictavio out of the Blue Water Inn, they can follo
 Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
 
 > [!info]+ **Group Checks**
-> See <span class="citation">Group Checks (p. 175)</span> for more information on how to use group ability checks.
+> See <span class="citation">Group Checks (<em>Player's Handbook</em>, p. 175)</span> for more information on how to use group ability checks.
 
 > [!abstract]+ **Detecting Magic**
 > If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
@@ -1091,7 +1091,7 @@ If confronted regarding his magic items or true identity, Rictavio directs the p
 * If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
 * If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies and additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
 
 Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
 
@@ -1175,7 +1175,7 @@ If the players defied Vargas or Izek in any way, or otherwise assisted Willemina
 ## Journey to Vallaki
 ***The Lansten Family.*** The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
 
-***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and endear apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain. 
+***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain. 
 
 As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
 
@@ -1215,6 +1215,6 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
 
-***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as baudy and comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in ***Arc E: The Missing Vistania.***
+***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as baudy and comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc F - The Missing Vistana]].
 
 ***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**

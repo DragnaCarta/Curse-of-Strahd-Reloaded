@@ -26,7 +26,7 @@ The players begin this act at 5nd level and should end it at 8th level, gaining 
 * lift Rudolph van Richten’s curse (2,000 XP)
 * put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (1,000 XP)
 * return from Castle Ravenloft following the dinner with Strahd (2,500 XP)
-* steal Argnyvost’s skull from Ravenloft’s **Hall of Bones** (1,000 XP)
+* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (1,000 XP)
 * recover the *Icon of Ravenloft* from Ravenloft’s catacombs (1,000 XP)
 * rescue Emil Toranescu from Ravenloft’s dungeons (1,000 XP)
 * rescue Gertruda from the master bedroom of Castle Ravenloft (500 XP)

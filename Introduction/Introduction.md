@@ -75,12 +75,12 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 > If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]].
 ## Act IV - Secrets of the Ancient
 [[Act IV Summary]]. Coming soon.
-[[Arc Q - The Tyrant's Trials]]. Coming soon.
-[[Arc R - The Amber Temple]]. Coming soon.
-[[Arc S - The Fanes of Barovia]]. Coming soon.
+[[Arc R - The Tyrant's Trials]]. Coming soon.
+[[Arc S - The Amber Temple]]. Coming soon.
+[[Arc T - The Fanes of Barovia]]. Coming soon.
 ## Act V - The Curse of Strahd
 [[Act V Summary]]. Coming soon.
-[[Arc T - The Curse of Strahd]]. Coming soon.
+[[Arc U - The Curse of Strahd]]. Coming soon.
 [[Epilogue]]. Coming soon.
 ## Appendices
 [[Non-Player Characters]]. A compendium of every major NPC in the adventure.

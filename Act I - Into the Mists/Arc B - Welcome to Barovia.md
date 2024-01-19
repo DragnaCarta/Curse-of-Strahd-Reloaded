@@ -98,7 +98,7 @@ The journey from here to the outskirts of the village is two miles long and take
 This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
 
 <div class="description">
-<p>As dusk begins to fall, plunging the overcast skies into a dull, darkened gloom, the outskirts of the village come into clearer view. A wide, dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, web cobblestones.</p>
+<p>As dusk begins to fall, plunging the overcast skies into a dull, darkened gloom, the outskirts of the village come into clearer view. A wide, dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, wet cobblestones.</p>
 <p>Remnants of wooden barricades stand haphazardly along the streets. Some appear to be partially dismantled, with planks, logs, and simple tools piled nearby. The structures around them bear scorch marks and gashes, and several buildings show partially collapsed roofs or walls, allowing the cold, creeping fog to drift silently inside.</p>
 <p>The tall shapes of village dwellings stand above the rest, looming out of the dense fog that clings to the earth. Though flickers of silhouettes, illuminated by candlelight, occasionally drift across the dark windows above, not a sound cuts the silence save for the quiet flapping of wings.</p>
 </div>
@@ -140,6 +140,8 @@ When the players enter, these Vistani eye them with brief interest, but soon ret
 
 As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, and invites them to his table. He notes that the players appear to be newcomers to Barovia, apologizes for the state of the village, and asks how they've come to arrive in the valley. "You must have a thousand questions," he says sympathetically. "I'd be glad to answer as many as I can."
 
+![[Ismark.png]]
+
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
 > **Roleplaying Information**
@@ -159,7 +161,7 @@ As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, a
 > ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
 
 ### Drinks with Ismark
-As the players drink, [[Non-Player Characters#Ismark Kolyanovich]] can share the the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard," and he doesn't suggest that the Vistani serve Strahd.
+As the players drink, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] can share the the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard," and he doesn't suggest that the Vistani serve Strahd.
 
 Ismark can also share the following information:
 
@@ -532,7 +534,7 @@ As the conversation continues, Doru might ask the players:
 * whether Escher has been seen in the village, and
 * whether Doru’s betrothed, Gertruda, survived the siege.
 
-If told that Gertruda has left the village for Castle Ravenloft—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught with guilt and regret, despairing at the thought that she might already be dead. Though he doesn’t ask them to travel to Castle Ravenloft, he asks the players to look out for her—and bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
+If told that Gertruda has left the village alone for Vallaki—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught, but hopes aloud that she made the journey safely. He asks the players to look out for her and help bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
 ### Doru's Trial
 If the players agree to fulfill Doru’s request by exposing him to fresh blood, he asks them to remain silent while he resists—and to strike him down if he succumbs. When the trial begins, read the following:
 

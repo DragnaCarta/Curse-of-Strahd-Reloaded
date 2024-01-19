@@ -8,7 +8,7 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 # E1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
-The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. Milivoj, the church groundskeeper, isn’t present when the players arrive.
+The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
 
 The church's occupants follow the following schedule unless interrupted:
 
@@ -117,7 +117,7 @@ Father Petrovich can also share the date of St. Andral's Feast, which will take 
 
 If the players express an interest in doing so, Father Petrovich is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
 
-If the players ask for the identities of other possible witnesses, Father Petrovich notes that the only other employee of the church is the groundskeeper, Milivoj. However, Milivoj hasn’t come into work today. Father Petrovich can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
+If the players ask for the identities of other possible witnesses, Father Petrovich notes that the only other employee of the church is the groundskeeper, Milivoj. Father Petrovich can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
 
 Father Petrovich accompanies the players as they complete their investigation, answering additional questions when asked. If the players' investigation takes them beyond the church, he insists on joining them and asks Yeska to attend the chapel in his absence. (He takes personal responsibility for the bones' disappearance, and—given his connections across the town and his service to the Morninglord—wishes to assist the players in recovering them.)
 
@@ -358,7 +358,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change.</p>
+<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, or uses <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
 <p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
@@ -495,7 +495,7 @@ Should the players do so, Rahadin plays the role of an adversarial and cold-hear
 
 The players can also argue that either character has shown sincere remorse for their actions.
 
-When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check to attempt to convince Rahadin to decresase Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
+When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
 
 The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows:
 
@@ -563,7 +563,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +11, Wis +7<br>
-<strong>Skills</strong> Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 16<br>
@@ -575,8 +575,8 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
 - 3/day: phantom steed<br>
 - 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong>Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change.</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his <strong><em>saber</em></strong> or two attacks with his <strong><em>poisoned darts</em></strong>.
 <p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
@@ -628,7 +628,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +11, Wis +7<br>
-<strong>Skills</strong> Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 16<br>
@@ -640,7 +640,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success, the target is no longer bleeding.)
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
 <p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
 <p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
@@ -648,7 +648,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn.</p>
 <p><strong><em>Vengeful Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong>. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm (2 reactions).</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
 <p><strong><em>Misty Escape.</em></strong> When Rahadin takes damage while at 80 hit points or fewer, he can use his reaction to cast <em>fog cloud</em> at 4th level. He can then immediately take the Hide action and move up to his speed without triggering opportunity attacks.</p>
 </div>
 
