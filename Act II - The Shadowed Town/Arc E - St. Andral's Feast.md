@@ -61,7 +61,7 @@ The church's occupants follow the following schedule unless interrupted:
 > 
 > Six days later, shortly before Yeska's lessons with Father Petrovich, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
 > 
-> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Petrovich revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with a crowbar in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
+> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Petrovich revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with his shovel in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
 > 
 > But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Petrovich emerged to block the exit. Without recognizing him, Father Petrovich demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
 > 
@@ -85,7 +85,6 @@ When the players first enter this area, read:
 
 <div class="description">
 <p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance.  Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
-
 <p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
 </div>
 
@@ -313,6 +312,9 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 > * ***Four Players.*** Decrease the number of vampire spawn to one. 
 > * ***Six Players.*** Increase the number of vampire spawn to three.
 
+> [!warning]+ **Sunlight in Barovia**
+> Remember that vampires and other creatures in Barovia are unaffected by sunlight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
+
 <div class="statblock">
 <h2>Volenta, First Form</h2>
 <em>Medium undead, chaotic evil</em>
@@ -495,7 +497,7 @@ Should the players do so, Rahadin plays the role of an adversarial and cold-hear
 
 The players can also argue that either character has shown sincere remorse for their actions.
 
-When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
+When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check—to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
 
 The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows:
 
@@ -525,7 +527,11 @@ Rahadin does not deliver any sentence until all have been agreed upon. If the pl
 
 If the players appear horrified by Rahadin's chosen sentence, he coldly reminds them that the prisoners have been found guilty of conspiring to steal from a holy church. "My lord's subjects often claim he lacks appreciation for the sacred," he says. "It seems, perhaps, that he is the only one with any appreciation at all."
 
-If any players attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
+If the players appear unpersuaded, Milivoj tells them hoarsely, "Please, don't do anything stupid on my behalf. I did something wrong, and I'll accept any punishment. Just so long as my siblings don't suffer." (If punished with branding, flogging, or mutilation, Milivoj grits his teeth and stifles a roar of pain, but refuses to cry out and give Rahadin the satisfaction.)
+
+If any players appear likely to obstruct Rahadin's efforts to carry out a sentence, Lady Wachter quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered Rahadin down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. Vallaki *needs* you."
+
+If the players actually attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
 
 Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ once more and departs Vallaki for Castle Ravenloft.
 

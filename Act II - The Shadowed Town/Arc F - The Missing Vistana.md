@@ -55,8 +55,6 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 > Meanwhile, Van Richten plans to deliver Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
 >
 > Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
-> 
-> Arabelle hasn't told him, however, that she suffers from a strange and terrible wasting disease—one which will swiftly kill her if left untreated. The sole remedy is an herbal tincture she must receive once every month—and the time left to do so is fast ticking down.
 # F1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
@@ -154,16 +152,6 @@ Luvash can share the following information with the players:
 * Luvash led the search for Arabelle, joining more than a dozen Vistani and nearly that many dusk elf scouts from the hovels below the hill. Luvash himself had to return to the encampment after his right leg was caught in a wolf trap, leaving him too wounded to walk.
 * The search parties haven’t yet found Arabelle. However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
 * Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
-* Luvash is desperate to recover Arabelle soon, who has suffered from a strange and terrible wasting disease since the age of five. If she does not receive a particular herbal tincture once per month, the disease will devour her muscles and bones, killing her within a week's time or less. She was due to receive her next dose today, and Luvash fears that if she is not already dead, she will be soon. 
-
-> [!lore]+ **Arabelle's Disease**
-> When Arabelle's powers as a seer first emerged at the age of five, the divine spark of the Seeker within her kindled as well. Unlike Madam Eva, however, Arabelle was a mere mortal, her physical form unable to contain the power of a goddess, and her small body rapidly began to waste away.
-> 
-> To save her, Luvash took her to Tser Pool, where Madam Eva prescribed a particular tincture brewed from chamomile, lavender, elderflower, rosemary, and—most importantly—mugwort and wormwood, which grow only near a hill on the eastern side of the Vallakian basin. (The hill in question is the promontory on which Old Bonegrinder sits; mugwort and wormwood grow near the Mountain Fane, which lies at its base. A player who succeeds on a DC 14 Intelligence (Nature) check identifies mugwort and wormwood as herbs associated with divination and prophecy.)
-> 
-> Arabelle knows that, if she does not receive her next dose of medicine, she will die. However, she also knows that if Strahd captures her, he will turn her into a vampire or extract her power for his own purposes. Though she does not relish the thought, she is willing to accept the terror of death if doing so will deprive Strahd of the victory he seeks.
-> 
-> She also knows that, the longer she remains with Van Richten, the greater the chance of detection and capture. But she has seen a future in which she is discovered by someone different—someone who can reconcile those who wish to keep her safe. Her sole hope, she believes, lies with that future.
 
 Luvash believes that the sigil on the signet ring may lead him to Arabelle’s location. Though Kasimir has been unable to make sense of it, Baron Vargas Vallakovich of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
 
@@ -172,7 +160,7 @@ Luvash asks the players to recover the ring from Kasimir, then research its sigi
 If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hovels** to meet with Kasimir.
 
 > [!abstract]+ **Tracking Arabelle**
-> If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of <span class="citation">P. Luna River Crossroads (p. 40)</span>.
+> If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of <span class="citation">P. Luna River Crossroads (p. 40)</span>. As the players travel there, they pass through [[#F5a. Luna River Bridge]] and [[#F5b. Luna River Crossroads]].
 > 
 > A player who searches the area where Arabelle disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
 > 

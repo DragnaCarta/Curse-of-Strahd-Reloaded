@@ -200,7 +200,7 @@ The player who possesses the *amber shard* should have strong, vivid reasons to 
 ***Developments.*** In **Act I, Arc A: Escape From Death House**, the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc H - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In *Act V, Arc U*, Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in **Appendix B: The Amber Shards,** offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
-## Redemption—The Angel's Feather.
+## Redemption—The Angel's Feather
 ![[Angel's Feather.png]]
 A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.
 
