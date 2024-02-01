@@ -1,4 +1,33 @@
-# Hotfix 2.0.5.5 (Jan. 18, 2023)
+# Hotfix 2.0.6.1 (Jan. 31, 2024)
+* Delayed Ezmerelda's request to investigate the werewolf den in [[Arc M - The Den of Wolves]] to one day after she first meets the players in [[Arc L - The Fallen Abbey]]
+* Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Arc N - Argynvost's Beacon]]
+* Pushed the date of the dinner with Strahd one day forward in [[Arc P - Dinner with the Devil]]
+* Fixed assorted typos
+# Version 2.0.6 (Jan. 31, 2024)
+* Added [[Arc M - The Den of Wolves]] and [[Arc N - Argynvost's Beacon]]
+* Added Campaign Contract in [[Session Zero]]
+* Added information regarding the Devourer and Strahd's intentions for Ireena to [[History of Barovia]]
+* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[History of Barovia]]
+* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Arc B - Welcome to Barovia]]
+* Added NPC profile for Morgantha in [[Arc C - Into the Valley]]
+* Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Arc C - Into the Valley]]
+* Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc E - St. Andral's Feast]]
+* Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[Arc I - The Lost Soul]]
+* Modified Rahadin's trial in [[Arc E - St. Andral's Feast]] to discourage players from attacking Rahadin
+* Removed Arabelle's wasting disease in [[Arc F - The Missing Vistana]]
+* Revised the exterior description of Wachterhaus in [[Arc G - Lady Wachter's Wish]]
+* Added information regarding Leo Dilisnya and the Tarokka reading for the *Tome of Strahd* to [[Arc G - Lady Wachter's Wish]]
+* Modified Victor's tactics during the fight with the hags in [[Arc I - The Lost Soul]]
+* Modified the names of the lambda spells cast by the coven in [[Arc I - The Lost Soul]] to avoid confusion with RAW spells.
+* Removed disadvantage on ranged attacks made by the **Ba'al Verzi Avenger** in [[Arc I - The Lost Soul]]
+* Clarified the tactics of the **gallows speaker** in [[Arc I - The Lost Soul]]
+* Clarified the behavior of the druids if alerted in [[Arc K - The Stolen Gem]]
+* Pushed back Baron Krezkov's invitation to stay at his family's home in [[Arc L - The Fallen Abbey]] until after the players have completed [[Arc K - The Stolen Gem]]
+* Added an NPC profile for Ezmerelda d'Avenir in [[Arc L - The Fallen Abbey]]
+* Changed the name of Anna Krezkova's ancestor in [[Arc L - The Fallen Abbey]]
+* Added [[Glossary]]
+* Fixed assorted typos & inconsistencies
+# Hotfix 2.0.5.5 (Jan. 18, 2024)
 • Fixed assorted typos & inconsistencies  
 • Clarified the location of the Sunsword and Tome of Strahd in [[Running the Adventure]]  
 • Removed language in [[Arc E - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
@@ -16,9 +45,9 @@
 • Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
 • Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Arc P - Dinner with the Devil]]  
 • Added art by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/) for Ismark Kolyanovich, as well as the second-phase forms for Bella and Offalia
-# Hotfix 2.0.5.4 (Jan. 8, 2023)
+# Hotfix 2.0.5.4 (Jan. 8, 2024)
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
-# Hotfix 2.0.5.3 (Jan. 3, 2023)
+# Hotfix 2.0.5.3 (Jan. 3, 2024)
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
 * Added room codes to winery scenes in [[Arc K - The Stolen Gem]]
 * Fixed assorted typos
@@ -37,7 +66,7 @@
 * Fixed assorted typos
 * Added [[Arc K - The Stolen Gem]], the first half of [[Arc L - The Fallen Abbey]], and the beginning of [[Arc P - Dinner with the Devil]].
 
-**[[Curse of Strahd Reloaded—A DM's Guide to Running Curse of Strahd]]**
+**[[A DM's Guide to Curse of Strahd]]**
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 

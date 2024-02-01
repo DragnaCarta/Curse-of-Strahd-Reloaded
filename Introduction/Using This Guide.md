@@ -16,7 +16,7 @@ As you read through this guide, make sure you have access to the following resou
 * *Xanathar's Guide to Everything*, and
 * *Van Richten's Guide to Ravenloft*.
 
-When we reference one of these unholy tomes, you'll find the necessary citation in parentheses, formatted like this: <span class="citation">Van Richten's Guide to Ravenloft, p. 66</span>. If you lack the required sourcebook, get creative with a homebrewed statblock or find a suitable replacement.
+When we reference one of these unholy tomes, you'll find the necessary citation in parentheses, formatted like this: <span class="citation"><em>Van Richten's Guide to Ravenloft</em>, p. 66</span>. If you lack the required sourcebook, get creative with a homebrewed statblock or find a suitable replacement.
 
 > [!warning] **Brewer Beware**
 > The original *Curse of Strahd: Reloaded* was a highly modular guide, containing a number of distinct ideas, concepts, and challenges that could easily be extracted, applied, and recombined alongside a number of additional reworks or homebrew elements. However, this revision aims to take a more cohesive path, weaving together characters, narratives, and themes to forge a more evocative, dramatic, and memorable adventure.

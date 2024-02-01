@@ -251,7 +251,7 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 <h2>Muriel Vinshaw</h2> 
 <em>Medium humanoid (human, shapechanger), chaotic good</em> 
 <hr> 
-<strong>Armor Class</strong> 12 (leather armor) 
+<strong>Armor Class</strong> 14 (leather armor) 
 <br> 
 <strong>Hit Points</strong> 63 (7d8 + 7) 
 <br> 
@@ -291,18 +291,18 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 <strong>Proficiency Bonus</strong> +2
 <br> 
 <hr> 
-<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p> 
+<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts her turn with 0 hit points and doesn't regenerate.</p> 
 <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p> 
 <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p> 
 <h3>Actions</h3> 
 <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p> 
-<p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage, and Muriel can mark the target.</p> 
+<p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p> 
 <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack</em>: +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
 <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p> 
 <h3>Bonus Actions</h3> 
 <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her human form if she dies.</p> 
 <h3>Reactions</h3> 
-<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits a target, other than Muriel, within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p> 
+<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
 If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
@@ -654,6 +654,23 @@ The players emerge at the base of the hill upon which **Old Bonegrinder** rests,
 As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
+
+> [!profile]+ **Morgantha, Dream Peddler**
+> **Roleplaying Information**
+> ***Resonance.*** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
+> 
+> ***Emotions.*** Morgantha most often appears to feel cheerful, amused, or thoughtful.
+> 
+> ***Motivations.*** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
+> 
+> ***Inspirations.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
+> 
+> **Character Information**
+> ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
+> 
+> ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
+> 
+> ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc I - The Lost Soul#I3b. Franz’s Tent|Franz]].
 
 Morgantha greets the players warmly, calling them "weary travelers," and shares her hope that the road has not been too hard on them. She freely shares the following information if asked:
 
@@ -1154,7 +1171,10 @@ If the players interrupt Willemina’s arrest, the Baron greets them as outsider
 
 The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts. 
+If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+
+> [!lore]+ **What's Lucian Doing Here?**
+> After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc E - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
 
 The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
 
@@ -1215,6 +1235,6 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
 
-***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as baudy and comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc F - The Missing Vistana]].
+***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc F - The Missing Vistana]].
 
 ***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**

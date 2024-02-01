@@ -28,7 +28,7 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > 
 > When Strahd awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents’ grasp, while Stella hoped to bring her family with her from Barovia.) The two dove together into a new research project: the construction of a teleportation circle capable of escaping Barovia.
 > 
-> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using Victor’s undead cats, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
 > 
 > Neither Stella nor Victor could have known it, but the Mists of Barovia formed a unique metaphysical barrier against Victor’s teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella’s soul to the raw energies of the Ethereal Plane.
 > 
@@ -99,7 +99,7 @@ Victor asks the players to visit the refugee camp and investigate the night hag�
 
 If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
 
-> [!item]+ **Ethereal Entities**
+> [!lore]+ **Ethereal Entities**
 >
 > _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
 >
@@ -471,7 +471,7 @@ Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage a
 
 Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibian Cacophony*** lair action to lure the children back to the windmill.)
+As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
 
 If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
 
@@ -500,7 +500,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 
 <div class="statblock">
 <h2>The Bonegrinder Coven</h2>
-<em>Trio of two huge fiends and one medium fiend, neutral evil</em>
+<em>Trio of three medium fiends, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 17 (natural armor)
 <br>
@@ -546,11 +546,11 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Sickening Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
+<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
 <p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
 <p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
 <p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Blight (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Withering Rot (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
 <p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
@@ -559,9 +559,9 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
 <h3>Reactions</h3>
-<p><strong><em>Mirror Image (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Hideous Laughter (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, componenets V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witch Bolt (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning between Morgantha and the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the attacker takes the same amount of damage.</p>
+<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
+<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
+<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
 <p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
 </div>
 
@@ -574,7 +574,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 
 <div class="statblock">
 <h2>The Nightmare Three</h2>
-<em>Gargantuan fiend, neutral evil</em>
+<em>Trio of one medium fiend and two huge fiends, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 17 (natural armor)
 <br>
@@ -618,23 +618,24 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
 <p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
 <h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> *Melee weapon attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> *Melee weapon attack:* +9 to hit, reach 10 ft., one target not grappled by Bella. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> *Melee weapon attack:* +9, reach 5 ft., one target. *Hit:* 14 (2d8 + 6) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses *eyebite*. A target that succeeds on the saving throw is dazed instead.</p>
+<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
+<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +9, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 + 6) piercing damage.</p>
+<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em>. A target that succeeds on the saving throw is dazed instead.</p>
+<br><br>
 <h3>Bonus Actions</h3>
 <p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
 <p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 16 Constitution saving throw or be dazed until the start of Bella's next turn.</p>
 <p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 17 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
 <p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 16 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
-<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn.</p>
+<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
 <p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 16 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
 <h3>Reactions</h3>
 <p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
 <p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
 <p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
 <p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 16 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
-<p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast *absorb elements*.</p>
+<p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
 </div>
 
 > [!combat]- **Balancing the Hags**
@@ -648,7 +649,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
-***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility spell* spell, remaining within 60 feet of the windmill at all times. 
+***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
 
 Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
@@ -943,7 +944,7 @@ A player who makes a successful DC 15 Wisdom (Insight) check discerns that the g
 * When Lovina Wachter’s bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to “betray” him and Reinhold’s memory.
 
 If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
-
+### Fighting the Gallows Speaker
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
 
 > [!info]+ **How Long Does Leo Speak?**
@@ -959,11 +960,13 @@ In battle, Lady Wachter also gains the following reaction:
 
 ***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it. 
 
-Consumed by hatred and rage, the gallows speaker never retreats, nor does it reposition except to pursue its current target. When it enters its second phase, the gallows speaker prefers to fight by grappling a target using its ***grasp of the grave*** feature, then dragging that target through the three-dimensional space of the ethereal Wachterhaus while using his **Ba'al Verzi dagger*** attack and other features to keep the other players at bay.
+In its first phase, the **Speaker of the Gallows**, the gallows speaker never retreats, nor does it reposition except to pursue its current target. 
+
+In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
 
 When reduced to 0 hit points in its second phase, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
 
-When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[Arc D - The Tome of Strahd#D3. Unlocking the Tome|Unlocking the Tome]] for more information about the *Tome* and its contents.
+When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#I9. The Tome of Strahd]] for more information about the *Tome* and its contents.
 
 <div class="statblock">
 <h2>Speaker of the Gallows</h2>
@@ -1002,7 +1005,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <strong>Skills</strong> Perception +5<br>
 <strong>Damage Resistances</strong> bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
 <strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Abyssal, Common<br>
 <strong>Challenge</strong> CR 11<br>
@@ -1063,7 +1066,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <strong>Skills</strong> Perception +5<br>
 <strong>Damage Resistances</strong> bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
 <strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Abyssal, Common<br>
 <strong>Challenge</strong> CR 11<br>
@@ -1074,10 +1077,10 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure, and taking half the necrotic damage on a success. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it.</p>
-<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). Leo can then immediately move up to half his speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
+<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it. Leo doesn't gain disadvantage on an attack roll made with this attack due to being within 5 feet of a hostile creature.</p>
+<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits whirls in a 5-foot-radius sphere around the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
 <h3>Reactions</h3>
 <p>The avenger can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
@@ -1136,6 +1139,34 @@ The following morning, Victor also sends the players the following message with 
 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.
+# I9. The Tome of Strahd
+The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc L - Dinner with Strahd]] for more information about Sasha Ivliskova.)
+
+The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
+## I9a. Reading the Tome
+Once successfully opened, the contents of the *Tome* now read as follows: <sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/i4euxw/plaything_of_darkness_a_philosophy_students_take/">6</a></sup>
+
+<div class="description"><p>I am the Ancient. I am the Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears stone into sand.</p>
+<p>All goodness slipped from my life. I found my youth and strength gone, and all I had left was death. My army settled in the valley of Barovia and took power over the people in the name of a just god, but with none of a god's grace or justice.</p>
+<p>I called for my family, long unseated from their ancient thrones, and brought them here to settle in the castle Ravenloft. They came with a younger brother of mine, Sergei. He was handsome and youthful. I hated him for both.</p>
+<p>From the families of the valley, one spirit shone above all others: a rare beauty, who was called 'perfection,' 'joy,' and 'treasure.' Her name was Tatyana, and I longed for her to be mine. But 'Old One' was my name to her—'elder' and 'brother' also. Her heart went to Sergei. They were betrothed. The date was set.</p>
+<p>With words she called me "brother," but when I looked into her eyes they reflected another name: "death." It was the death of the aged that she saw in me. She loved her youth and enjoyed it, but I had squandered mine. And so I came to hate death—my death. </p>
+<p>But I would not be called "death" so soon. I made a pact with Death. On the day of the wedding, I killed Sergei, my brother, and sealed my pact with his blood.</p>
+<p>I found Tatyana weeping in the garden east of the chapel. She fled from me, and I pursued. Finally, in despair, she flung herself from the walls of Ravenloft, and I watched everything I ever wanted fall from my grasp forever.</p>
+<p>It was a thousand feet through the mists. No trace of her was ever found, and not even I know her final fate. Arrows from the castle guards pierced me to my soul, but I did not die. Nor did I live. I became undead, forever.</p>
+<p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. But the sword, that cursed sword that Sergei brought! I must dispose of that awful tool! I fear and hate it as much as the sun.</p>
+<p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
+<p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, but each time, she flees from me again. But she cannot run forever—and I have nothing but time.</p>
+<p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
+<p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
+
+The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc T - The Amber Temple]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+
+Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
+
+> [!abstract]+ **The Symbol**
+>
+> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete **_Arc P - The Beacon of Argynvostholt_**—is willing to tell them how to get there.
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 
