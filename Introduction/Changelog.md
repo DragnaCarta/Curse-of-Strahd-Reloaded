@@ -1,3 +1,12 @@
+# Hotfix 2.0.6.3 (Feb. 4, 2024
+* Delayed Izek's kidnapping of Ireena in [[Arc H - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Arc H - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Arc E - St. Andral's Feast]] to the players' fifth day in Vallaki.
+* Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Arc F - The Missing Vistana]]
+* Revised Ezmerelda's statistics in [[Arc L - The Fallen Abbey]]
+* Added level markers for [[Arc K - The Stolen Gem]], [[Arc L - The Fallen Abbey]], [[Arc M - The Den of Wolves]], and [[Arc N - Argynvost's Beacon]].
+* Added footnotes referencing intentional homages/inspirations in [[Arc K - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Arc N - Argynvost's Beacon]] (Brother Marek's speech to the players).
+# Hotfix 2.0.6.2 (Feb. 1, 2024)
+* Updated table of contents to include [[Arc M - The Den of Wolves]] and [[Arc N - Argynvost's Beacon]].
+* Added Muriel's relaying of Strahd's Tarokka reading from [[Arc C - Into the Valley]] at the end of [[Arc K - The Stolen Gem]]
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
 * Delayed Ezmerelda's request to investigate the werewolf den in [[Arc M - The Den of Wolves]] to one day after she first meets the players in [[Arc L - The Fallen Abbey]]
 * Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Arc N - Argynvost's Beacon]]

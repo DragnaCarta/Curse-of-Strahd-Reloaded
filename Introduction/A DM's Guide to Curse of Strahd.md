@@ -61,8 +61,8 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
 [[Arc K - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
 [[Arc L - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
-[[Arc M - The Den of Wolves]]. Coming soon.
-[[Arc N - Argynvost's Beacon]]. Coming soon.
+[[Arc M - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
+[[Arc N - Argynvost's Beacon]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
 [[Arc O - Tales of Vallaki]]. Coming soon.
 [[Arc P - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc Q - Ravenloft Heist]]. Coming soon.

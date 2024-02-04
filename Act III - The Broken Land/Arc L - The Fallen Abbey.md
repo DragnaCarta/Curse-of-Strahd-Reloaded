@@ -1,3 +1,5 @@
+_An adventure for five 5th- or 6th-level characters._
+
 In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
 
 Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster—hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
@@ -455,7 +457,65 @@ The barracks are largely described as in <span class="citation">S19. Barracks (p
 <p>She wears a mud-stained longcoat of similar color, a well-oiled suit of studded leather armor catching the light just beneath it. She seems to be wearing boots of two different colors: one an ordinary brown, and the other colored a dull, metallic copper. She glares at a snapped piece of white chalk in her hand.</p>
 </div>
 
-This is Ezmerelda d’Avenir. Ezmerelda's statistics are largely as provided in <span class="citation">Ezmerelda d'Avenir (p. 231)</span>. However, she doesn't have the ***curse*** or ***evil eye*** features. (Although Vistani are rumored to possess the ability to curse others or use "the evil eye," such legends are unfounded in fact.)
+This is Ezmerelda d’Avenir. Her statistics are given below.
+
+<div class="statblock">
+    <h2>Ezmerelda d'Avenir</h2>
+    <em>Medium humanoid (human), chaotic good</em>
+    <hr>
+    <strong>Armor Class</strong> 17 (+1 studded leather armor)
+    <br>
+    <strong>Hit Points</strong> 82 (11d8 + 33)
+    <br>
+    <strong>Speed</strong> 30 ft.
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>14 (+2)</td>
+                <td>19 (+4)</td>
+                <td>16 (+3)</td>
+                <td>16 (+3)</td>
+                <td>13 (+0)</td>
+                <td>17 (+3)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Saving Throws</strong> Wis +2<br>
+    <strong>Skills</strong> Acrobatics +6, Arcana +5, Deception +7, Medicine +2, Perception +4, Performance +5, Stealth +6, Survival +4<br>
+    <strong>Senses</strong> passive Perception 14<br>
+    <strong>Languages</strong> Common<br>
+    <strong>Challenge Rating</strong> 4<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Special Equipment.</em></strong> In addition to her magic armor and weapons, Ezmerelda has two <em>potions of greater healing</em>, six <em>vials of holy water</em>, three wooden stakes, twelve silvered crossbow bolts, and a <em>runeguard stone</em> (see below).</p>
+    <p><strong><em>Spellcasting.</em></strong> Ezmerelda is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 10, +2 to hit with spell attacks). Ezmerelda has the following ranger spells prepared:</p>
+    <ul>
+    <li>1st level (4 slots): longstrider, snare, zephyr strike</li>
+    <li>2nd level (2 slots): darkvision, cordon of arrows</li>
+    </ul>
+    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
+    <p><strong><em>Rapier +1.</em></strong><em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
+    <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
+    <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
+    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
+    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
+</div>
 
 The weapons on the floor are recognizable as a handaxe, a shortsword, and a rapier. The uncovered blade of the handaxe glints strangely under the light. (A player who casts *detect magic* observes that the rapier and handaxe are magical, as is Ezmerelda’s leather armor.)
 

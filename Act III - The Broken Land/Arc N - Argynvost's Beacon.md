@@ -1,3 +1,5 @@
+_An adventure for five 4th, 5th, or 6th-level characters._
+
 In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter Sir Godfrey Gwilym, an ancient **revenant** knight of the Order of the Silver Dragon.
 
 Godfrey solemnly informs the players that, because he is bound to the will of his commander, Vladimir Horngaard, he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.
@@ -13,6 +15,9 @@ To invoke Argynvost's spirit, however, the players must obtain and speak aloud t
 From the gargoyle, the players can obtain a cryptic prophecy directing them to return Argynvost's bones to their rightful place in his crypt. To do so, however, they must first retrieve his remains from the depths of Castle Ravenloft.
 
 If the players return to Argynvostholt after successfully retrieving Argynvost’s skull, they must fight their way past Vladimir and his **phantom warrior** bodyguards in order to return the dragon’s remains to their rightful place. Should they succeed, Argynvost’s spirit lights the beacon atop the darkened mansion, bringing light and hope to all corners of Barovia, and allowing the knights of the Order of the Silver Dragon to find rest and blessed peace.
+
+> [!warning]+ **Impossible Encounters**
+> Two combat encounters in this arc—the battle with the **phantom warriors** and the potential battle with **Vladimir Horngaard**—have been balanced for a party of five 6th-level players plus Ezmerelda and Ireena. Parties without Ezmerelda and/or below 6th level will likely be unable to overcome these encounters. Accordingly, all players have been given a noncombat route to bypassing the **phantom warriors**, a social route to bypassing Vladimir Horngaard, and a "failing forward" failsafe in the event of a TPK to Vladimir Horngaard.
 
 # N1. Road to Argynvostholt
 When the players arrive at the path from the Old Svalich Road to Argynvostholt, read:
@@ -709,7 +714,9 @@ The stained-glass man can identify himself as the spirit of Brother Marek. He ca
 
 Brother Marek is reluctant to share information regarding Argynvost’s spirit with the players, believing that the old dragon has “earned his rest," and that further contact with the living will only torment his ghost.
 
-Brother Marek is glad to share his belief that the Order’s fate is damnation for their failure to defend the valley from evil—Strahd’s invasion—and that no force can ever return light and hope to the valley. If the players push back, he replies, bitterly and intensely: “I have stood knee deep in mud and bone, and filled my lungs with pyres’ ash. I have seen knights of valor fall, oaths shattered with their bodies and blades. I have dug trenches for the refugees; I have prayed for their deliverance, and waited for salvation that never came. Hope? Hope is but a lie on the wind—a worm that devours the hearts of men. There is no escape from this Hell while Strahd von Zarovich yet lives."
+Brother Marek is glad to share his belief that the Order’s fate is damnation for their failure to defend the valley from evil—Strahd’s invasion—and that no force can ever return light and hope to the valley. If the players push back, he replies, bitterly and intensely: “I have stood knee deep in mud and bone, and filled my lungs with pyres’ ash. I have seen knights of valor fall, oaths shattered with their bodies and blades. I have dug trenches for the refugees; I have prayed for their deliverance, and waited for salvation that never came. Hope? Hope is but a lie on the wind—a worm that devours the hearts of men. There is no escape from this Hell while Strahd von Zarovich yet lives."[^1]
+
+[^1]: Inspired by *Amnesia: A Machine for Pigs*
 
 If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
 
