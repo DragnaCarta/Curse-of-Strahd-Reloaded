@@ -1,3 +1,5 @@
+_An adventure for five 5th-level characters._
+
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
 
 Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
@@ -1185,7 +1187,9 @@ A creature other than Ludmilla that moves along the outer edge of the wall for t
 > 
 > While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
 #### Ludmilla & Muriel
-On Ludmilla's first turn in combat, if Muriel is present, Ludmilla attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:
+On Ludmilla's first turn in combat, if Muriel is present, Ludmilla attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
+
+[^1]: Inspired by *The Dark Knight*
 
 <div class="description">
 <p>Ludmilla eyes Muriel with mild curiosity. "I saw how you reacted when I mentioned the wereraven's death. Did you know him perhaps? Was he someone close to you?"</p>
@@ -1494,8 +1498,6 @@ When the players depart, Kavan bids them farewell, offering: “Go with the bles
 ## K6b. Returning the Gem
 If the players return the gem to Davian Martikov at the Wizard of Wines, he is deeply grateful, and warms to them considerably compared to his prior prickly demeanor. (He is, of course, still a grumpy old man at heart.)
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
-
 If asked, Davian now willingly shares the following information:
 
 * He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
@@ -1507,6 +1509,20 @@ If asked, Davian now willingly shares the following information:
 Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
 
 In gratitude for the players’ efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
+
+Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
+
+Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
+
+<div class="description">
+<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
+<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
+<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
+<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
+<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
+</div>
+
+***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
 
 > [!item]+ **Keeper's Whistle**
 > The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
