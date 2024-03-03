@@ -1,10 +1,10 @@
 <ol class="flowchart">
-        <li><strong>Act I: Into the Mists (<em>2nd to 3rd level</em>).</strong> The players are lured into Death House and transported into the land of Barovia. After visiting the village of Barovia and encountering the vampire Strahd von Zarovich, the players receive a fortunetelling at the nearby Tser Pool and find lodging in the fortified town of Vallaki.</li>
-        <li><strong>Act II: The Shadowed Town (<em>4th to 5th level</em>).</strong> As they work to obtain their bearings in Vallaki, the players must recover stolen relics for St. Andral's Church, rescue a kidnapped Vistana girl, assassinate the dangerous Izek Strazni, defeat the hags of Old Bonegrinder, and restore the soul of Lady Fiona Wachter's sickly daughter.</li>
-        <li><strong>Act III: The Broken Land (<em>5th to 7th level</em>).</strong> The players travel across the western half of the Barovian valley, defeating a cabal of druids at Yester Hill, infiltrating a werewolf den at Lake Baratok, exploring the haunted mansion of Argynvostholt, and recruiting the Vistana monster hunter Ezmerelda d'Avenir. After dining with Strahd at Castle Ravenloft, the players have an opportunity to raid the castle the following night, liberating multiple captives and artifacts from the vampire's clutches before returning to purify the Abbey of St. Markovia, obtain the <em>Holy Symbol of Ravenkind</em>, and light the beacon of Argynvostholt.</li>
-        <li><strong>Act IV: Secrets of the Ancient (<em>8th to 9th level</em>).</strong> The players must endure Strahd's torments and the icy cold of Mount Ghakis, climbing Tsolenka Pass to the Amber Temple in order to recover the broken hilt of the <em>Sunsword</em> and unlock the secrets of the <em>Tome of Strahd</em>. Upon their descent, the players must defeat the witch of Berez, Baba Lysaga, and reconsecrate the sacred fanes of the Ladies Three.</li>
-        <li><strong>Act V: The Curse of Strahd (<em>10th level</em>).</strong> After quelling an embodiment of the Mists upon the shores of Lake Zarovich, the players must journey to Castle Ravenloft to end Strahd's evil—once and for all.
-    </ol>
+		<li><strong>Act I: Into the Mists (<em>2nd to 3rd level</em>).</strong> The players are lured into Death House and transported into the land of Barovia. After visiting the village of Barovia and encountering the vampire Strahd von Zarovich, the players receive a fortunetelling at the nearby Tser Pool and find lodging in the fortified town of Vallaki.</li>
+		<li><strong>Act II: The Shadowed Town (<em>4th to 5th level</em>).</strong> As they work to obtain their bearings in Vallaki, the players must recover stolen relics for St. Andral's Church, rescue a kidnapped Vistana girl, assassinate the dangerous Izek Strazni, defeat the hags of Old Bonegrinder, and restore the soul of Lady Fiona Wachter's sickly daughter.</li>
+		<li><strong>Act III: The Broken Land (<em>5th to 7th level</em>).</strong> The players travel across the western half of the Barovian valley, defeating a cabal of druids at Yester Hill, infiltrating a werewolf den at Lake Baratok, exploring the haunted mansion of Argynvostholt, and recruiting the Vistana monster hunter Ezmerelda d'Avenir. After dining with Strahd at Castle Ravenloft, the players have an opportunity to raid the castle the following night, liberating multiple captives and artifacts from the vampire's clutches before returning to purify the Abbey of St. Markovia, obtain the <em>Holy Symbol of Ravenkind</em>, and light the beacon of Argynvostholt.</li>
+		<li><strong>Act IV: Secrets of the Ancient (<em>8th to 9th level</em>).</strong> The players must endure Strahd's torments and the icy cold of Mount Ghakis, climbing Tsolenka Pass to the Amber Temple in order to recover the broken hilt of the <em>Sunsword</em> and unlock the secrets of the <em>Tome of Strahd</em>. Upon their descent, the players must defeat the witch of Berez, Baba Lysaga, and reconsecrate the sacred fanes of the Ladies Three.</li>
+		<li><strong>Act V: The Curse of Strahd (<em>10th level</em>).</strong> After quelling an embodiment of the Mists upon the shores of Lake Zarovich, the players must journey to Castle Ravenloft to end Strahd's evil—once and for all.
+	</ol>
 
 # Act I: Into the Mists
 <div class="subtitle"><em>For 2nd to 3rd-level characters.</em></div>
@@ -16,7 +16,8 @@ Upon receiving a warning and invitation sent in a dream from the Vistani seer Ma
 
 As the players travel to Madam Eva's camp and the nearby town of Vallaki, they encounter a number of characters with ties to possible future adventures, as well as some adversarial encounters that will test their tactics, coordination, and combat skill.
 
-Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
+Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral's Church. The act ends when the players take their first long rest in Vallaki.
+
 # Act II: The Shadowed Town
 <div class="subtitle"><em>For characters of 4th level and higher.</em></div>
 In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has fallen to tension and conflict in the wake of Strahd's awakening.
@@ -30,30 +31,32 @@ Meanwhile, one of the players begins to experience haunting apparitions, leading
 Through it all, the players will have an opportunity to seek out clues leading to the hidden location of the *Tome of Strahd*, which—depending on the Tarokka reading they received—may be hidden in the Baron's mansion or in Wachterhaus. And as the date of the Festival of the Blazing Sun approaches, Izek Strazni and Ireena Kolyana grow closer to a fateful, yet tragic encounter.
 
 Act II ends on the morning after the players' first full moon in Barovia, which takes place on the night of the sixth full day after they first arrive in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+
 # Act III: The Broken Land
 <div class="subtitle"><em>For characters of 5th level and higher.</em></div>
 
 In this act, the players receive a plea from Urwin Martikov to investigate the Wizard of Wines winery—and an invitation from Strahd to dine at Castle Ravenloft.
 
-If the players agree to Urwin's request in [[Arc K - The Stolen Gem]], they are joined by Muriel Vinshaw—the secret identity of the disguised **wereraven** that they rescued near Tser Pool. As the players work to free the winery from the scourge of druids and blights that have invaded it, Muriel relays an excerpt of Strahd's foretelling to Davian Martikov, an elder **wereraven** and the leader of the Keepers of the Feather.
+If the players agree to Urwin's request in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]], they are joined by Muriel Vinshaw—the secret identity of the disguised **wereraven** that they rescued near Tser Pool. As the players work to free the winery from the scourge of druids and blights that have invaded it, Muriel relays an excerpt of Strahd's foretelling to Davian Martikov, an elder **wereraven** and the leader of the Keepers of the Feather.
 
 Upon freeing the winery from the druids' clutches, Davian asks them to journey to Yester Hill to the south, where the druids are plotting a dark ritual that threatens the vineyard's destruction. Once the players have recovered the winery's stolen gemstone and returned it to Davian Martikov, they can learn the true nature of the Keepers of the Feather and gain Muriel's knowledge of Strahd's cryptic fortunetelling.
 
-Should the players accept Strahd's invitation to dine at Ravenloft, they will have one week to explore the valley before the occasion begins. As they do, they might recruit the monster hunter Ezmerelda d'Avenir from Krezk in [[Arc L - The Fallen Abbey]], investigate the lost *Holy Symbol of Ravenloft* in [[Arc M - The Den of Wolves]], or visit the haunted mansion of Argynvostholt in [[Arc N - Argynvost's Beacon]].
+Should the players accept Strahd's invitation to dine at Ravenloft, they will have one week to explore the valley before the occasion begins. As they do, they might recruit the monster hunter Ezmerelda d'Avenir from Krezk in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc L - The Fallen Abbey]], investigate the lost *Holy Symbol of Ravenloft* in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc M - The Den of Wolves]], or visit the haunted mansion of Argynvostholt in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc N - Argynvost's Beacon]].
 
 In Krezk, the players will learn that the Abbot of the Abbey of Saint Markovia has fallen into madness, and that the key to cleansing his divine spirit lies amongst the crypts of Castle Ravenloft. In the Werewolf Den, the players will receive an offer from Zuleika, a **werewolf** priestess of Mother Night: To receive the *Holy Symbol*, they must first rescue her mate from the castle dungeons. 
 
 At Argynvostholt, the players receive a solemn missive from the spirit of the silver dragon Argynvost: return his stolen skull from the desecrated grounds of the castle cellar and restore it its rightful tomb. Meanwhile, in Vallaki, Dr. Rudolph van Richten is framed in a series of strange killings, driving a desperate Lady Fiona Wachter to seek the players' aid once again in [[Arc O - The Midnight Murders]].
 
-On the night of [[Arc P - Dinner with the Devil]], the players are escorted by Strahd's black carriage to the castle, where they will meet Strahd's servants, brides, and consorts. After dining with Strahd and touring the castle, the players will learn that Strahd will be away from the castle the following night, providing the players free reign to infiltrate the keep. Not long thereafter, however, a bolt of lightning disables the drawbridge, forcing them to remain as Strahd's guests until morning—and survive an old and vengeful spirit in the process.
+On the night of [[dnd/strahd-reloaded/Act III - The Broken Land/Arc P - Dinner with the Devil]], the players are escorted by Strahd's black carriage to the castle, where they will meet Strahd's servants, brides, and consorts. After dining with Strahd and touring the castle, the players will learn that Strahd will be away from the castle the following night, providing the players free reign to infiltrate the keep. Not long thereafter, however, a bolt of lightning disables the drawbridge, forcing them to remain as Strahd's guests until morning—and survive an old and vengeful spirit in the process.
 
-Should the players survive, they are free to return the following night for [[Arc Q - Ravenloft Heist]], where they must battle Strahd's brides and servants to fulfill their assorted quests. Should they escape, they can then return to purify the Abbot, defeat the werewolf alpha Kiril Stoyanovich, and light the radiant beacon of Argynvostholt.
+Should the players survive, they are free to return the following night for [[dnd/strahd-reloaded/Act III - The Broken Land/Arc Q - Ravenloft Heist]], where they must battle Strahd's brides and servants to fulfill their assorted quests. Should they escape, they can then return to purify the Abbot, defeat the werewolf alpha Kiril Stoyanovich, and light the radiant beacon of Argynvostholt.
 
-Act III ends when the players recruit the dusk elf Kasimir to journey to the Amber Temple. When the act ends, the **tree blight** Wintersplinter destroys the Wizard of Wines winery unless the players stopped the druids' ritual in [[Arc K - The Stolen Gem]].
+Act III ends when the players recruit the dusk elf Kasimir to journey to the Amber Temple. When the act ends, the **tree blight** Wintersplinter destroys the Wizard of Wines winery unless the players stopped the druids' ritual in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]].
+
 # Act IV: Secrets of the Ancient
 <div class="subtitle"><em>For characters of 8th level and higher.</em></div>
 
-Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - The Tyrant's Trials]], seeking to test their ambition, cunning, power, and capacity for cruelty.
+Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[dnd/strahd-reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - The Tyrant's Trials]], seeking to test their ambition, cunning, power, and capacity for cruelty.
 
 Meanwhile, the players journey with the dusk elf Kasimir Velikov to the Amber Temple, traveling along Tsolenka Pass as they ascend Mount Ghakis in [[Arc S - The Amber Temple]]. As they do, they can befriend the Mountain Folk of Soldav, including Elder Burebis, an ancient **storm giant** and devotee of the Ladies Three. From Burebis, the players can learn of the three Fanes of Barovia, and of the profane knowledge that Strahd took from the Amber Temple to desecrate them.
 
@@ -70,6 +73,7 @@ As the players depart Krezk, they learn that the swamp-witch Baba Lysaga has kid
 In [[Arc U - The Ladies of the Fanes]], the players must use Leo Dilisnya's dagger to expose and defeat each leech in turn—the Gulthias Tree at the Forest Fane upon Yester Hill; the corpse of Ismark the Great at the Swamp Fane in Berez; and the dead egg of the Roc of Mount Ghakis at the Mountain Fane beneath Old Bonegrinder—before using the winery's three gems to reconsecrate each Fane in turn. As they do, the land grows ever-more hostile to the players' presence, the very plants, earth, and storms of Barovia obstructing their path.
 
 Act IV ends when the players reconsecrate all three Fanes.
+
 # Act V: The Curse of Strahd
 <div class="subtitle"><em>For characters of 9th level and higher.</em></div>
 In this act, soon after the last Fane is restored, Strahd's masterstroke unfolds. By releasing the stored energy bound within the Heart of Sorrow, Strahd plunges Barovia into an eternal night—and turns the valley itself into desecrated ground. Meanwhile, the Whispering Wall—resonating with the energies of the Heart of Sorrow—relocates to the surface of Lake Zarovich, where its deadly tendrils threaten to extinguish all life in Vallaki in [[Arc V - Forgotten Dreams]].

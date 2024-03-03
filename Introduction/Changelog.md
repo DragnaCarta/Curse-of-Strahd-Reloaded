@@ -1,57 +1,62 @@
 # Hotfix 2.0.5.5 (Jan. 18, 2023)
-• Fixed assorted typos & inconsistencies  
-• Clarified the location of the Sunsword and Tome of Strahd in [[Running the Adventure]]  
-• Removed language in [[Arc E - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
-• Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
-• Defined "bloodied" in [[Arc I - The Lost Soul]]  
-• Clarified the duration of the conversation with the gallows speaker in [[Arc I - The Lost Soul]]  
-• Clarified the tactics of the gallows speaker in [[Arc I - The Lost Soul]] and increased its fly (hover) speed to 40 ft.  
-• Revised the ***amphibious cacophony*** lair action in [[Arc I - The Lost Soul]] to force movement on the target's turn, rather than as a reaction.  
-• Replaced Victor's decision to cast *fly* in battle against the hags in [[Arc I - The Lost Soul]] with a casting of *greater invisibility*
-• Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[Arc I - The Lost Soul]]  
-• Clarified where the hag coven stands upon the players' return and the hags' sizes in [[Arc I - The Lost Soul]]  
-• Revised the area description of the Whispering Wall in [[Arc K - The Stolen Gem]]  
-• Added spell save DCs to the *twilight crest* in [[Arc K - The Stolen Gem]]  
-• Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
-• Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
-• Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Arc P - Dinner with the Devil]]  
-• Added art by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/) for Ismark Kolyanovich, as well as the second-phase forms for Bella and Offalia
+- Fixed assorted typos & inconsistencies  
+- Clarified the location of the Sunsword and Tome of Strahd in [[dnd/strahd-reloaded/Chapter 3 - Running the Game/Running the Adventure]]  
+- Removed language in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc E - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
+- Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
+- Defined "bloodied" in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]]  
+- Clarified the duration of the conversation with the gallows speaker in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]]  
+- Clarified the tactics of the gallows speaker in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]] and increased its fly (hover) speed to 40 ft.  
+- Revised the ***amphibious cacophony*** lair action in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]] to force movement on the target's turn, rather than as a reaction.  
+- Replaced Victor's decision to cast *fly* in battle against the hags in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]] with a casting of *greater invisibility*
+- Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]]  
+- Clarified where the hag coven stands upon the players' return and the hags' sizes in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]]  
+- Revised the area description of the Whispering Wall in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]]  
+- Added spell save DCs to the *twilight crest* in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]]  
+- Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
+- Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
+- Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc P - Dinner with the Devil]]  
+- Added art by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/) for Ismark Kolyanovich, as well as the second-phase forms for Bella and Offalia
+
 # Hotfix 2.0.5.4 (Jan. 8, 2023)
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
+
 # Hotfix 2.0.5.3 (Jan. 3, 2023)
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
-* Added room codes to winery scenes in [[Arc K - The Stolen Gem]]
+* Added room codes to winery scenes in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]]
 * Fixed assorted typos
+
 # Hotfix 2.0.5.2 (Dec. 14, 2023)
 * Removed Ezmerelda's knowledge of Kiril Stoyanovich's real name and replaced it with a nickname
+
 # Hotfix 2.0.5.1 (Dec. 13, 2023)
 * Fixed assorted typos
-* Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Arc K - The Stolen Gem]].
-* Revised Strahd's wager at Yester Hill in [[Arc K - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
-* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Arc C - Into the Valley]]
+* Removed Muriel's reference to Kavan as "Blood-Drinker" in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]].
+* Revised Strahd's wager at Yester Hill in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
+* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[dnd/strahd-reloaded/Act I - Into the Mists/Arc C - Into the Valley]]
+
 # Version 2.0.5 (Dec. 13, 2023)
 **General Changes**
 * Changed unique monster spells to use in-line "lambda" spellcasting formatting  
 * Added new artwork by artist Caleb Cleveland  
 * Merged Act IV into Act III  
 * Fixed assorted typos
-* Added [[Arc K - The Stolen Gem]], the first half of [[Arc L - The Fallen Abbey]], and the beginning of [[Arc P - Dinner with the Devil]].
+* Added [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]], the first half of [[dnd/strahd-reloaded/Act III - The Broken Land/Arc L - The Fallen Abbey]], and the beginning of [[dnd/strahd-reloaded/Act III - The Broken Land/Arc P - Dinner with the Devil]].
 
 **[[Curse of Strahd Reloaded—A DM's Guide to Running Curse of Strahd]]**
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 
-**[[History of Barovia]]**
+**[[dnd/strahd-reloaded/Chapter 2 - The Land of Barovia/History of Barovia]]**
 * Added new lore regarding the Dreamer/Devourer  
 * Modified Van Richten's history to restore his curse and Arturi Radanavich's curse and remove his time spent traveling with Arturi  
 * Moved King Dostron's invasion to take place in Kavan's old age  
 
-**[[Arc A - Escape From Death House]]**
+**[[dnd/strahd-reloaded/Act I - Into the Mists/Arc A - Escape from Death House]]**
 * Allowed Rose and Thorn to aid the players in bypassing Gustav  
 * Made Waltz for Klara open the first half of the secret door in the library  
 * Removed the deed from the chest in the secret room and moved the will to Gustav's desk in the library.  
 
-**[[Arc B - Welcome to Barovia]]**
+**[[dnd/strahd-reloaded/Act I - Into the Mists/Arc B - Welcome to Barovia]]**
 * Decreased Dalvan's tally marks to thirteen  
 * Clarified the behavior of Dalvan's compass  
 * Delayed the players' arrival in the village of Barovia to dusk  
@@ -65,7 +70,7 @@
 * Clarified that Doru doesn't fight in self-defense  
 * Clarified the point at which the players learn the identity of the vampire who bit Ireena  
 
-**[[Arc C - Into the Valley]]**
+**[[dnd/strahd-reloaded/Act I - Into the Mists/Arc C - Into the Valley]]**
 * Rebalanced the **zombie plague spreader** to avoid nova turns  
 * Removed Escher's scar  
 * Revised the consequences for disrespect toward Strahd  
@@ -82,11 +87,11 @@
 * Added an additional scene with Rictavio on their first morning at the Blue Water Inn  
 * Increased the milestone XP for the burgomaster's burial and arrival in Vallaki  
 
-**[[Arc D - The Tome of Strahd]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc D - The Tome of Strahd]]**
 * Moved the Tome of Strahd to the possession of the **gallows speaker** Leo Dilisnya in the Ethereal Plane  
 * Added an additional paragraph at the end of the *Tome of Strahd*  
 
-**[[Arc E - St. Andral's Feast]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc E - St. Andral's Feast]]**
 * Added new scenes with Henrik and Milivoj when the players first arrive at St. Andral's Church  
 * Added a new lore box detailing the theft of the bones  
 * Changed Milivoj's knowledge of the bones to come from eavesdropping rather than asking Yeska  
@@ -96,7 +101,7 @@
 * Clarified how Volenta obtained her noisemaker trap  
 * Added a new post-arc scene with Rahadin, Milivoj, and Henrik  
 
-**[[Arc F - The Missing Vistana]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc F - The Missing Vistana]]**
 * Reworked Rictavio's timeline to arrive on the morning of the players' arrival in Vallaki  
 * Clarified what happens if the players attempt to track Arabelle from the site of her kidnapping  
 * Removed Victor's decision to share information about Stella.  
@@ -106,14 +111,14 @@
 * Truncated the text of Van Richten's journal entry  
 * Added Arabelle's wasting sickness to provide a time limit  
 
-**[[Arc G - Lady Wachter's Wish]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc G - Lady Wachter's Wish]]**
 * Added lore sidebar regarding Ezra  
 * Clarified how Lady Wachter reacts if the players request tea before receiving an invitation  
 * Clarified Izek retains the Poisoned condition upon changing forms  
 * Clarified Lady Wachter allows the Vistani to enter the town  
 * Added additional silver for weapons to Lady Wachter's reward  
 
-**[[Arc H - The Strazni Siblings]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc H - The Strazni Siblings]]**
 * Added an Ireena visit to the Blue Water Inn the morning after IZek's attack  
 * Clarified the Izek kidnaps Ireena while the players are away  
 * Added an ending in which Izek hides Ireena in the wicker sun on the morning of the Festival of the Blazing Sun, allowing her to burn alive if the players don't rescue her  
@@ -121,60 +126,63 @@
 * Gave Ireena a dagger to escape her bindings if rescued from the mansion  
 * Reduced Izek's damage to match recalibrated numbers  
 
-**[[Arc I - The Lost Soul]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]]**
 * Delayed the arc to trigger on the night of the first day after the players reach 5th level.  
 * Changed Franz's nurse to be his sister and the caretaker for his children upon their return  
 * Revised Franz's story to be more sympathetic.  
 * Required Fiona to deactivate the protective circle to allow Victor to enter the Ethereal Plane  
 
-**[[Arc J - The Walls of Krezk]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc J - The Walls of Krezk]]**
 * Added a scene in which the Abbot cures the players' lycanthropy by Krezk's blessed pool
+
 # Version 2.0.4 (Aug. 23, 2023)
-* Added [[Arc D - The Tome of Strahd]], [[Arc E - St. Andral's Feast]], [[Arc F - The Missing Vistana]], [[Arc G - Lady Wachter's Wish]], [[Arc H - The Strazni Siblings]], [[Arc I - The Lost Soul]], [[Arc J - The Walls of Krezk]], and the [[Amber Shards]] appendix
+* Added [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc D - The Tome of Strahd]], [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc E - St. Andral's Feast]], [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc F - The Missing Vistana]], [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc G - Lady Wachter's Wish]], [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc H - The Strazni Siblings]], [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]], [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc J - The Walls of Krezk]], and the [[dnd/strahd-reloaded/Appendices/Amber Shards]] appendix
 * added all-new splash art by artist Caleb Cleveland
-* changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword’s hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
-* changed Rahadin to be Kasimir’s cousin-in-law and the son of Prince Erevan Lowenhart
-* shifted Strahd’s transition into his Tyrant phase to begin with the lighting of the beacon of Argynvostholt
+* changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword's hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
+* changed Rahadin to be Kasimir's cousin-in-law and the son of Prince Erevan Lowenhart
+* shifted Strahd's transition into his Tyrant phase to begin with the lighting of the beacon of Argynvostholt
 * changed the Barovian Relic representing Harmony to depict a three-pointed star
 * added numbers to \<h5> headers
 * removed Lancelot from Death House
-* removed the “One Must Die” sequence from Death House added additional clues to the flesh mound’s identity and role in Death House and added a new amber shard mechanic to weaken the flesh mound * and gain access to the basement
-* added a new letter in Elisabeth Durst’s jewelry box to clarify amber shard mechanic and ability to defeat the flesh mound
-* moved the key to Rose and Thorn’s room to the attic spare bedroom
+* removed the "One Must Die" sequence from Death House added additional clues to the flesh mound's identity and role in Death House and added a new amber shard mechanic to weaken the flesh mound * and gain access to the basement
+* added a new letter in Elisabeth Durst's jewelry box to clarify amber shard mechanic and ability to defeat the flesh mound
+* moved the key to Rose and Thorn's room to the attic spare bedroom
 * reduced the number of ghouls in the Death House basement to three
 * replaced the skill challenge escape sequence from Death House with two social encounters as the players flee the house
-* removed the requirement that the players bury Walter’s remains
+* removed the requirement that the players bury Walter's remains
 * added a safe place for the players to take a long rest upon exiting Death House
-* modified Dalvan Olensky’s corpse
-* Parriwimple now tells the PCs that “Alanik” had a pet monkey
+* modified Dalvan Olensky's corpse
+* Parriwimple now tells the PCs that "Alanik" had a pet monkey
 * added new detour sequence for Ireena to take on the morning before leaving Barovia
-* delayed the players’ departure from Barovia until noon
-* added Ismark’s recommendation to use Tser Pool as a waypoint
-* added information about Dalvan Olensky’s reading to Tser Pool
+* delayed the players' departure from Barovia until noon
+* added Ismark's recommendation to use Tser Pool as a waypoint
+* added information about Dalvan Olensky's reading to Tser Pool
 * clarified that the skeletal rider is Dalvan Olensky
 * added the date of the full moon plus additional information regarding the curse of lycanthropy in the werewolf encounter en route to Vallaki
 * added new werewolf statblock
-* moved the Tome of Strahd in Vallakovich mansion to Victor’s workroom
+* moved the Tome of Strahd in Vallakovich mansion to Victor's workroom
 * fixed assorted typos
+
 # Version 2.0.3 (Jul. 10, 2023)
-* Added [[Arc C - Into the Valley]]
-* Moved Van Richten’s weapon cache further southwest down the Old Svalich Road.
-* Added an “Ireena Joins the Party” sidebar presenting Ireena as a sidekick member of the party.
-* Moved the Huntress’s Forest Fane to Yester Hill and the Seeker’s Mountain Fane to Old Bonegrinder.
+* Added [[dnd/strahd-reloaded/Act I - Into the Mists/Arc C - Into the Valley]]
+* Moved Van Richten's weapon cache further southwest down the Old Svalich Road.
+* Added an "Ireena Joins the Party" sidebar presenting Ireena as a sidekick member of the party.
+* Moved the Huntress's Forest Fane to Yester Hill and the Seeker's Mountain Fane to Old Bonegrinder.
 * Added a fallback at the end of Death House in the event that the players fail the skill challenge.
 * Removed the Hooded One from the Tarokka reading options for the Sunsword.
-* Fixed Strahd’s statblock to limit his Father of the Night feature to humanoids.
-* Fixed a design note to clarify that the party’s final companions are expected to be Ezmerelda, Ireena, and Kasimir.
-* Added Strahd’s Espionage Tracker tothe end of the guide.
+* Fixed Strahd's statblock to limit his Father of the Night feature to humanoids.
+* Fixed a design note to clarify that the party's final companions are expected to be Ezmerelda, Ireena, and Kasimir.
+* Added Strahd's Espionage Tracker to the end of the guide.
 * Updated the NPC appendix with new profiles.
-* Moved Van Richten’s birth three years earlier in the History of Barovia.
+* Moved Van Richten's birth three years earlier in the History of Barovia.
 * Expanded A New Generation in the History of Barovia with information regarding the backstories of Lady Fiona Wachter, Izek Strazni, and Baron Vargas Vallakovich.
-* Modified Ismark’s NPC Profile inspirations to reference Jon Snow and Faramir instead of Ned Stark and Boromir.
+* Modified Ismark's NPC Profile inspirations to reference Jon Snow and Faramir instead of Ned Stark and Boromir.
 * Updated citation superscripts to be hyperlinks and removed bibliographies.
 * Confirmed the XP earned for escaping Death House and burying Kolyan to be 400 XP each.
 * Fixed assorted typos and minor omissions.
+
 # Version 2.0.2 (Jun. 23, 2023)
-* Added [[Arc B - Welcome to Barovia]]
+* Added [[dnd/strahd-reloaded/Act I - Into the Mists/Arc B - Welcome to Barovia]]
 * Updated cover page font.
 * Revised and expanded the Strahd's Return segment in the History of Barovia, adding The Darkened Valley and The Wrath of Strahd as additional segments.
 * Moved the Inhabitants of Barovia section to a new appendix at the end of the guide.

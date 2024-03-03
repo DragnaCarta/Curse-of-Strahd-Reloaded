@@ -5,6 +5,7 @@ In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki
 The players have until the night of their fourth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
 
 Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
+
 # E1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
@@ -13,32 +14,32 @@ The church is largely as described in <span class="citation">N1. St. Andral's Ch
 The church's occupants follow the following schedule unless interrupted:
 
 * At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
-* In the morning, Yeska runs errands  around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
+* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
 * In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
 * In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
 
 > [!profile]+ **Profile: Father Lucian Petrovich**
->
-> **Roleplaying Information**
+> 
+> **Roleplaying Information**  
 > ***Resonance.*** Father Petrovich should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
->
-> ***Emotions.*** Father Petrovich’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
->
+> 
+> ***Emotions.*** Father Petrovich's most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
+> 
 > ***Motivations.*** Father Petrovich wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best as he can.
->
+> 
 > ***Inspirations.*** When playing Father Petrovich, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
->
+> 
 > **Character Information**
->
+> 
 > ***Persona.*** To strangers, Father Petrovich is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Petrovich is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Petrovich harbors a twinge of doubt about the Morninglord's providence and power, wondering if Strahd's awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
->
+> 
 > ***Morale.*** In a fight, Father Petrovich would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
->
+> 
 > ***Relationships.*** Father Petrovich is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
 
-> [!lore]+ **The Stolen Bones**
+> [!lore]+ **The Stolen Bones**  
 > Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
- >
+ > 
 > So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
 > 
 > When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
@@ -51,7 +52,7 @@ The church's occupants follow the following schedule unless interrupted:
 > 
 > Given his profession, Henrik had encountered Milivoj - the church's groundskeeper - on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
 > 
-> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer.     St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
+> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
 > 
 > Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Petrovich would be loathe to surrender such a relic, even though their only true value was sentimental.
 > 
@@ -68,6 +69,7 @@ The church's occupants follow the following schedule unless interrupted:
 > Yeska doesn't yet know that the bones were stolen. Instead, Father Petrovich told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, Father Petrovich sent Yeska to Henrik's shop to obtain planks and nails for the repair, which Henrik delivered personally to scope out whether Lucian suspected his involvement.
 > 
 > Father Petrovich doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Petrovich has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
+
 ## E1a. Entering the Church
 When the players first move to enter the church, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
 
@@ -80,18 +82,19 @@ The players can help Henrik collect his glasses, nails, and planks as he scrambl
 * His shop can be found at the south end of Arasek Stockyard. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
 
 Henrik then excuses himself and departs to return to his shop.
+
 ## E1b. The Chapel
 When the players first enter this area, read:
 
 <div class="description">
-<p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance.  Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
+<p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance. Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
 
 <p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
 </div>
 
 The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
 
-When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
+When the players first meet [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Petrovich]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
 
 After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Petrovich. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
 
@@ -117,16 +120,17 @@ Father Petrovich can also share the date of St. Andral's Feast, which will take 
 
 If the players express an interest in doing so, Father Petrovich is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
 
-If the players ask for the identities of other possible witnesses, Father Petrovich notes that the only other employee of the church is the groundskeeper, Milivoj. Father Petrovich can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
+If the players ask for the identities of other possible witnesses, Father Petrovich notes that the only other employee of the church is the groundskeeper, Milivoj. Father Petrovich can give the players directions to Milivoj's house, which is located in the northwestern quarter of Vallaki.
 
 Father Petrovich accompanies the players as they complete their investigation, answering additional questions when asked. If the players' investigation takes them beyond the church, he insists on joining them and asks Yeska to attend the chapel in his absence. (He takes personal responsibility for the bones' disappearance, and—given his connections across the town and his service to the Morninglord—wishes to assist the players in recovering them.)
 
 While accompanying the party, Father Petrovich fights alongside them, but allows the players to take the lead in social encounters and exploration.
 
-> [!warning]+ **Father Petrovich's Aid**
+> [!warning]+ **Father Petrovich's Aid**  
 > Without Father Petrovich's assistance—and, specifically, the damage output and radiant damage provided by his *spirit guardians* spell and ***divine eminence*** feature—the battle at the coffin-maker's shop in [[#E4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
+
 ## E1c. The Scene of the Crime
-[[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] is glad to lead the players to the location of the crypt if prompted. Read:
+[[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] is glad to lead the players to the location of the crypt if prompted. Read:
 
 <div class="description">
 <p>A small pile of fresh wooden boards rests against the altar, a small pouch of nails sitting atop their surface. Not far away, the old wooden floorboards behind the crypt have been pried up and broken, with splintered edges jutting out at odd angles. Between them, a small, dark opening descends into a dark, dusty space.</p>
@@ -146,7 +150,6 @@ The players can find the following information by investigating the area around 
 
 * While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 15 Intelligence (Investigation) check, and a line of rust-stained dirt smeared across a floorboard with a successful DC 20 Wisdom (Perception) check. 
 * While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 10 Wisdom (Perception) check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
-
 * While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 15 Wisdom (Perception) check. 
 
 The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
@@ -154,19 +157,21 @@ The fabric was torn from Milivoj's shirt as he lowered himself down, and the rus
 The clumps of earth were left when Milivoj's boots hit the floor of the crypt. Father Lucian can inform the players that the petals are from the ramson plant, which grow in several patches in the church graveyard.
 
 The hair is Milivoj's.
+
 ## E1d. Interviewing Yeska
-If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Petrovich has been careful to keep him away from the hole behind the altar.)
+If the players choose to interview Yeska, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Petrovich has been careful to keep him away from the hole behind the altar.)
 
 If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Petrovich, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Petrovich about the church's protection in the first place.)
-# E2. Milivoj’s House
-Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
+
+# E2. Milivoj's House
+Milivoj's house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral's Church. 
 
 <div class="description">
 <p>The muddy road that leads into the town’s northwest quarter is rough and uneven, chilled by a persistent fog that seems to cling to the soaked earth beneath your feet. As you move further from the town’s center, the streets narrow and the houses grow grimier and more dilapidated, the smell of damp wood and mildew filling your nostrils.</p>
 <p>Your path leads you to a leaning, decrepit structure that seems to sag beneath its own weight. Its timbers are rotting, the windows cracked and filthy. At its front, a ramshackle wooden door stands slightly askew in its frame atop a small, mud-spattered porch.</p>
 </div>
 
-If the players knock on the door, it’s answered a few moments thereafter by Jarzinka, Milivoj’s mother. Read:
+If the players knock on the door, it's answered a few moments thereafter by Jarzinka, Milivoj's mother. Read:
 
 <div class="description">
 <p>The door groans open, revealing a gaunt, glassy-eyed woman standing on the other side. Her hair is matted with grease and hangs in knots across her shoulders, and a painted beaded necklace hangs around her neck, its colors faded and chipped with age.</p>
@@ -178,56 +183,56 @@ The children in the armchairs are a twelve-year-old boy named Bogan and a ten-ye
 
 Jarzinka is a woman of few words, and is annoyed because she has just finished the last of her dream pastries. If the players ask to speak with Milivoj, she turns to Bogan and Zondra, then grunts at them. The conversation then proceeds as follows:
 
-* Bogan cheerfully informs the players that Milivoj is sick and doesn’t want to talk to anyone today.
-* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
+* Bogan cheerfully informs the players that Milivoj is sick and doesn't want to talk to anyone today.
+* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, "Milo! Someone wants to speak to you."
 
-A few moments later, [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
+A few moments later, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj's shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
 
 > [!profile]+ **Profile: Milivoj**
->
-> **Roleplaying Information**
+> 
+> **Roleplaying Information**  
 > ***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
->
+> 
 > ***Emotions.*** Milivoj's most frequent emotions are annoyance, worry, frustration, boredom, bitterness, and cynicism, and (when with his siblings) compassion, mirth, and joy.
->
+> 
 > ***Motivations.*** Milivoj wants to provide for himself and his siblings.
->
+> 
 > ***Inspirations.*** When playing Milivoj, channel Katniss Everdeen (*The Hunger Games*), Arya Stark (*Game of Thrones*), and Carl Fredericksen (*Up*).
->
-> **Character Information**
+> 
+> **Character Information**  
 > ***Persona.*** To strangers, Milivoj is a quiet, gruff, and hardworking groundskeeper. To those he trusts, Milivoj is a loving and dedicated elder sibling, a frustrated and bitter son, and a desperate and confused young man.
->
+> 
 > ***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
->
+> 
 > ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
 
-Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
+Upon spotting the players, Milivoj's face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan's lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
 
-As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
+As Milivoj reaches the door, he tersely addresses Jarzinka as "Mother" and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
 
-If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
+If the players inform Milivoj that they want to speak with him about St. Andral's bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
 
 Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
 
 If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt or Yeska's confession automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Petrovich can lead them there.
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
+If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
 
 If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
 
-> [!abstract]+ **Milivoj’s Revelation**
->
-> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Petrovich and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Petrovich, of course, declines, tearfully embracing and forgiving Milivoj instead.)
+> [!abstract]+ **Milivoj's Revelation**
+> 
+> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Petrovich and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Petrovich, of course, declines, tearfully embracing and forgiving Milivoj instead.)
 
 # E3. Return to the Church
-Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Petrovich—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
+Once Milivoj has admitted to the bones' theft, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Petrovich—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
 
 If the players suggest reporting the theft of the bones to the burgomaster, Father Petrovich is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Petrovich to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Petrovich with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
 > [!abstract]+ **Reporting the Theft**
->
+> 
 > If the players report the theft to Baron Vallakovich and do not accompany his guards, the four guards gain access to the coffin maker's shop as described in **N6. Coffin Maker's Shop**, but are slaughtered when they accidentally trigger Volenta's trap and alert the vampires to their presence.
->
+> 
 > One day later, Baron Vallakovich responds by sending Izek to summon the players to **N3. Burgomaster's Mansion**, where he accuses them of causing his faithful guards to disappear and threatens to exile them from Vallaki. (The players can win back his good graces by promising to recover the bones themselves.)
 
 # E4. Arasek Stockyard
@@ -235,11 +240,12 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 
 Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
-If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] discourages them from doing so if he is present.
+If one of the players expresses an interest in breaking into the wagon, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] discourages them from doing so if he is present.
 
 If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
 
-If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc F - The Missing Vistana]].)
+If the players successfully break the door to the wagon or pick its padlock, they find that the wagon's interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc F - The Missing Vistana]].)
+
 # E5. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
 
@@ -252,6 +258,7 @@ Henrik van der Voort, the coffin maker, follows the following schedule:
 * In the afternoon, he builds coffins in **N6c. Workshop**.
 * In the evening, he prepares an evening meal in **N6d. Kitchen**.
 * At night, he sleeps in **N6e. Henrik's Bedroom.**
+
 ## E5a. Entering the Shop
 The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**. 
 
@@ -263,40 +270,43 @@ Additionally, note that the windows are locked from the inside and the doors are
 In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **N6. Coffin Maker's Shop**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
 
 Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
+
 ## E5b. Recovering the Bones
 The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
 * a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
-* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
+* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester's cap and bells. 
 
 The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
 
 The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
 
-Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
+Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, "Is no fun, is no Blinsky!" repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
-> [!lore]+ **The Noisemaker**
+> [!lore]+ **The Noisemaker**  
 > Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+
 ## E5c. Volenta's Trap
-If the players allow the bell to ring, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
-![[Volenta Popofsky.png]]
+If the players allow the bell to ring, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players' level, with Volenta crouching upside-down on the ceiling behind them.  
+![[dnd/strahd-reloaded/images/Volenta Popofsky.png]]
+
 > [!profile]+ **Profile: Volenta Popofsky**
->
-> **Roleplaying Information**
+> 
+> **Roleplaying Information**  
 > ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
->
+> 
 > ***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
->
+> 
 > ***Motivations.*** Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
->
+> 
 > ***Inspirations.*** When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
->
+> 
 > **Character Information**
->
+> 
 > ***Persona.*** To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
->
+> 
 > ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
->
+> 
 > ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
 
 Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
@@ -306,7 +316,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
-> [!combat]- **Balancing the First Bride**
+> [!combat]- **Balancing the First Bride**  
 > Due to the phase mechanic and chokepoint, this is a series of three consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 72% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Remove the vampire spawn. Volenta flees once her second phase is bloodied.
@@ -325,24 +335,24 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
+	<tr>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	  <td>16 (+3)</td>
+	  <td>16 (+3)</td>
+	  <td>14 (+2)</td>
+	  <td>14 (+2)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
@@ -379,24 +389,24 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
+	<tr>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	  <td>16 (+3)</td>
+	  <td>16 (+3)</td>
+	  <td>14 (+2)</td>
+	  <td>14 (+2)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
@@ -423,7 +433,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 </div>
 
 ### 1. Volenta
-[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
+[[dnd/strahd-reloaded/Appendices/Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
 
 When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Petrovich. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
 
@@ -432,9 +442,10 @@ Volenta flees from combat, smashing through a nearby window and galloping across
 * both of her vampire spawn are defeated and her first form is reduced to 0 hit points; or
 * her second form is reduced to 50 hit points or fewer.
 
-In either case she first snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” Before departing, she sneers at the players and promises to see them again soon.
+In either case she first snarls, "You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!" Before departing, she sneers at the players and promises to see them again soon.
+
 ### 2. Father Petrovich
-[[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
+[[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
 
 * ***Divine Eminence.*** As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Petrovich can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Petrovich expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 
@@ -449,26 +460,31 @@ On his third and subsequent turns, Father Petrovich uses his action to cast *gui
 If any of the players are reduced to 0 hit points, Father Petrovich spends his action casting *cure wounds* on them. If his concentration is ever disrupted, he spends his action to renew *spirit guardians* instead.
 
 > [!info]+ **Dying NPCs**
->
+> 
 > Because Volenta and her **vampire spawn** prefer to target the players instead of Father Petrovich, it's unlikely that Father Petrovich will be reduced to 0 hit points in this battle.
->
+> 
 > However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Petrovich, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
+
 ### 3. The Vampire Spawn
 The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn are prepared to fight to the death, but retreat with Volenta if she does.
+
 # E6. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn of the fifth day after the players arrived in Vallaki, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc K - The Stolen Gem]].
+If the players and Father Lucian successfully return the stolen bones to St. Andral's Church by dawn of the fifth day after the players arrived in Vallaki, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]].
 
 **_Milestone_**. Restoring the bones of St. Andral completes a story milestone. If the church is successfully reconsecrated, award each player 1,250 XP.
+
 # E7. Rahadin's Visit
-At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc G - Lady Wachter's Wish]] or following [[Arc H - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
+At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc G - Lady Wachter's Wish]] or following [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc H - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
+
 ## E7a. The Invitation
-Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc P - Dinner with the Devil]], before departing.
+Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc P - Dinner with the Devil]], before departing.
 
 Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Petrovich, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
+
 ## E7b. The Trial
 When the players arrive in the town square, which is largely as described in <span class="citation">N8. Town Square (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Petrovich, who stands at the base of the platform.
 
-On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing seven younger siblings, described further in [[#E2. Milivoj’s House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
+On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing seven younger siblings, described further in [[#E2. Milivoj's House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
 
 Father Petrovich and Milivoj's siblings are grateful to see the players upon their arrival. Father Petrovich asks the players to help "stop this madness," noting quietly that Milivoj may have made mistakes, but hardly ones deserving of death.
 
@@ -541,24 +557,24 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
+	<tr>
+	  <td>14 (+2)</td>
+	  <td>22 (+6)</td>
+	  <td>17 (+3)</td>
+	  <td>15 (+2)</td>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
@@ -606,24 +622,24 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
+	<tr>
+	  <td>14 (+2)</td>
+	  <td>22 (+6)</td>
+	  <td>17 (+3)</td>
+	  <td>15 (+2)</td>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
@@ -665,7 +681,7 @@ Milivoj himself has been relocated to his family home—both to show (not tell) 
 
 ***Arasek Stockyard.*** Erasmus's ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
 
-The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[Arc F - The Missing Vistana]]) is not all that he seems.
+The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc F - The Missing Vistana]]) is not all that he seems.
 
 ***Coffin Maker's Shop.*** Volenta's two traps have been added to increase the probability that the players do battle with the vampires, thereby introducing them directly to Strahd's minions and the threat posed by vampires. The number of **vampire spawn** has been reduced from six to three, including Volenta, to ensure that the encounter is balanced for a 4th-level party.
 

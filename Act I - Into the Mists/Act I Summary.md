@@ -6,7 +6,8 @@ Upon receiving a warning and invitation sent in a dream from the Vistani seer Ma
 
 As the players travel to Madam Eva's camp and the nearby town of Vallaki, they encounter a number of characters with ties to possible future adventures, as well as some adversarial encounters that will test their tactics, coordination, and combat skill.
 
-Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
+Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral's Church. The act ends when the players take their first long rest in Vallaki.
+
 # Milestones
 The players begin this act at 2nd level and should end it at 4th level, gaining milestone XP when they successfully do any of the following:
 
