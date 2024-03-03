@@ -12,7 +12,11 @@ Just over a day after catching a glimpse of Ireena Kolyana for the first time—
 
 Izek soon comes to believe that Ireena is a guest at the Blue Water Inn—either because he observed her in the vicinity of the Blue Water Inn on the players' first morning in Vallaki, or, unless players disguised her upon their entry into Vallaki, because he learned of her recent arrival from the guards at the gates. (If Izek did not see Ireena outside of the Blue Water Inn and the players kept her disguised upon entering Vallaki, Izek learns of Ireena's location from one of his spies an additional day later, unless the players have taken extraordinary measures to keep her hidden.)
 
+<<<<<<< HEAD
 While the players are away—and preferably during the players' dinner with Lady Fiona Wachter in [[Arc G - Lady Wachter's Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena's location, describing her by appearance. Urwin and Danika deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which Urwin and Danika reluctantly allow.
+=======
+While the players are away—and preferably during the players’ dinner with Lady Fiona Wachter in [[Arc G - Lady Wachter's Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena’s location, describing her by appearance. Urwin and Danika deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which Urwin and Danika reluctantly allow.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 If Ireena is currently staying at the inn, Urwin quietly directs Brom and Bray to retrieve and conceal her in <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> while he and Danika keep Izek distracted in <span class="citation">N2f. Stable (p. 101)</span>. To keep Izek busy, Danika allows him to search <span class="citation">N2h. Ravens' Loft (p. 101)</span>, allowing him to find the locked chest buried in the hay. Urwin reluctantly complies with Izek's demands to open the chest, and Izek confiscates the 140 ep and 70 pp as "unpaid taxes."
 
@@ -64,14 +68,24 @@ If Ireena was at St. Andral's Church when Izek visited the inn, she visits the i
 One day after his visit to the Blue Water Inn, Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching Ireena's description. Each poster includes a sketch that roughly matches Ireena's appearance and offers a reward of five gold pieces for information delivered to Izek Strazni at the Baron's mansion.
 
 # H3. The Kidnapping
+<<<<<<< HEAD
 One day after Izek's posters are published around Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Burgomaster's mansion regarding her current location. 
 
 The next time that Ireena and the players are apart, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena's current location and attempts to kidnap her. [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
+=======
+At dawn on the fourth day after the players arrived in Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Burgomaster’s mansion regarding her current location. 
+
+The next time that Ireena and the players are apart that day, [[Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena’s current location and attempts to kidnap her. [[Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 * ***Blue Water Inn.*** If Ireena is still at the Blue Water Inn, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Urwin Martikov|Urwin]] and [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Danika Dorakova|Danika]], alerted by a **wereraven** about Izek's approach, swiftly move once to hide her in the hidden staircase. However, Izek notices a strand of Ireena's hair caught in the secret door and forces the door open, finding her. As he hauls Ireena away, he commands the guards to place Urwin in the town stocks. He uses his ***hurl flame*** ability to set fire to the Blue Water Inn, causing severe property damage before Danika and six **wereraven** members of the Keepers of the Feather are able to extinguish it using water from the inn's well.
 * ***St. Andral's Church.*** If Ireena has been moved to St. Andral's Church, Izek interrupts [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] in the middle of a sermon and demands to know Ireena's location. Despite Father Petrovich's protests, Izek finds Ireena in the priest's office (which Father Petrovich and Yeska have converted into a makeshift third bedroom) and seizes her. Izek coldly vows that he will return to punish the church for hiding Ireena from him, but departs without causing further harm.
 
+<<<<<<< HEAD
 If Izek is successful, he then takes Ireena by force to his room in the Baron's mansion (described in **N3j. Izek's Bedroom**, p. 107), where he binds her with rope, gags her, and places her on his bed. He then takes a chair and several bottles of wine from the first floor, places the chair in his room beside the bed, and remains there until the day of the Festival of the Blazing Sun.
+=======
+If Izek is successful, he then takes Ireena by force to his room in the Baron’s mansion (described in **N3j. Izek's Bedroom**, p. 107), where he binds her with rope, gags her, and places her on his bed. He then takes a chair and several bottles of wine from the first floor, places the chair in his room beside the bed, and remains there the dawn of the Festival of the Blazing Sun.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 > [!lore]+ **Izek's Sacrifice**  
 > Shortly after Izek brings Ireena to the mansion, Ireena demands to know the reason for her kidnapping. If Ireena is unaware of her relationship to Izek, Izek then reveals it; otherwise, Izek demands to know why she kept away from him despite knowing.

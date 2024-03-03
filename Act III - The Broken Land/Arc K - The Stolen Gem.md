@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd's prophecy to Davian Martikov, the leader of the order.)
+=======
+_An adventure for five 5th-level characters._
+
+In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 Before the players depart Vallaki, Ireena Kolyana—inspired by the players' exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
 
@@ -31,7 +37,11 @@ Urwin asks the players to travel to the Wizard of Wines and speak with the owner
 
 Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he's happy for them to take an additional day or two before departing.
 
+<<<<<<< HEAD
 If the players accept Urwin's mission, he asks them to return to the Blue Water Inn on any subsequent morning to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery, and that she is similarly concerned for the winery's safety, but declines to provide any further information.)
+=======
+If the players accept Urwin’s mission, he asks them to return to the Blue Water Inn the following morning to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 > [!lore]+ **What Urwin Knows**  
 > Urwin believes that something terrible has happened to the winery—though what, he isn't sure. Although he sent out a half-dozen ravens to investigate when the first delivery failed to appear, none returned.
@@ -322,7 +332,11 @@ This area is as described in <span class="citation">W15. Brown Mold (p. 178)</sp
 <p>Brown mold has filled this cramped corridor, with more recent growths covering the floor, walls, and ceiling around it—except in one place. A short way down the tunnel, a small wooden box covered with old, peeling paint hangs from a rusted iron hook. The box is painted a pale, frigid blue, and has the design of a snowflake carved into its side. A six-inch bare patch covers the wall around the box, with nary a spore of mold nearby.</p>
 </div>
 
+<<<<<<< HEAD
 The players can't proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master's Guide</em>) p. 105</span>. 
+=======
+The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **winter wolf** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
 
@@ -340,6 +354,11 @@ The wine cellar is largely as described in <span class="citation">W14. Wine Cell
 
 <div class="description">
 <p>Wooden pillars and beams support the ten-foot-high ceiling of this unseasonably warm cellar, which is split in two by a five-foot-thick brick wall. A thick, humid mist curls across the floor, which is criss-crossed by tiny black roots.</p>
+</div>
+
+As the players step into the cellar, read:
+
+<div class="description">
 <p>Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half-filled with wine bottles. Both racks are covered by a thick, choking tangle of vines, interwoven with strands of green ivy bearing blood-red spots and sharp, wicked thorns.</p>
 <p>You see several silhouettes move behind the eastern rack—including one with a full rack of antlers.</p>
 </div>
@@ -414,6 +433,19 @@ The druid and blights attack on sight. On their first turn in combat, the druid 
 > * ***Four Players.*** Reduce the number of needle blights to six.
 > * ***Six Players.*** Increase the number of needle blights to ten.
 
+> [!info]+ **Alerting the Druids**
+> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
+> 
+> | No. of Rounds Later | Origin | Creatures |
+> | :---:|:----:|:---|
+> |1| - |None|
+> |2|[[#Fermentation Vats]]|2 **swarms of twig blights**|
+> |3|[[#Fermentation Vats]]|1 **druid naturalist** and 2 **elder twig blights**|
+> |4| - |None|
+> |5| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
+> 
+> Neither the blights in [[#Loading Dock]] nor Lorgoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+
 The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine's bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
@@ -485,7 +517,22 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 * On her first turn in combat, she uses her ***speed of the adder*** feature to cast the *entangle* spell as a bonus action, followed by a cantrip as her action. 
 * On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
 
+<<<<<<< HEAD
 > [!combat]- **Balancing the Vat Room**  
+=======
+
+> [!info]+ **Alerting the Druids**
+> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
+> 
+> | No. of Rounds Later | Origin | Creatures |
+> | :---:|:----:|:---|
+> |1| - |None|
+> |2| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
+> 
+> Neither the blights in [[#Loading Dock]] nor Lorgoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+
+> [!combat]- **Balancing the Vat Room**
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 > This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
@@ -1069,6 +1116,7 @@ As the conversation winds down, or if the players attack or attempt to bypass Lu
 The two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn't already, Ludmilla retreats to the ritualists' circle as soon as combat breaks out. As she does, she creates a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See **Shroud of Mist** below.)
 
 <div class="statblock">
+<<<<<<< HEAD
 	<h2>Muriel Vinshaw</h2>
 	<em>Medium humanoid (human, shapechanger), chaotic good</em>
 	<hr>
@@ -1119,6 +1167,58 @@ The two **druid assailants** and two **berserkers** work to prevent the players 
 	<p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
 	<h3>Reactions</h3>
 	<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits a target, other than Muriel, within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+=======
+    <h2>Muriel Vinshaw</h2>
+    <em>Medium humanoid (human, shapechanger), chaotic good</em>
+    <hr>
+    <strong>Armor Class</strong> 14 (leather armor)
+    <br>
+    <strong>Hit Points</strong> 63 (7d8 + 7)
+    <br>
+    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10 (+0)</td>
+                <td>16 (+3)</td>
+                <td>11 (+0)</td>
+                <td>13 (+1)</td>
+                <td>15 (+2)</td>
+                <td>14 (+2)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Skills</strong> Insight +4, Perception +6<br>
+    <strong>Senses</strong> passive Perception 16<br>
+    <strong>Languages</strong> Common (can't speak in raven form)<br>
+    <strong>Challenge Rating</strong> 2<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
+    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
+    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
+    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
+    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
+    <h3>Reactions</h3>
+    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 </div>
 
 <br>
@@ -1190,7 +1290,9 @@ A creature other than Ludmilla that moves along the outer edge of the wall for t
 > While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
 
 #### Ludmilla & Muriel
-On Ludmilla's first turn in combat, if Muriel is present, Ludmilla attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:
+On Ludmilla's first turn in combat, if Muriel is present, Ludmilla attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
+
+[^1]: Inspired by *The Dark Knight*
 
 <div class="description">
 <p>Ludmilla eyes Muriel with mild curiosity. "I saw how you reacted when I mentioned the wereraven's death. Did you know him perhaps? Was he someone close to you?"</p>
@@ -1199,7 +1301,11 @@ On Ludmilla's first turn in combat, if Muriel is present, Ludmilla attempts to p
 <p>Muriel's face turns white, and she begins to tremble, heaving with exertion and rage.</p>
 </div>
 
+<<<<<<< HEAD
 A player can dissuade Muriel from attacking Ludmilla with a successful DC (25) Persuasion check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack*** Read:
+=======
+A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Charisma (Persuasion) check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 <div class="description">
 <p>An anguished howl bursts from Muriel's lips—lips which, you notice, are suddenly growing longer, harder, and as sharp as an avian's beak. The sound of ripping fabric pierces the air as two enormous, black-feathered wings tear from her back, her hands and feet shriveling into gnarled raven's claws.</p>
@@ -1219,6 +1325,7 @@ Additionally, any segment previously destroyed within that area regrows with 20 
 A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (Persuasion) check, with advantage if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.)
 
 <div class="statblock">
+<<<<<<< HEAD
 	<h2>Muriel Vinshaw</h2>
 	<em>Medium humanoid (human, shapechanger), chaotic good</em>
 	<hr>
@@ -1269,6 +1376,58 @@ A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (
 	<p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
 	<h3>Reactions</h3>
 	<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits a target, other than Muriel, within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+=======
+    <h2>Muriel Vinshaw</h2>
+    <em>Medium humanoid (human, shapechanger), chaotic good</em>
+    <hr>
+    <strong>Armor Class</strong> 14 (leather armor)
+    <br>
+    <strong>Hit Points</strong> 63 (7d8 + 7)
+    <br>
+    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10 (+0)</td>
+                <td>16 (+3)</td>
+                <td>11 (+0)</td>
+                <td>13 (+1)</td>
+                <td>15 (+2)</td>
+                <td>14 (+2)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Skills</strong> Insight +4, Perception +6<br>
+    <strong>Senses</strong> passive Perception 16<br>
+    <strong>Languages</strong> Common (can't speak in raven form)<br>
+    <strong>Challenge Rating</strong> 2<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts her turn with 0 hit points and doesn't regenerate.</p>
+    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
+    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
+    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
+    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
+    <h3>Reactions</h3>
+    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits a target, other than Muriel, within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 </div>
 
 <br>
@@ -1505,8 +1664,6 @@ When the players depart, Kavan bids them farewell, offering: "Go with the blessi
 ## K6b. Returning the Gem
 If the players return the gem to Davian Martikov at the Wizard of Wines, he is deeply grateful, and warms to them considerably compared to his prior prickly demeanor. (He is, of course, still a grumpy old man at heart.)
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
-
 If asked, Davian now willingly shares the following information:
 
 * He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
@@ -1519,7 +1676,25 @@ Davian flatly refuses to infect any of the players with **wereraven** lycanthrop
 
 In gratitude for the players' efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
 
+<<<<<<< HEAD
 > [!item]+ **Keeper's Whistle**  
+=======
+Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
+
+Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
+
+<div class="description">
+<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
+<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
+<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
+<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
+<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
+</div>
+
+***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
+
+> [!item]+ **Keeper's Whistle**
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 > The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
 > 
 > When the agent arrives (in **raven** form), the players can ask that the agent do one of the following tasks, within reason:

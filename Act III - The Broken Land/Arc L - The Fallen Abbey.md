@@ -1,3 +1,5 @@
+_An adventure for five 5th- or 6th-level characters._
+
 In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
 
 Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster—hunter Ezmerelda d'Avenir has been a guest of the Abbey in recent days. 
@@ -7,9 +9,17 @@ If the players have arrived before the third night after the full moon, the Abbo
 # L1. The Village of Krezk
 The players' first journey to Krezk is as described in [[Arc J - The Walls of Krezk]]. However, if the players have already completed [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players' exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
 
+<<<<<<< HEAD
 The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in Krezk Lore (p. 146). If the players found Ilya Krezkov's location in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc J - The Walls of Krezk]] or completed [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]], the Baron invites the players to stay as guests in his family's home.
 
 If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov's expression becomes stony and cold. He warns the players that the Abbot is a cruel and capricious creature, and further shares the Abbey's sordid history and the strange rumors surrounding the Abbot. The players can convince the Baron to discuss his personal enmity toward the Abbot with a successful DC 10 Charisma (Persuasion) check, though he declines to do so until they have arrived at his home.
+=======
+The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in Krezk Lore (p. 146). 
+
+If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov’s expression becomes stony and cold. He warns the players that the Abbot is a cruel and capricious creature, and further shares the Abbey’s sordid history and the strange rumors surrounding the Abbot.
+
+If the players have completed [[Arc K - The Stolen Gem]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home. Once he does, the players can convince the Baron to discuss his personal enmity toward the Abbot with a successful DC 10 Charisma (Persuasion) check, though he declines to do so until they have arrived at his home.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 > [!lore]+ **The Baron's Grief**  
 > The Krezkov family has a secret: ever since a werewolf bit the Krezkov heir eighty years ago, some of the family's direct descendants have been natural—born lycanthropes. Because these descendants are not the product of a union between two werewolves, they are born without the benefits of their curse, which emerges only on the night of the first full moon after their thirteenth birthday.
@@ -18,7 +28,11 @@ If the players mention their interest in the Abbey of Saint Markovia, Baron Krez
 > 
 > Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk's blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse's aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family's true nature, which their parents have kept a careful secret from both the village and their children.
 > 
+<<<<<<< HEAD
 > One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in "matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krekova was, in fact, a direct descendant of Nimira Antonova—Tatyana Federovna's most recent reincarnation—and decided that she would therefore be a perfect candidate for Vasilka's completion.
+=======
+> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krekova was, in fact, a direct descendant of Sorina Antonova—Tatyana Federovna’s most recent reincarnation—and decided that she would therefore be a perfect candidate for Vasilka’s completion.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 > 
 > The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
 > 
@@ -299,11 +313,19 @@ The gate to the Abbey and its occupants are as described in <span class="citatio
 
 If told that the players are seeking a Vistana who's staying at the Abbey, Zygfrek responds as follows:
 
+<<<<<<< HEAD
 * **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d'Avenir is away on business, and is expected to return three days after the next full moon. (Zygfrek doesn't know where Ezmerelda is, and shrugs with a grunt when asked where she's gone.)
 * **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
 
 > [!info]+ **Where's Ezmerelda?**  
 > In the days leading up to the players' first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn't plan to return to the Abbey until three days after the players' first full moon in Vallaki.
+=======
+* **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the third day after the next full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
+* **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
+
+> [!info]+ **Where's Ezmerelda?**
+> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the third day after the players' first full moon in Vallaki.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach **S10. Abbey Entrance**. 
 
@@ -383,6 +405,23 @@ Although the Abbot has much experience in love of the divine, he admits he is wh
 
 If the players accept, the Abbot asks Vasilka to introduce herself, which she does with a small, if clumsy, curtsey. The Abbot defers almost entirely to the players for the duration of this brief "lesson," though he steps in to discourage unsavory topics if necessary.
 
+> [!profile]+ **Vasilka, the Flesh Golem**
+> **Roleplaying Information**
+> ***Resonance.*** Vasilka should inspire endearment for her clumsy sweetness, occasionally awkward naivete, overpowering innocence, insatiable love of learning, and ability to find a silver lining to every cloud; sympathy for her anxiety and fear of angering the Abbot; and flattery for her genuine and rapt fascination with the players and their heroic adventures.
+> 
+> ***Emotions.*** Vasilka most often feels curious, joyful, thoughtful, shy, anxious, hopeful, and dreamy.
+> 
+> ***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
+> 
+> ***Inspirations.*** Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naturo*), Alice (*Alice in Wonderland*)
+> 
+> **Character Information**
+> ***Persona.*** To the world, Vasilka is a polite, withdrawn, and well-mannered maiden. To those she trusts, she is a shy, occasionally anxious, and desperately curious spirit.
+> 
+> ***Morale.*** At the time the players meet her, Vasilka would cower and plead for peace if attacked, not fighting even to defend herself.
+> 
+> ***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **flesh golem**.
+
 Throughout the lesson, Vasilka listens to the players with rapt attention and fascinatation, asking frequent clarifying and follow-up questions.
 
 At an appropriate time, she asks the players whether flowers are a proper way to signify one's care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard, escapes her post. Read:
@@ -451,13 +490,96 @@ The barracks are largely described as in <span class="citation">S19. Barracks (p
 <p>She wears a mud-stained longcoat of similar color, a well-oiled suit of studded leather armor catching the light just beneath it. She seems to be wearing boots of two different colors: one an ordinary brown, and the other colored a dull, metallic copper. She glares at a snapped piece of white chalk in her hand.</p>
 </div>
 
+<<<<<<< HEAD
 This is Ezmerelda d'Avenir. Ezmerelda's statistics are largely as provided in <span class="citation">Ezmerelda d'Avenir (p. 231)</span>. However, she doesn't have the ***curse*** or ***evil eye*** features. (Although Vistani are rumored to possess the ability to curse others or use "the evil eye," such legends are unfounded in fact.)
+=======
+This is Ezmerelda d’Avenir. Her statistics are given below.
+
+<div class="statblock">
+    <h2>Ezmerelda d'Avenir</h2>
+    <em>Medium humanoid (human), chaotic good</em>
+    <hr>
+    <strong>Armor Class</strong> 17 (+1 studded leather armor)
+    <br>
+    <strong>Hit Points</strong> 82 (11d8 + 33)
+    <br>
+    <strong>Speed</strong> 30 ft.
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>14 (+2)</td>
+                <td>19 (+4)</td>
+                <td>16 (+3)</td>
+                <td>16 (+3)</td>
+                <td>13 (+0)</td>
+                <td>17 (+3)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Saving Throws</strong> Wis +2<br>
+    <strong>Skills</strong> Acrobatics +6, Arcana +5, Deception +7, Medicine +2, Perception +4, Performance +5, Stealth +6, Survival +4<br>
+    <strong>Senses</strong> passive Perception 14<br>
+    <strong>Languages</strong> Common<br>
+    <strong>Challenge Rating</strong> 4<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Special Equipment.</em></strong> In addition to her magic armor and weapons, Ezmerelda has two <em>potions of greater healing</em>, six <em>vials of holy water</em>, three wooden stakes, twelve silvered crossbow bolts, and a <em>runeguard stone</em> (see below).</p>
+    <p><strong><em>Spellcasting.</em></strong> Ezmerelda is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 10, +2 to hit with spell attacks). Ezmerelda has the following ranger spells prepared:</p>
+    <ul>
+    <li>1st level (4 slots): longstrider, snare, zephyr strike</li>
+    <li>2nd level (2 slots): darkvision, cordon of arrows</li>
+    </ul>
+    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
+    <p><strong><em>Rapier +1.</em></strong><em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
+    <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
+    <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
+    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
+    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
+</div>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 The weapons on the floor are recognizable as a handaxe, a shortsword, and a rapier. The uncovered blade of the handaxe glints strangely under the light. (A player who casts *detect magic* observes that the rapier and handaxe are magical, as is Ezmerelda's leather armor.)
 
 A player who inspects Ezmerelda's boots automatically notices that the copper-colored boot is not a boot at all, but an intricate metallic prosthetic that has replaced her right leg below the hem of her breeches.
 
+<<<<<<< HEAD
 As the players enter the room, if they didn't use stealth when approaching, Ezmerelda glances toward them with raised eyebrows. "Given the noise you made coming up here," she observes wryly, "I assume you've not come to kill me?"
+=======
+> [!profile]+ **Ezmerelda d'Avenir**
+> **Roleplaying Information**
+> ***Resonance.*** Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
+> 
+> ***Emotions.*** Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
+> 
+> ***Motivations.*** Ezmerelda wants to save innocents from things that go "bump!" in the night, escape her parents' dark legacy, and prove herself as capable a vampire hunter as Dr. Van Richten.
+> 
+> ***Inspirations.*** The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
+> 
+> **Character Information**
+> ***Persona.*** To the world, Ezmerelda is a cool, suave, professional monster hunter. To those she trusts, Ezmerelda is a fiery, wise-cracking, and eternally loyal friend. Deep down, Ezmerelda wonders if Dr. Van Richten thought she wasn't good enough—or if her family's crimes against him are enough to stain her legacy forever.
+> 
+> ***Morale.*** In a fight, Ezmerelda would move swiftly and tactically to secure an insurmountable advantage, then strike when the moment was right.
+> 
+> ***Relationships.*** Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of the d'Avenirs who kidnapped and sold his son, Erasmus, to the vampire Baron Metus.
+
+As the players enter the room, if they didn’t use stealth when approaching, Ezmerelda glances toward them with raised eyebrows. “Given the noise you made coming up here," she observes wryly, “I assume you’ve not come to kill me?"
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 If the players indicate that they've come to recruit her or otherwise mention Madam Eva's name, Ezmerelda is immediately intrigued. She stands up, dusts herself off, and introduces herself with a grin. She then invites them to enter and share "what sounds like a *very* interesting tale.*
 
@@ -496,8 +618,13 @@ Once she's satisfied that the players are trustworthy, Ezmerelda is willing to s
 
 Additionally, Ezmerelda is tentatively willing to join the players in their fight against Strahd. Before she does so, however, they must first prove their worth by assisting her in the following two tasks:
 
+<<<<<<< HEAD
 * conducting a seance immediately to contact the Abbey's restless spirits; and
 * investigating the werewolf den that night, while the bulk of the pack is away hunting.
+=======
+* conducting a seance immediately to contact the Abbey’s restless spirits; and
+* investigating the werewolf den **the following** **night**, while the bulk of the pack is away hunting.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance.
 
@@ -522,8 +649,13 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 
  (A player who inspects the room using the *spirit mirror* sees Saint Markovia standing over Ezmerelda's shoulder, wearing the clean, white robes of a priest with a golden mace in the shape of a sunburst sheathed upon her back.)
 
+<<<<<<< HEAD
 > [!info]+ Seances with the Tarokka Deck  
 > When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents "The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+=======
+> [!info]+ **Seances with the Tarokka Deck**
+> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 > 
 > If she is present, Ezmerelda can share each card's meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
 > 
@@ -605,6 +737,7 @@ If the player fails the first check, the Abbot notices their attention to Vasilk
 > [!abstract]+ **Vasilka's Punishment**  
 > If the players gave Vasilka's necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing her to burn the necklace in the hearth of the main hall—a task that terrifies her due to her ***aversion of fire*** feature. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
 
+<<<<<<< HEAD
 > [!warning]+ **Under Construction**  
 > This arc is under construction. The second half of [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc L - The Fallen Abbey]], which takes place in the immediate aftermath of [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc Q - Ravenloft Heist]], will be added in a future update.
 
@@ -612,3 +745,7 @@ If the player fails the first check, the Abbot notices their attention to Vasilk
 > You've reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
 > 
 > To get a sneak peek at drafts for _**Arc M: The Den of Wolves**_ and _**Arc N: Argynvost's Beacon**_, as well as additional outlines and notes for _**Act III: The Broken Land**_ and the remainder of the adventure, support the guide by joining the author's [Patreon](https://www.patreon.com/DragnaCarta).
+=======
+> [!warning]+ **Under Construction**
+> This arc is under construction. The second half of [[Arc L - The Fallen Abbey]], which takes place in the immediate aftermath of [[Arc Q - Ravenloft Heist]], will be added in a future update.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9

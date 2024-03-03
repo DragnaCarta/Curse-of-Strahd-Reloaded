@@ -2,7 +2,7 @@ _An adventure for five 4th-level characters._
 
 In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
 
-The players have until the night of their fourth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
+The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
 
 Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
 
@@ -62,7 +62,7 @@ The church's occupants follow the following schedule unless interrupted:
 > 
 > Six days later, shortly before Yeska's lessons with Father Petrovich, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
 > 
-> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Petrovich revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with a crowbar in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
+> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Petrovich revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with his shovel in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
 > 
 > But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Petrovich emerged to block the exit. Without recognizing him, Father Petrovich demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
 > 
@@ -87,8 +87,12 @@ Henrik then excuses himself and departs to return to his shop.
 When the players first enter this area, read:
 
 <div class="description">
+<<<<<<< HEAD
 <p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance. Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
 
+=======
+<p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance.  Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 <p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
 </div>
 
@@ -116,7 +120,7 @@ If the players agree not to spread his words beyond the church, Father Petrovich
 * Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Petrovich can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
 * Father Petrovich is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Petrovich fears that the town is not as safe as it appears.
 
-Father Petrovich can also share the date of St. Andral's Feast, which will take place on the fourth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
+Father Petrovich can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
 
 If the players express an interest in doing so, Father Petrovich is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
 
@@ -323,6 +327,9 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 > * ***Four Players.*** Decrease the number of vampire spawn to one. 
 > * ***Six Players.*** Increase the number of vampire spawn to three.
 
+> [!warning]+ **Sunlight in Barovia**
+> Remember that vampires and other creatures in Barovia are unaffected by sunlight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
+
 <div class="statblock">
 <h2>Volenta, First Form</h2>
 <em>Medium undead, chaotic evil</em>
@@ -511,7 +518,7 @@ Should the players do so, Rahadin plays the role of an adversarial and cold-hear
 
 The players can also argue that either character has shown sincere remorse for their actions.
 
-When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
+When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check—to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
 
 The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows:
 
@@ -541,7 +548,11 @@ Rahadin does not deliver any sentence until all have been agreed upon. If the pl
 
 If the players appear horrified by Rahadin's chosen sentence, he coldly reminds them that the prisoners have been found guilty of conspiring to steal from a holy church. "My lord's subjects often claim he lacks appreciation for the sacred," he says. "It seems, perhaps, that he is the only one with any appreciation at all."
 
-If any players attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
+If the players appear unpersuaded, Milivoj tells them hoarsely, "Please, don't do anything stupid on my behalf. I did something wrong, and I'll accept any punishment. Just so long as my siblings don't suffer." (If punished with branding, flogging, or mutilation, Milivoj grits his teeth and stifles a roar of pain, but refuses to cry out and give Rahadin the satisfaction.)
+
+If any players appear likely to obstruct Rahadin's efforts to carry out a sentence, Lady Wachter quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered Rahadin down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. Vallaki *needs* you."
+
+If the players actually attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
 
 Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ once more and departs Vallaki for Castle Ravenloft.
 

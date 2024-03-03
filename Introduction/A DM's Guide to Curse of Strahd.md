@@ -35,8 +35,43 @@ You can [[dnd/Curse-of-Strahd-Reloaded/Introduction/Using This Guide|click here]
 
 # Table of Contents
 ## Chapter 1 - Beginning the Campaign
+<<<<<<< HEAD:Introduction/Curse of Strahd Reloaded—A DM's Guide to Running Curse of Strahd.md
 [[dnd/strahd-reloaded/Chapter 1 - Beginning the Campaign/Session Zero]]. Setting expectations and clarifying player triggers.  
 [[dnd/strahd-reloaded/Chapter 1 - Beginning the Campaign/Character Creation]]. Developing character bonds, flaws, and motivations.
+=======
+[[Session Zero]]. Setting expectations and clarifying player triggers.
+[[Character Creation]]. Developing character bonds, flaws, and motivations.
+## Chapter 2 - The Land of Barovia
+[[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
+[[History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.
+[[Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
+## Chapter 3 - Running the Game
+[[Adventure Summary]]. Summaries of the campaign's six narrative acts.
+[[Running the Adventure]]. A guide to reading—and running—this guide.
+## Act I - Into the Mists
+[[Act I Summary]]. A summary of the players' first passage into Barovia.
+[[Arc A - Escape From Death House]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
+[[Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia in the aftermath of Strahd's reawakening, meeting new friends and receiving a cryptic invitation.
+[[Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
+## Act II - The Shadowed Town
+[[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
+[[Arc D - The Tome of Strahd]]. The players seek to retrieve the long-lost *Tome of Strahd* from one of Vallaki's two noble families.
+[[Arc E - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
+[[Arc F - The Missing Vistana]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
+[[Arc G - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
+[[Arc H - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
+[[Arc I - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
+[[Arc J - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
+## Act III - The Broken Land
+[[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
+[[Arc K - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
+[[Arc L - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
+[[Arc M - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
+[[Arc N - Argynvost's Beacon]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
+[[Arc O - Tales of Vallaki]]. Coming soon.
+[[Arc P - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
+[[Arc Q - Ravenloft Heist]]. Coming soon.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9:Introduction/A DM's Guide to Curse of Strahd.md
 
 ## Chapter 2 - The Land of Barovia
 [[dnd/strahd-reloaded/Chapter 2 - The Land of Barovia/Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.  
@@ -104,8 +139,12 @@ This unofficial free guide is made available under the Wizards of the Coast [Fan
 
 This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC, available [here](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available [here](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-***Art.*** Cover and background artwork by [JamesRPGArt](https://jamesrpgart.com/), available on [Patreon](https://www.patreon.com/jamesrpgart). Additional illustrations by [Caleb Cleveland](https://calebisdrawing.com/).
+***Art.*** Cover and background artwork by [JamesRPGArt](https://jamesrpgart.com/), available on [Patreon](https://www.patreon.com/jamesrpgart). Additional illustrations by [Caleb Cleveland](https://calebisdrawing.com/). Battlemap diagrams made using [Dungeon Scrawl](https://app.dungeonscrawl.com/).
 
 ***Special Thanks to*** **Twi**, whose deliberation and creativity made this revision possible; **Ziopliukas** and **Paintknight** for their encouragement and support; **Friendly**, **shmamy**, **Nancy**, **yaboicorny**, **Busdriver**, **Cheese**, **Eliza**, and **Scarfe** for their frequent counsel and feedback; and [**GPT-4**](https://chat.openai.com/) for assistance in brainstorming and revision.
 
+<<<<<<< HEAD:Introduction/Curse of Strahd Reloaded—A DM's Guide to Running Curse of Strahd.md
 ***Additional thanks to*** Eban921, Zumarius, arkansandragoness, murdoc, Az, Werben, a_Kyrill, calebisdrawing, Timetheif, Massiah, Schelling, joshuacc, ELQUEMANDA4, DerkLucas, Sigmarius, Mr_Gelan, rave98, BeaverBoy99, Maurycy-skell, whatistheancient, Galahadred, LordMordor, justadmhero, xxItsAJackalxx, JaeOnasi, KrempelRitter, terrible_boots, Numerous-Ad-1357, PM_me_your_PhDs, sunirgerep, dead_dads, Mon5teRico, CrazyEnough1757, rawnan, AlexanderThulin, InconditeCullion, BetaMax-Arcana, greenglowstix, Anp117, ShapKees, Arow-Remade, Exdeth, FinRingil, ericthealfabee1, Tirrigon, InsideNervous, chroma900, and DarthHarambae, taffer, Starless, Aonbarr, farlet10, Eve, Ebonhawk, Aeristria, mattjanor, jabberdoot, snickduck, continuity, snarkycatboy, Berzingh, Yazstromo, ActualPaperweight, SkroxiousDM, Ishna, Miata07, JehutyPT, Franz, Windsock, styx, JoeyGrizzle, Alantes, BenD, Silver, Massiah, Rustyroo, Lucky Actor, aevinpaos, Bruuneri, JRL, szemere, ElderDovah, nyletak, Ispanicos, IneptHackberry, Cryptid, Dice, Fezznick, RaePi, Dumaka, terribleOpera, LFrog, TehBestAtGames, Alfie, Helan, Murhapuro, nyrafernvale, Aquilon, Ostheim, hakich, Ep, pookmeister, gloriouslarper, Sherlock, shananigans, pgsmith2000, glorious-blue, presley, Jakers, Jeby, and StoRmVoRtex for feedback, playtesting, and review.
+=======
+***Additional thanks to*** Eban921, Zumarius, arkansandragoness, murdoc, Az, Werben, a_Kyrill, calebisdrawing, Timetheif, Massiah, Schelling, joshuacc, ELQUEMANDA4, DerkLucas, Sigmarius, Mr_Gelan, rave98, BeaverBoy99, Maurycy-skell, whatistheancient, Galahadred, LordMordor, justadmhero, xxItsAJackalxx, JaeOnasi, KrempelRitter, terrible_boots, Numerous-Ad-1357, PM_me_your_PhDs, sunirgerep, dead_dads, Mon5teRico, CrazyEnough1757, rawnan, AlexanderThulin, InconditeCullion, BetaMax-Arcana, greenglowstix, Anp117, ShapKees, Arow-Remade, Exdeth, FinRingil, ericthealfabee1, Tirrigon, InsideNervous, chroma900, DarthHarambae, taffer, Starless, Aonbarr, farlet10, Eve, Ebonhawk, Aeristria, mattjanor, jabberdoot, snickduck, continuity, snarkycatboy, Berzingh, Yazstromo, ActualPaperweight, SkroxiousDM, Ishna, Miata07, JehutyPT, Franz, Windsock, styx, JoeyGrizzle, Alantes, BenD, Silver, Massiah, Rustyroo, Lucky Actor, aevinpaos, Bruuneri, JRL, szemere, ElderDovah, nyletak, Ispanicos, IneptHackberry, Cryptid, Dice, Fezznick, RaePi, Dumaka, terribleOpera, LFrog, TehBestAtGames, Alfie, Helan, Murhapuro, nyrafernvale, Aquilon, Ostheim, hakich, Ep, pookmeister, gloriouslarper, Sherlock, shananigans, pgsmith2000, glorious-blue, presley, Jakers, Jeby, Autumn, Kaiya, Dakota Official, Zifbox, redhavirr, Crazymajor, Wolkensieger, Fugicara, and StoRmVoRtex for feedback, playtesting, and review.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9:Introduction/A DM's Guide to Curse of Strahd.md

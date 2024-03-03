@@ -55,13 +55,20 @@ If the players accepted Lady Wachter's mission to kill Izek Strazni, Ernst Larna
 That night, if the players completed [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc F - The Missing Vistana]] and have not yet begun [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]], the spirit of Erasmus van Richten appears to the players as a **poltergeist** and invites them to meet with Victor Vallakovich.
 
 ## Day Four
+While the players are away, if the players haven't defeated Izek Strazni in [[Arc G - Lady Wachter's Wish]], Izek kidnaps Ireena and takes her to the Burgomaster's mansion as described in [[Arc H - The Strazni Siblings]].
+## Day Five
 If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.
 
+<<<<<<< HEAD
 If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> at dawn as described in <span class="citation">Festival of the Blazing Sun (p. 123)</span>. If Izek kidnapped Ireena in [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc H - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at dawn.
+=======
+If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> as described in <span class="citation">Festival of the Blazing Sun (p. 123)</span>. If Izek kidnapped Ireena in [[Arc H - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 At sundown, the parishioners of St. Andral's Church attend a service observing the holiday of St. Andral's Feast. 
 
 If the protective wards of St. Andral's Church have not been restored, Strahd's vampiric bride Volenta Popofsky attacks the church during the service, killing dozens of Vallakians and Baroness Lydia Petrovna. 
+<<<<<<< HEAD
 
 ## Day Five
 If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc E - St. Andral's Feast]], an angry mob forms outside of Baron Vallakovich's manor. The hunter Szoldar Szoldarovich also finds Milivoj, the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
@@ -73,6 +80,14 @@ At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosm
 
 If the players haven't yet rescued Arabelle and reunited her with her family, she dies shortly after dusk of her wasting disease. Van Richten discovers her body the following morning. He then departs Vallaki in despair and surrenders himself to Strahd at Castle Ravenloft. He is imprisoned in <span class="citation">K76. Torture Chamber (p. 82)</span>, where he is tortured nightly.
 
+=======
+## Day Six
+If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc E - St. Andral's Feast]], an angry mob forms outside of Baron Vallakovich's manor. The hunter Szoldar Szoldarovich also finds Milivoj, the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
+
+Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc E - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in <span class="citation">Q9. Servants' Quarters (p. 133)</span> in Argynvostholt.
+
+At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 ## Day Seven
 If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving Victor Vallakovich hears the call of an *amber shard* buried in the cemetery of St. Andral's Church. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.
 

@@ -1,6 +1,10 @@
 *An adventure for five 3rd-level characters.*
 
+<<<<<<< HEAD
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd's revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest child of the village's recently deceased burgomaster. 
+=======
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 In exchange for food, shelter, information, and assistance against Strahd, Ismark asks the players to escort his sister Ireena—a target of Strahd's interest—to St. Andral's Church in the walled town of Vallaki to the west, where he believes she will be safe. Ismark is soon approached by "Mad Mary," a villager whose daughter, Gertruda, has recently left the village in search of her betrothed.
 
@@ -127,7 +131,7 @@ The players do not encounter Morgantha, the **night hag** peddler, while explori
 >   
 >  Residents of Vallaki and Krezk know only that a rebellion occurred and failed, and that Strahd laid waste to the village of Barovia in his counterstroke. Most blame the villagers of Barovia for reawakening Strahd, whose emergence has plunged the valley once more into darkness.
 
-## B5b. The Blood on the Vine Tavern
+## B5b. The Blood of the Vine Tavern
 <span class="citation"><em>This scene takes place in Chapter 3: Area E2.</em></span>
 
 This area is largely as described in <span class="citation">Blood of the Vine Tavern (p. 43)</span>. However, insert the following at the beginning of this area's description:
@@ -184,7 +188,7 @@ If the players ask about the statue outside the tavern, Ismark can share the fol
 * In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
 * Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father gave him that name in the hopes that he would one day become a great warrior.
 
-Ismark doesn't believe that the players will be able to find either answers or protection in the village of Barovia, but suggests that they might find both in the town of Vallaki to the west. In the meantime, he is glad to offer the players room and board at his own home. (The Blood on the Vine Tavern doesn't have rooms for rent.) 
+Ismark doesn't believe that the players will be able to find either answers or protection in the village of Barovia, but suggests that they might find both in the town of Vallaki to the west. In the meantime, he is glad to offer the players room and board at his own home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
 
 If the players indicate an interest in traveling to Vallaki, he asks if they would allow Ireena to accompany them, escorting her to St. Andral's Church in Vallaki.
 
@@ -638,6 +642,11 @@ When the players return to the burgomaster's manor following the burial, [[dnd/s
 * In either case, Ismark notes that Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given the reputation of the Vistani leader, Madam Eva.)
 
 Given the short distance to Tser Pool, Ireena tells the party that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
+<<<<<<< HEAD
+=======
+## B5e. Lugdana's Knoll
+Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 ## B5e. Lugdanna's Knoll
 Approximately an hour before noon, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
@@ -653,7 +662,7 @@ If the players visit the knoll, read:
 <p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
 </div>
 
-The figure is Ireena, who has adorned her chestplate and rapier. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
+The figure is Ireena, who has donned her chestplate and rapier. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
 
 Ireena greets the players with warmth, though with some embarrassment for having driven them to come search for her. She shares freely that she is digging for a small wooden chest that she and her mother, Korina Targolova, buried here before her mother's death fourteen years ago—a coffer whose contents she hopes to take as a keepsake when she departs for Vallaki, given that she doesn't know when, if ever, she'll be able to return home.
 
@@ -685,11 +694,19 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 > [!info]+ **Ireena Joins the Party**
 > 
 > Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.**
+<<<<<<< HEAD
 > 
 > Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Medicine, Perception, Religion, and Stealth.
 > 
 > Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha's Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
 > 
+=======
+>
+> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Medicine, Perception, and Stealth.
+>
+> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
+>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 > By default, Ireena chooses the following sidekick options as she gains levels:
 > 
 > - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
@@ -750,7 +767,7 @@ Gertruda's room holds a clumsily handwoven dress and a shelf holding a dozen wel
 
 Morgantha has been relocated from the village of Barovia to the Barovian refugee camp outside of Vallaki to ensure that the players do not develop an antagonistic relationship with her too early and to make her more accessible in future arcs.
 
-***The Blood on the Vine Tavern.*** The statue of Ismark the Great has been added to clearly set up Ismark's personal struggles to define himself apart from his ancestor, and to foreshadow the tale of Lugdana and the *Holy Symbol of Ravenkind* that the players will hear at Tser Pool.
+***The Blood of the Vine Tavern.*** The statue of Ismark the Great has been added to clearly set up Ismark's personal struggles to define himself apart from his ancestor, and to foreshadow the tale of Lugdana and the *Holy Symbol of Ravenkind* that the players will hear at Tser Pool.
 
 Arik has been made the sole owner of the tavern to create a sharper distinction between the Barovians and the Vistani. 
 

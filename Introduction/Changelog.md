@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hotfix 2.0.5.5 (Jan. 18, 2023)
 - Fixed assorted typos & inconsistencies  
 - Clarified the location of the Sunsword and Tome of Strahd in [[dnd/strahd-reloaded/Chapter 3 - Running the Game/Running the Adventure]]  
@@ -21,6 +22,67 @@
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
 
 # Hotfix 2.0.5.3 (Jan. 3, 2023)
+=======
+# Hotfix 2.0.6.3 (Feb. 4, 2024
+* Delayed Izek's kidnapping of Ireena in [[Arc H - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Arc H - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Arc E - St. Andral's Feast]] to the players' fifth day in Vallaki.
+* Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Arc F - The Missing Vistana]]
+* Revised Ezmerelda's statistics in [[Arc L - The Fallen Abbey]]
+* Added level markers for [[Arc K - The Stolen Gem]], [[Arc L - The Fallen Abbey]], [[Arc M - The Den of Wolves]], and [[Arc N - Argynvost's Beacon]].
+* Added footnotes referencing intentional homages/inspirations in [[Arc K - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Arc N - Argynvost's Beacon]] (Brother Marek's speech to the players).
+# Hotfix 2.0.6.2 (Feb. 1, 2024)
+* Updated table of contents to include [[Arc M - The Den of Wolves]] and [[Arc N - Argynvost's Beacon]].
+* Added Muriel's relaying of Strahd's Tarokka reading from [[Arc C - Into the Valley]] at the end of [[Arc K - The Stolen Gem]]
+# Hotfix 2.0.6.1 (Jan. 31, 2024)
+* Delayed Ezmerelda's request to investigate the werewolf den in [[Arc M - The Den of Wolves]] to one day after she first meets the players in [[Arc L - The Fallen Abbey]]
+* Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Arc N - Argynvost's Beacon]]
+* Pushed the date of the dinner with Strahd one day forward in [[Arc P - Dinner with the Devil]]
+* Fixed assorted typos
+# Version 2.0.6 (Jan. 31, 2024)
+* Added [[Arc M - The Den of Wolves]] and [[Arc N - Argynvost's Beacon]]
+* Added Campaign Contract in [[Session Zero]]
+* Added information regarding the Devourer and Strahd's intentions for Ireena to [[History of Barovia]]
+* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[History of Barovia]]
+* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Arc B - Welcome to Barovia]]
+* Added NPC profile for Morgantha in [[Arc C - Into the Valley]]
+* Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Arc C - Into the Valley]]
+* Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc E - St. Andral's Feast]]
+* Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[Arc I - The Lost Soul]]
+* Modified Rahadin's trial in [[Arc E - St. Andral's Feast]] to discourage players from attacking Rahadin
+* Removed Arabelle's wasting disease in [[Arc F - The Missing Vistana]]
+* Revised the exterior description of Wachterhaus in [[Arc G - Lady Wachter's Wish]]
+* Added information regarding Leo Dilisnya and the Tarokka reading for the *Tome of Strahd* to [[Arc G - Lady Wachter's Wish]]
+* Modified Victor's tactics during the fight with the hags in [[Arc I - The Lost Soul]]
+* Modified the names of the lambda spells cast by the coven in [[Arc I - The Lost Soul]] to avoid confusion with RAW spells.
+* Removed disadvantage on ranged attacks made by the **Ba'al Verzi Avenger** in [[Arc I - The Lost Soul]]
+* Clarified the tactics of the **gallows speaker** in [[Arc I - The Lost Soul]]
+* Clarified the behavior of the druids if alerted in [[Arc K - The Stolen Gem]]
+* Pushed back Baron Krezkov's invitation to stay at his family's home in [[Arc L - The Fallen Abbey]] until after the players have completed [[Arc K - The Stolen Gem]]
+* Added an NPC profile for Ezmerelda d'Avenir in [[Arc L - The Fallen Abbey]]
+* Changed the name of Anna Krezkova's ancestor in [[Arc L - The Fallen Abbey]]
+* Added [[Glossary]]
+* Fixed assorted typos & inconsistencies
+# Hotfix 2.0.5.5 (Jan. 18, 2024)
+• Fixed assorted typos & inconsistencies  
+• Clarified the location of the Sunsword and Tome of Strahd in [[Running the Adventure]]  
+• Removed language in [[Arc E - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
+• Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
+• Defined "bloodied" in [[Arc I - The Lost Soul]]  
+• Clarified the duration of the conversation with the gallows speaker in [[Arc I - The Lost Soul]]  
+• Clarified the tactics of the gallows speaker in [[Arc I - The Lost Soul]] and increased its fly (hover) speed to 40 ft.  
+• Revised the ***amphibious cacophony*** lair action in [[Arc I - The Lost Soul]] to force movement on the target's turn, rather than as a reaction.  
+• Replaced Victor's decision to cast *fly* in battle against the hags in [[Arc I - The Lost Soul]] with a casting of *greater invisibility*
+• Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[Arc I - The Lost Soul]]  
+• Clarified where the hag coven stands upon the players' return and the hags' sizes in [[Arc I - The Lost Soul]]  
+• Revised the area description of the Whispering Wall in [[Arc K - The Stolen Gem]]  
+• Added spell save DCs to the *twilight crest* in [[Arc K - The Stolen Gem]]  
+• Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
+• Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
+• Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Arc P - Dinner with the Devil]]  
+• Added art by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/) for Ismark Kolyanovich, as well as the second-phase forms for Bella and Offalia
+# Hotfix 2.0.5.4 (Jan. 8, 2024)
+* Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
+# Hotfix 2.0.5.3 (Jan. 3, 2024)
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
 * Added room codes to winery scenes in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]]
 * Fixed assorted typos
@@ -42,7 +104,7 @@
 * Fixed assorted typos
 * Added [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]], the first half of [[dnd/strahd-reloaded/Act III - The Broken Land/Arc L - The Fallen Abbey]], and the beginning of [[dnd/strahd-reloaded/Act III - The Broken Land/Arc P - Dinner with the Devil]].
 
-**[[Curse of Strahd Reloaded—A DM's Guide to Running Curse of Strahd]]**
+**[[A DM's Guide to Curse of Strahd]]**
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 

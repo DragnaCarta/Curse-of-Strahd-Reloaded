@@ -10,14 +10,24 @@ Meanwhile, as the players explore other leads across the western half of the Bar
 
 In the process, they'll obtain multiple reasons to journey to Castle Ravenloft: to recover the *Icon of Ravenloft* to cleanse the Abbot's corruption in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc L - The Fallen Abbey]]; to rescue the **werewolf** Emil Toranescu in exchange for the *Holy Symbol of Ravenloft* in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc M - The Den of Wolves]]; and to steal the skull of the dragon Argynvost to bring hope to the land once more in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc N - Argynvost's Beacon]].
 
+<<<<<<< HEAD
 As the night of the dinner at Ravenloft approaches, Lady Fiona Wachter will also ask the players to investigate a series of grisly murders in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc O - The Moonlit Murders]]. As they close in on the killer, the players will need to clear Rudolph van Richten's name—and lift his curse—in order to bring peace once more to Vallaki.
+=======
+As the night of the dinner at Ravenloft approaches, Lady Fiona Wachter will also ask the players to investigate a series of grisly murders in [[Arc O - Tales of Vallaki]]. As they close in on the killer, the players will need to clear Rudolph van Richten’s name—and lift his curse—in order to bring peace once more to Vallaki.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 On the night of the new moon, the players can dine with Strahd von Zarovich and the members of his court in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc P - Dinner with the Devil]]. There, they'll learn that Strahd will be gone from the castle the following night, creating the perfect opportunity to infiltrate the castle in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc Q - Ravenloft Heist]]. Once they have done so, the players must then return to the western valley to purify the Abbot's soul, defeat the **werewolf** Kiril Stoyanovich, and relight the beacon of Argynvostholt.
 
+<<<<<<< HEAD
 This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc Q - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
 
 # Milestones
 The players begin this act at 5nd level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
+=======
+This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[Arc Q - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
+### Milestones
+The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 * defeat the druids occupying the Wizard of Wines winery (2,000 XP)
 * retrieve the stolen gem from Yester Hill (2,500 XP)

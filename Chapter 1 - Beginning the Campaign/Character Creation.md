@@ -200,8 +200,13 @@ The player who possesses the *amber shard* should have strong, vivid reasons to 
 ***Developments.*** In **Act I, Arc A: Escape From Death House**, the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc H - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In *Act V, Arc U*, Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in **Appendix B: The Amber Shards,** offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
+<<<<<<< HEAD
 ## Redemption—The Angel's Feather.
 ![[dnd/strahd-reloaded/images/Angel's Feather.png]]
+=======
+## Redemption—The Angel's Feather
+![[Angel's Feather.png]]
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.
 
 Unbeknownst to the player, the *angel's feather* formerly belonged to Lumiel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Lumiel is the true name of the Abbot, who dwells in the Abbey of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.

@@ -772,7 +772,9 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 
 </div>
 
-When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked G and attack.
+When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
+
+![[Ghoulish Encounter Map.png]]
 
 > [!combat]- **Balancing the Ghouls**  
 > Due to the choke point, this is a series of three consecutive **mild** combat encounters against a party of five 2nd-level players, each of which will consume approximately 15% of the party's total maximum hit points (for a total of 45% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter(s) as follows:
@@ -1144,7 +1146,7 @@ The countdown and poem have been added to provide the players with a clear sense
 
 ***The Second Floor.*** Clues have been added to ease the discovery of the library's secret room and to convey the depth of Mr. Durst's affair, as well as the nursemaid's pregnancy.
 
-The dog Lancelot, a popular community character, has been intentionally cut from Death House to avoid providing the players with an easy sacrifice to make at the altar in the ritual chamber—a sacrifice that is no longer functional (because the cult no longer releases the players upon making a sacrifice) and which rings hollow when compared to the campaign that procedes it (because Strahd's "hunger" cannot be sated.)
+The dog Lancelot, a popular community character, has been intentionally cut from Death House to avoid providing the players with an easy sacrifice to make at the altar in the ritual chamber—a sacrifice that is no longer functional (because the cult no longer releases the players upon making a sacrifice) and which rings hollow when compared to the campaign that follows it (because Strahd's "hunger" cannot be sated.)
 
 ***The Third Floor.*** The nursemaid's specter now serves as a vital tool that allows the players to find the attic staircase without undue frustration or delay. Additional clues have been added to convey the fate of Walter, Mr. Durst, and the nursemaid.
 
