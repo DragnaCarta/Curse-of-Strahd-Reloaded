@@ -2,17 +2,20 @@ _An adventure for five 5th- or 6th-level characters._
 
 In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
 
-Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster—hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
+Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
 
 If the players have arrived before the third night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the third night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
-# L1. The Village of Krezk
-The players’ first journey to Krezk is as described in [[Arc J - The Walls of Krezk]]. However, if the players have already completed [[Arc K - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
+# K1. The Village of Krezk
+The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in Krezk Lore (p. 146). 
+The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
+
+* Dmitri's sole two children are the thirteen-year-old Ilya and the eight-year-old Kala. Ilya recently went missing after a werewolf attack.
+* The Abbot doesn't demand tribute in the form of wine. Additionally, while many believe the Abbot is Strahd or one of Strahd's servants, Dmitri's late grandfather once spoke of a time when the Abbot was kind and compassionate, and cared for the sick and suffering of Barovia. (Dmitri isn't sure whether he believes this or not.)
 
 If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov’s expression becomes stony and cold. He warns the players that the Abbot is a cruel and capricious creature, and further shares the Abbey’s sordid history and the strange rumors surrounding the Abbot.
 
-If the players have completed [[Arc K - The Stolen Gem]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home. Once he does, the players can convince the Baron to discuss his personal enmity toward the Abbot with a successful DC 10 Charisma (Persuasion) check, though he declines to do so until they have arrived at his home.
+If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home. Once he does, the players can convince the Baron to discuss his personal enmity toward the Abbot with a successful DC 10 Charisma (Persuasion) check, though he declines to do so until they have arrived at his home.
 
 > [!lore]+ **The Baron's Grief**
 > The Krezkov family has a secret: ever since a werewolf bit the Krezkov heir eighty years ago, some of the family’s direct descendants have been natural—born lycanthropes. Because these descendants are not the product of a union between two werewolves, they are born without the benefits of their curse, which emerges only on the night of the first full moon after their thirteenth birthday.
@@ -21,7 +24,7 @@ If the players have completed [[Arc K - The Stolen Gem]] and are looking to stay
 > 
 > Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
 > 
-> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krekova was, in fact, a direct descendant of Sorina Antonova—Tatyana Federovna’s most recent reincarnation—and decided that she would therefore be a perfect candidate for Vasilka’s completion.
+> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of Sorina Antonova—Tatyana Federovna’s most recent reincarnation—and decided that she would therefore be a perfect candidate for Vasilka’s completion.
 > 
 > The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
 > 
@@ -40,7 +43,7 @@ If the players have completed [[Arc K - The Stolen Gem]] and are looking to stay
 > The following morning, the Abbot's messengers—Otto and Zygfrek Belview—approached the grieving Krezkovs and invited them to an audience at the Abbey. There, the Abbot promised to restore Kala's life—on the condition that the Baroness offer her own heart to the Abbot in trade. Baron Krezkov, horrified, watched helplessly as his wife gladly accepted the Abbot's offer.
 > 
 > The Abbot resurrected Kala immediately as a sign of good faith. Then, in an attempted act of mercy, he allowed the Baroness one month to bid her goodbyes before returning to the Abbey to surrender her heart. Should she fail to return, he warned her, he would come himself to collect—and her entire village would pay the price.
-## L1a. The Krezkovs’ Cottage
+## K1a. The Krezkovs’ Cottage
 As the players approach the Krezkovs’ cottage, read:
 
 <div class="description">
@@ -158,7 +161,7 @@ Dinner consists of borscht (warm beetroot soup with carrots and potatoes), crust
 Midway through dinner, there comes a knock at the door. When Anna goes to answer it, a woman with the voice and appearance of Kretyana Dolvof greets her. When Anna greets her in return, with some small amount of surprise, and asks her business, read:
 
 <div class="description">
-<p>One moment, the visage of an elderly woman stands before you. In the next instant, without any shade of transition or spectacle, she is gone—and in her face stands a handsome young man in a brown monk's robe, a painted wooden symbol that depicts the sun hanging from a chain around his neck. He carries himself with an ageless grace, and his eyes bear a quiet, cold serenity.</p>
+<p>One moment, the visage of an elderly woman stands before you. In the next instant, without any shade of transition or spectacle, she is gone—and in her place stands a handsome young man in a brown monk's robe, a painted wooden symbol that depicts the sun hanging from a chain around his neck. He carries himself with an ageless grace, and his eyes bear a quiet, cold serenity.</p>
 </div>
 
 This is the Abbot. Anna and Dmitri react to his appearance with shock, and a player with a passive Wisdom (Insight) score of 13 or higher notices that they appear to be terrified. In a low voice, Dmitri commands Kala to go to her bedroom—an order she silently obeys.
@@ -187,7 +190,7 @@ Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna,
 Dmitri and Anna then collapse onto their knees, holding one another and crying quietly. If comforted, they can share the following information:
 
 * Recently, a werewolf attacked the village of Krezk, somehow managing to bypass its walls. In its rampage, it wounded many and killed Kala. (“I held her in my arms as she died," Dmitri sobs. “Half her side was missing. She kept whispering, ‘Daddy’ and ‘Mommy’ over and over again, until she finally fell still.")
-* The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Arc J - The Walls of Krezk]], Dmitri adds that, until recently, they feared him to be dead as well.)
+* The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Arc I - The Walls of Krezk]], Dmitri adds that, until recently, they feared him to be dead as well.)
 * The Krezkovs prayed to the Morninglord for guidance and deliverance, begging for mercy and salvation—and the Abbot answered.
 * The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **flesh golem** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
 * The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in Vallaki.)
@@ -231,6 +234,9 @@ A player who inspects the map observes a small piece of parchment tucked away be
 
 The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
 
+![[Sketch of Zuleika.png]]
+<span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 If shown the picture, Dmitri’s face pales, and he asks the player where they found it. If told that the player found it in Ilya’s room, he insists that it is impossible. “That is a drawing of my older sister, Zuleika," he says hoarsely, “and she has not been seen in Krezk in nearly thirteen years." (If asked why Zuleika left, Dmitri shares only that she had a fight with him and their ailing father about personal family matters, and that he has neither seen nor heard from her since she departed.)
 ### Wine Cellar
 A heavy wooden bulkhead door stands against the cottage, on the side facing the garden. Close inspection reveals that two of its hinges are broken, and the lock is battered and broken. The center of the door bulges slightly outward, as though struck from the inside by a great force.
@@ -262,7 +268,7 @@ If the players haven’t taken special steps to prevent or watch for the Krezkov
 
 Dmitri can share the following information if asked:
 
-* Sixty years ago, his grandfather was bitten by a werewolf. His ancestor survived, but the curse of lycanthropy remained with him until his death—and was passed down, intermittently, within the Krezkov line. The curse emerges on the first full moon after an infected Krezkov’s thirteenth birthday, transforming their body into a powerful, violent beast on that night and each full moon thereafter.
+* Eighty years ago, his grandfather was bitten by a werewolf. His ancestor survived, but the curse of lycanthropy remained with him until his death—and was passed down, intermittently, within the Krezkov line. The curse emerges on the first full moon after an infected Krezkov’s thirteenth birthday, transforming their body into a powerful, violent beast on that night and each full moon thereafter.
 * Since then, the Krezkov family has kept the curse under control by binding themselves in silver on the nights of the full moon and imbibing a *potion of wolfsbane*, which keeps the spirit of the wolf docile and calm.
 * Dmitri was born a werewolf. When Ilya was born, his parents hoped that he might escape the curse—but as the night of his first full moon approached, the signs of lycanthropy were impossible to ignore. (The signs of lycanthropy, Anna can share, include sudden, uncharacteristic bursts of restlessness and aggression. sharpened senses of hearing and smell, an amber tinge to the irises, and a markedly increased appetite around the time of the full moon.)
 * Anna prepared Ilya a *potion of wolfsbane*, and helped bind him to the shackles upon the walls beside his father. Somehow, however, when Ilya first transformed, the potion failed to suppress the rage or strength of the wolf inside. Ilya broke free of his shackles, escaped the cellar, and rampaged across the village—though not before wounding several of the villagers and killing his sister, Kala.
@@ -271,7 +277,7 @@ Dmitri can share the following information if asked:
 Dmitri apologizes to the players for concealing this information from them, and notes his understanding if the players are frightened or upset.
 
 > [!abstract]+ **The Players'Choice**
-> The Krezkovs, self-reliant and proud, would never dream of asking the players to find Ilya or stop the Abbot for them. If the players offer to do so, however, the Krezkovs are humbled and brought to tears with gratitude, though they apologize for not having much to offer in thanks. (Even if the players don’t offer to do so, Ezmerelda d'Avenir will recruit them to save Ilya and defeat the Abbot after meeting Ezmerelda in [[#L2b. The North Wing]].)
+> The Krezkovs, self-reliant and proud, would never dream of asking the players to find Ilya or stop the Abbot for them. If the players offer to do so, however, the Krezkovs are humbled and brought to tears with gratitude, though they apologize for not having much to offer in thanks. (Even if the players don’t offer to do so, Ezmerelda d'Avenir will recruit them to save Ilya and defeat the Abbot after meeting Ezmerelda in [[#K2b. The East Wing]].)
 > 
 > The Krezkovs also have additional aid in locating Ilya: Ezmerelda d’Avenir, a monster hunter and a friend of the Krezkovs, has been traversing the Svalich Woods for the past several days in search of him. (See **Ezmerelda’s Visit** below for more information.)
 
@@ -282,27 +288,27 @@ Dmitri apologizes to the players for concealing this information from them, and 
 > 
 > When Ezmerelda’s wound was fully healed, Anna and a party of three Krezkians escorted her to nearby Vallaki, where Ezmerelda commissioned her prosthetic leg from the toymaker Gadof Blinsky. Ezmerelda thanked the Krezkovs deeply for their kindness, and swore to aid and protect them should they ever require it.
 > 
-> When Ezmerelda returned to Barovia in search of Dr. Van Richten, she sought shelter with the Krezkov family once again—and learned of Ilya’s fate and Anna’s bargain. Incensed with righteous fury, Ezmerelda vowed to bring Ilya home, as well as find a means of dissuading the Abbot from collecting his payment. Since then, she has spent most of her days and nights prowling the local Svalich Wood for signs of Ilya and—if the players completed [[Arc J - The Walls of Krezk]]—the den of the werewolves that took him, using her wagon as a mobile base near the shores of Lake Baratok.
+> When Ezmerelda returned to Barovia in search of Dr. Van Richten, she sought shelter with the Krezkov family once again—and learned of Ilya’s fate and Anna’s bargain. Incensed with righteous fury, Ezmerelda vowed to bring Ilya home, as well as find a means of dissuading the Abbot from collecting his payment. Since then, she has spent most of her days and nights prowling the local Svalich Wood for signs of Ilya and—if the players completed [[Arc I - The Walls of Krezk]]—the den of the werewolves that took him, using her wagon as a mobile base near the shores of Lake Baratok.
 > 
 > Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
-# L2. The Abbey of Saint Markovia
+# K2. The Abbey of Saint Markovia
 The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
-## L2a. Entering the Abbey
+## K2a. Entering the Abbey
 The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
 
 If told that the players are seeking a Vistana who’s staying at the Abbey, Zygfrek responds as follows:
 
-* **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the third day after the next full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
+* **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the second day after the full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
 * **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
 
 > [!info]+ **Where's Ezmerelda?**
-> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the third day after the players' first full moon in Vallaki.
+> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the second day after the players' first full moon in Vallaki.
 
-After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach **S10. Abbey Entrance**. 
+After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach <span class="citation">S10. Abbey Entrance (p. 148)</span>. 
 
 If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
 
-Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into **S12. Courtyard**, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
+Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation">S12. Courtyard (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
 
 > [!lore]+ **The Belviews' Perfection**
 > When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation">The Abbot (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
@@ -327,18 +333,39 @@ If the players appear disturbed or amused by the Belviews’ condition, Clovin a
 * The Abbot’s work, however, is not yet finished. The Belviews patiently await the day when their “blessed perfection" shall be complete—a day that Clovin believes is fast approaching. (If asked why, Clovin says only that his father, Cyrus, has only recently been perfected. Clovin shares that he is confident his turn shall come next, given his own long-standing loyalty and service to the Abbot.)
 
 If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
-## L2b. Main Hall
+## K2b. Main Hall
 This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+
+> [!profile]+ **The Abbot**
+> **Roleplaying Information**
+> ***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
+> 
+> ***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
+> 
+> ***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
+> 
+> ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
+> 
+> **Character Information**
+> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
+> 
+> ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
+> 
+> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
 
 The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
 
-* **If Ezmerelda has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return three days after the next full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
+* **If Ezmerelda has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return two days after the full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
 * **If Ezmerelda has returned**, the Abbot offers to show the players to her room. However, he first asks the players to assist him with a particular task. (See **Vasilka’s Lesson** below.)
+
+![[The Abbot.png]]
+<span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 ### The Abbot’s Knowledge
 The Abbot can also share the following information about himself, Vasilka, and Strahd if asked:
 
 * He serves as the Abbot of the Abbey of Saint Markovia in Saint Markovia’s honor, a position he has held for some years. He was sent to reopen the Abbey following its tragic fate and abandonment—to make it a place of healing and sanctuary once again. (If asked how many years he has served at the Abbey, the Abbot shares that he has held his position for one hundred and seventeen years, ten months, and twenty-six days—a trivially brief time, in his mind. The Abbot won’t share his true angelic nature or identity, noting simply and serenely that he is merely a humble servant of the Morninglord.)
-* Twice has he had the opportunity to look into Strahd’s eyes—which, as it is said, are the windows to one’s soul. On the first occasion, he saw a man who ached with an unquenchable thirst to fill the void in his heart, like a parched desert longing for rain. On the second occasion, he realized that Strahd was cursed—a curse that clutched his very soul—that his soul was tied to the land itself, and that his ailment rendered the land barren and its people imprisoned. (If asked, the Abbot can share that the first occasion took place four hundred and seventeen years, eight months, and three days ago, and that the second took place one hundred and fifteen years, six months, and sixteen days ago. If asked how he met Strahd on the first occasion, the Abbot smiles serenly and states merely that the Morninglord’s service leads one on many paths.)
+* Twice has he had the opportunity to look into Strahd’s eyes—which, as it is said, are the windows to one’s soul. On the first occasion, he saw a man who ached with an unquenchable thirst to fill the void in his heart, like a parched desert longing for rain. On the second occasion, he realized that Strahd was cursed—a curse that clutched his very soul—that his soul was tied to the land itself, and that his ailment rendered the land barren and its people imprisoned. (If asked, the Abbot can share that the first occasion took place four hundred and seventeen years, eight months, and three days ago, and that the second took place one hundred and fifteen years, six months, and sixteen days ago. If asked how he met Strahd on the first occasion, the Abbot smiles serenely and states merely that the Morninglord’s service leads one on many paths.)
 * The Abbot believes that filling the void in Strahd’s soul—which Strahd has filled uselessly with power, pride, and wealth—is necessary to heal the wound that afflicts the land of Barovia. Only love can fill such a void, however: the deep, abiding, and unconditional love that Strahd has been denied all his life.
 * As an immortal, however, Strahd requires the companionship of a creature that will last for as long as he will. It is for this reason that the Abbot has constructed Vasilka: a **flesh golem** built to be the perfect bride to a man of power, stature, and noble descent. Unlike others of her kind, Vasilka was forged with a spark of life within her heart, allowing her to be the companion that Strahd so desperately needs.
 * The Abbot has begun to train Vasilka in the arts of etiquette and romance. Given Strahd’s brilliant intelligence and his respect for creatures of similar intellect, the Abbot has also taught her philosophy, theology, and the natural sciences. Soon, the Abbot will offer her to Strahd as his bride—and when they are wed, the Abbot believes, the curse upon the land shall be lifted. 
@@ -373,6 +400,9 @@ Although the Abbot has much experience in love of the divine, he admits he is wh
 
 If the players accept, the Abbot asks Vasilka to introduce herself, which she does with a small, if clumsy, curtsey. The Abbot defers almost entirely to the players for the duration of this brief “lesson," though he steps in to discourage unsavory topics if necessary.
 
+![[Vasilka.png]]
+<span class="credit">"Vasilka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!profile]+ **Vasilka, the Flesh Golem**
 > **Roleplaying Information**
 > ***Resonance.*** Vasilka should inspire endearment for her clumsy sweetness, occasionally awkward naivete, overpowering innocence, insatiable love of learning, and ability to find a silver lining to every cloud; sympathy for her anxiety and fear of angering the Abbot; and flattery for her genuine and rapt fascination with the players and their heroic adventures.
@@ -381,7 +411,7 @@ If the players accept, the Abbot asks Vasilka to introduce herself, which she do
 > 
 > ***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
 > 
-> ***Inspirations.*** Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naturo*), Alice (*Alice in Wonderland*)
+> ***Inspirations.*** When playing Vasilka, channel Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naturo*), and Alice (*Alice in Wonderland*).
 > 
 > **Character Information**
 > ***Persona.*** To the world, Vasilka is a polite, withdrawn, and well-mannered maiden. To those she trusts, she is a shy, occasionally anxious, and desperately curious spirit.
@@ -390,9 +420,9 @@ If the players accept, the Abbot asks Vasilka to introduce herself, which she do
 > 
 > ***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **flesh golem**.
 
-Throughout the lesson, Vasilka listens to the players with rapt attention and fascinatation, asking frequent clarifying and follow-up questions.
+Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
 
-At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard, escapes her post. Read:
+At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard (described in <span class="citation">S12d. Tethering Posts, p. 150</span>), escapes her post. Read:
 
 <div class="description">
 <p>The terrible splintering of wood suddenly splits the air, followed immediately by the sound of rattling chains, beating, leathery wings, and an unintelligible scream of triumph. A moment later, a wide-eyed Clovin Belview bursts through the doors, his chest heaving as the cherubic head upon his shoulder wails with distress. "Marzena has escaped," he pants.</p>
@@ -404,10 +434,13 @@ Once the Abbot has gone, Vasilka shyly asks whether she can share something with
 
 Vasilka first asks to confirm that flowers are a way to signify care. (If the players previously told her that they are not, she appears crestfallen and slightly abashed upon asking.) She can then share the following information:
 
-* The north wing of the Abbey is guarded by a **flesh golem** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
+* The east wing of the Abbey is guarded by a **flesh golem** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
 * The Abbot has strictly forbidden her from approaching it, insisting that interaction with such a brute would “disturb her delicate constitution" and “afflict her mind with unpleasant thoughts."
 * Vasilka has watched it from a distance, and feels that it must be lonely. She feels sorrowful for it, and believes that it deserves recognition and respect for its toils. “We are siblings, in a way," she says quietly. “Were we not both made by the same hand?"
-* While exploring the garden, Vasilka was struck by the beauty of the wildflowers there, and linked them into a garland to give the golem as a gift. “It seems so terrible that it should lurk always in the darkness of the north wing," she says, “and never see the wonderful things that await outside." She has kept the garland hidden, however, fearing that the Abbot would not approve of its purpose.
+* While exploring the garden, Vasilka was struck by the beauty of the wildflowers there, and linked them into a garland to give the golem as a gift. “It seems so terrible that it should lurk always in the darkness of the east wing," she says, “and never see the wonderful things that await outside." She has kept the garland hidden, however, fearing that the Abbot would not approve of its purpose.
+
+> [!abstract]+ **Anna's Sacrifice**
+> If the players ask Vasilka about Anna Krezkov's sacrifice of her heart, Vasilka shares her genuine discomfort and sympathy for Anna's situation. "But I trust the Abbot," she says, somewhat reluctantly, and adds, "Surely he must have good reason for his decisions."
 
 Vasilka asks the players to deliver the garland necklace to the flesh golem as a gift from her. “I do not know if it regards me as its younger sister," she says softly. “I do not know if it regards me at all. But it seems a cruel thing to leave it alone and unloved."
 
@@ -428,13 +461,13 @@ As the Abbot re-enters the main hall, accompanied by Clovin Belview, he apologiz
 
 The Abbot then hands Marzena’s chain to Clovin, and asks that she be bound in one of the sheds in the courtyard. “I had thought the light and air would prove a curative for her diseased mind," he says sorrowfully. “But the solemnity of solitude may provide a better environment for her reflection and healing."
 
-As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot apologizes again to the players, thanks them for sharing their knowledge with Vasilka, and offers to lead them to the north wing of the Abbey, where Ezmerelda is staying. He can also share the following information about Cyrus as they walk:
+As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot apologizes again to the players, thanks them for sharing their knowledge with Vasilka, and offers to lead them to the east wing of the Abbey, where Ezmerelda is staying. He can also share the following information about Cyrus as they walk:
 
-* Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand—niece, held him in particularly high esteem.
+* Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
 * All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
 
-## L2b. The North Wing
-The Abbot guides the players to the doorway of the foyer of the North Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
+## K2b. The East Wing
+The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
 
 <div class="description">
 <p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>
@@ -443,7 +476,7 @@ The Abbot guides the players to the doorway of the foyer of the North Wing, whic
 
 The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
 
-The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the North Wing.
+The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing.
 
 If a player proffers Vasilka’s garland necklace to the golem, it regards it with little comprehension. If asked to lower its neck for the player to place the necklace around it, the golem does so without protest. If the players provide the golem with the necklace to hold, it can be seen wearing the necklace when the players next return to it.
 
@@ -486,7 +519,7 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
                 <td>19 (+4)</td>
                 <td>16 (+3)</td>
                 <td>16 (+3)</td>
-                <td>13 (+0)</td>
+                <td>11 (+0)</td>
                 <td>17 (+3)</td>
             </tr>
         </tbody>
@@ -506,17 +539,20 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
     <li>2nd level (2 slots): darkvision, cordon of arrows</li>
     </ul>
     <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
+    <p><strong><em>Scroll Adept.</em></strong> Ezmerelda can cast spells from spell scrolls as if they were ranger spells.
     <h3>Actions</h3>
     <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
-    <p><strong><em>Rapier +1.</em></strong><em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
+    <p><strong><em>Rapier +1.</em></strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
     <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
     <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
-    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
+    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
     <h3>Bonus Actions</h3>
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
 </div>
 
+![[Ez_trans.png]]
+<span class="credit">"Ezmerelda d'Avenir" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 The weapons on the floor are recognizable as a handaxe, a shortsword, and a rapier. The uncovered blade of the handaxe glints strangely under the light. (A player who casts *detect magic* observes that the rapier and handaxe are magical, as is Ezmerelda’s leather armor.)
 
 A player who inspects Ezmerelda’s boots automatically notices that the copper-colored boot is not a boot at all, but an intricate metallic prosthetic that has replaced her right leg below the hem of her breeches.
@@ -583,7 +619,7 @@ If the players agree to do so, Ezmerelda invites them to assist her in completin
 ### The Seance
 To begin the seance, Ezmerelda retrieves a deck of Tarokka cards from her coat and lays the entire deck out flat across the center of the chalk circle. She can inform the players that, like a spirit board, the cards will allow spirits to communicate with them from across the veil. 
 
-She warns the players, however, that they may ask only thirteen questions of the spirit that answers her question—and that once the seance has concluded, she won’t be able to conduct another one for a full three days.
+She warns the players, however, that they may ask only ten questions of the spirit that answers her question—and that once the seance has concluded, she won’t be able to conduct another one for a full three days.
 
 Once the players are ready, Ezmerelda invites the players to sit around the edges of the circle and join hands. Read:
 
@@ -609,9 +645,10 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 > **Choosing Cards**
 > When choosing cards to answer a player question, use the following guidelines:
 > 
+> * **Unknown Answers**: For answers that St. Markovia doesn't know the answer to, flip the Mists (Unknown). (Remember that St. Markovia died shortly after Strahd became a vampire, that she doesn't know all of Strahd's secrets, and that her spirit hasn't seen anything of Barovia beyond her crypt and the Abbey since her death. For example, Markovia can't tell the players about the Amber Temple, the Mountain Folk, Strahd's brides, or the traps and layout of Castle Ravenloft.)
 > * **Simple Questions, Yes/No Answers**: For simple questions that can be answered with a simple “Yes" or “No," flip either the Diviner (Yes), the Anarchist (No), or both (Maybe).
 > * **Simple Questions, Simple Answers**: For straightforward questions that seek direct identification or yes/no answers, opt for a single card or a pair of cards that symbolize the answer most succinctly.
-> * **Complex Questions, Multiple Cards**</: If the question requires a nuanced or detailed answer, don't hesitate to flip multiple cards. Each card can represent a different facet of the complex answer you wish to convey.
+> * **Complex Questions, Multiple Cards**: If the question requires a nuanced or detailed answer, don't hesitate to flip multiple cards. Each card can represent a different facet of the complex answer you wish to convey.
 > * **Contextual Interpretation**: Cards can have multiple meanings depending on the context of the question. Feel free to reuse cards for different queries, but ensure that their interpretation aligns with the context.
 > 
 > **Sequencing Cards**
@@ -626,23 +663,23 @@ If the players appear at a loss for which questions to ask, Ezmerelda suggests a
 * “Who are you?" (The spirit responds by flipping the Priest card, which it then flips face-down. It then flips the Missionary card, which it then flips face-down. It then flips the Shepherd card.)
 * “Are you Saint Markovia?" (The spirit responds by flipping the Diviner card.)
 * “Who is the Abbot?" (The spirit responds by flipping the Healer card, which it then flips face-down. It then flips the Broken One card.)
-* “What happened to the Abbot?" (The spirit responds by flipping the Mists card, the Marionette card, and the Enchanter card.)
+* “What happened to the Abbot?" (The spirit responds by flipping the Marionette card and the Enchanter card.)
 * “How can we restore the Abbot?" (The spirit responds by flipping the Artifact card.)
 * “What does this artifact do?" (The spirit responds by flipping the Healer card.)
 * “Where can we find the artifact?" (The spirit responds by flipping the Darklord and Donjon cards.)
 * “How can we use the artifact once we’ve found it?" (The spirit responds by flipping the Warrior and Executioner cards.)
 * “Who do we need to kill?" (The spirit responds by flipping the Broken One card.)
 
-Immediately after the spirit answers the players’ thirteenth question, the players must make a DC 15 group Wisdom check. On a success, read:
+Immediately after the spirit answers the players’ tenth question, the players experience a series of visions. Read:
 
 <div class="description">
 <p>A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.</p>
-<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who presents her with a silver statuette of a cleric kneeling in supplication. The woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
+<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who presents her with a silver statuette of a cleric kneeling in supplication, its chest glowing with the same golden light that encircles that man's head. The woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
 <p>Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state.</p>
 </div>
 
 > [!info]+ **Running Party NPCs**
-> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t speal the spotlight from your players. As you do, keep these guidelines in mind:
+> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t steal the spotlight from your players. As you do, keep these guidelines in mind:
 > 
 > * **Topics of Interest**: Party NPCs should generally remain in the background, speaking up only when spoken to, or when the conversation involves a topic directly related to them or their interests. They might also chime in with occasional banter or commentary where it is in-character to do so.
 > * **Deference to Players**: Party NPCs should generally defer decisionmaking to the players. Their role is to support the players, not to lead them. (The sole exception lies in matters of deep personal or emotional significance to a party NPC, which may lead them to argue or even disagree with the players if doing so is in line with their character.)
@@ -653,7 +690,7 @@ Immediately after the spirit answers the players’ thirteenth question, the pla
 ##### The Eavesdroppers
 Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (Perception) score of 13 or higher hear a sudden noise outside the door. Read:
 
-<div class="descrption">
+<div class="description">
 <p>Suddenly, from just outside the door, you hear a loud thud. The door shudders briefly as if struck by a falling weight, followed by a trio of high-pitched yelps and groans.</p>
 </div>
 
@@ -661,17 +698,26 @@ A player who opens the door sees Clovin, Otto, and Zygfrek Belview lying in a ta
 
 The Belviews can share that they began eavesdropping on the players because they wanted to know more of the world beyond the Abbey’s walls. Given the players’ evident interest in Castle Ravenloft, the three Belviews have decided that the players might be able to help them learn the fate of their family patriarch, Cyrus Belview, who they believe to have been “perfected" before immediately being spirited away to Castle Ravenloft.
 
-The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure that he has hidden away somewhere in the Abbey.
+The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure hidden away somewhere in the Abbey.
 
-If the players accept their missive, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
+If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
+
+> [!info]+ **Clovin's Treasure**
+> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames and the following changes:
+> 
+> * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
+> * A set of wings animates for 1 minute, rather than 1 hour
+> * Once a set of wings has been used, it can't be used again until dawn.
+> 
+One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's **giant eagle** form, while the other resembles bat wings and bears long membranes of tanned animal hide.
 ### The Abbot’s Wrath
-When the players re-enter the North Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
+When the players re-enter the East Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
 
-As the players exit the North Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
+As the players exit the East Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
 
 After he has made pleasantries with the players, if the **flesh golem** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
 
-A player must succeed on a DC 20 Charisma (Deception) check to successfully lie to the Abbot. On a failure, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
+A player must succeed on a DC 20 Charisma (Deception) check to successfully lie to the Abbot. Should the check fail, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
 
 In either case, the Abbot commands the **flesh golem** to lower its neck, whereupon he removes the garland from its person. “Decoration and ornamentation are the first steps to pride and vanity," he observes serenely, adding, “Such follies are unbecoming of the gods’ creations." 
 
@@ -680,7 +726,7 @@ If the players failed to deceive him, the Abbot’s tone is chilled, and his eye
 If the player fails the first check, the Abbot notices their attention to Vasilka and asks her to confess if she has given her hands to “the sins of vanity and pride." If the player fails the second check, Vasilka meekly confesses that she made the necklace. In either case, Vasilka insists that she did so only because the flesh golem looked so lonely, and she wished for it not to feel so alone. The Abbot thanks Vasilka for her honesty, noting that “the Morninglord smiles upon those who reveal the truth"—but adds, quietly, that they will speak of her penance later.
 
 > [!abstract]+ **Vasilka's Punishment**
-> If the players gave Vasilka’s necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing her to burn the necklace in the hearth of the main hall—a task that terrifies her due to her ***aversion of fire*** feature. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
+> If the players gave Vasilka’s necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing the flesh golem to burn the necklace in the hearth of the main hall—a task that terrifies and distresses it due to its ***aversion of fire*** feature—while making her watch. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
 
 > [!warning]+ **Under Construction**
-> This arc is under construction. The second half of [[Arc L - The Fallen Abbey]], which takes place in the immediate aftermath of [[Arc Q - Ravenloft Heist]], will be added in a future update.
+> This arc is under construction. The second half of [[Arc K - The Fallen Abbey]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]], will be added in a future update.

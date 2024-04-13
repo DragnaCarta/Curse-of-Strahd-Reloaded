@@ -19,7 +19,7 @@ If the players return to Argynvostholt after successfully retrieving Argynvost�
 > [!warning]+ **Impossible Encounters**
 > Two combat encounters in this arc—the battle with the **phantom warriors** and the potential battle with **Vladimir Horngaard**—have been balanced for a party of five 6th-level players plus Ezmerelda and Ireena. Parties without Ezmerelda and/or below 6th level will likely be unable to overcome these encounters. Accordingly, all players have been given a noncombat route to bypassing the **phantom warriors**, a social route to bypassing Vladimir Horngaard, and a "failing forward" failsafe in the event of a TPK to Vladimir Horngaard.
 
-# N1. Road to Argynvostholt
+# M1. Road to Argynvostholt
 When the players arrive at the path from the Old Svalich Road to Argynvostholt, read:
 
 <div class="description">
@@ -41,29 +41,29 @@ The revenant can inform the players that Sir Godfrey awaits visitors in the Chap
 Should the players request directions to the chapel, the revenant advises them to enter the foyer through the main entrance, then proceed eastward into the dining hall. There, the revenant tells them, “the doors to the chapel stand ever-open to those who seek a brighter dawn."
 
 If the players ask the revenant to escort them to the mansion, it declines, noting gravely that it has been banished from its grounds and estate “for raising my voice against my commander, Vladimir Horngaard, when my oath could suppress my conscience no longer." It declines to explain further, advising the players to speak with Sir Godfrey instead.
-# N2. Approaching the Mansion
+# M2. Approaching the Mansion
 This scene is as described in <span class="citation">Approaching the Mansion (p. 130).</span>
-## N2a. Dragon Statue
+## M2a. Dragon Statue
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q1.</em></span>
 
 This area is largely as described in <span class="citation">Q1. Dragon Statue (p. 130).</span>  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
-## N2b. Main Entrance
+## M2b. Main Entrance
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q2.</em></span>
 
 This area is largely as described in <span class="citation">Q2. Main Entrance (p. 130).</span> However, no trap activates as the players climb the stairs or set foot on the landing.
 
 > [!info]+ **Scale of the Map**
 > If you’re running the players’ exploration of Argynvostholt on a battlemap, remember that each square on the official map is 10 feet across, rather than 5 feet.
-# N3. Entering the Mansion
-## N3a. Foyer
+# M3. Entering the Mansion
+## M3a. Foyer
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
 
-This area is as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span>
-## N3b. Dining Hall
+This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow vanishes through the doors leading to <span class="citation">Q10. Kitchen (p. 133)</span>.
+## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
 This area is as described in <span class="citation">Q12. Dining Hall (p. 132).</span>
-## N3c. Chapel of Morning
+## M3c. Chapel of Morning
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q13.</em></span>
 
 This area is largely as described in <span class="citation">Q13. Chapel of Morning (p. 134).</span> However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
@@ -80,6 +80,9 @@ This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class=
 <p>The knight’s head lifts, revealing red eyes that flash with a quiet intensity. His arms seem to flex, almost instinctively, against his black-wire bindings—and it’s then that you notice that each wire is covered with tiny, razor-sharp barbs, many of which bite deeply into his armor and flesh.</p>
 <p>"Welcome, travelers," he rasps. “I must ask that you forgive my rudeness. I am ill-disposed to greet you properly."</p>
 </div>
+
+![[Godfrey_trans.png]]
+<span class="credit">"Sir Godfrey Gwilym" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Godfrey’s Bindings**
 > Because the revenants of the Order of the Silver Dragon were raised and bound by the hatred of Commander Vladimir Horngaard, they are magically bound in undeath by the oaths they made in life to obey and serve him. A revenant that contemplates violating one of Horngaard’s orders is ensnared by strands of black razor wire, which burrow into and restrain them to prevent such violation. (For example, a revenant that attempts to raise arms against Commander Horngaard may find their sword-arm bound, while a revenant that attempts to reveal Commander Horngaard’s secrets may find its jaw or tongue ensnared in razor wire.)
@@ -103,7 +106,7 @@ At the players’ request, Godfrey can share the following information regarding
 * Not ten years after the Order first settled at Argynvostholt, Strahd von Zarovich brought war to the lands surrounding the valley. The Order ranged far afield to defend against Zarovich’s invading armies and shelter those made refugees by the violence, but ultimately found itself driven back to the valley and, ultimately, the mansion of Argynvostholt.
 
 > [!abstract]+ **The Dragon's Scale**
-> If a player in possession of the [Dragon's Scale] reveals it to Godfrey, the knight is briefly overcome with emotion and asks, hoarsely, to be allowed to see it more closely. He recognizes it aloud as one of Argynvost's own scales, and asks the player how they came upon it. If the player treats Argynvost's scale and legacy with reverence and respect, they have advantage on Charisma checks made toward Godfrey unless he becomes hostile to them.
+> If a player in possession of the [[Character Creation#Inheritance—The Dragon's Scale|Dragon's Scale]] reveals it to Godfrey, the knight is briefly overcome with emotion and asks, hoarsely, to be allowed to see it more closely. He recognizes it aloud as one of Argynvost's own scales, and asks the player how they came upon it. If the player treats Argynvost's scale and legacy with reverence and respect, they have advantage on Charisma checks made toward Godfrey unless he becomes hostile to them.
 
 Godfrey then asks the players whether they would seek to betray and abandon their comrades if forced to fight a hopeless battle, or if they would fight alongside them to the death. If he is satisfied that any of the players would choose loyalty over selfishness, he gently chides any who would do the opposite, then proceeds:
 
@@ -147,11 +150,28 @@ Godfrey is willing to share no more information than that. However, should the p
 ### Godfrey’s Request
 Due to his restraints, Godfrey asks the players to explore the mansion of Argynvostholt on his behalf, investigating the spirits that lurk within to uncover their knowledge of Argynvost’s whispers.
 
-If the players accept his request, Godfrey warns them to avoid the manor’s audience hall on western end of the third floor, where Commander Vladimir Horngaard still lurks. “You must not allow him to see or hear you, or incite his anger should he do so," he insists. “He does not take kindly to outsiders, and far less so to those he believes seek Zarovich’s destruction. In life, he was the best of us; in death, his strength has only waxed—and now, he cannot be killed by sword, claw, or spell. His undeath is eternal; even if Zarovich himself slew him, Horngaard would soon return to pursue his prey again—a dogged and inevitable hunter."
+If the players accept his request, Godfrey warns them to be wary of Commander Vladimir Horngaard, who yet stands vigil among the upper halls of the manor. “You must not allow him to see or hear you, or incite his anger should he do so," he insists. “He does not take kindly to outsiders, and far less so to those he believes seek Zarovich’s destruction. In life, he was the best of us; in death, his strength has only waxed—and now, he cannot be killed by sword, claw, or spell. His undeath is eternal; even if Zarovich himself slew him, Horngaard would soon return to pursue his prey again—a dogged and inevitable hunter." 
 
-Sir Godfrey further warns the players that not all of the mansion's restless spirits are friendly. "Some among us never left the moments of our deaths," he warns. "Damned to relive the final days of the war, they attack all outsiders on sight, determined to defend these halls for eternity." Godfrey notes that these warlike spirits cannot be dissuaded from their mad crusade, and that only warriors with great strength of arms may be able to overcome them.
+Godfrey warns the players to avoid mentioning his name should they meet with Commander Horngaard. "He does not look fondly upon me now, I fear," he mourns. "Should he believe I hold your sympathies, his suspicions shall only grow."
 
-Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island. "Find an ancient stone slab where the river meets the lake," he directs them. "Two hundred paces west from there, a wide river-rock marks the final resting place of nearly one thousand souls. Some among them may still bear the liveries of the Order. Should you clothe yourselves in their garments, the maddened spirits that haunt these halls shall allow you to come and go in peace." (Godfrey warns, however, that Vladimir himself will not be fooled by any such tricks.)
+Sir Godfrey further warns the players that not all of the mansion's restless spirits are friendly. "Some among us never left the moments of our deaths," he warns. "Damned to relive the final days of the war, they attack all outsiders on sight, determined to defend these halls for eternity." 
+
+Godfrey notes that these warlike spirits cannot be dissuaded from their mad crusade, and that few weapons or spells can harm their incorporeal forms. "Of all the creatures in this manor," he notes, "only the arachnids that haunt the Ethereal realm give them pause." (Godfrey is referring to the mated pair of **phase spiders** residing in [[#M4c. Spiders’ Ballroom]].) He adds that, even if the players were capable of harming the spirits of the manor, all were fearsome warriors in life. Only warriors with great strength of arms, he shares, may be able to overcome them.
+
+> [!abstract]+ **Harming the Incorporeal**
+> A player who attempts to recall information about harming spirits and succeeds on a DC 16 Intelligence (Arcana) check learns the following information:
+> 
+> * Spirits and other incorporeal undead are generally immune to elemental and natural forces, including acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage dealt by nonmagical attacks.
+> * Such spirits lose these damage immunities upon entering the Ethereal Plane, where they exist as corporeal beings.
+> * Some creatures have developed natural means of counteracting these immunities. For example, the fangs and venom of a **phase spider** are capable of harming spirits on both the Material and Ethereal Plane. 
+> * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
+> * A martial combatant can also deal damage to an incorporeal spirit normally by coating their blade with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
+>   
+> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
+
+Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island.
+
+"Find an ancient stone slab where the river meets the lake," he directs them. "Two hundred paces west from there, a wide river-rock marks the final resting place of nearly one thousand souls. Some among them may still bear the liveries of the Order. Should you clothe yourselves in their garments, the maddened spirits that haunt these halls shall allow you to come and go in peace." (Godfrey warns, however, that Vladimir himself will not be fooled by any such tricks.)
 
 > [!abstract]+ **The Stone Slab**
 > Godfrey isn't sure what the stone slab symbolizes, and knows only that it was placed there by the land's indigenous inhabitants millennia before the Order of the Silver Dragon ever arrived in the valley. "We dealt little with them aside from the occasional trade," he recalls. "Their religion is one of wild places—a faith of beast and root and sky, rather than the dawn of the Morninglord or the shade of Mother Night."
@@ -222,7 +242,7 @@ If the players allow the figure to approach, read:
 <p>"I thought this one's wounds looked like a dire elk's antlers," the woman muses, peering over the wolf's ears toward the elk. "This is a lucky day indeed."</p>
 </div>
 
-The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc J - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
+The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
 
 > [!info]+ **Wensencia and Her Steed**
 > Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
@@ -237,10 +257,10 @@ The woman is Wensencia, a student of Baba Lysaga. (Players who previously encoun
 > [!profile]+ **Wensencia, Swamp Witch**
 > Wensencia, like Baba Lysaga’s five other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
 
-If the players previously encountered her in [[Arc J - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
+If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
 
 * She is Wensencia, a student of Mother Lysaga of Berez. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
-* She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still in the vicinity.
+* She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still be in the vicinity.
 
 Wensencia intends to harvest the dire elk's antlers, heart, and liver for use in Baba Lysaga's alchemical potions and spellwork. Upon arriving, she dismounts her undead dire wolf, grasps her rusted knife more firmly in her gloved hand, and approaches the elk, instructing the players to step away if they're standing in its vicinity. As she does, the raven caws desperately, fluttering its wings and clacking its beak in obvious distress.
 
@@ -309,18 +329,16 @@ Nim, who occasionally eyes the players' fleshy extremities with hungry interest,
 If the **roc** appeared during the fight, Nim can identify it as "the Great Raven," which dwells atop the "cold mountain." Nim isn't sure why it might have attacked.
 
 If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanishing into the mist.
-# N4. The First Floor
-## N4a. Cemetery
+# M4. The First Floor
+## M4a. Cemetery
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q15 and Q16.</em></span>
 
 The cemetery and mausoleum are largely as described in <span class="citation">Q15. Cemetery (p. 134)</span> and <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. However, add the following text to the end of the description of the interior of the mausoleum:
 
 <div class="description">
-<p>Twin torches rest in rusted sconces along the far wall on either side of the verse, smoldering with silver embers.</p>
+<p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
 </div>
-
-The torches can be easily removed from their sconces. The embers give off cold instead of heat, and can’t be extinguished.
-## N4b. Steward’s Wing
+## M4b. Steward’s Wing
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
@@ -334,7 +352,7 @@ If a player approaches or crosses in front of the fireplace, read:
 
 The emotions are a telepathic communication sent by the spirit of Zorya, Argynvost’s deceased **pseudodragon** familiar, which is hiding in the pot over the fireplace instead of a bat. The sensations fade if the player moves away from the fireplace, and grow stronger if the player moves closer.
 
-> [!lore]+ **Argyvost’s Familiar**
+> [!lore]+ **Argynvost’s Familiar**
 >
 > When he came to Barovia, Argynvost brought with him Zorya, a rare silver-scaled **pseudodragon** he had found in the forests of a distant land. An intelligent, if mischievous creature, Zorya served as Argynvost’s loyal companion until her death on the day of Argynvostholt’s fall. In death, she is a shy, if playful spirit, though she mourns Argynvost’s death and subsequent silence.
 >
@@ -375,7 +393,7 @@ If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in 
 ### Dragon’s Den
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q6.</em></span>
 
-This area is as described in <span class="citation">Q6. Dragon’s Den (p. 132).</span>
+This area is largely as described in <span class="citation">Q6. Dragon’s Den (p. 132).</span> However, the living fire doesn't appear as they approach the fireplace.
 
 If the players have previously encountered Zorya in the [[#Parlor]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding within the wine-cabinet sarcophagus, concealed within a decanter made of frosted glass.
 
@@ -390,6 +408,11 @@ If a player unstops the decanter to reveal Zorya’s hiding place, she bursts fo
 If the players don’t immediately respond, Zorya chirps happily and flutters up into the air before attempting to settle on the shoulder of whichever player most befriended her during the game. (Though made of fire, Zorya’s body is cold to the touch, not hot.) 
 
 Once befriended in this way, Zorya remains with the players while they remain within Argynvostholt unless driven away. The revenants and spirits of Argynvostholt won’t attack Zorya, though she aids the players in battle where possible.
+
+> [!abstract]+ **Zorya's Assistance**
+> If the players convey to Zorya their intent to seek out the insight of other spirits in the mansion, Zorya guides the players beneath one of the den's rotted divans, where a small brass key has fallen between one of the divan's legs and the wall. (The key unlocks the doors to the [[#Knights’ Quarters]].)
+> 
+> If asked which door the key unlocks, Zorya is happy to guide the players to the [[#Knights’ Quarters]], though she responds with obvious distress and surprise should the **phantom warriors** there attack.
 
 <div class="statblock">
 <h2>Zorya, Pseudodragon Spirit</h2>
@@ -433,6 +456,7 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 <p><strong><em>Limited Telepathy.</em></strong> Zorya can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.</p>
 <p><strong><em>Magic Resistance.</em></strong> Zorya has advantage on saving throws against spells and other magical effects.</p>
 <p><strong><em>Incorporeal Movement.</em></strong> Zorya can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.</p>
+<p><strong><em>Ghostfire.</em></strong> Any damage Zorya deals with her <strong><em>breath weapon</em></strong> to incorporeal creatures ignores immunity to cold damage.</p>
 <p><strong><em>Ethereal Escape (1/day)</em></strong>. If Zorya would be reduced to 0 hit points, she is instead reduced to 1 hit point and flees into the Ethereal Plane, returning to the Material Plane after 1 minute.</p>
 <h3>Actions</h3>
 <p><strong><em>Breath Weapon (Recharge 5-6).</em></strong> Zorya exhales an icy blast of silver fire in a 10-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.</p>
@@ -455,24 +479,42 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 
 > [!lore]+ **The Rings**
 > The two rings are wedding rings, and belonged to Vladimir Horngaard and Sir Godfrey Gwilym. Vladimir and Godfrey hid these rings here on the night before their deaths, unwilling to allow Strahd to loot them and vowing to return to retrieve them if victorious. However, undeath has robbed both men of their memory of the rings, as well as the love they shared in life.
-## N4c. Spiders’ Ballroom
+## M4c. Spiders’ Ballroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
-This area is largely as described in <span class="citation">Q4. Wine Storage (p. 132).</span> In addition, a player who succeeds on a DC 14 Wisdom (Perception) check notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
+This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+
+> [!info]+ **Phase Spider Harvesting**
+> An single adult **phase spider** possesses two large fangs and can produce up to four vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
+> 
+> If a glass vial or similar nonreactive material is available, a character can harvest one or more vials of venom by succeeding on a Dexterity (Nature) check and meeting one of the following DCs:
+> 
+> * **DC 14.** The character harvests one vial of venom.
+> * **DC 16.** The character harvests two vials of venom.
+> * **DC 18.** The character harvests three vials of venom.
+
+> [!item]+ **Phase Spider Fang**
+> While using this fang as an additional material component for your spells, acid, cold, fire, lightning, thunder, or poison damage your spells deal to incorporeal undead ignores immunity to that damage. (The fang isn't consumed when used in this way.)
+
+> [!item]+ **Vial of Phase Spider Venom**
+> You can use the venom in this vial to coast one weapon or up to three pieces of ammunition. Applying the venom takes an action. Damage dealt to incorporeal undead by a coated weapon or piece of ammunition to ignores immunity to that damage. Once applied, the venom retains potency for 10 minutes before drying.
+
+A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
 
 The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
 
 <div class="description">
 <p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
 </div>
-# N5. Second Floor
-## N5a. Central Hall
+
+# M5. Second Floor
+## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
 
 The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span>, and <span class="citation">Q23. Storage Room (p. 135)</span>.
 
 However, no illusion appears in <span class="citation">Q20. South Alcove (p. 135)</span>. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
-## N5b. Northern Chambers
+## M5b. Northern Chambers
 ### Guest Rooms
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
 
@@ -480,9 +522,16 @@ These areas are largely as described in <span class="citation">Q26. Northeast Gu
 ### Trapped Hallway
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
 
-This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, the doors to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q.28 Knights’ Quarters (p. 136)</span> are locked, and no **phantom warriors** reside within those chambers.
+This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, the doors to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q.28 Knights’ Quarters (p. 136)</span> are locked, and no **phantom warriors** reside within those chambers. Finally, there is no *wall of stone* trap.
 
-Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. In addition to their normal statistics, each **phantom warrior** has a fly (hover) speed of 30 feet.
+Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
+
+* Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
+* Each **phantom warrior** gains a fly (hover) speed of 30 feet.
+* Each **phantom warrior** has immunity to acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. (The warrior doesn't have immunity to necrotic damage.)
+* Each **phantom warrior** gains the following feature: ***Etherbound.*** While in the Ethereal Plane, the phantom warrior loses its damage resistances and can't use its ***incorporeal movement*** feature.
+
+Note that, in combat, a **phantom warrior** can attack from above a player using its fly (hover) speed, but can't attack through walls.
 
 If all players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, either illusory or obtained from [[#The Mass Grave]], the warriors silently nod and vanish once more into the Ethereal Plane, allowing the players to pass in peace.
 
@@ -492,7 +541,7 @@ The players can convince the spirit to allow any "outsiders" to pass with a succ
 
 If none of the players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, the phantom warriors immediately attack. 
 
-No *wall of stone* appears when combat begins. Instead, on initiative count 20 of the first round of combat, if the players freed any of the trapped spirits of Strahd’s soldiers in [[#N3c. Chapel of Morning]], up to two of those spirits manifest as **specters** bearing spears and horned helmets to defend the players in gratitude. Instead of their ***life drain***, each specter gains the following attack:
+On initiative count 20 of the first round of combat, if the players freed any of the trapped spirits of Strahd’s soldiers in [[#M3c. Chapel of Morning]], up to two of those spirits manifest as **specters** bearing spears and horned helmets to defend the players in gratitude. Instead of their ***life drain***, each specter gains the following attack:
 
 * ***Spectral Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) force damage.
 
@@ -518,14 +567,32 @@ When one or more players fully enter this room for the first time, read:
 
 The words are a warning sent by Minodora. The players can convince her that they aren’t Strahd’s soldiers with a successful DC 5 Charisma (Persuasion) check, succeeding automatically if they inform her of their relationship with Sir Godfrey or their purpose in the mansion.
 
-Minodora is a solemn, if black-humored spirit. If befriended by the players, she can share the following information via frost-shaped words on the eastern window. (Minodora prefers to use short, sparse messages wherever possible, and won't volunteer information unless specifically asked for it.)
+Minodora is a solemn, if black-humored spirit. If befriended by the players, she can share the following information via frost-shaped words on the eastern window:
 
 * In life, she served as a clerk to the Order of the Silver Dragon during the wars against Strahd. She died on the day Strahd’s forces broke into Argynvostholt, just a day after Commander Vladimir Horngaard and Sir Godfrey Gwilym perished in an assault on Strahd’s camp.
 * The **phantom warriors** in the mansion are the spirits of soldiers who died to Strahd’s attack, cursed to relive their memories of that day for eternity. (Minodora doesn’t know why they’re cursed.)
 * She doesn’t know anything about Argynvost’s whisperings. However, she knows that the spirit of Brother Marek, the Order’s former chaplain, keeps an ear and eye out for everything that happens in the spiritual realm of Argynvostholt.
 
-Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the eastern chamber of <span class="citation">(p. 135)</span>—and read aloud one of the prayers contained therein.
-## N5c. Southern Chambers
+> [!info]+ **Roleplaying Minodora**
+> Minodora prefers to use short, sparse messages of one to four words each wherever possible, and won't volunteer information unless specifically asked for it. For example, she might begin a conversation with the players as follows:
+> 
+> **Q. Who are you?**
+> A. Minodora.
+> 
+> **Q. Who were you in life? Were you a member of the Order of the Silver Dragon?**
+> A. Somewhat.
+> 
+> **Q. Were you a knight?**
+> A. No.
+> 
+> **Q. What did you do with the Order?**
+> A. I was a clerk.
+> 
+> **Q. How did you die?**
+> A. Invaders.
+
+Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>—and read aloud one of the prayers contained therein.
+## M5c. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
 
 This area is largely as described in <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>. However, add the following text to the end of the western room’s description:
@@ -540,15 +607,19 @@ In addition, add the following text to the end of each room’s description:
 <p>As you survey the room, you hear a faint, irregular clicking from the space beneath the floor, followed by the soft scratching of something unseen.</p>
 </div>
 
-The object protruding from the wall in the western room is a rusted iron hook bearing a torn leather strap. (The strap once belonged to the leather satchel in [[#N4c. Spiders’ Ballroom]], but was torn off when a **giant spider** took the satchel and its contents as a trophy.) Both the hook and strap are strewn with thick webs and can’t be identified without approaching.
+The object protruding from the wall in the western room is a rusted iron hook bearing a torn leather strap. (The strap once belonged to the leather satchel in [[#M4c. Spiders’ Ballroom]], but was torn off when a **giant spider** took the satchel and its contents as a trophy.) Both the hook and strap are strewn with thick webs and can’t be identified without approaching.
 
-A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#N4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other eight **giant spiders** remain in the ballroom below.)
-## N5d. Upper Chapel
+A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other eight **giant spiders** remain in the ballroom below.)
+## M5d. Upper Chapel
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
-These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>.
-# N6. Third Floor
-## N6a. Halls of the Order
+These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
+## M5e. Exterior
+<span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
+
+These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>.
+# M6. Third Floor
+## M6a. Halls of the Order
 #### Knights of the Order
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
 
@@ -623,6 +694,8 @@ The bracelet is carved to resemble a dragon biting its own tail, and is a *brace
 
 > [!item]+ **Amulet of Knight’s Passage**
 > This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the <span class="citation">T3. Curtain of Green Flame (p. 157)</span>, the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in <span class="citation">T2. Demon Statues (p. 157)</span> don’t animate or attack.
+> 
+> The scrutiny of an *identify* spell reveals only that the block is a key of some kind, though not what for.
 
 The tablet, which bears a copy of the oath of the Order of the Silver Dragon, reads as follows:
 
@@ -644,12 +717,12 @@ The scroll is a letter and reads as follows:
 <p>To Lord Argynvost, Protector of the Balinok Mountains and Founder of the Order of the Silver Dragon,</p>
 <p>You have stood as a bulwark against the darkness—a shining example of righteousness and courage. Yet I write to you today with a heavy heart and a burdened soul, fearful that Markovia's counsel will lead your Order down a path that ends in darkness and devastation.</p>
 <p>I confess that Lord Von Zarovich is imperfect, as all men inevitably are. Yet his leadership has brought stability and order to a land wrought with chaos, and restored songs of prayer to halls once consigned to madness.</p>
-<p>It is therefore with great humility and respect that I implore you and your knights to lay down their arms and make peace. Further bloodshed will tear this land asunder, bringing suffering to the innocet and guilty alike. But with the aid of your wisdom and grace, I do not doubt that we may together forge a brighter dawn.</p>
+<p>It is therefore with great humility and respect that I implore you and your knights to lay down their arms and make peace. Further bloodshed will tear this land asunder, bringing suffering to the innocent and guilty alike. But with the aid of your wisdom and grace, I do not doubt that we may together forge a brighter dawn.</p>
 <p>Faithfully yours,</p>
 <p>Andral</p>
 </div>
 
-#### Argyvost’s Bedroom
+#### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
 
 This area is largely as described in <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. However, add the following text to the end of this area’s description:
@@ -660,13 +733,13 @@ This area is largely as described in <span class="citation">Q42. Argynvost’s B
 
 > [!lore]+ **The Empty Shelves**
 > These empty shelves once held a few dozen trinkets, oddities, and valuables that Argynvost found particularly interesting or endearing. All were looted long ago.
-## N6b. Collapsed Ceiling & Audience Hall
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and A36.</em></span>
+## M6b. Collapsed Ceiling & Audience Hall
+<span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
 
 These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>.
-## N6c. Upstairs Gallery
+## M6c. Upstairs Gallery
 ### East Staircases
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q30.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
 
 This area is as described in <span class="citation">Q31. East Staircases.</span>
 ### Ruined Antechamber
@@ -679,7 +752,7 @@ This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. 
 </div>
 
 ### Upstairs Gallery
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q30.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 7, Area Q35.</em></span>
 
 This area is largely as described in <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. However, add the following text to the end of this area’s description:
 
@@ -696,7 +769,7 @@ Any player who’s previously met the Abbot of the Abbey of Saint Markovia recog
 
 If the players are accompanied by the **pseudodragon** spirit Zorya, Zorya breathes silver fire upon two ancient torches flanking the stained-glass windows, setting them alight with cold silver flames that bathe the room in a chill, ethereal light.
 
-If the players read aloud a prayer from [[#N4c. Spiders’ Ballroom|The Oath Celestial]], the spirit of Brother Marek speaks to them through the stained-glass form of Saint Andral. Read:
+If the players read aloud a prayer from [[#M4c. Spiders’ Ballroom|The Oath Celestial]], the spirit of Brother Marek speaks to them through the stained-glass form of Saint Andral. Read:
 
 <div class="description">
 <p>The figure in the left stained-glass window begins to stir, hues of orange and azure tracing the lines of its form. The man’s arms raise, the glass of his fingers seeming to flex and twitch within the confines of the window. He slowly rises to his feet, his gaze turning to meet yours with a quiet, somber solemnity.</p>
@@ -709,7 +782,7 @@ If the players read aloud a prayer from [[#N4c. Spiders’ Ballroom|The Oath Cel
 The stained-glass man can identify himself as the spirit of Brother Marek. He can share the following information if asked:
 
 * In life, he was the chaplain of the Order of the Silver Dragon. He perished defending the third-floor corridor when the forces of Strahd von Zarovich assaulted the mansion on the final day of the war.
-* The stained-glass figure he is possessing is a depiction of Saint Andral, once the Moste High Priest of the Church of the Morninglord. The other two stained-glass figures are the angel Ithuriel and Saint Markovia, respectively. The stained-glass windows depict Saint Markovia’s anointment as a prophet of the Morninglord. 
+* The stained-glass figure he is possessing is a depiction of Saint Andral, once the Moste High Priest of the Church of the Morninglord. The other two stained-glass figures are the angel Ithuriel and Saint Markovia, respectively. The stained-glass windows depict Saint Markovia’s anointment as a prophet of the Morninglord, in which Ithuriel placed a shard of his divinity in the icon he bestowed upon her. 
 * If the players note Saint Andral’s apparent envy, Brother Marek agrees that many rumors once suggested that Saint Andral, who reinvigorated the Church’s power and reach after bestowing the crown of Old Zarovia upon King Barov von Zarovich II, was not pleased with the Morninglord’s decision to anoint Markovia instead of himself. (If asked, Brother Marek can share that King Barov von Zarovich II was named for King Barov I, the ancient founder of the kingdom of Old Zarovia, and that Strahd von Zarovich was the son of King Barov II.)
 
 Brother Marek is reluctant to share information regarding Argynvost’s spirit with the players, believing that the old dragon has “earned his rest," and that further contact with the living will only torment his ghost.
@@ -720,20 +793,33 @@ Brother Marek is glad to share his belief that the Order’s fate is damnation f
 
 If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
 
-The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, succeeding automatically if they reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
+The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
 
 > [!abstract]+ **Legacy of the Sunsword**
 > If told of the *Sunsword*’s foretelling, Brother Marek stirs in shock. He can inform the players that he once heard of a similar sword—King Barov II’s *Brightblade*, an enchanted sword that glowed with the light of the sun. “Strahd von Zarovich never wielded it in battle against us," he says, thoughtfully. “I had heard rumors that it had been passed down to Barov’s younger son, then rumors it had been destroyed. If it still exists, it may be one of the only weapons capable of destroying the beast that Zarovich has become."
 >
 > If told of the “amber doors" referenced in the *Sunsword*’s foretelling, Brother Marek’s eyes widen. The players can convince him to share the existence of the Amber Temple with a DC 15 Charisma (Persuasion) check, though Brother Marek—who never visited the temple himself—knows only that it once served as a prison for terrible evils, and that it can be found somewhere on Mount Ghakis. He doesn’t know how the *Sunsword* may have arrived there, nor where it may be found within.
-
+#### Marek is Convinced
 If convinced by the players to aid them in speaking with Argynvost, Brother Marek advises them: “Seek out the younger of the twin dragons above. Reignite the silver flame it once wielded, and remind it of the oath it once served. Do this, and the memory of the Silver Dragon may return to fill it once more." He then bids the players farewell and good luck and returns the stained-glass figure to its original kneeling position. Brother Marek’s spirit then departs, freezing the figure in place.
-## N6d. Southern Chambers
+
+> [!abstract]+ **Zorya's Flames**
+> If the players are unaccompanied by Argynvost's familiar, the ghostly **pseudodragon** Zorya, modify Brother Marek's first sentence to read: "Seek out the silver dragon's shadow below, and the younger of the twin dragons above."
+#### Marek is Unconvinced
+If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
+
+If the players subsequently descend to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>, it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
+
+* **Argynvost Somewhat Approves.** The torches briefly flicker with cold silver embers, which are swiftly extinguished.
+* **Argynvost Approves.** The torches briefly flare with cold silver fire, which then dwindles into nothingness.
+* **Argynvost Strongly Approves.** The torches ignite with cold, roaring silver fire and gain the effects of a _continual flame_ spell.
+
+Each torch can be easily removed from its mount. If the players return to the [[#Upstairs Gallery]] and show an ignited torch to Brother Marek, he emerges once more from his stained-glass window to provide them with the guidance in [[#Marek is Convinced]] above before disappearing.
+## M6d. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q32.</em></span>
 
 These areas are as described in <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
-# N7. Fourth Floor
-## N7a. Rooftop
+# M7. Fourth Floor
+## M7a. Rooftop
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
 
 When the players first exit the <span class="citation">Q31. East Staircases (p. 138)</span> to emerge on the roof, read:
@@ -759,7 +845,7 @@ In addition, if any characters successfully enter the tower, the **phantom warri
 * ***Pivot.*** In response to an enemy missing an attack against it, the phantom warrior moves up to 10 feet away without triggering opportunity attacks.
 
 As they fight in melee, the phantom warriors shout: “Begone, soldiers of the Devil!", “We will die proudly," and “Argynvostholt will never be yours."
-## N7b. Beacon
+## M7b. Beacon
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q53.</em></span>
 
 This area is largely as described in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
@@ -770,11 +856,28 @@ This area is largely as described in <span class="citation">Q53. Beacon of Argyn
 
 The gargoyle is half the size of <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>. The knight is Vladimir Horngaard, who is as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 ### Meeting Vladimir Horngaard
-The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail the Dexterity (Stealth) check, or approach the dragon gargoyle, Vladimir is alerted. Read:
+The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
 
 <div class="description">
 <p>The gauntleted hand tightens its grip around the greatsword’s hilt, and the knight’s deep, rasping voice pierces the silence. "Who goes there?" it commands. “Be warned—if you are thieves or assassins, know that you shall soon join your quarries in death."</p>
 </div>
+
+> [!profile]+ **Vladimir Horngaard**
+> **Roleplaying Information**
+> ***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
+> 
+> ***Emotions.*** Vladimir most often feels suspicious, enraged, irritated, placid, stoic, or apathetic.
+> 
+> ***Motivations.*** Vladimir wants to preserve Strahd's prison in the Mists to avenge his desecration of Argynvost's corpse and the destruction of the Order of the Silver Dragon.
+> 
+> ***Inspirations.*** When playing Vladimir, channel Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*), and Rorschach (*Watchmen*).
+> 
+> **Character Information**
+> ***Persona.*** To the world, Vladimir is a cruel, apathetic, and self-righteous creature consumed by vengeance and hatred.
+> 
+> ***Morale.*** In a fight, Vladimir would gladly take up arms against any person that insulted, disobeyed, or threatened him.
+> 
+> ***Relationships.*** Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten).
 
 Vladimir aims to interrogate the players sufficiently to confirm their purpose and uncover any inconsistencies or holes in their story. Ultimately, the players can convince Vladimir that they are neither thieves nor assassins with a successful DC 10 Charisma (Persuasion) check or DC 14 Charisma (Deception) check, automatically succeeding on a Charisma (Persuasion) check if they truthfully inform Vladimir that they are investigating the stirrings of Argynvost’s spirit. On a failure, Vladimir warns them that they have one opportunity to flee the mansion before he slays them. If the players fail to plead their case or depart, Vladimir attacks.
 
@@ -797,13 +900,13 @@ If asked, Vladimir can share the following information:
 
 If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 
-If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 ### Vladimir’s Anger
 If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
 
 <div class="description">
 <p>The knight’s face curls into a terrible snarl, and the greatsword’s sharpened edge grinds against the broken stone floor. The temperature in the room seems to plummet, even as his red eyes burn with a haunting intensity.</p>
-<p>"Perhaps you have encountered the vampire Strahd von Zarovich," he rasps. “Now, you look upon his jailer. If you seek to end his torment, then I shall strike you down—unless you swear upon this cursed blade to cast aside this foolish mission."</p>
+<p>"Perhaps you have encountered the vampire Strahd von Zarovich," he rasps. “Now, you look upon his jailer. If you seek to end his torment, then I shall strike you down—unless you swear an oath to me, upon this cursed blade, to cast aside this foolish mission."</p>
 </div>
 
 Once he believes the players seek Strahd’s destruction, Vladimir won’t allow them to leave peacefully unless each of them swears an oath upon his sword to raise no hand against Strahd von Zarovich. A character who does so is subject to the effects of Vladimir’s ***oathbind*** feature (see below).
@@ -862,26 +965,26 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
 <strong>Languages</strong> Common, Draconic<br>
-<strong>Challenge</strong> 15
+<strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
-<p><strong><em>Oathbind.</em></strong> If Vladimir would kill a creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
+<p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
 <p><strong><em>Burning Hatred.</em></strong> When Vladimir is reduced to 0 hit points, black flames erupt along the hilt of his greatsword and the shadows encircling its blade become spiked black wires. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Vladimir makes two attacks with his <strong><em>+2 greatsword</em></strong>. He can replace one of those attacks with one use of his <strong><em>conjure phantoms</em></strong> action.</p>
 <p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage, and Vladimir can push the target up to 5 ft. away. Instead of pushing the target, Vladimir can force the target to make a DC 18 Strength saving throw or be knocked prone.</p>
 <p><strong><em>Conjure Phantoms.</em></strong> Vladimir summons a pair of <strong>phantom warriors</strong>, which appear next to a hostile creature that Vladimir can see. Each warrior makes a <strong><em>spectral longsword</em></strong> attack against that creature, then disappears. A creature that takes damage in this way can’t regain hit points until the start of Vladimir’s next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that fails the saving throw takes half damage and isn’t pushed.</p>
+<p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
 <p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
 <h3>Reactions</h3>
 <p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
-<p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded down). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
-<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from a melee attack, Vladimir makes an attack against the attacker with his <strong><em>+2 greatsword</em></strong>.</p>
+<p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
+<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
 </div>
 <br>
 <div class="statblock">
@@ -923,6 +1026,8 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Condition Immunities</strong> Charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
 <strong>Languages</strong> Common, Draconic<br>
+<strong>Challenge</strong> 15<br>
+<strong>Proficiency</strong> +5
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
@@ -943,27 +1048,27 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
 </div>
 
-While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on a DC Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
+While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on a DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
 
 * If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
 * If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q52. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
 
 > [!warning]+ **Failing Forward**
-> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc L - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
+> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
 > 
 > If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
 > 
-> The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery.
+> The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
 > 
-> Once he returns to the audience hall after successfully ***oathbinding*** the players, Vladimir doesn’t attack them again until after they retrieve Argynvost's skull in [[Arc Q - Ravenloft Heist]].
+> Once he returns to the audience hall after successfully ***oathbinding*** the players, Vladimir doesn’t attack them again until after they retrieve Argynvost's skull in [[Arc P - Ravenloft Heist]].
 
 The first time Vladimir’s second form is reduced to 50 hit points or fewer, he snarls: “If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down."
 
 When Vladimir dies, he rasps, “You have won this battle, but you shall never win forever. You can outrun me, even outfight me, but you cannot outlast me. Sleep—and know that we will meet again." 
 
-As Vladimir dies, his features fade, leaving beyond the unrecognizable corpse of an unremarkable Barovian. So too do his armor and *+2 greatsword* melt away, vanishing into mist.
+As Vladimir dies, his features fade, leaving behind the unrecognizable corpse of an unremarkable Barovian. So too do his armor and *+2 greatsword* melt away, vanishing into mist.
 ### The Gargoyle’s Prophecy
-The dragon gargoyle’s brazier is freezing cold to the touch, and extinguishes any hot flame—magical or nonmagical—placed inside of it. However, if lit by Zorya’s breath weapon or one of the torches from [[#N4a. Cemetery|Argynvost’s mausoleum]], the brazier alights with a cold silver fire.
+The dragon gargoyle’s brazier is freezing cold to the touch, and extinguishes any hot flame—magical or nonmagical—placed inside of it. However, if lit by Zorya’s breath weapon or one of the torches from [[#M4a. Cemetery|Argynvost’s mausoleum]], the brazier alights with a cold silver fire.
 
 The players can summon an aspect of Argynvost’s spirit to briefly animate the gargoyle by lighting the brazier and reading aloud the oath of the Order of the Silver Dragon. If they do, read:
 
@@ -977,9 +1082,4 @@ The gargoyle then whispers the short verse described in <span class="citation">Q
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,000 XP.
 
 > [!warning]+ **Under Construction**
-> This arc is under construction. The second half of [[Arc N - Argynvost's Beacon]], which takes place in the immediate aftermath of [[Arc Q - Ravenloft Heist]], will be added in a future update.
-
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for _**Arc O: Tales of Vallaki**_ and _**Arc P: Dinner with the Devil**_, as well as additional outlines and notes for _**Act III: The Broken Land**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
+> This arc is under construction. The second half of [[Arc M - Argynvost's Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]], will be added in a future update.

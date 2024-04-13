@@ -89,6 +89,17 @@
     color: var(--highlight-secondary);
     font-weight: bold;
   }
+
+  .credit {
+    color: var(--highlight-secondary);
+    display: block;
+    margin: auto;
+    font-weight: bold;
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+    width: 100%;
+  }
   
   .published-container .markdown-rendered h1,
   .published-container .markdown-rendered h2 {
@@ -449,6 +460,10 @@ details[open] > summary h3 {
 /* Remove line after the last item */
 .flowchart li:last-child::after {
     display: none;
+}
+
+.break {
+  break-before: column;
 }
 
   

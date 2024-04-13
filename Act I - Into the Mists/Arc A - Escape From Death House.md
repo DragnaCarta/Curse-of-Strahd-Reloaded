@@ -1,7 +1,7 @@
 *An adventure for five 2nd-level characters.*
 
 > [!tip]+ **A Taste of Horror**
-> The following pages contain a guide to the first acts of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and the first third of **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
+> The following pages contain a guide to the first acts of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and the first two-thirds of **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
 > 
 > You can sign up to receive update notifications in your email inbox by joining the free DragnaCarta community on [Patreon](https://www.patreon.com/DragnaCarta).
 > 
@@ -9,7 +9,7 @@
 
 The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
 
-When the relics they carry sense the presence of Death House, however, the players are led through Daggerfords’ rainy streets and into the house’s waiting threshold.
+When the relics they carry sense the presence of Death House, however, the players are led through Daggerford’s rainy streets and into the house’s waiting threshold.
 
 Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
 
@@ -96,7 +96,7 @@ Read all players the following text:
 
 Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
 
-The entrance beyond the portico is otherwise as described in <span class="citation">1. Entrance (p. 212)</span>.
+The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
 
 > [!lore]+ **Strahd & the Cult**
 >
@@ -110,7 +110,7 @@ When the players pass through Death House’s threshold, any Barovian relics the
 
 The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
-Instead of a longsword, the portrait of the Durst family from <span class="citation">6. Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Rose is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+Instead of a longsword, the portrait of the Durst family from <span class="citation">Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Rose is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house. The sound of the rain outside completely vanishes, leaving the house eerily silent. 
 
@@ -319,18 +319,6 @@ This room is largely as described in **Library** (p. 213-14). When the players e
 
 The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
 
-***The Bookshelves.*** A small rock collection sits upon one of the shelves, each of the stones labeled with its scientific name.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup> (This collection once belonged to Mr. Durst.) 
-
-Immediately beside the rock collection is a book titled _The Tale of &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;_, with the final word being the name of the player character who first found it. It appears blank to any other creature, but, if read by that player character, tells the story of their life.<sup><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7pjhpa/dm_tips_curse_of_strahd_part_1_intro_death_house/">2</a></sup>
-
-The final written page of this book reads:
-
-<div class="description">
-<p><em>&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; pulled the book down from the shelf and began to read, unaware of the creature that watched them from the shadows. Slowly, the beast began to creep forward.</em></p>
-</blockquote>
-
-The next page is blank, save for a bloodstain. A search of the room provides no evidence of any lurking monster.
-
 A character that searches the room and succeeds on a DC 15 Wisdom (Perception) check can see flickering candle light emanating from beneath the secret door.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
 > [!info]+ **Making Multiple Ability Checks**
@@ -421,12 +409,12 @@ A roll of parchment is half-buried in the grain beside the shard. If unfurled, i
 <div class="description">
 <p>Drasha,</p>
 <p>I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.</p>
-<p>Should the need arise, present the shard and speak the Beast's name to quiet its tantrums—but be sure to begone from the house before it awakens at midnight.</p>
+<p>Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to begone from the house before it awakens fully at midnight.</p>
 <p>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.</p>
 <p>Elisabeth</p>
 </div>
 
-A player can present the shard and speak Walter's name as a bonus action while within 30 feet of the **flesh mound** in the [[#Ritual Chamber]] to force the mound to make a DC 13 Wisdom saving throw or be dazed until the start of the player's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
+See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
 
 ***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
 ### Bathroom
@@ -462,7 +450,9 @@ This room is largely as described in <span class="citation">Nursemaid’s Suite 
 
 ***The Book.*** The book is a cobwebbed copy of a raunchy romance novel titled *Blue-Blooded Lips*. It tells the story of a peasant woman's romance with a wealthy duke.
 
-***The Nursery.*** If a player enters the nursery, read:
+***The Nursery.*** The door to the nursery is closed. A player who approaches the door hears a young woman's quiet humming. (A player who has previously read or heard or heard the song in the [[#Conservatory]] recognizes the melody as *Waltz for Klara*.)
+
+If a player enters the nursery, the humming abruptly cuts off. Read:
 
 <div class="description">
 <p>The air in this small nursery is strangely warm and tinged with a coppery scent. Blood-red runes cover the walls, arranged in concentric circles around the crib in the center, which seems to have a name carved into its side. Strange, flesh-like tumors have grown along the floor around it in sparse clusters, and slowly pulsate as if they're breathing.</p>
@@ -475,7 +465,7 @@ The name "Walter" has been lovingly carved into the head of the crib. A successf
 
 ***The Mirror.*** The nursemaid’s **specter** does not appear in this room. Instead, when a player approaches the mirror, the nursemaid’s spirit appears as an apparition in the glass.
 
-The spirit resembles a pale, skeletally thin young woman, with all of her fingers and toes removed, her eyes sewn shut, and her lips and teeth torn from her mouth. Countless knife-thin scars line her entire body, including the flesh around her wrists and ankles, and her hair has been carelessly hacked to stubble. 
+The spirit resembles a pale, skeletally thin young woman, with all of her fingers and toes removed, her eyes sewn shut, and her lips and teeth torn from her mouth. Countless knife-thin scars line her entire body, including the flesh around her wrists and ankles, and her hair has been carelessly hacked to stubble.
 
 Though its appearance is disturbing, players observing the spirit feel that it is simply watching them with shy curiosity.
 
@@ -516,6 +506,7 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 This room is largely as described in **Children’s Room** (p. 215-16).
 
 ![[Rose and Thorn.png]]
+<span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Rosavalda "Rose" Durst**
 >
@@ -627,8 +618,10 @@ If the characters enter the **Empty Crypt**, read:
 If the characters enter **Walter’s Crypt**, read:
 
 <div class="description">
-<p>Swollen, bloody cysts cover the walls of this crypt like tumors. From time to time, they pulsate and burst, streams of pus oozing down to collect on the floor. In the distance, you can hear an infant's quiet whimpers.</p>
+<p>Swollen, bloody cysts cover the walls of this crypt like tumors. From time to time, they pulsate and burst, streams of pus oozing down to collect on the floor. Each time they do, you can hear an infant's quiet whimpers, which are swiftly quieted by the sound of distant humming.</p>
 </div>
+
+Players who have previously read or heard the song recognize the melody of the humming as *Waltz for Klara.*
 
 As the players approach **Gustav’s Crypt** and **Elisabeth’s Crypt**, read:
 
@@ -682,7 +675,7 @@ The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, an
 
 If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which one of the cultists kept as a log of the cult’s victims, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
+Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
@@ -782,7 +775,7 @@ This room is largely as described in <span class="citation">Stairs Down (p. 218)
 ### Darklord’s Shrine
 <span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
 
-This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
 
 <div class="description">
 <p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
@@ -806,37 +799,16 @@ If the orb is removed from its position, the ashen **shadows** upon the walls be
 
 Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
 
+The shadows gain the following additional feature:
+
+***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
+
 > [!combat]- **Balancing the Shadows**
 > This combat encounter is a **crushing** encounter against a party of five 2nd-level players, and will consume approximately 131% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of shadows to three.
 > * ***Four Players.*** Reduce the number of shadows to four.
 > * ***Six Players.*** Increase the number of shadows to six.
-
-If the players approach the door leading to [[#Cult Leader’s Den]], read:
-
-<div class="description">
-<p>This old wooden door is covered in ancient red stains.</p>
-</div>
-
-If the players have not already seen this door from the opposite side, add:
-
-<div class="description">
-<p>The half-eaten body of a rat lies at its base, its head torn off and half of the spine poking from its severed lower torso. </p>
-</div>
-
-Any creature that touches the door becomes adhered to it, whereupon the **mimic** attacks. The mimic also attacks if its takes any damage.
-
-> [!combat]- **Balancing the Mimic**
-> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the mimic’s HP to 35. Reduce its ***Pseudopod*** damage to 4 (1d8) bludgeoning damage and reduce its ***Bite*** damage to 4 (1d8) piercing damage plus 2 (1d4) acid damage.
-> * ***Four Players.*** Reduce the mimic’s HP to 46. Reduce its ***Pseudopod*** damage to 5 (1d8+1) bludgeoning damage and reduce its ***Bite*** damage to 5 (1d8+1) piercing damage and 3 (1d6) acid damage.
-> * ***Six Players.*** Increase the mimic’s HP to 70. Increase its ***Pseudopod*** damage to 8 (1d10+3) and increase its ***Bite*** damage to 8 (1d10+3) piercing damage and 5 (1d10) acid damage.
-
-When the mimic attacks, the victim's hand is sucked inside of it. The door then deforms, sprouting dozens of mouths and eyes, with the nearest mouth attempting to bite down on the now-stuck victim.
-
-If the **mimic** is attacked at range by a wary or alerted PC, it flees, vanishing around the corner and reappearing as a door, chest, or longsword elsewhere in the dungeon.
 ### Hidden Trapdoor
 <span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
 
@@ -849,13 +821,12 @@ This room is largely as described in <span class="citation">Hidden Trapdoor (p. 
 ### Cult Leader’s Den
 <span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
 
 <div class="description">
 <p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
 </div>
 
-See [[#Darklord’s Shrine]] for more information on running the **mimic** here.
 ### Cult Leader’s Quarters
 <span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
 
@@ -939,17 +910,17 @@ In combat, the flesh mound begins in its **first form**. For one minute after it
 
 A creature engulfed by the mound’s first form can hear the faint sound of a baby crying at the center of its swollen bulk.
 
-> [!warning]+ **Elisabeth's Amber Shard**
+> [!item]+ **Elisabeth's Amber Shard**
 >
-> Remember that a player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard and speak the name "Walter" while within 30 feet of the **flesh mound**, forcing the mound to make a DC 13 Wisdom saving throw or be dazed until the start of the player's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
+> A player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 13 Charisma (Intimidation) check, the mound must immediately use a reaction, if available, to follow the command, moving up to its speed to do so if necessary. The mound won't obey a command that is directly harmful to it, and can stop following a command at the start of its next turn.
 
 <div class="statblock">
-<h2>Flesh Mound, 1st Form</h2>
+<h2>The Flesh Mound</h2>
 <em>Large undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
 <br>
-<strong>Hit Points</strong> 51 (6d10 + 18)
+<strong>Hit Points</strong> 93 (11d10 + 33)
 <br>
 <strong>Speed</strong> 20 ft.
 <hr>
@@ -978,26 +949,32 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 <hr>
 <strong>Condition Immunities</strong> blinded, deafened, exhaustion<br>
 <strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 3, or 2 when its <em>heavy sleeper</em> feature is active.<br>
+<strong>Languages</strong> Understands Common, but can't speak it<br>
+<strong>Challenge</strong> 4, or 3 when its <strong><em>heavy sleeper</em></strong> feature is active.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its multiattack.</p>
+<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>slam</em></strong> attack more than once per turn.</p>
+<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
 <p><strong><em>Instinctual Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes two Slam attacks. If it has a Medium or smaller creature grappled, the flesh mound then uses its Engulf on it.</p>
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) bludgeoning damage. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>
-<p><strong><em>Engulf.</em></strong> The flesh mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of the mound’s turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time.</p>
-</div>
-
-<br>
+<p><strong><em>Multiattack.</em></strong> The flesh mound makes two attacks. It can't use its <strong><em>slam</em></strong> attack more than once if its <strong><em>heavy sleeper.</em></strong> feature is active.
+<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 10 (2d6 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>
+<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., up to two targets standing within 5 ft. of each other. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
+<h3>Bonus Actions</h3>
+<p><strong><em>Engulf.</em></strong> The flesh mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of its turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time. An engulfed creature can make a DC 13 Strength saving throw at the end of each of its turns, freeing itself on a success. (Once freed, the creature is no longer grappled.)</p>
+<p><strong><em>Quake.</em></strong> The flesh mound slams against the floor, causing the room to quake. Each creature within 20 feet of the mound must succeed on a DC 13 Strength saving throw or fall prone.</p>
+<h3>Reactions</h3>
+<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
+<p><strong><em>Squelch.</em></strong> In response to taking damage from a melee attack, the flesh mound attempts to grapple the attacker.</p>
+<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the flesh mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks.</p>
+</div><br>
 
 <div class="statblock">
-<h2>Flesh Mound, 2nd Form</h2>
+<h2>Walter, the Graveborn</h2>
 <em>Large undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
 <br>
-<strong>Hit Points</strong> 51 (6d10 + 18)
+<strong>Hit Points</strong> 93 (11d10 + 33)
 <br>
 <strong>Speed</strong> 20 ft.
 <hr>
@@ -1019,28 +996,38 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
       <td>16 (+3)</td>
       <td>3 (-4)</td>
       <td>10 (+0)</td>
-      <td>5 (-3)</td>
+      <td>10 (+0)</td>
     </tr>
   </tbody>
 </table>
 <hr>
 <strong>Condition Immunities</strong> blinded, deafened, exhaustion<br>
 <strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 3, or 2 when its <em>heavy sleeper</em> feature is active.<br>
+<strong>Languages</strong> Understands Common, but can't speak it<br>
+<strong>Challenge</strong> 4, or 3 when its <em>heavy sleeper</em> feature is active.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its multiattack.</p>
-<p><strong><em>Innocent Heart.</em></strong> The front of the mound contains a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 17, 20 hit points, and the same ability scores as the flesh mound. If Walter's corpse is reduced to 0 hit points, the flesh mound instantly dies.</p>
+<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>tentacle</em></strong> attack more than once per turn.</p>
+<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
+<p><strong><em>Innocent Heart.</em></strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 15, 25 hit points, and the same ability scores as the flesh mound. If Walter's corpse is reduced to 0 hit points, the flesh mound instantly dies.</p>
+<p><strong><em>Mother's Lullaby.</em></strong> If a player uses their action to hum or play <em>Waltz for Klara</em> and succeeds on a DC 10 Charisma (Performance) check, the mound exposes its heart and can't use its <strong><em>withdraw</em></strong> reaction until the start of the player's next turn.
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes two tentacle attacks and uses its gore spray.</p>
-<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 10 ft., one target. <em>Hit:</em> 8 (1d10 + 3) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore Spray.</em></strong> The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded.</p>
+<p><strong><em>Multiattack.</em></strong> The flesh mound makes three attacks, or two attacks if its <strong><em>heavy sleeper</em></strong> feature is active.</p>
+<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 15 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be pulled up to 15 feet toward the mound.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) piercing damage.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Gore Spray.</em></strong> The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
+<p><strong><em>Wail.</em></strong> The infant corpse of Walter Durst releases a piercing shriek. Each creature that can hear the shriek within 30 feet of the mound must succeed on a DC 10 Constitution saving throw or take 2 (1d4) psychic damage and be deafened until the end of the mound's next turn. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
+<h3>Reaction</h3>
+<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
+<p><strong><em>Withdraw.</em></strong> In response to an attack or harmful spell hitting or missing its heart, the mound withdraws its heart into its body, concealing it from view and protecting it from attacks.</p>
+<p><strong><em>Lash Out.</em></strong> In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. The attacker must succeed on a DC 13 Dexterity saving throw or be pushed 10 feet away. If the attacker fails the saving throw by 5 or more, they also fall prone.</p>
+<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
 </div>
 
 > [!combat]- **Balancing the Flesh Mound**
 > Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 2nd-level players, and will each consume approximately 28% of their total maximum hit points (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the flesh mound’s HP to 31 in each phase. For its first phase, reduce its ***slam*** attack and ***engulf*** action to 5 (2d4) bludgeoning damage. For its second phase, reduce its ***tentacle*** attack to 5 (1d10) bludgeoning damage and its ***gore spray*** action to 4 (1d8) necrotic damage.
+> * ***Three Players.*** Reduce the flesh mound’s HP to 42 (5d10 + 15) in each phase. For its first phase, reduce its ***slam*** attack and ***engulf*** action to 5 (2d4) bludgeoning damage. For its second phase, reduce its ***tentacle*** attack to 5 (1d10) bludgeoning damage and its ***gore spray*** action to 4 (1d8) necrotic damage.
 > * ***Four Players.*** Reduce the flesh mound’s HP to 41 in each phase. For its first phase, reduce its ***slam*** attack and ***engulf*** action to 6 (2d4+1) bludgeoning damage. For its second phase, reduce its ***tentacle*** attack to 6 (1d10+1) bludgeoning damage and its ***gore spray*** action to 6 (1d12) necrotic damage.
 > * ***Six Players.*** Increase the flesh mound’s HP to 61 in each phase. For its first phase, increase its ***slam*** attack and ***engulf*** action to 10 (2d6+3) bludgeoning damage. For its second phase, increase its ***tentacle*** attack to 9 (1d12+3) bludgeoning damage.
 
@@ -1095,7 +1082,7 @@ Most surprisingly, the players now find themselves in a dark forest clearing at 
 
 The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
 
-If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods look like their home—Barovia.
+If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
 
 As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in <span class="citation">Will-o'-Wisp (p. 33)</span>, but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
 

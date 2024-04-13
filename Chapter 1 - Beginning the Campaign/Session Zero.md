@@ -33,9 +33,9 @@ To ensure all players are on the same page when beginning the campaign, consider
 <li>I will allow my character to feel true, powerless fear when faced with an overwhelming threat, and allow that fear to impact my character's actions, growth, and development.</li>
 <li>I will make every reasonable effort to build meaningful short- and long-term relationships with NPCs, and allow myself to become emotionally invested in their lives and goals.</li> 
 <li>This campaign requires alliances and cooperation with NPCs and other players, rather than paranoia or antisocial behavior.</li> 
-<li>The DM will not try to trick me, and will give me a fair chance to avoid bad situations through clear foreshadowing.</li>
+<li>The DM will not try to trick me, and will give me a fair chance to avoid bad situations through clear foreshadowing. However, NPCs will withhold nonessential lore and character information unless specifically requested.</li>
 <li>This campaign will largely focus on social encounters, investigations, and exploration, and combat may occur as infrequently as once every two or three sessions.</li> 
-<li>Treasure and magic items will be rare and infrequently obtained, with most rewards taking the form of relationships and alliances with friendly NPCs.</li>
+<li>Treasure, magic items, and expensive spell components will be rare and infrequently obtained, with most rewards taking the form of relationships and alliances with friendly NPCs.</li>
 <li>This campaign will take place in a "fish-out-of-water" setting, and elements from my character's backstory will not directly appear or be referenced in the campaign.</li>
 <li>It is my sole responsibility to collaborate with the DM and other players to provide my character with an internal emotional character arc if desired.</li> 
 <li>Some powerful enemies will be impossible to defeat through combat, and that we will need to either gain levels, allies, or resources in order to do so.</li>
@@ -45,3 +45,5 @@ To ensure all players are on the same page when beginning the campaign, consider
 </ul>
 </div>
 
+> [!warning]+ **Breaking the Fourth Wall**
+> Sometimes, a player will act in a way that seems to break the [[#Campaign Contract]]. (For example, a frustrated, trigger-happy, or mistrustful player might plot to attack and kill an NPC that can be allied or befriended.) When this happens, don't hesitate to pause the game, remind the player of the relevant provision of the campaign contract, and ensure everyone is on the same page before resuming play.

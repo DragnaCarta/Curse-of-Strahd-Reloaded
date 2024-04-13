@@ -5,18 +5,18 @@ In this arc, shortly after seeing Ireena Kolyana, Izek Strazni realizes that she
 After learning from his spies that Ireena has most recently resided at the Blue Water Inn, Izek visits the Inn himself in an attempt to uncover her location. If his effort is unsuccessful, he directs the town guard to publish WANTED posters around Vallaki offering a reward for information regarding Ireena’s location.
 
 If the players neither stop Izek nor take extraordinary measures to keep Ireena concealed, Izek finds and kidnaps Ireena two days later, imprisoning her in his room at the Baron’s mansion. Can the players free Ireena from Izek’s clutches—or will they perish in the attempt?
-# H1. The Blue Water Inn
-## H1a. Izek’s Visit
+# G1. The Blue Water Inn
+## G1a. Izek’s Visit
 Just over a day after catching a glimpse of Ireena Kolyana for the first time—either in the street outside of the Blue Water Inn, in Vallaki’s town square, or in some other location—Izek Strazni recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 
 
 Izek soon comes to believe that Ireena is a guest at the Blue Water Inn—either because he observed her in the vicinity of the Blue Water Inn on the players’ first morning in Vallaki, or, unless players disguised her upon their entry into Vallaki, because he learned of her recent arrival from the guards at the gates. (If Izek did not see Ireena outside of the Blue Water Inn and the players kept her disguised upon entering Vallaki, Izek learns of Ireena’s location from one of his spies an additional day later, unless the players have taken extraordinary measures to keep her hidden.)
 
-While the players are away—and preferably during the players’ dinner with Lady Fiona Wachter in [[Arc G - Lady Wachter's Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena’s location, describing her by appearance. Urwin and Danika deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which Urwin and Danika reluctantly allow.
+While the players are away—and preferably during the players’ dinner with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena’s location, describing her by appearance. Urwin and Danika deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which Urwin and Danika reluctantly allow.
 
 If Ireena is currently staying at the inn, Urwin quietly directs Brom and Bray to retrieve and conceal her in <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> while he and Danika keep Izek distracted in <span class="citation">N2f. Stable (p. 101)</span>. To keep Izek busy, Danika allows him to search <span class="citation">N2h. Ravens' Loft (p. 101)</span>, allowing him to find the locked chest buried in the hay. Urwin reluctantly complies with Izek's demands to open the chest, and Izek confiscates the 140 ep and 70 pp as "unpaid taxes."
 
 After rummaging through each room of the inn—including Rictavio’s suite—Izek breaks a table, two chairs, and a window in a fit of rage and storms out of the inn.
-## H1b. The Players Return
+## G1b. The Players Return
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2c.</em></span>
 
 The next time that the players return to the Blue Water Inn, they find that the inn is closed to non-guests for the evening, with all of its shutters and doors closed to the public. 
@@ -36,7 +36,7 @@ If the players indicate an interest in attacking Izek for his transgressions or 
 If the players appear dead-set on challenging Izek, Urwin reluctantly advises them to seek the counsel of Lady Fiona Wachter, who is known to be a steadfast enemy of the Baron. He also offers to uncover details regarding Izek’s schedule and activities in order to assist the players’ efforts. 
 
 Urwin declines to reveal his sources, but notes only that some “friends” of his are adept at finding information without being detected.
-## H1c. Ireena’s Aftermath
+## G1c. Ireena’s Aftermath
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2e.</em></span>
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] was at the inn when Izek arrived, [[Non-Player Characters#Urwin Martikov|Urwin]] further informs the players that [[Non-Player Characters#Danika Dorakova|Danika]] is comforting her in <span class="citation">N2e. Kitchen (p. 101)</span> while brewing a batch of hot mulled wine to steady her nerves. (Brom and Bray have been sent to their room for the night—not as a punishment, but to keep them safe should Izek return. Urwin has promised both new toys as a reward for their selflessness and bravery.)
@@ -57,9 +57,9 @@ If Ireena was at St. Andral's Church when Izek visited the inn, she visits the i
 > 
 > If the players journey to Lady Wachter’s estate to seek her assistance, they begin [[Arc G - Lady Wachter’s Wish]].
 
-# H2. The Streets of Vallaki
+# G2. The Streets of Vallaki
 One day after his visit to the Blue Water Inn, Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching Ireena’s description. Each poster includes a sketch that roughly matches Ireena’s appearance and offers a reward of five gold pieces for information delivered to Izek Strazni at the Baron’s mansion.
-# H3. The Kidnapping
+# G3. The Kidnapping
 At dawn on the fourth day after the players arrived in Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Burgomaster’s mansion regarding her current location. 
 
 The next time that Ireena and the players are apart that day, [[Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena’s current location and attempts to kidnap her. [[Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
@@ -78,7 +78,7 @@ If Izek is successful, he then takes Ireena by force to his room in the Baron’
 > 
 > If the players fail to rescue Ireena, the wicker sun is brought to the town square at nine o'clock in the morning, and burned at noon at the height of the "festivities," killing Ireena.
 
-# H4. The Rescue
+# G4. The Rescue
 The players can rescue Ireena from Izek’s clutches by first gaining access to his bedroom in the Baron’s mansion. They can do so by infiltrating the mansion or openly storming it.
 
 In either case, if the players are found in a place where they’re not supposed to be, an occupant of the mansion can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later. 
@@ -112,7 +112,7 @@ The NPCs in the mansion ordinarily behave as follows:
 >
 > One minute after the first fires ignite, Victor Vallakovich descends to the battlefield if able and commands all combatants to move behind him. He then casts _cone of cold_ to extinguish all burning squares.
 
-## H4a. Infiltrating the Manor
+## G4a. Infiltrating the Manor
 If the players infiltrate the manor and successfully make their way to Izek’s bedroom, the door is locked as described in <span class="citation">N3j. Izek's Bedroom (p. 107)</span>. If the players attempt to pick the lock and [[Non-Player Characters#Izek Strazni|Izek]] is awake (see ***Don’t Wake Izek*** below), they must also succeed on a DC 13 Dexterity (Stealth) check to do so without alerting him.
 
 > [!warning]+ **Surprising Izek**
@@ -165,7 +165,7 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dex saves, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (He must spend 1 extra foot of movement for every foot he moves using his speed, attack rolls against him have advantage, and he has disadvantage on Dexterity saving throws.)
 <p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
@@ -177,7 +177,7 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 <h3>Reactions</h3>
 <p>Izek can take up to three reactions per round, but only one per turn. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack with his battleaxe.</p>
+<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
 </div>
 
 <br>
@@ -223,7 +223,7 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dex saves, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (He must spend 1 extra foot of movement for every foot he moves using his speed, attack rolls against him have advantage, and he has disadvantage on Dexterity saving throws.)
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
@@ -246,12 +246,15 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 > * ***Four Players.*** Reduce Izek’s HP to 92 in each phase. For his first phase, reduce his ***silvered*** ***battleaxe*** attack to 9 (1d8+5) slashing damage, his ***flame*** ***hurl*** attack to 7 (3d4) fire damage, his ***slicing*** ***whirl*** bonus action to 4 (1d8) damage, and his ***flame*** ***volley*** action to 6 (1d12) fire damage. For his second phase, reduce his ***silvered*** ***battleaxe*** attack to 8 (1d6+5) slashing damage plus 2 (1d4) fire damage, his ***burning*** ***punch*** attack to 7 (1d4+5) bludgeoning damage plus 2 (1d4) fire damage, his ***flaming*** ***wave*** action and ***flame*** ***burst*** bonus action to 9 (2d8) fire damage, his ***explosive*** ***blast*** action and ***retaliatory*** ***burn*** reaction to 7 (2d6) fire damage, and his ***cinder*** ***sparks*** reaction to 2 (1d4) fire damage.
 > * ***Six Players.*** Increase Izek’s HP to 128 in each phase. For his first phase, increase his ***silvered*** ***battleaxe*** attack to 12 (1d12+6) slashing damage, his ***flame*** ***hurl*** attack to 13 (3d8) fire damage, his ***slicing*** ***whirl*** bonus action to 6 (1d12) damage, and his ***flame*** ***volley*** action to 7 (2d6) fire damage. For his second phase, increase his ***silvered*** ***battleaxe*** attack to 12 (1d12+6) slashing damage plus 2 (1d4) fire damage, his ***burning*** ***punch*** attack to 9 (1d6+6) bludgeoning damage plus 2 (1d4) fire damage, his ***flaming*** ***wave*** action and ***flame*** ***burst*** bonus action to 13 (2d12) fire damage, his ***explosive*** ***blast*** action and ***retaliatory*** ***burn*** reaction to 11 (2d10) fire damage, and his ***cinder*** ***sparks*** reaction to 2 (1d4) fire damage.
 
-## H4b. Storming the Manor
+## G4b. Storming the Manor
 If the players cause a ruckus at the front door or on the first floor of the manor, [[Non-Player Characters#Izek Strazni|Izek]] overhears them and exits his bedroom, bringing his silvered battleaxe in case of battle. He fights at the slightest provocation.
-## H4c. Ireena's Gratitude
+## G4c. Ireena's Gratitude
 [[Non-Player Characters#Ireena Kolyana|Ireena]] is deeply disturbed by Izek's obsession with her. If the players inform her that she is Izek's sister, she mourns the child she once must have known, but not the man that he became. She reaffirms that, no matter who believes otherwise, she is and chooses to be Ireena Kolyana—not Ireena Strazni, or anyone else.
 
-***Milestone.*** Rescuing Ireena from Izek's clutches completes a story milestone. When Ireena is escorted to safety, award each player 500 XP, or 1,250 XP instead if Izek was defeated.
+***Milestone.*** Rescuing Ireena from Izek's clutches completes a story milestone. When Ireena is escorted to safety, award each player 500 XP, or 1,500 XP instead if Izek was defeated.
+
+> [!info]+ **No Double-Counting**
+> The players can earn a maximum of 1,500 XP for completing [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - Lady Wachter’s Wish]]. Parties that rescue Ireena then later kill Izek will earn 500 XP for the former and an additional 750 XP for the latter.
 # Design Notes: The Strazni Siblings
 This arc has been expanded to provide a more explicit "ticking clock" that drives the players into conflict with Izek Strazni, and as an inciting incident that pushes Ireena to journey with the players and take agency in her fight against Strahd.
 
@@ -259,7 +262,7 @@ This arc has been expanded to provide a more explicit "ticking clock" that drive
 
 Izek's attack also serves to motivate Ireena to join the players in defeating him, developing her character arc as she moves from passivity to agency and laying the foundations for her ultimate decision to journey with the players at the beginning of **Act III: The Devil's Hand.**
 
-Urwin's aid has been added to discourage the players from fighting Izek directly (i.e., in a fair fight), to direct them toward Lady Wachter (and therefore serve as a backup hook to [[Arc G - Lady Wachter's Wish]]), and to foreshadow his involvement with the Keepers of the Feather, who the players will learn more about in [[Arc K - The Stolen Gem]].
+Urwin's aid has been added to discourage the players from fighting Izek directly (i.e., in a fair fight), to direct them toward Lady Wachter (and therefore serve as a backup hook to [[Arc F - Lady Wachter's Wish]]), and to foreshadow his involvement with the Keepers of the Feather, who the players will learn more about in [[Arc J - The Stolen Gem]].
 
 ***The Kidnapping.*** Izek's kidnapping of Ireena has been implemented as a failsafe penalty if the players decline to take any action to defeat him before this date (which will most likely be on or about the players' fourth full day in Vallaki).
 
