@@ -144,7 +144,9 @@ Strahd continued his studies of magic, learning at a far more rapid—and voraci
 
 Meanwhile, the construction of Castle Ravenloft continued unabated. As a token of his favor, Strahd led one of the mages—a brilliant architect named Artimus—to the Amber Temple itself, showing him the secrets of setting magic deep into quarried stone. There, Artimus finalized the design of the castle itself, as described in <span class="citation">X20. Architect's Room (p. 187)</span>.
 
-Just over a year after construction had begun, Castle Ravenloft was finished. Strahd appointed Rahadin as the chamberlain of the keep, as described in <span class="citation">Rahadin (p. 236)</span>. He then summoned his mother, Queen Ravenovia, and his brother, Sergei—now a high priest in the Church of the Morninglord—to join him in Barovia. With their work complete, Strahd’s masons and mages departed the castle; the archmage Khazan, however, chose to settle in the valley, constructing a magical tower in Lake Baratok as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>.
+Just over a year after construction had begun, Castle Ravenloft was finished. Strahd appointed Rahadin as the chamberlain of the keep, as described in <span class="citation">Rahadin (p. 236)</span>. He then summoned his mother, Queen Ravenovia, and his brother, Sergei—now a high priest in the Church of the Morninglord—to join him in Barovia. 
+
+With their work complete, Strahd’s masons and mages departed the castle; the archmage Khazan, however, chose to settle in the valley, constructing a magical tower in Lake Baratok as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. Khazan met and married a Barovian woman, Isabella, who came to live with him in the tower.
 
 Afflicted with poor health—perhaps as a result of Baba Lysaga’s curse, as described in <span class="citation">Baba Lysaga (p. 228)</span>—Queen Ravenovia did not survive the journey to Barovia. Two months after she and Sergei had departed, he and her coffin arrived in the valley. It was in grief for their mother that Strahd met Sergei for the first time in each of their lives, and both oversaw the Queen’s burial in the newly-built crypts of Castle Ravenloft.
 
@@ -317,7 +319,11 @@ Jealous of Strahd’s attentions and determined to draw his eye, Elisabeth lured
 
 Enraged by her interference, Strahd slew her and the entirety of her cult. Their spirits, however, lived on in the haunted foundations of the house, serving Mrs. Durst’s final wish to find and capture a worthy sacrifice to Strahd’s glory—and so win his affections at last. 
 ## Passage Into History
-Ten years passed, and the land of Barovia sank deeper into darkness and despair. Khazan—now in his waning years, and feeling the weight of his impending mortality—visited the Amber Temple and discovered the secret to becoming a lich. When he had completed the transformation, he traveled to Castle Ravenloft to challenge Strahd for the rulership of Barovia. Instead, Strahd persuaded him to serve as an advisor in matters of magic—a proposition that Khazan, to his own surprise, accepted.
+Two years passed, and the land of Barovia sank deeper into darkness and despair. Khazan's wife conceived a child, but both died in childbirth. Torn by anguish, and searching for the power to resurrect them, Khazan visited the Amber Temple—but learned too late that both had already been reincarnated. 
+
+Enraged and blaming Strahd for the descent of the Mists that had entrapped their souls in Barovia, Khazan sought to claim the secret to becoming a lich. When he had completed the transformation, he raised an undead army and traveled to Castle Ravenloft to challenge Strahd for the rulership of Barovia. 
+
+Instead, Strahd persuaded him to serve as an advisor in matters of magic—a proposition that Khazan, to his own surprise, accepted. His undead soldiers now unneeded, Khazan consigned them to a dark catacomb built into a northeastern spur of Mount Baratok and left them to sleep, forgotten.
 
 Since he had become a vampire, Strahd’s own magical progress had slowed to a trickle; where mortals could wield their life force as a means of channeling the arcane, he had been forced to find other, less efficacious means. With Khazan’s aid, though, Strahd’s studies began to advance once more.
 
@@ -333,9 +339,11 @@ With Lovina’s aid, Strahd tracked Leo to the darkened corridors of the Abbey o
 
 Strahd defeated Leo with contemptuous ease. Instead of killing him, Strahd transformed Leo into a vampire spawn and, with Lovina’s approval, entombed him in a mausoleum beneath the Wachter’s manor. Without access to human blood, Leo would slowly starve to death, his sanity eroding over the decades.
 
-Lovina agreed that on when Leo died, her descendants would remove the flesh from Leo's bones and hide them away, preventing his resurrection. Years later, Strahd sent Lovina the letter described in <span class="citation">N4q. Storage Room (p. 114)</span>, signed “Vasili” to maintain his disguise.
+Lovina agreed that, when Leo died, her descendants would remove the flesh from Leo's bones and hide them away, preventing his resurrection. Years later, Strahd sent Lovina the letter described in <span class="citation">N4q. Storage Room (p. 114)</span>, signed “Vasili” to maintain his disguise.
 
-Elsewhere, facing an eternity of confinement in Barovia, Khazan became determined to find an escape. He sought the secrets of demilichdom at the Amber Temple but destroyed himself in the process, as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. Strahd, mourning the loss of a fellow immortal, sealed Khazan’s skull and staff in <span class="citation">Crypt 15: Khazan (p. 88)</span>. The lich’s spellbook, however, was nowhere to be found.
+Elsewhere, facing an eternity of confinement in Barovia, Khazan became determined to find an escape. He sought the secrets of demilichdom at the Amber Temple and sought to complete his transformation in his catacomb on Mount Baratok—but destroyed himself in the process, as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. Strahd, mourning the loss of a fellow immortal, sealed Khazan’s skull and staff in <span class="citation">Crypt 15: Khazan (p. 88)</span>. 
+
+The lich’s spellbook, however, was nowhere to be found. And unbeknownst to Khazan or Strahd, the explosive energies of Khazan's failed transformation had warped the fabric of the Mists nearby, turning the rear wall of the catacomb into a new entrance into Barovia . . .
 ## The Decades Pass
 Forty years after Tatyana’s death, Strahd encountered Marina Ulrich: her first reincarnation. However, before he could turn her into a vampire spawn, the Mists spoke to her as they had once whispered to Tatyana, and promised her an escape from Strahd’s clutches—if only she would allow her father to discover the vampire’s nightly visits. 
 
@@ -404,15 +412,21 @@ Six months later, however, upon learning that her parents and brother had died i
 
 Fiona returned to take command of Wachterhaus, her family's estate. As she wept and prayed in her parents' former bedroom, a voice spoke to her—identifying itself not as Mother Night, but as Ezra, goddess of the Mists. Fiona accepted the voice's counsel eagerly, ignorant of its nature as a mere mask of the Dark Powers.
 
-Six years later, Rudolph van Richten's son, Erasmus, was born. However, when Erasmus was fourteen, the young Vistana Ezmerelda d’Avenir watched in horror as her parents, joined by the members of the Radanavich Vistani caravan, kidnapped Erasmus and sold him to the vampire Baron Metus. 
+Six years later, Rudolph van Richten's son, Erasmus, was born. When Erasmus was fourteen, Madame Irene Radanavich—the leader, or *raunie* of the Vistani Radanavich caravan—forged an alliance with the **vampire** Baron Metus, who dwelled in the county neighboring the Van Richtens' home. 
+
+Baron Metus commissioned Madame Radanavich to kidnap victims and consorts for his pleasures, but the Radanavich's first foray—joined by the parents of the young Ezmerelda d'Avenir—went sour, leaving Madame Radanavich's son, Radovan Radanavich, badly wounded. 
+
+The Radanaviches brought Radovan to Rudolph, who proved unable to save him. When Radovan died, Madame swore vengeance on Rudolph's family and kidnapped his son, Erasmus before selling him to Baron Metus. Their terrible task complete, the Radanaviches parted ways with the d'Avenirs and fled through the Mists to Barovia, where they believed neither Van Richten nor Metus could follow.
 
 Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but Ingrid as well.  (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani.
 
-For three years, Rudolph traveled in search of the Vistani who had wronged him. As he did, he passed through the territory of a lich and was followed by a horde of voracious undead, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. When he finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!”
+For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a  platinum ring that had once belonged to Khazan—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness. 
 
-The horde killed all but one young man: Arturi Radanavich, who hid away in a trunk until Rudolph and the monsters had gone. The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. Ezmerelda d’Avenir and her parents, however, survived unaware of the massacre, having departed from the Radanaviches’ company mere weeks before. 
+The cave was, in truth, a portal to Barovia—the same portal Khazan had accidentally created in his underground catacomb centuries before. There, Rudolph encountered Khazan's spirit, which roused its undead army to aid Rudolph in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!”
 
-That same year, in Barovia, Izek and his younger sister, the four-year-old Ireena Strazni, were attacked by a **dire wolf**, as described in <span class="citation">Izek Strazni (p. 231)</span>. Although Izek lost his arm, an *amber shard* he had picked up by the shore of Lake Zarovich spoke to him, promising the power to keep his sister safe. Izek accepted the vestige's offer, and destroyed the dire wolf with its fiery power.
+The horde killed all but one young man: Arturi Radanavich, who hid away in a trunk until Rudolph and the monsters had gone. The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a *mist talisman* capable of leading him out of the Mists once more.
+
+Several weeks after Rudolph van Richten departed Barovia, Izek and his younger sister, the four-year-old Ireena Strazni, were attacked by a **dire wolf**, as described in <span class="citation">Izek Strazni (p. 231)</span>. Although Izek lost his arm, an *amber shard* he had picked up by the shore of Lake Zarovich spoke to him, promising the power to keep his sister safe. Izek accepted the vestige's offer, and destroyed the dire wolf with its fiery power.
 
 When Izek returned to his senses, however, he found that Ireena had fled, vanishing into the woods. She would later appear near the Village of Barovia with no memory of her past, where she would be adopted by Burgomaster Kolyan Indirovich. (See <span class="citation">E5f. Chapel (p. 46)</span>. 
 
@@ -436,11 +450,11 @@ Months later, Ezmerelda, now a young woman, ran from home in search of Dr. Van R
 
 Ezmerelda, determined to prove her skills as a monster hunter and spite Van Richten in the process, set off to make a name for herself. Less than a year later, however, the **werewolf** Kiril Stoyanovich bit off Ezmerelda’s right leg following a rescue mission gone wrong, sidelining her for months in Barovia while she commissioned Gadof Blinsky to craft a prosthetic. 
 
-Meanwhile, the young Victor Vallakovich found an old spellbook in his father’s library—the lost spellbook of the lich Khazan—and began to teach himself magic. That same winter, Nikolai Wachter, the husband of Lady Fiona Wachter, died of illness, breaking Fiona’s heart. Meanwhile, the last elders of the Vallakian Vistani encampment passed away, leaving Luvash—and his younger brother Arrigal—in charge of the caravan.
-## Strahd’s Return
-Three years after Nikolai Wachter’s death, a lonely and despondent Rudolph van Richten determined that it was time to finally seek out his final foe: the legendary vampire, Strahd von Zarovich.
+As Ezmerelda waited, the hateful spirit of Madame Irene Radanavich—sensing Ezmerelda's connection to Rudolph van Richten and predicting an opportunity to lure the old vampire hunter to his doom—appeared to Ezmerelda in a dream. Madame Radanavich shared with Ezmerelda a vision of a possible future, depicting a time when Strahd would awaken from his slumber and return to terrorize Barovia and the realms beyond—and Rudolph van Richten would be a key figure in opposing him. Madame Radanavich, however, omitted one key detail: that Van Richten himself would be the impetus that awoke Strahd from his sleep.
 
-Van Richten’s research confirmed that Strahd still slumbered in the catacombs of Ravenloft, but he knew that the vampire would not remain vulnerable forever. Determined to see the task done before his last years were upon him, Van Richten prepared his tools one more time and set off through the Mists.
+As Ezmerelda departed Barovia in an attempt to warn Van Richten of the vision she had foreseen, the young Victor Vallakovich found an old spellbook in his father’s library—the lost spellbook of the lich Khazan—and began to teach himself magic. That same winter, Nikolai Wachter, the husband of Lady Fiona Wachter, died of illness, breaking Fiona’s heart. Meanwhile, the last elders of the Vallakian Vistani encampment passed away, leaving Luvash—and his younger brother Arrigal—in charge of the caravan.
+## Strahd’s Return
+Three years after Nikolai Wachter’s death, Rudolph van Richten received a letter from Ezmerelda d'Avenir warning him of the vision she had foreseen, though Ezmerelda, unaware of its significance, failed to mention that the vision had been sent by the spirit of Madame Radanavich. Van Richten, determined not to allow his curse to claim any more of his friends, prepared his tools one final time and set off alone through the Mists.
 
 Six months later, Van Richten—now disguised as a traveling scholar and accompanying a caravan of Vistani—arrived in the quiet village of Barovia. The burgomaster, a man named Kolyan Indirovich, welcomed him as an honored guest, and Van Richten settled in to gather intelligence and prepare his attack.
 
@@ -483,9 +497,9 @@ Concerned that the Barovian werewolf pack had forgotten its ancient fealty to hi
 ## The Darkened Valley
 Two weeks now had passed since the failed revolt, and Strahd began gathering hordes of undead to serve his wrathful will. Upon learning of his dark designs, the revenant knights of the Order of the Silver Dragon demanded that their commander, Vladimir Horngaard, release them from their vows and permit them to warn and defend the village. Enraged by their defiance, Vladimir banished his knights from the mansion and commanded them to secrecy, allowing only Sir Godfrey Gwilym to remain.
 
-Not long thereafter, Kasimir Velikov, investigating the secrets of the Amber Temple at Patrina's direction, visited the now-empty manor of Argynvostholt and spoke with Sir Godfrey. Though  Godfrey warned him to avoid the darkness that lay within the temple, Kasimir did not leave empty-handed, finding amidst the rubble an ancient map that bore the temple's location.
+Not long thereafter, Kasimir Velikov, investigating the secrets of the Amber Temple at Patrina's direction, visited the now-empty manor of Argynvostholt and spoke with Sir Godfrey. Though Godfrey warned him to avoid the darkness that lay within the temple, Kasimir did not leave empty-handed, finding amidst the rubble an ancient map that bore the temple's location.
 
-As Kasimir prepared to climb the slopes of Mount Ghakis, Victor Vallakovich and Stella Wachter—the children of Baron Vallakovich and Lady Fiona Wachter—activated a prototype *teleportation circle*, dreaming of escaping Strahd's tyranny. The circle malfunctioned, however, and the psychic backlash tore Stella's soul from her body. Enraged by Stella's fate, Lady Wachter began recruiting a cult to depose the Vallakovich clan.
+As Kasimir prepared to climb the slopes of Mount Ghakis, Victor Vallakovich and Stella Wachter—the children of Baron Vallakovich and Lady Fiona Wachter—activated a prototype *teleportation circle*, dreaming of escaping Strahd's tyranny. The circle malfunctioned, however, sending Stella's spirit into the Ethereal Plane—where the vengeful spirit of Leo Dilisnya severed it from her body. Enraged by Stella's fate, Lady Wachter began recruiting a cult to Ezra to depose the Vallakovich clan.
 
 In Krezk, the Abbot completed a prototype of his own: a monstrous **flesh golem**, which he set to patrolling <span class="citation">S15. Madhouse (p. 151)</span>. He swiftly began work on his next project: a masterpiece to serve as Strahd's final bride.
 

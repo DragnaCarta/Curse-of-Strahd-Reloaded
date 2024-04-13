@@ -252,20 +252,23 @@
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change.</p>
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (He must spend 1 extra foot of movement for every foot he moves using his speed, attack rolls against him have advantage, and he has disadvantage on Dexterity saving throws.)
+<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
-<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 3d6 fire damage.</p>
+<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
 <p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
 <h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn.</p>
+<p>Izek can take up to three reactions per round, but only one per turn. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack with his battleaxe.</p>
+<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
 </div>
+
 <br>
+
 <div class="statblock">
 <h2>Izek Strazni, 2nd Form</h2>
 <em>Medium humanoid, neutral evil</em>
@@ -307,22 +310,30 @@
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (He must spend 1 extra foot of movement for every foot he moves using his speed, attack rolls against him have advantage, and he has disadvantage on Dexterity saving throws.)
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
 <p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 10 feet must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage.</p>
-<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 10-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 9 (2d8) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
+<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
+<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
 <h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn.</p>
-<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a burning punch attack against a creature within range.</p>
-<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the start of Izek's next turn.</p>
-<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 9 (2d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
+<p>Izek can take up to three reactions per round, but only one per turn. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
+<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
+<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
 </div>
 
 ## Lady Fiona Wachter
+Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+
+* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
+* 1st level (4 slots): _command, sanctuary, bane_ 
+* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
+* 3rd level (2 slots): _animate dead, spirit guardians_
+
 **Roleplaying Information**
 ***Resonance.*** Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect for her streak of pragmatic rationality, endearment for her dedication to her children, and pity for the tragedy of her family.
 
@@ -426,8 +437,9 @@ Cantrips (at will): *light, toll the dead, thaumaturgy*
 ***Morale.*** In a fight, Arrigal would act with ruthless cunning, retreating as necessary before striking from the shadows, using deceit, manipulation, or dirty tricks to ensure an advantage.
 
 ***Relationships.*** Arrigal is Luvash’s younger brother and Arabelle’s uncle. He is also a spy for Strahd and makes regular reports to Anastrasya, one of Strahd’s vampiric brides.
-
 ## Victor Vallakovich
+Victor’s spellbook contains the _sending_ and _fear_ spells and does not contain _remove curse._
+
 **Roleplaying Information**
 ***Resonance.*** Victor should make the players feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
 
@@ -442,7 +454,70 @@ Cantrips (at will): *light, toll the dead, thaumaturgy*
 
 ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family.
 
-***Relationships.*** Victor is the only child of Baron Vargas Vallakovich and Baroness Lydia Petrovna. He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Miska, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Miska’s skeleton through the use of his *animate dead* spell.)
+***Relationships.*** Victor is the only child of Baron Vargas Vallakovich and Baroness Lydia Petrovna. He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+
+# Village of Krezk
+## Ezmerelda d'Avenir
+
+<div class="statblock">
+    <h2>Ezmerelda d'Avenir</h2>
+    <em>Medium humanoid (human), chaotic good</em>
+    <hr>
+    <strong>Armor Class</strong> 17 (+1 studded leather armor)
+    <br>
+    <strong>Hit Points</strong> 82 (11d8 + 33)
+    <br>
+    <strong>Speed</strong> 30 ft.
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>14 (+2)</td>
+                <td>19 (+4)</td>
+                <td>16 (+3)</td>
+                <td>16 (+3)</td>
+                <td>11 (+0)</td>
+                <td>17 (+3)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Saving Throws</strong> Wis +2<br>
+    <strong>Skills</strong> Acrobatics +6, Arcana +5, Deception +7, Medicine +2, Perception +4, Performance +5, Stealth +6, Survival +4<br>
+    <strong>Senses</strong> passive Perception 14<br>
+    <strong>Languages</strong> Common<br>
+    <strong>Challenge Rating</strong> 4<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Special Equipment.</em></strong> In addition to her magic armor and weapons, Ezmerelda has two <em>potions of greater healing</em>, six <em>vials of holy water</em>, three wooden stakes, twelve silvered crossbow bolts, and a <em>runeguard stone</em> (see below).</p>
+    <p><strong><em>Spellcasting.</em></strong> Ezmerelda is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 10, +2 to hit with spell attacks). Ezmerelda has the following ranger spells prepared:</p>
+    <ul>
+    <li>1st level (4 slots): longstrider, snare, zephyr strike</li>
+    <li>2nd level (2 slots): darkvision, cordon of arrows</li>
+    </ul>
+    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
+    <p><strong><em>Scroll Adept.</em></strong> Ezmerelda can cast spells from spell scrolls as if they were ranger spells.
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
+    <p><strong><em>Rapier +1.</em></strong><em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
+    <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
+    <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
+    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
+    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
+</div>
+
 # Castle Ravenloft
 ## Volenta Popofsky
 **Roleplaying Information**
@@ -496,7 +571,7 @@ Cantrips (at will): *light, toll the dead, thaumaturgy*
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Perception +5, Stealth +10<br>
+<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Common<br>
@@ -507,13 +582,15 @@ Cantrips (at will): *light, toll the dead, thaumaturgy*
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change.</p>
+<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<div class="break"></div>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, or uses <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
+<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
+<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
+<p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack</em> +7 to hit, 5 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p>
 <p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
 <p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire and hurls it at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
+<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
 </div>
 <br>
 <div class="statblock">
@@ -550,7 +627,7 @@ Cantrips (at will): *light, toll the dead, thaumaturgy*
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Perception +5, Stealth +10<br>
+<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Common<br>
@@ -560,13 +637,141 @@ Cantrips (at will): *light, toll the dead, thaumaturgy*
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
+<div class="break"></div>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
+<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has it grappled.
 <h3>Reactions</h3>
 <p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
 <p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
+<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
+</div>
+
+## Rahadin
+
+<div class="statblock">
+<h2>Rahadin, Castle Chamberlain</h2>
+<em>Medium humanoid (elf), lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 18 (studded leather)
+<br>
+<strong>Hit Points</strong> 285 (38d8 + 114)
+<br>
+<strong>Speed</strong> 35 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14 (+2)</td>
+      <td>22 (+6)</td>
+      <td>17 (+3)</td>
+      <td>15 (+2)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +11, Wis +8<br>
+<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 16<br>
+<strong>Proficiency</strong> +5<br>
+<hr>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
+- 3/day: phantom steed<br>
+- 1/day: nondetection</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his <strong><em>saber</em></strong> or two attacks with his <strong><em>poisoned darts</em></strong>.
+<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 8 (1d4 + 6) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is also poisoned until the start of Rahadin's next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure or half as much on a success.</p>
+<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure or half as much on a success. </p>
+<h3>Reactions</h3>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn.</p>
+<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make a <strong><em>saber</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Misty Step.</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
+<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 16 (3d10) psychic damage on a failure or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+</div>
+
+<br>
+
+<div class="statblock">
+<h2>Rahadin, Kinslayer</h2>
+<em>Medium humanoid (elf), lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 18 (studded leather)
+<br>
+<strong>Hit Points</strong> 285 (38d8 + 114)
+<br>
+<strong>Speed</strong> 35 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14 (+2)</td>
+      <td>22 (+6)</td>
+      <td>17 (+3)</td>
+      <td>15 (+2)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +11, Wis +8<br>
+<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 16<br>
+<strong>Proficiency</strong> +5<br>
+<hr>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin must succeed on a DC 17 Wisdom saving throw, taking 16 (3d10) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also Dazed until the start of Rahadin's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<h3>Reactions</h3>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn.</p>
+<p><strong><em>Vengeful Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong>. This movement doesn't trigger opportunity attacks.</p>
+<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Misty Escape.</em></strong> When Rahadin takes damage while at 80 hit points or fewer, he can use his reaction to cast <em>fog cloud</em> at 4th level. He can then immediately take the Hide action and move up to his speed without triggering opportunity attacks.</p>
 </div>

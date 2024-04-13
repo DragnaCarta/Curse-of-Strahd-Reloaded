@@ -4,7 +4,7 @@ Consider *Curse of Strahd: Reloaded* your all-in-one guide to running this campa
 > [!warning] **A Brand-New Barovia**
 > *Curse of Strahd: Reloaded* is meant to be a complete substitute to the original *Curse of Strahd*, incorporating the original material only by reference. 
 > 
-> For example, if this guide says: "This area is largely as described in **E2. Blood of the Vine Tavern (p. 43)**", this means that you should use all of the material provided in that section of the original book, **except where it's contradicted or overwritten by material in this guide.** 
+> For example, if this guide says: "This area is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>", or "The players pass through <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>, this means that you should use all of the material provided in that section of the original book, **except where it's contradicted or overwritten by material in this guide.** 
 > 
 > If this guide doesn't reference a particular element in the original adventure—such as a random encounter or a piece of lore—**assume it doesn't exist.**
 
@@ -16,7 +16,7 @@ As you read through this guide, make sure you have access to the following resou
 * *Xanathar's Guide to Everything*, and
 * *Van Richten's Guide to Ravenloft*.
 
-When we reference one of these unholy tomes, you'll find the necessary citation in parentheses, formatted like this: <span class="citation"><em>Van Richten's Guide to Ravenloft</em>, p. 66</span>. If you lack the required sourcebook, get creative with a homebrewed statblock or find a suitable replacement.
+When we reference one of these sourcebooks, you'll find the necessary citation in parentheses, formatted like this: <span class="citation"><em>Van Richten's Guide to Ravenloft</em>, p. 66</span>. If you lack the required sourcebook, you can make a homebrewed statblock or find a suitable replacement.
 
 > [!warning] **Brewer Beware**
 > The original *Curse of Strahd: Reloaded* was a highly modular guide, containing a number of distinct ideas, concepts, and challenges that could easily be extracted, applied, and recombined alongside a number of additional reworks or homebrew elements. However, this revision aims to take a more cohesive path, weaving together characters, narratives, and themes to forge a more evocative, dramatic, and memorable adventure.

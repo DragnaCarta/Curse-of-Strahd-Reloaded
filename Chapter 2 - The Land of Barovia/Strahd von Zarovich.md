@@ -49,7 +49,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Werewolf Den.*** Strahd finds Kiril Stoyanovich to be a useful and loyal servant, if somewhat brutish and unsophisticated. He intends to keep Emil Toranescu, the pack’s former alpha, as a prisoner in his dungeons until Emil is sufficiently mad with starvation to be “tamed.”
 
-***Tsolenka Pass.*** Strahd is peripherally aware that the Mountain Folk roam the Balinok Mountains, but—due to Elder Burebis’s protection—is unaware of the existence of their settlement Monsdav. He considers the Mountain Folk to be a lost and broken people and has no use for or interest in them.
+***Tsolenka Pass.*** Strahd is peripherally aware that the Mountain Folk roam the Balinok Mountains, but—due to Elder Burebis’s protection—is unaware of the existence of their settlement Soldav. He considers the Mountain Folk to be a lost and broken people and has no use for or interest in them.
 
 ***Amber Temple.*** Strahd respects Neferon’s dedication to protecting the temple and finds him to be a worthy guardian of the treasures contained within. He has historically had a collegial respect for Exethanter, but, after awakening from his own hibernation, was disappointed by Exethanter’s loss of memory—something Strahd has little interest in restoring.
 
@@ -152,7 +152,7 @@ All three phases share the following vampire attributes and weaknesses:
 
 Additionally, Strahd can use the following action in his ***Vampire*** form:
 
-* ***Shapechange.*** If Strahd isn't in running water or sunlight, he polymorphs into a Tiny **bat**, a Medium **wolf**, or a Medium cloud of mist, or back into his true form. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies. While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage, except the damage he takes from sunlight.
+* ***Shapechange.*** If Strahd isn't in running water or sunlight, he polymorphs into a Tiny **bat**, a Medium **wolf**, or a Medium cloud of mist, or back into his true form. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies. While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 30 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage, except the damage he takes from sunlight.
 
 While Strahd retains a connection to the Fanes of Barovia, he also possesses the following features in all three phases:
 
@@ -208,15 +208,15 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +11, Wis +8, Cha +11<br>
-<strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Perception +14, Religion +11, Stealth +17<br>
+<strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Insight +8, Perception +14, Religion +11, Stealth +17<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br>
 <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br>
 <strong>Challenge</strong> 21, or 19 when fought in sunlight<br>
 <strong>Proficiency Bonus.</strong> +6<br>
 <hr>
-<p><strong><em>Complex Casting.</em></strong> If Strahd casts a spell on his turn using a bonus action, he can also use his action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Legendary Resistance (1/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Complex Casting.</em></strong> If Strahd casts a spell on his turn using a bonus action, he can also use his action to cast a leveled spell on the same turn.</p>
+<p><strong><em>Legendary Resistance (2/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p>
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Strahd takes <span class="highlight">20 radiant damage</span> at the start of his turn, and he has <span class="highlight">disadvantage</span> on attack rolls and ability checks.</p>
@@ -277,7 +277,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +11, Wis +8, Cha +11<br>
-<strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Perception +14, Religion +11, Stealth +17<br>
+<strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Insight +8, Perception +14, Religion +11, Stealth +17<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br>
 <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br>
@@ -285,7 +285,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <strong>Proficiency Bonus.</strong> +6<br>
 <hr>
 <p><strong><em>Battlefield Awareness.</em></strong> Strahd has <span class="highlight">advantage</span> on Strength and Dexterity saving throws against effects that he can see or hear, such as traps and spells. Additionally, Strahd can't be disarmed.</p>
-<p><strong><em>Legendary Resistance (1/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Legendary Resistance (2/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p>
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Strahd takes <span class="highlight">20 radiant damage</span> at the start of his turn, and he has <span class="highlight">disadvantage</span> on attack rolls and ability checks.</p>
@@ -311,11 +311,13 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Fog Bank.</em></strong> A <span class="highlight">40-foot radius</span> sphere of fog appears centered on a point within <span class="highlight">60 feet</span> of Strahd that he can see. The sphere spreads around corners, and its area is heavily obscured. It lasts until initiative count 20 on the following round or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. When the fog appears, Strahd can immediately take the <span class="highlight">Hide</span> action as a reaction and move up to his speed.</p>
 </div>
 
+>[!info]+ **Fog Bank**
+>Because fog only creates heavy obscurement and does not extinguish or otherwise dim sources of light, Strahd and other undead are still affected by sunlight created by the *Sunsword* and other sources while heavily obscured by fog.
 ### The Vampire
 <br>
-<div class="statblock"> <h2>Strahd, the Vampire</h2> <em>Medium undead (shapechanger), lawful evil</em> <hr> <strong>Armor Class</strong> 16 (natural armor) <br> <strong>Hit Points</strong> 331 (39d8 + 156) <br> <strong>Speed</strong> 40 ft., climb 40 ft. <hr> <table class="ability-table"> <thead> <tr> <th>STR</th> <th>DEX</th> <th>CON</th> <th>INT</th> <th>WIS</th> <th>CHA</th> </tr> </thead> <tbody> <tr> <td>20 (+5)</td> <td>20 (+5)</td> <td>18 (+4)</td> <td>20 (+5)</td> <td>15 (+2)</td> <td>20 (+5)</td> </tr> </tbody> </table> <hr> <strong>Saving Throws</strong> Dex +11, Wis +8, Cha +11<br> <strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Perception +14, Religion +11, Stealth +17<br> <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br> <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br> <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br> <strong>Challenge</strong> 21, or 19 when fought in sunlight<br> <strong>Proficiency Bonus.</strong> +6<br> <hr> 
+<div class="statblock"> <h2>Strahd, the Vampire</h2> <em>Medium undead (shapechanger), lawful evil</em> <hr> <strong>Armor Class</strong> 16 (natural armor) <br> <strong>Hit Points</strong> 331 (39d8 + 156) <br> <strong>Speed</strong> 40 ft., climb 40 ft. <hr> <table class="ability-table"> <thead> <tr> <th>STR</th> <th>DEX</th> <th>CON</th> <th>INT</th> <th>WIS</th> <th>CHA</th> </tr> </thead> <tbody> <tr> <td>20 (+5)</td> <td>20 (+5)</td> <td>18 (+4)</td> <td>20 (+5)</td> <td>15 (+2)</td> <td>20 (+5)</td> </tr> </tbody> </table> <hr> <strong>Saving Throws</strong> Dex +11, Wis +8, Cha +11<br> <strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Insight +8, Perception +14, Religion +11, Stealth +17<br> <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br> <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br> <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br> <strong>Challenge</strong> 21, or 19 when fought in sunlight<br> <strong>Proficiency Bonus.</strong> +6<br> <hr> 
 <p><strong><em>Father of the Night.</em></strong> A humanoid killed by Strahd’s <strong><em>bite</em></strong>, or which is reduced to 0 hit points by it and dies without regaining consciousness, arises as a <strong><em>vampire spawn</em></strong> under Strahd’s control at the start of his next turn.</p> 
-<p><strong><em>Legendary Resistance (1/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p> 
+<p><strong><em>Legendary Resistance (2/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p> 
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p> 
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p> 
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Strahd takes <span class="highlight">20 radiant damage</span> at the start of his turn, and he has <span class="highlight">disadvantage</span> on attack rolls and ability checks.</p> <!-- Actions Section --> <h3>Actions</h3> 
@@ -331,11 +333,11 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <!-- Reactions Section --> <h3>Reactions</h3> 
 <p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p> 
 <p><strong><em>Night’s Retreat.</em></strong> In response to taking damage, Strahd can fly up to his speed without provoking opportunity attacks.</p> 
-<p><strong><em>Blood Frenzy.</em></strong> In response to taking damage, Strahd can move up to his speed toward the attacker and make an <strong><em>unarmed strike</em></strong> attack.</p> <!-- Lair Actions Section --> <h3>Lair Actions</h3> 
+<p><strong><em>Blood Frenzy.</em></strong> In response to taking damage, Strahd can move up to his speed toward the attacker and make an <strong><em>unarmed strike</em></strong> attack against it.</p> <!-- Lair Actions Section --> <h3>Lair Actions</h3> 
 <p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p> 
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options:</p> 
 <p><strong><em>Deluge of Blood.</em></strong> A wave of blood explodes outward from a point Strahd can see within <span class="highlight">60 feet</span>. Each creature within 10 feet of that point must make a DC 19 Strength saving throw. On a failure, a creature takes 7 (2d6) bludgeoning damage and is pushed 10 feet away from the point and knocked prone. The creature is also blinded until initiative count 20 on the next round.</p> 
-<p><strong><em>Wails of the Damned.</em></strong> Strahd summons an ethereal torrent of shrieking specters in a 5-foot radius centered on a point within 60 feet that he can see. Each creature in that area must make a DC 19 Wisdom saving throw or be frightened of Strahd until initiative count 20 on the next round. A creature frightened in this way is paralyzed and loses its concentration.</p> </div>
+<p><strong><em>Wails of the Damned.</em></strong> Strahd summons an ethereal torrent of shrieking specters in a 5-foot radius centered on a point within 60 feet that he can see. Each creature in that area must make a DC 19 Wisdom saving throw or be frightened of Strahd until initiative count 20 on the next round. A creature frightened in this way is paralyzed.</p> </div>
 
 # Design Notes: Strahd von Zarovich
 ***Roleplaying Strahd.*** The Gentleman, the Tyrant, and the Monster reflect three distinct popular community interpretations of Strahd's character. Many DMs will attempt to combine two or more of these archetypes into their campaign at a time, but doing so can risk making Strahd's character feel inconsistent and unpredictable. 

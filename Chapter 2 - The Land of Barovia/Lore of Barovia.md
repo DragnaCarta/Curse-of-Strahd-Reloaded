@@ -12,6 +12,8 @@ As described in <span class="citation">Mists of Ravenloft</span> and <span class
 Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span> and <span class="citation">Resurrection Madness (p. 24)</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
 # Geography
 The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
+# Weather
+Sunrise in Barovia is a 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
 # Cultures
 ## Barovians
 The denizens of the Village of Barovia are a broken, haunted people, largely as described in <span class="citation">Chapter 3: The Village of Barovia (p. 41)</span> and <span class="citation">Barovian Villagers (p. 41)</span>. 
@@ -100,26 +102,18 @@ Their spiritual leader, an elder **storm giant** named Burebis, is the sole mort
 
 While not members of any civilized society, the wolves, rats, and bats of Barovia are Strahd’s loyal servants and spies. Each day, at sunrise and sunset, each beast with news to report—of outsiders, of turmoil, or simply of interesting trinkets or treasures—returns to Castle Ravenloft to share what it's learned and to receive new orders to disseminate through the valley. Strahd’s vampiric brides gather and organize their intelligence: the wolves to Volenta Popofsky, the rats to Ludmilla Vilisevic, and the bats to Anastrasya Karelova.
 
-
 ## Brides of Strahd
-
 Strahd’s eldest three vampiric consorts—Ludmilla, Anastrasya, and Volenta—serve their master loyally, but compete bitterly for his favor. As the eldest and most adept at the arcane arts, Ludmilla is Strahd’s favored research partner, developing new spells for his use while investigating the secrets of the Mists. Meanwhile, Anastrasya is a master of the arts of espionage and diplomacy, managing Strahd’s political relationships while retaining key spies in each of Barovia’s settlements. Finally, Volenta is a skilled artificer and torturer, innovating new traps to guard Ravenloft’s halls while wringing information from those who fall into them.
 
 Over the past hundred years, with Strahd asleep in Castle Ravenloft, each of his brides dispersed through the valley to pursue their own agendas. Now, with Strahd awoken, and his moment of reckoning at hand, each bride is desperate to prove their loyalty and worth to Strahd once more—and to win their place at his side when his grand plan comes to fruition.
-
 ## Witches of Mother Night
-
 While the good-hearted worshippers of Barovia keep the faith of the Morninglord alive, other, darker individuals seek the power and favor of Mother Night instead. Chief among them is Baba Lysaga, the Witch of Berez, who has fostered a coven of fellow devotees by recruiting outcasts and exiles from the settlements of Barovia. The maddened Lysaga views these practitioners as her children, and teaches them to secretly consider themselves the younger siblings of Strahd—sworn to protect and obey him for eternity.
 
 These witches are largely as described in <span class="citation">Barovian Witch (p. 229)</span>, though their pacts are forged with Mother Night instead of Strahd and the Dark Powers. Those sent to Ravenloft serve at the pleasure of Ludmilla Vilisevic, Strahd’s magic-minded consort, though none forget that their true loyalty is owed to Baba Lysaga of the swamp—and, above her, to Strahd himself.
-
 ## Wachtercult
-
-As part of her latest scheme to gain control of Vallaki, Lady Fiona Wachter has founded a devil-worshipping cult, described further in <span class="citation">N4. Wachterhaus (p. 110)</span>. Currently, Lady Wachter’s “book club” boasts six cult fanatics, with each fanatic leading a smaller cell of six cultists as described in <span class="citation">Cultists (p. 96)</span>. 
-
+Unlike in the official *Curse of Strahd* module, Lady Fiona Wachter does not worship devils. Instead, although she retains an **imp** familiar as a memento of her time studying with the witch Baba Lysaga, she has taught the members of her Vallakian cult to worship the goddess Ezra, who is described in [[#The Cult of Ezra]] below. Currently, Lady Wachter’s “book club” boasts six **cult fanatics**, with each fanatic leading a smaller cell of six **cultists** as described in <span class="citation">Cultists (p. 96)</span>. 
 ## Werewolf Pack
-
-The werewolf pack—the members of whom call themselves the Children of Mother Night—are largely as described in **Chapter 15: Werewolf Den (p. 201). Until Strahd’s awakening, the pack largely used Barovia as a place to rest between hunts, occasionally prowling the roads between settlements, but preferring the tastier meat of the lands beyond the mists.
+The werewolf pack—the members of which call themselves the Children of Mother Night—are largely as described in <span class="citation">Chapter 15: Werewolf Den (p. 201)</span>. Until Strahd’s awakening, the pack largely used Barovia as a place to rest between hunts, occasionally prowling the roads between settlements, but preferring the tastier meat of the lands beyond the mists.
 
 However, when Strahd awoke, he demanded the loyalty of the werewolves whose forebears had once served him faithfully. He threatened to seal the pack within the mists for all eternity if they defied him—but promised them wealth, power, and plentiful prey if they returned to his service.
 
@@ -170,7 +164,7 @@ These Barovians walk a middle path, and instead worship Ezra, the Mistwalker: th
 
 In Barovia, the followers of Ezra preach that power is an illusion, and suffering life’s only constant. Many believe that tales of the sun are myths, and that Barovia has neither past nor future: only an unceasing present that must be forever endured.
 
-Though she preaches devil-worship to her cult, Lady Fiona Wachter of Vallaki is a quiet worshipper of Ezra. Many turn to Ezra for comfort in times of tragedy, finding it easier to believe that hope is an illusion than to believe that it may be attained and then lost. 
+Lady Fiona Wachter of Vallaki is a quiet worshipper of Ezra, as are her followers. Many turn to Ezra for comfort in times of tragedy, finding it easier to believe that hope is an illusion than to believe that it may be attained and then lost. 
 
 Few, however, suspect the horrible truth: that “Ezra” does not, and has never existed—and that her soothing voice is merely a simulacrum conjured by the twisted whispers of the Dark Powers themselves.
 ## The Faith of the Ladies Three
