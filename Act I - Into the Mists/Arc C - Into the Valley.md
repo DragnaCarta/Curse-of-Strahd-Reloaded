@@ -559,61 +559,26 @@ When the players return to the River Ivlis Crossroads after receiving the Tarokk
 
 > [!abstract]+ **Following the Rider**
 > If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
+
 # C6. The Watchtower
-As the players travel west from the River Ivlis Crossroads, they encounter an ancient watchtower built by the Order of the Silver Dragon long ago. Read:
+As the players travel west from the River Ivlis Crossroads, read:
 
 <div class="description"><p>You leave the crossroads behind and resume your westward journey. You follow the road as it bends around, then ascends the cliff, trudging up its steep, rocky incline. </p>
 <p>The fog is thick here, obscuring the top of the cliff overhead. The road itself grows narrow and treacherous, with loose stones and deep ruts that make it difficult to maintain your footing. </p>
 <p>Soon enough, though, the road levels out, continuing past a ruined three-story watchtower perched atop the edge of the cliff. </p>
-<p>The tower's old stone walls are covered in moss and ivy, its rotten wooden door hanging off its hinges. A trail of drying blood leads inside, illuminated by a flickering golden light that emanates from within.</p></div>
+<p>The tower's old stone walls are covered in moss and ivy, its rotten wooden door hanging off its hinges. Nearby, two fresh graves sit against the road. An animal's corpse seems to lie in the tall grass not far away.</p></div>
 
 Pause to allow the players to act or react. If the players remain silent, continue to [[#Tser Falls]] below. Otherwise, allow the players to explore the area.
+## The Watchtower
+The ruined watchtower was built as a lookout post by the Order of the Silver Dragon long ago. It has the same structure as the <span class="citation">Guard Tower (p. 157)</span> at Tsolenka Pass, with the following changes:
 
-A player who inspects the broken tower door and succeeds on a DC 15 Intelligence (Investigation) check learns that the door was broken recently by a large, nonhuman creature. A player who succeeds on a DC 13 Wisdom (Perception) check notices enormous claw marks gouging out one side of the door, which can be identified as **dire wolf** marks with a successful DC 13 Intelligence (Nature) check.
+* The tower door has been half-pulled from its hinges and can be opened easily.
+* The temperature and wind in the tower are far less severe.
 
-A player who inspects the blood and succeeds on a DC 12 Wisdom (Medicine) check learns that it was left no more than two days prior.
-### Ground Floor
-When a player first enters the tower, read:
+* There is no dire wolf's head mounted above the hearth.
+* There are neither statues nor skeletons atop the battlements.
 
-<div class="description">
-<p>A small, golden fire burns silently in a stone hearth across from the door. To its side, a stone staircase leads to an upper floor.</p>
-</div>
-
-The fire produces no heat or sound. If a player approaches or otherwise investigates the fire, the will-'o-wisp emerges to greet them. Read:
-
-<div class="description">
-<p>The fire whirls in the fireplace, then forms into a small, fuzzy sphere of light that bursts forth from the hearth.</p>
-</div>
-
-The sphere is a benevolent **will-'o-wisp**, the spirit of a deceased Barovian **scout** named Ivana.
-
-> [!lore]+ **Ivana & Gertruda**
-> When Gertruda set off from Barovia on her mission to obtain aid from Vallaki, she didn't do so alone. Scraping together her meager savings, Gertruda hired the aid of a Barovian **scout** named Ivana, who agreed to escort her to Vallaki's gates before returning home.
-> 
-> The pair didn't get far before they were set upon by a pair of **wolves**. Although Ivana dispatched them handily, the sound of battle attracted a hungry **dire wolf**, which chased them to the tower. Although Ivana and Gertruda took shelter inside, the dire wolf broke down the door and badly mauled Ivana's leg before they could ascend to the tower rooftop above. However, Ivana fatally wounded the dire wolf in turn, and it fled before perishing in the Svalich Woods nearby.
-> 
-> As she lay dying on the tower battlements, Ivana asked Gertruda to break the ladder leading to the roof after departing, so that no ghouls or other undead could consume her flesh. Gertruda did so using Ivana's trusty handaxe, then set off down the Old Svalich Road for Vallaki alone, where she was later lured by Strahd to Castle Ravenloft.
-> 
-> Ivana's spirit is unquiet in death. Unable to rest without a proper burial, she lingers as a will-'o-wisp in the hopes that she might help others avoid the fate she met.
-
-After appearing, the will-'o-wisp bobs insistently around the players in an attempt to guide them to the upper floors of the tower. The stairs climb 20 feet to the next floor.
-### Upper Floor
-When a player first climbs to the upper floor, read:
-
-<div class="description">
-<p>Windows are set in almost every well of the tower's upper level. A rusted iron ladder lies broken across the floor, with a wooden trapdoor sitting in the roof above. Around the trapdoor, their claws clinging to the old stonework, hang hundreds of sleeping, black-winged bats—including a single bloated, monstrously large bat as tall as a dwarf.</p>
-</div>
-
-Four sleeping **swarms of bats**, which have took residence in the tower after the front door was broken down, hang from the tower ceiling. They are joined by a single slumbering **dire bat**. (The dire bat uses the statistics of a **giant vulture**, but is Medium instead of Large and bites with its teeth instead of a beak.) The bats attack if disturbed or attacked.
-
-A player who inspects the iron ladder learns that it didn't break naturally, but was instead broken by a weapon or other tool with a sharp edge. A player who succeeds on a DC 15 Intelligence (Investigation) check learns that the ladder was broken recently—no more than two days ago.
-
-The will-'o-wisp attempts to direct the players past the bats and up through the trapdoor to the rooftop. Players who attempt to open the trapdoor from below must succeed on a DC 11 Dexterity (Stealth) check or awaken the bats, which attack.
-
-If awoken, the bats flee once either the dire bat or three swarms are slain.
-### Rooftop
-
-
+If the players explore the watchtower, they find a broken pendant of a silver dragon lying on the ground of the first floor, close to the entrance. The pendant is always cold to the touch.
 
 From atop the battlements of the watchtower, the players can see Tser Falls to the northwest and Tser Pool to the northeast. To the south, above and beyond the slopes of Mount Ghakis, they can see only an impenetrable wall of thick, gray fog.
 ## The Graves

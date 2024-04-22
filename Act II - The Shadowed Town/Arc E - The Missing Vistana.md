@@ -480,7 +480,8 @@ Lake Baratok is as described in <span class="citation">Approaching the Tower (p.
 ## E6a. Ezmerelda’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
 
-Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check.
+### Outside the Wagon
+Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged vertically in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
@@ -494,12 +495,18 @@ A player who approaches the wagon detects a faint scent of sulfur, and notices t
 >
 > If so, have all involved players roll initiative. (The first player is, of course, free to change their mind and cease their original action at any time.)
 
-**Double-Barreled Traps.** If a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door:
+**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
+
+A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
+
+If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
+### Inside the Wagon
+**Double-Barreled Traps.** The vials of alchemists fire have been removed from the wagon's interior. Instead, if a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door:
 
 * ***Silver Barbed Net***: *Ranged Weapon Attack:* +8 to hit. *Hit:* 5 (2d4) piercing damage and the target is restrained until it is freed. The target can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach on a success. A creature that attempts to do so must also succeed on a DC 15 Dexterity saving throw or take 5 (2d4) piercing damage in the process. Dealing 15 slashing damage to the net (AC 15) also frees the creature without harming it, ending the effect and destroying the net.
 * ***Bottle of Concentrated Alchemist's Fire***. *Ranged Weapon Attack:* +8 to hit. *Hit:* 21 (6d6) fire damage. On a hit, the target is also set ablaze and takes the damage again at the start of each of its turns until the first is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
 
-If the players successfully enter Ezmerelda’s wagon, it does not contain the burned page of Van Richten’s journal. In addition, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
+**Ezmerelda's Belongings.** If the players successfully enter Ezmerelda’s wagon, it does not contain the burned page of Van Richten’s journal. In addition, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
 
 * The climber's kit, disguise kit, healer's kit, and poisoner's kit
 * The wooden box containing the Tarokka cards
@@ -514,12 +521,6 @@ If the players enter the wagon by means of the door instead of the trapdoor, Ezm
 > If spoken to through the use of a *speak with animals* spell, the chicken introduces herself proudly as Eggsmerelda, the pet of the "legendary monster hunter" Ezmerelda d'Avenir, who Eggsmerelda vows will seek vengeance upon the players for breaking into her wagon. 
 > 
 > If treated with kindness and provided with a proper apology, Eggsmerelda can share that she doesn't know where Ezmerelda is currently, and that Ezmerelda is currently "looking for something" in the woods, though she hopes that Ezmerelda will return soon. (Eggsmerelda, whose cage contains close and plentiful access to a bag of seeds and a bowl of water, is at no risk of going hungry or thirsty while Ezmerelda is away.)
-
-**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
-
-A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
-
-If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
 ## E6b. The Tower
 ### 1. The Tower Door
 <span class="citation"><em>This scene takes place in Chapter 11: Area V2.</em></span>
@@ -616,10 +617,14 @@ If able, a gargoyle that has grappled a player flies 15 feet up on its turn and 
 ### 3. Inside the Tower
 <span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
 
-The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. However, the third floor contains an old, rotted crib; the wooden box containing Yan's severed head has been removed from the tower; and the suit of armor is nonmagical and a functional suit of plate armor.
+The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. 
+
+**The Third Floor.** The third floor also contains an old, rotted crib.
 
 > [!lore]+ **The Crib**
 > The old crib is the last memento of Khazan's infant child, who died with its mother in childbirth two years after Barovia was trapped in the Mists.
+
+**The Fourth Floor.** The wooden box containing Yan's severed head has been removed from the tower. In addition, the suit of armor is nonmagical and a functional suit of plate armor.
 
 A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
 
