@@ -862,6 +862,9 @@ The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the stai
 <p>The gauntleted hand tightens its grip around the greatsword’s hilt, and the knight’s deep, rasping voice pierces the silence. "Who goes there?" it commands. “Be warned—if you are thieves or assassins, know that you shall soon join your quarries in death."</p>
 </div>
 
+![[Vladimir Horngaard.png]]
+<span class="credit">"Commander Vladimir Horngaard" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!profile]+ **Vladimir Horngaard**
 > **Roleplaying Information**
 > ***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.

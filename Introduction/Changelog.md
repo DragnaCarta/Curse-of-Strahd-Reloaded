@@ -1,3 +1,12 @@
+## Hotfix 2.0.7.4 (Apr. 22, 2024)
+* Removed an error referring to three trapdoors instead of one in [[Arc O - Dinner with the Devil]]
+## Hotfix 2.0.7.3 (Apr. 21, 2024)
+* Added a preliminary Strength saving throw to the Flesh Mound's **engulf** in [[Arc A - Escape From Death House]]
+* Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Arc A - Escape From Death House]]
+* Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Arc E - The Missing Vistana]]
+## Hotfix 2.0.7.2 (Apr. 15, 2024)
+* Rolled back an unfinished/discarded rework of the old Watchtower in [[Arc C - Into the Valley]]
+* Added artwork of Vladimir Horngaard in [[Arc M - Argynvost's Beacon]]
 ## Hotfix 2.0.7.1 (Apr. 12, 2024)
 * Increased the XP earned for defeating Izek in [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]
 * Clarified Ismark the Great's statblock in [[Arc O - Dinner with the Devil]]

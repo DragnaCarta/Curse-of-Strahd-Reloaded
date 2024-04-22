@@ -928,7 +928,7 @@ Ismark, who has the statistics of a **veteran** and is a friendly, gregarious ma
 
 Ismark is interested in exploring the guest suite for any signs of Lugdana, and invites the players to join him in doing so. “Strength in numbers, yes?" he asks, winking.
 
-The guest suite is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, one of the tables in the Lounge holds two silver goblets, which are as described in <span class="citation">Unseen Servant (p. 51)</span>. In addition, pulling the hook in the Closet opens three trapdoors, not one. (See below for more information.)
+The guest suite is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, one of the tables in the Lounge holds two silver goblets, which are as described in <span class="citation">Unseen Servant (p. 51)</span>.
 
 In addition, when a creature first attempts to open the Closet door, the following objects in the Guest Room animate and attack, using the statistics for animated objects given on <span class="citation">Player’s Handbook, p. 213</span> except where given otherwise: 
 
