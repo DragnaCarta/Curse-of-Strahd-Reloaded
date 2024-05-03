@@ -969,8 +969,7 @@ The trapdoor leads to a copy of the guest suite largely as described in <span cl
 Instead of opening into the closet, the closet door in the guest suite opens into a blank stone wall. When the closet door is opened for the first time, the southwestern windows in the Lounge slam open, allowing the storm to howl inside and revealing a copy of the castle rooftop, which is largely as described in <span class="citation">K53. Rooftop (p. 71)</span>. However, the remainder of the castle is absent, leaving the rooftops surrounded only by an endless, misty void. When a character first opens the door, read:
 
 <div class="description">
-<p>The door opens onto a long, dark rooftop cloaked in swirling mists. Rain splashes against the sagging, sloping roof as flashes of lightning illuminate gargoyles perched on the roof’s end peaks, their hideous stares forever fixed on the dark, endless chasm below.</p>
-<p>Two other identical rooftops stretch from identical castle spires nearby. The three rooftops converge on the far side, where a small, dark, open closet stands quietly on a parapet amidst the storm.</p>
+<p>The door opens onto a long, dark rooftop cloaked in swirling mists. Rain splashes against the sagging, sloping roof as flashes of lightning illuminate gargoyles perched on the roof’s end peaks, their hideous stares forever fixed on the dark, endless chasm below. On the far side of the rooftop, a small, dark, open closet stands quietly on a parapet amidst the storm.</p>
 </div>
 
 A character must succeed on three cumulative DC 10 Dexterity (Acrobatics) checks to successfully traverse the rooftop and reach the closet on the other side. (Making one such check requires the character’s action.) A character who crawls, or who has a climbing speed, succeeds automatically as described <span class="citation">K53. Rooftop (p. 71)</span>. 
@@ -1508,6 +1507,7 @@ As the carriage pulls away from the courtyard, the players can catch a final gli
 
 <div class="description">
 <p>As the horses begin to move, your gaze falls upon the great, round window that looks down upon the courtyard. The gaunt figures of Strahd’s three vampiric brides stand beyond it, their visages distorted beneath jagged fingers of broken glass as they watch the carriage slowly pull away.</p>
+<p>As the keep shrinks behind you, the chains of the two gate towers shriek and groan, rusted machinery grinding as it slowly heaves the drawbridge back into the air. The carriage rounds a bend in the road—and the sound of the drawbridge slamming shut echoes through the mountains.
 </div>
 
 ***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 5,500 XP. Award each player an additional 500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache.

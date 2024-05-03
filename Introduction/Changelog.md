@@ -1,3 +1,9 @@
+## Hotfix 2.0.7.7 (Apr. 28, 2024)
+* Added new rebalancing details for the flesh mound in [[Arc A - Escape From Death House]]
+## Hotfix 2.0.7.6 (Apr. 27, 2024)
+* Removed legacy text from the third level of Varushka's Nightmare in [[Arc O - Dinner with the Devil]]
+## Hotfix 2.0.7.5 (Apr. 23, 2024)
+* Added the drawbridge closing at the end of [[Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.4 (Apr. 22, 2024)
 * Removed an error referring to three trapdoors instead of one in [[Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.3 (Apr. 21, 2024)
