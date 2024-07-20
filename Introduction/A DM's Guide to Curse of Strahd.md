@@ -92,8 +92,8 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 ## Act I - Into the Mists
 [[Act I Summary]]. A summary of the players' first passage into Barovia.
 [[Arc A - Escape From Death House]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
-[[Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia in the aftermath of Strahd's reawakening, meeting new friends and receiving a cryptic invitation.
-[[Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
+[[Act I - Into the Mists/Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia in the aftermath of Strahd's reawakening, meeting new friends and receiving a cryptic invitation.
+[[Act I - Into the Mists/Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
 ## Act II - The Shadowed Town
 [[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
 [[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
@@ -110,7 +110,8 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc M - Argynvost's Beacon]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
 [[Arc N - Tales of Vallaki]]. Coming soon.
 [[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
-[[Arc P - Ravenloft Heist]]. Coming soon.
+[[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
+[[Arc Q - A Light in the Darkness]]. Coming soon.
 
 > [!tip]+ **Under Construction**
 > *Curse of Strahd: Reloaded* is an ongoing project. New releases, including additional arcs and edits to existing arcs, are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).
@@ -122,14 +123,16 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Act IV Summary]]. Coming soon.
 [[Arc R - The Tyrant's Trials]]. Coming soon.
 [[Arc S - The Amber Temple]]. Coming soon.
-[[Arc T - The Fanes of Barovia]]. Coming soon.
+[[Arc T - The Monster Hunter]]. Coming soon.
+[[Arc U - The Ladies of the Fanes]]. Coming soon.
 ## Act V - The Curse of Strahd
 [[Act V Summary]]. Coming soon.
-[[Arc U - The Curse of Strahd]]. Coming soon.
+[[Arc V - The Curse of Strahd]]. Coming soon.
 [[Epilogue]]. Coming soon.
 ## Appendices
 [[Non-Player Characters]]. A compendium of every major NPC in the adventure.
-[[Amber Shards]]. Fragments of ancient evil to tempt and taint your players.
+[[Amber Shards]]. A compendium of every amber shard that appears in the adventure.
+[[Glossary]]. A glossary of all new rules or mechanics that are used in the adventure.
 
 <hr>
 
@@ -144,7 +147,7 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 ***Special Thanks to*** **Twi**, whose deliberation and creativity made this revision possible;  **Ziopliukas** and **Paintknight** for their encouragement and support; **Cheese** and **Nancy** for their assistance in balancing and playtesting encounters; **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza**, and **Scarfe** for their frequent counsel and feedback; and [**GPT-4**](https://chat.openai.com/) for assistance in brainstorming and revision.
 
-***Additional thanks to*** a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, AlexanderThulin, Alfie, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Az, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, Booyahg, Bruuneri, calebisdrawing, chroma900, continuity, CrazyEnough1757, Crazymajor, Cryptid, Daeplin, Dakota Official, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Dumaka, Eban921, Ebonhawk, ElderDovah, ELQUEMANDA4, Ep, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, greenglowstix, hakich, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, Kaiya, KrempelRitter, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, Massiah, mattjanor, Maurycy-skell, Miata07, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, PJ, PM_me_your_PhDs, pookmeister, presley, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, Rofeletan, Rustyroo, Schelling, shananigans, ShapKees, Sherlock, Sigmarius, Silver, SkroxiousDM, snarkycatboy, snickduck, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Timetheif, Tirrigon, Unyielding_Capybara, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
+***Additional thanks to*** a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, AlexanderThulin, Alfie, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Az, beau_motion, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, Booyahg, Bous237, Bruuneri, calebisdrawing, chroma900, ClanRedHead, cleo, continuity, CrackedSkeleton, CrazyEnough1757, Crazymajor, Cryptid, Daeplin, Dakota Official, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Ella, ELQUEMANDA4, Ep, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, GodSpeeD, gr4v3dgr, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Miata07, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, PJ, PM_me_your_PhDs, pookmeister, presley, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, Shard, ShapKees, Sherlock, Sigmarius, Silent Scribe, Silver, SkroxiousDM, Søren, snarkycatboy, snickduck, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
 # About the Author
 **DragnaCarta** first began DMing in 2008 with the 4th Edition "Red Box." Since then, he has run three complete *Curse of Strahd* campaigns, including [*Curse of Strahd: Twice Bitten*](https://www.youtube.com/watch?v=fiu6bM9RxbM), a Rules-As-Written Actual Play featuring five other *Curse of Strahd* DMs as players.
  

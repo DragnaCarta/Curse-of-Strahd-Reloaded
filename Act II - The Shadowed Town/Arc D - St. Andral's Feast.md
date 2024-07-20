@@ -10,11 +10,11 @@ The players have until the night of their fifth day after arriving in Vallaki to
 Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
 
 > [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Wilemina Rikalova (see [[Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Wilemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Wilemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Wilemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
 > 
 > If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
@@ -274,6 +274,9 @@ Additionally, note that the windows are locked from the inside and the doors are
 In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **N6. Coffin Maker's Shop**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
 
 Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
+
+> [!abstract]+ **Ambushing the Vampires**
+> Players who attempt to ambush the vampires in <span class="citation">N6f. Vampire Nest (p. 118)</span> before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
 ## D4b. Recovering the Bones
 The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
@@ -291,8 +294,11 @@ Opening the compartment without disabling the wire or unsuccessfully attempting 
 
 > [!lore]+ **The Noisemaker**
 > Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+
+> [!abstract]+ **Disabling the Noisemaker**
+> If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
 ## D4c. Volenta's Trap
-If the players allow the bell to ring, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
+If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
 ![[Volenta Popofsky.png]]
 <span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -331,6 +337,9 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 
 > [!warning]+ **Sunlight in Barovia**
 > Remember that vampires and other creatures in Barovia are unaffected by sunlight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
+
+> [!warning]+ **Vampires Aren't Humanoid**
+> Remember that **vampire spawn**, including Volenta, have the **undead** type, rather than the **humanoid** type. As such, spells and effects that target only humanoids, such as _hold person_, or which can't affect undead, such as _command_, have no effect on Volenta and the vampires accompanying her.
 
 <div class="statblock">
 <h2>Volenta, First Form</h2>
@@ -377,8 +386,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<div class="break"></div>
+<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
 <p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
@@ -386,6 +394,8 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
 <p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
 <p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
+<h3>Reactions</h3>
+<p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 </div>
 <br>
 <div class="statblock">
@@ -432,7 +442,6 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<div class="break"></div>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
@@ -451,12 +460,9 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 
 When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
 
-Volenta flees from combat under two conditions:
+Volenta flees from combat if her first form is reduced to 0 hit points, using her *smokestick* reaction to escape if possible. (The other **vampire spawn** don't accompany her, and fight to the death.)
 
-* Both **vampire spawn** are dead and she has entered her second form, or
-* Her second form has been reduced to 50 hit points or fewer.
-
-When she does, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
+When Volenta flees, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
 ### 2. Father Lucian
 [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
 
@@ -478,7 +484,7 @@ If any of the players are reduced to 0 hit points, Father Lucian spends his acti
 >
 > However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
 ### 3. The Vampire Spawn
-The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn are prepared to fight to the death, but retreat with Volenta if she does.
+The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
 # D5. Retrieving the Bones
 If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
 
@@ -563,7 +569,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 285 (38d8 + 114)
+<strong>Hit Points</strong> 247 (34d8 + 102)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>
@@ -591,35 +597,35 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Skills</strong> Acrobatics +11, Peception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 16<br>
+<strong>Challenge</strong> 14<br>
 <strong>Proficiency</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
+- 3/day: phantom steed<br>
+- 1/day: nondetection</p>
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his <strong><em>saber</em></strong> or two attacks with his <strong><em>poisoned darts</em></strong>.
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 8 (1d4 + 6) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is also poisoned until the start of Rahadin's next turn.</p>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
+<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure or half as much on a success.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure or half as much on a success. </p>
+<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Misty Step.</em></strong> Rahadin casts <em>misty step</em>. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn.</p>
 <p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make a <strong><em>saber</em></strong> attack against that enemy with advantage.</p>
 <p><strong><em>Misty Step.</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 16 (3d10) psychic damage on a failure or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 16 (3d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
 </div>
-
 <br>
 
 <div class="statblock">
@@ -628,7 +634,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 285 (38d8 + 114)
+<strong>Hit Points</strong> 247 (34d8 + 102)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>
@@ -656,13 +662,13 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 16<br>
+<strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
@@ -672,7 +678,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
 <p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin must succeed on a DC 17 Wisdom saving throw, taking 16 (3d10) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also Dazed until the start of Rahadin's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn.</p>
 <p><strong><em>Vengeful Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong>. This movement doesn't trigger opportunity attacks.</p>

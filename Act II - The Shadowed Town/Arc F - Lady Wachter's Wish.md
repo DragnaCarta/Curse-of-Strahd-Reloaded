@@ -124,6 +124,14 @@ Lady Wachter may also respond to player questions as follows:
 
 ***If asked how she came to her position,*** Lady Wachter notes that she was not always the heir of House Wachter. Her elder brother, Frederich Wachter, had always been expected to inherit their mother’s household and title. As a teenager, Fiona often fought with her mother and brother—and, on one such occasion, ran away from home in a pique of stubborn fury. She fled into the Svalich Woods, where she would have surely died had she not been found by an old woman named Lysa. Fiona stayed in Lysa’s cottage for six months, until she learned that her parents and brother had perished in a tragic accident. Fiona returned to Vallaki against Lysa’s advice and reclaimed her family’s position.
 
+> [!info]+ **What Lady Wachter Knows**
+> If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
+> 
+> * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside through the Svalich Wood."
+> * ***Argynvostholt.*** Lady Wachter shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
+> * ***The Amber Temple.*** Lady Wachter knows nothing about any structure bearing "amber doors," and is ignorant of the existence of the Amber Temple.
+> * ***The Werewolf Pack.*** "An uncivilized assortment of bloodthirsty brutes. Their aggression has intensified as of late, I fear, but Vallaki's walls and silver have kept us safe." (Lady Wachter doesn't know where the pack's den lies, and doesn't know enough to speculate.)
+
 > [!lore]+ **Who is Lysa?**
 >
 > “Lysa’s” true identity is Baba Lysaga, the swamp-witch of <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in <span class="citation">K56. Cauldron</span> (p. 72) in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieved.
@@ -176,7 +184,6 @@ Where appropriate, Lady Wachter can also share the following story about her dau
 > When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims. (She refuses to journey to the Vallakovich manor if the players suggest using the *spirit mirror* to allow her to view Stella directly, dismissing it as a “foolish” suggestion.)
 >
 > See [[Arc H - The Lost Soul#H5. Wachterhaus|Arc H - The Lost Soul]] for more information on how the players can persuade Lady Wachter of Stella’s fate.
-
 ## F2e. The Wachter Conspiracy
 If the players appear receptive to her concerns, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] proceeds to ask for their discretion, as well as their promise that not a whisper of their conversation shall escape this room. If the players agree, Lady Wachter makes the following proposal, speaking carefully and making sure to choose her words delicately:
 
@@ -221,6 +228,11 @@ If the players reject Lady Wachter’s argument, she replies curtly with the fol
 * Lady Wachter does not begrudge others their hope that the valley may one day escape Strahd’s control. She does not seek to destroy that hope, nor bring pain where unnecessary. But, in the meantime, she believes that her people must bend like the willow in order to survive. If the players seek to oppose Strahd, she will lift no finger to stop them. She merely asks that they bring no harm to Vallaki as they do.
 
 If the players insist that Madam Eva foresaw the existence of the *Sunsword*, she pauses, then notes that, as much as the “Vistana seer” might *believe* what she saw, “the future is notoriously difficult to interpret.” She is willing to concede—albeit with some amusement—that, despite her doubts, she may be more willing to believe the players’ arguments should the sword itself be found.
+
+> [!design]- **Design Notes: Lady Wachter's Arc**
+> Lady Wachter is first introduced as a cynical, if helpful ally. As the players assist her in freeing Vallaki from Izek's tyranny, and later aid her in restoring her daughter's soul in [[Arc H - The Lost Soul]], Lady Wachter gradually grows less cynical and more open to hope for a better future. 
+> 
+> The players' lighting of the beacon of Argynvostholt in [[Arc Q - A Light in the Darkness]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[Arc S - The Amber Temple]].
 
 ***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on Izek Strazni’s schedule—and provide the bottle of poisoned wine—the following morning.
 
@@ -329,6 +341,13 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 > [!warning]+ **Poisoned Izek**
 > Remember that Izek remains **poisoned** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
 
+> [!warning]+ **Don't Use Tactics!**
+> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> 
+> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
+> 
+> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+
 <div class="statblock">
 <h2>Izek Strazni, 1st Form</h2>
 <em>Medium humanoid, neutral evil</em>
@@ -370,7 +389,7 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dex saves, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
 <p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
@@ -428,7 +447,7 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dex saves, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>

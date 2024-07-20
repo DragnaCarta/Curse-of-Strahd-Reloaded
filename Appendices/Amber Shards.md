@@ -115,7 +115,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** Oily black fur covers your face and body. You have disadvantage on checks made to escape a grapple.
 ## Norganas, the Finger of Oblivion
-*Shard Location: Tsolenka Pass*
+*Shard Location: Death House*
 
 ***Spell.*** _Bestow Curse (at 5th level)._
 

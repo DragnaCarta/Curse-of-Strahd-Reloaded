@@ -151,9 +151,10 @@ Wensencia curtly informs the players that “Mother Lysaga” has summoned them 
 >
 > The area within the stones is obscured by the cover provided by the webs, which are described in **Webs** (<span class="citation">Dungeon Master's Guide, p. 105</span>). If the players reach the center of the circle, they find that a five-foot-diameter stone of smooth, black onyx is half-buried at the center of the circle. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
 >
-> The stone is the door to a secret demiplane that contains the Boneshadow Husk, one of the three profane leeches that Strahd set to consume the energies of the Fanes. To open it, the players will need to cut its surface with the cursed dagger of Leo Dilisnya, which they can obtain from the sarcophagus of the Vampyr in the Amber Temple. See **_Arc U: The Amber Temple_** and **_Arc Y: The Ladies of the Fanes_** for more information about Leo Dilisnya’s dagger and the Swamp Fane.
->
 > One minute after the players enter the shroud of webs, their presence draws the attention of one **phase spider**, which uses its **ethereal jaunt** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round.
+
+> [!abstract]+ **Ruins of Berez**
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U2. Ulrich Mansion (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[#I4c. The Scrying Spell]] below.
 ## I4b. Baba Lysaga’s Hut
 <span class="citation"><em>This scene takes place in Chapter 10: Area U3.</em></span>
 
@@ -163,7 +164,7 @@ Upon arriving at the base of the stump on which the hut is perched, if Wensencia
 
 If the players enter the hut, they find Baba Lysaga humming a lullaby above the illusory child and crib. Otherwise, the lullaby ends one minute after the players arrive; if Baba Lysaga was alerted to the players’ arrival by the **greater strix**, she then emerges to greet them.
 
-Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Arc K - The Missing Gem.]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
+Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
 
 To earn the right to speak with her, Baba Lysaga ordains that one of the players must first pluck a feather from one of the ravens in the hanging cages and lay it in “Strahd’s” crib as an offering. (Baba Lysaga notes that ravens are said to be the servants of prophecy, and that the fate of a royal child should be exalted above all others. The feather, if plucked, falls through the illusory crib to the floor of the hut, but the mad Baba Lysaga pays it no mind.)
 
@@ -211,9 +212,13 @@ Regardless of their destination, the players experience the <span class="citatio
 # I6. The Village of Krezk
 If the players return successfully to Krezk with information obtained from Baba Lysaga’s *scrying* spell and share it with Baron Krezkov, he gratefully grants them entry into the village.
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>. 
+The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, with the following changes:
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested.
+* The Krezkovs have had only two children, rather than four.
+* Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
+* Kala, his younger daughter, is eight years old and alive.
+
+If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's fate at the mention of the Abbot.
 
 Upon entering Krezk, the players begin [[Arc K - The Fallen Abbey]].
 

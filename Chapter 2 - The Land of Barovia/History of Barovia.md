@@ -18,7 +18,7 @@ Together, the Weaver, the Huntress, and the Seeker became known as the Ladies Th
 
 The First Folk, however, built no shrine to the Dreamer, too fearful of her grim portfolio to invite her into their tents and prayers. Embittered and enraged, the Dreamer fell into jealousy and envy—and the whispers of Mother Night, the greater goddess of darkness, lured her into corruption.
 
-The Dreamer forsake her place among her sisters and became the Devourer—a shadowed, twisted creature whose hunger knew no bounds. Her icy claws reached out for the spirits of the First Folk, turning dreams into endless nightmares as she claimed their very souls.
+The Dreamer forsook her place among her sisters and became the Devourer—a shadowed, twisted creature whose hunger knew no bounds. Her icy claws reached out for the spirits of the First Folk, turning dreams into endless nightmares as she claimed their very souls.
 
 To defend their people, the other three goddesses rose up against the Devourer and struck her down. Her corpse became the Whispering Wall: a shroud of mist that towered into the skies by Yester Hill. Her divine spark, severed from her body, laid amidst the snowy slopes of Mount Ghakis nearby. Her sisters mourned her—but, slowly, knowledge of the Dreamer and her fate departed from living memory, and was lost to the ages.
 ## The Amber Temple
@@ -55,7 +55,7 @@ The kingdom of the dusk elves—a former province of Zarovia—declined to pay f
 
 With the aid of Ciril Romulich, King Barov took the hilt of Prince Löwenhart's shattered *moonblade* and used it to forge the *Brightblade*: a crystal blade of radiant light. To further empower the sword, the witch Baba Lysaga—King Barov's advisor on matters of magic—sealed Prince Löwenhart's spirit within the blade.
 
-Not longer thereafter, however, Baba Lysaga was banished for her unhealthy attachment to the king's newborn son, Strahd, as described in <span class="citation">Baba Lysaga (p. 228)</span>. Seven years later, the young Strahd, joined his father’s army as a squire. While at war, Barov also sired a bastard daughter, Katarina, by a Vistani woman. (See <span class="citation">Madam Eva (p. 233)</span>.)
+Not long thereafter, however, Baba Lysaga was banished for her unhealthy attachment to the king's newborn son, Strahd, as described in <span class="citation">Baba Lysaga (p. 228)</span>. Seven years later, the young Strahd, joined his father’s army as a squire. While at war, Barov also sired a bastard daughter, Katarina, by a Vistani woman. (See <span class="citation">Madam Eva (p. 233)</span>.)
 
 A decade after the fall of the dusk elves, Strahd—now a soldier and captain under King Barov’s command—was wounded in battle and rescued by the Vistani, as described in <span class="citation">The Dancing Fire (p. 20)</span>. 
 
@@ -182,7 +182,7 @@ More significantly, Sergei’s dalliances with Tatyana had begun to impede his p
 
 Unfortunately for Strahd, a harsh winter soon trapped him in Castle Ravenloft with Sergei and Tatyana, condemning him to suffer endlessly their laughter, stolen kisses, and love-addled gazes. Duchess Dilisnya, a fellow prisoner of the snowdrifts, made her best efforts to bring warmth and good cheer, but ultimately succumbed to a bad bout of pneumonia and was buried beneath Castle Ravenloft. 
 
-Not longer after the snows lifted, Tatyana kindly asked Duchess Dilisnya’s fool, Pidlwick, to remain at Castle Ravenloft—but within a week, the mechanical fool, now named Pidlwick II, secretly murdered the original Pidlwick by pushing him down a flight of stairs. Not long after, it was shut away in a guest bedroom closet, as described in <span class="citation">Pidlwick II (p. 235)</span>.
+Not long after the snows lifted, Tatyana kindly asked Duchess Dilisnya’s fool, Pidlwick, to remain at Castle Ravenloft—but within a week, the mechanical fool, now named Pidlwick II, secretly murdered the original Pidlwick by pushing him down a flight of stairs. Not long after, it was shut away in a guest bedroom closet, as described in <span class="citation">Pidlwick II (p. 235)</span>.
 
 By mid-spring, preparations had fully begun for the upcoming royal wedding. Sergei asked—and Strahd reluctantly granted—his elder brother’s blessing for the union to come. Even as the revenants’ battles burned on in the lands beyond, the world within the castle’s walls was abuzz with romance and excitement. Only Strahd, tormented by the sight of the happy couple together, felt his spirit sinking ever-deeper into shadow and mirk.
 ## Arrival of the Mists
@@ -367,7 +367,7 @@ Those opportunities, however, were few and far between, with years or even decad
 
 When not hibernating, Strahd continued to seek entertainment wherever he could find it. He took on two new brides: Anastrasya Karelova, a Vallakian noblewoman who delighted him with her cunning and wit; and Volenta Popofsky, a Barovian courtesan whose cheerful sadism was matched only by her innovative spirit. Anastrasya assumed authority over Strahd’s vast network of spies, while Volenta built traps and gruesome installations across Castle Ravenloft, including <span class="citation">Flight of the Vampire (p. 61)</span>, the floating skeletons of <span class="citation">K26. Guards' Post (p. 61)</span>, the armor traps on <span class="citation">K19. Grand Landing (p. 58)</span>, and the <span class="citation">K67. Hall of Bones (p. 78)</span>.
 
-One hundred and eighty years after Barovia’s isolation, a **deva** named Ithuriel was sent from the Upper Planes to honor Saint Markovia’s memory. Ithuriel took up residence at the Abbey of Saint Markovia and called himself the Abbot. He reopened the abbey and began tending to Barovia’s sick, but—with Strahd's influence—ultimately fell from grace and descended into madness. (See <span class="citation">The Abbot (p. 225)</span>.)
+Two hundred and thirty-seven years after Barovia’s isolation, a **deva** named Ithuriel was sent from the Upper Planes to honor Saint Markovia’s memory. Ithuriel took up residence at the Abbey of Saint Markovia and called himself the Abbot. He reopened the abbey and began tending to Barovia’s sick, but—with Strahd's influence—ultimately fell from grace and descended into madness. (See <span class="citation">The Abbot (p. 225)</span>.)
 
 The Abbot’s arrival, however, reminded Strahd of the world that lay beyond the Mists, inspiring him to renew his efforts to escape. On a whim, he visited the Vistani fortuneteller Madam Eva and bade her to read his future. When Madam Eva, however, foretold the coming of a Grand Conjunction—a time, more than a century in the future, when the borders between worlds would grow thin, and the Mists would touch the Material Plane—the fragile light of hope reignited within Strahd’s blackened heart.
 
@@ -424,7 +424,7 @@ For three years, Rudolph traveled in search of the Vistani who had wronged him. 
 
 The cave was, in truth, a portal to Barovia—the same portal Khazan had accidentally created in his underground catacomb centuries before. There, Rudolph encountered Khazan's spirit, which roused its undead army to aid Rudolph in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!”
 
-The horde killed all but one young man: Arturi Radanavich, who hid away in a trunk until Rudolph and the monsters had gone. The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a *mist talisman* capable of leading him out of the Mists once more.
+The horde killed all but one young man: Arturi Radanavich, who hid away in a trunk until Rudolph and the monsters had gone. The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new *mist talisman* capable of leading him out of the Mists once more.
 
 Several weeks after Rudolph van Richten departed Barovia, Izek and his younger sister, the four-year-old Ireena Strazni, were attacked by a **dire wolf**, as described in <span class="citation">Izek Strazni (p. 231)</span>. Although Izek lost his arm, an *amber shard* he had picked up by the shore of Lake Zarovich spoke to him, promising the power to keep his sister safe. Izek accepted the vestige's offer, and destroyed the dire wolf with its fiery power.
 
@@ -440,7 +440,7 @@ Vargas became Baron, and Izek his right hand. Not long thereafter, Izek began to
 
 Meanwhile, at the Wizard of Wines, Danika Dorakova, a **wereraven** and agent of the Keepers of the Feather, became pregnant with the child of Urwin Martikov, her sweetheart and beau. Alarmed by their romantic dalliances, their families betrothed them at once to ensure that the child would not be born out of wedlock.
 
-Shortly before the wedding, however, a Vistana—acting at the behest of Madam Eva—secretly stole one of the three magic gems from the winery’s fields while Urwin was on watch, ending its production of Champagne du Stompe. Madam Eva foresaw that the theft would bring discord to the Martikov family and drive Urwin to Vallaki, where he would one day assist and guide heroes who could defeat Strahd and return sunlight to Barovia.
+Shortly before the wedding, however, the disguised **roc** of Mount Ghakis—acting at the behest of Madam Eva—secretly stole one of the three magic gems from the winery’s fields while Urwin was on watch, ending its production of Champagne du Stompe. Madam Eva foresaw that the theft would bring discord to the Martikov family and drive Urwin to Vallaki, where he would one day assist and guide heroes who could defeat Strahd and return sunlight to Barovia.
 
 Madam Eva’s foretelling proved prescient. As described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, Davian blamed Urwin for the theft, leading to a bitter fight. Urwin and Danika departed the winery altogether for Vallaki, where they purchased a run-down tavern and renamed it the Blue Water Inn. The inn soon became a haven for the members of the Keepers of the Feather, who expanded their operations in Vallaki and extended their spy network. 
 

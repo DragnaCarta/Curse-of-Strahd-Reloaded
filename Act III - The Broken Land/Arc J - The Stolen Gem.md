@@ -81,6 +81,59 @@ Muriel greets the players warmly and introduces herself, noting that Urwin has t
 
 If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
 
+<div class="statblock">
+    <h2>Muriel Vinshaw</h2>
+    <em>Medium humanoid (human, shapechanger), chaotic good</em>
+    <hr>
+    <strong>Armor Class</strong> 14 (leather armor)
+    <br>
+    <strong>Hit Points</strong> 63 (14d8)
+    <br>
+    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10 (+0)</td>
+                <td>16 (+3)</td>
+                <td>11 (+0)</td>
+                <td>13 (+1)</td>
+                <td>15 (+2)</td>
+                <td>14 (+2)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Skills</strong> Insight +4, Perception +6<br>
+    <strong>Senses</strong> passive Perception 16<br>
+    <strong>Languages</strong> Common (can't speak in raven form)<br>
+    <strong>Challenge Rating</strong> 2<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
+    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
+    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
+    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
+    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
+    <h3>Reactions</h3>
+    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+</div>
+
 ### Ireena's Request
 Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
@@ -149,6 +202,10 @@ The figure is recognizably similar to the revenant standing guard at Tser Falls.
 If the players tell the revenant that they are traveling to the Wizard of Wines, it warns them that the Forest Folk of Yester Hill have been increasingly agitated as of late, and that they have been joined by the children of the Gulthias Tree—a twisted husk that grows atop Yester Hill and gives birth to “blights" that crawl forth from its gnarled roots. The revenant advises them to be wary of the blights, which see without eyes and disguise themselves among the flora of the wilds.
 
 If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
+
+If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
+
+The revenant will not leave its post on the bridge under any circumstances.
 ## J2d. The Spiked Pit Trap
 As the players proceed south from the Raven River Crossroads, read:
 
@@ -164,10 +221,10 @@ The road here hides a spiked pit trap (<span class="citation">Dungeon Master's G
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
 > [!combat]- **Balancing the False Trail**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, and two CR 2 allies (Muriel Vinshaw and Ireena Kolyana), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three. 
-> * ***Four Players.*** Reduce the number of vine blights to three. 
+> * ***Four Players.*** Reduce the number of vine blights to four. 
 > * ***Six Players.*** Increase the number of vine blights to six. 
 ## J2e. The Huntress’s Monument
 As the players proceed past the pit trap, read:
@@ -177,7 +234,7 @@ As the players proceed past the pit trap, read:
 </div>
 
 If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other two slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
-# J3. The Wizard of Wine
+# J3. The Wizard of Wines
 The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
 > [!lore]+ **History of the Winery**
@@ -252,7 +309,7 @@ Davian curtly introduces each member of the family if asked. He is also willing 
 ### Davian’s Request
 Upon learning that the players have been sent to investigate the delayed wine shipments, Davian is glad to share the following information:
 
-* Three days before the players received Urwin’s request (see **K1a. Urwin’s Request** above), four druids of the Forest Folk invaded the Wizard of Wines and drove the Martikovs out. Davian and his family have hidden themselves away in this hidden cavern ever since.
+* Three days before the players received Urwin’s request (see [[#J1a. Urwin’s Request]] above), four druids of the Forest Folk invaded the Wizard of Wines and drove the Martikovs out. Davian and his family have hidden themselves away in this hidden cavern ever since.
 * The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
 * Davian isn’t entirely sure why the druids attacked the winery, why they’re still inside, or why Baba Lysaga is assisting them. 
 
@@ -419,7 +476,7 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
 
 > [!combat]- **Balancing the Cellar**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 19% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 1 ally (Ireena Kolyana), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of needle blights to four.
 > * ***Four Players.*** Reduce the number of needle blights to six.
@@ -436,7 +493,7 @@ The druid and blights attack on sight. On their first turn in combat, the druid 
 > |4| - |None|
 > |5| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
 > 
-> Neither the blights in [[#Loading Dock]] nor Lorgoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
 The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
 
@@ -508,7 +565,6 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 * On her first turn in combat, she uses her ***speed of the adder*** feature to cast the *entangle* spell as a bonus action, followed by a cantrip as her action. 
 * On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
 
-
 > [!info]+ **Alerting the Druids**
 > If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
 > 
@@ -517,16 +573,16 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 > |1| - |None|
 > |2| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
 > 
-> Neither the blights in [[#Loading Dock]] nor Lorgoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
 > [!combat]- **Balancing the Vat Room**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
 > * ***Four Players.*** Reduce the number of elder twig blights to one.
 > * ***Six Players.*** Increase the number of swarms of twig blights to three.
 
-Because she has previously cast *speak with animals*, Silvia has only two 2nd-level spell slots remaining at the beginning of combat.
+Because she has previously cast *speak with animals*, Silvia has only three 1st-level spell slots remaining at the beginning of combat.
 
 As she dies, Silvia laughs and warns the players, “You may defeat us—but Wintersplinter is coming."        
 
@@ -701,7 +757,7 @@ The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immuni
 Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
 
 > [!combat]- **Balancing the Loading Dock**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bloody** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 46% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three.
 > * ***Four Players.*** Reduce the number of vine blights to four.
@@ -726,7 +782,7 @@ When the players first reach the second floor, they can hear the sound of clatte
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
 > [!combat]- **Balancing the Printing Press**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to one.
 > * ***Four Players.*** Reduce the number of vine blights to two.
@@ -747,9 +803,14 @@ The two artificial birds are **greater strixes.** The man is a **druid naturalis
 
 * ***Legendary Resistance (1/day).*** If Lorghoth would fail a saving throw, he can choose to succeed instead.
 * ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
-* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks.
+* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points) and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
 The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+
+> [!info]+ **Strix Statistics**
+> A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
+> 
+> Should you adjust this encounter to include one or more **swarms of lesser strix** (see below), each swarm uses the statistics of a **swarm of ravens**.
 
 Lorghoth greets the players with maddened cackling upon their arrival, inviting them to “revel in the glory of the spawn of the Gulthias tree" and asking if they have come to “honor the might of the Shadowed Lord."
 
@@ -763,11 +824,11 @@ If the players speak with him, Lorghoth is glad to share the following informati
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
 
 > [!combat]- **Balancing the Loading Winch**
-> This combat encounter is a **brutal** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 68% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bloody** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 61% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Remove the original two greater strix. Add three swarms of lesser strix. The lesser strix flee when the staff is broken.
-> * ***Four Players.*** Reduce the number of greater strix to one. Add two swarms of lesser strix. The greater strix flee when the two swarms and one greater strix are destroyed or when the staff is broken. The lesser strix flee when both greater strix is destroyed or when the staff is broken.
-> * ***Six Players.*** Add four swarms of lesser strix. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
+> * ***Three Players.*** Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken.
+> * ***Four Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
+> * ***Six Players.*** Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
 
 On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
 
@@ -867,7 +928,7 @@ When she does, read:
 
 <div class="description">
 <p>As Muriel's blood drips into the basin, the low curtain of mist around the cairn seems to quiver. The mists rise, gently swirling into the air, until the spectral form of a man steps forth from their moonlit depths.</p>
-<p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
+<p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earrings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
 <p>His hands are calloused and rough, a wooden buckler grasped in his left. In his right hand, he wields a long, wicked spear forged of mist, its point seeming to devour the ethereal light that suffuses the clearing. </p>
 <p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
 </div>
@@ -948,7 +1009,7 @@ Kavan advises the players that the druids of the Forest Folk appear to be far le
 
 Should the players express interest in destroying the Gulthias Tree itself, Kavan warns them against doing so, noting that, while he does not know the source of its power, it is the host to a great and terrible evil. He can share, however, that until the mage taught the druids to command its children, the tree took little action on its own and appeared content to remain atop Yester Hill. Should the players defeat the druids of the Forest Folk, he notes, they will likely find the Gulthias Tree to pose little threat to them or their friends.
 
-If the players have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan promises to answer all of the players’ questions if they retrieve Svarog’s wand and return it to Kavan’s cairn. 
+As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve Svarog's wand, which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
 
 > [!abstract]+ **Kavan's Shame**
 > If a player asks Kavan about his epitaph, he replies, "I failed my people in life. In death, I wish to atone for those mistakes."
@@ -975,7 +1036,7 @@ The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as des
 Strahd greets the players with familiarity. He also addresses their companions as follows:
 
 * If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
-* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
+* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
 
 Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
 
@@ -987,7 +1048,7 @@ If the players accept Strahd’s invitation and walk alongside him, he begins by
 
 If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
 
-If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in ***Arc L: Dinner with the Devil***, Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
+If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
 
 If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
 
@@ -1047,7 +1108,7 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players and two CR 2 ally (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of druid assailants to one.
 > * ***Four Players.*** Reduce the number of berserkers to one.
@@ -1129,59 +1190,6 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
 ## J5d. The Druidic Guards
 Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she creates a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[#J5e. The Shroud of Mist]] below.)
-
-<div class="statblock">
-    <h2>Muriel Vinshaw</h2>
-    <em>Medium humanoid (human, shapechanger), chaotic good</em>
-    <hr>
-    <strong>Armor Class</strong> 14 (leather armor)
-    <br>
-    <strong>Hit Points</strong> 63 (14d8)
-    <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>16 (+3)</td>
-                <td>11 (+0)</td>
-                <td>13 (+1)</td>
-                <td>15 (+2)</td>
-                <td>14 (+2)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
-    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
-</div>
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
@@ -1234,13 +1242,13 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
 
 <div class="statblock">
     <h2>Ludmilla, First Form</h2>
-    <em>Medium undead, lawful evil</em>
+    <em>Medium undead, neutral evil</em>
     <hr>
     <strong>Armor Class</strong> 16 (natural armor)
     <br>
     <strong>Hit Points</strong> 120 (16d8 + 48)
     <br>
-    <strong>Speed</strong> 30 ft., climb 30 ft., fly 50 ft. (hover)
+    <strong>Speed</strong> 30 ft., climb 30 ft.
     <hr>
     <table class="ability-table">
         <thead>
@@ -1273,23 +1281,23 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <strong>Challenge Rating</strong> 6<br>
     <strong>Proficiency Bonus</strong> +3
     <hr>
-    <p><strong><em>Vengeful Ward.</em></strong> A shroud of shadows surrounds Ludmilla, giving her resistance to damage dealt by melee attacks. Additionally, while the shroud is present, a creature that damages Ludmilla with a melee attack takes the same amount and type of damage dealt. If Ludmilla takes radiant damage or damage from holy water, the shroud vanishes until the start of her next turn.</p>
     <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
     <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
     <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
     <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
     <h3>Actions</h3>
-    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> in a 20-foot-square area.</p>
+    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
     <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
     <p><strong><em>Hypnotic Pattern (2/day).</em></strong> Ludmilla casts <em>hypnotic pattern</em> (DC 15).</p>
     <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
     <h3>Bonus Actions</h3>
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla is currently concentrating on a <em>grease</em> spell, she casts <em>web</em> without using concentration, targeting the same 20-foot-square area as the <em>grease</em> spell. The webs vanish when she loses her concentration on <em>grease.</em></p>
+    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
+    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla is currently concentrating on a <em>grease</em> spell, she casts <em>web</em> (DC 15) without using concentration, targeting the same 20-foot-square area as the <em>grease</em> spell. The webs vanish when she loses her concentration on <em>grease.</em></p>
     <h3>Reactions</h3>
     <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
     <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
     <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>3rd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-    <p><strong><em>Mage's Reprisal.</em></strong> In response to being targeted by a spell attack or forced to make a saving throw against a spell cast by a creature she can see within 150 feet, Ludmilla imposes disadvantage on the attack roll or gains advantage on her saving throw against it. If the attack misses or if she succeeds on the saving throw, Ludmilla can immediately force the attacker to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage on a failure.</p>
+    <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
     <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
 </div>
 
@@ -1401,7 +1409,7 @@ Strahd informs the players that these ancestors believed the Wall to offer visio
 
 If asked whether he has stepped into the Wall himself, Strahd nods. If asked what he sees within the Wall, he shares that he sees a "white fortress above a great city, with a church bell ringing through the fog." (This is a vision of Strahd's homeland, though he won't say so to the players.)
 
-Before giving the players their reward from winning Strahd's wager, Strahd asks them to complete one simple task: They must step into the Wall and view their deepest desires. "I will not ask what you see," Strahd promises. "A man's desires are his own."
+Before giving the players their reward from winning Strahd's wager, Strahd asks them to complete one simple task: They must step into the Wall and view their deepest desires. "I will not ask what you see," Strahd promises. "One's desires are their own."
 
 Strahd warns them, however, that many have become lost in the Whispering Wall, too entranced by its visions to depart. "It guides you forward, but you must leave under your own power," he says. "Remember: The way back will come but once."
 
@@ -1450,29 +1458,27 @@ When all players have either accepted or declined their gifts, Strahd mounts Beu
 The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
 
 <div class="description">
-<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrugs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
+<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
 </div>
 
 These megaliths demarcate the boundaries of the Forest Fane: the shrine to the Huntress of the Ladies Three.
 
 A large, cavernous hollow at the base of the Gulthias tree conceals a five-foot diameter stone of smooth, black onyx half-buried amidst the tree’s roots. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
 
-The stone is the door to a secret demiplane that contains the animating spirit of the Gulthias Tree, one of the three profane leeches that Strahd set to consume the energies of the Fanes. To open it, the players will need to cut its surface with the cursed dagger of Leo Dilisnya, which they can obtain from the sarcophagus of the Vampyr in the Amber Temple. See ***Arc U: The Amber Temple*** and ***Arc Y: The Ladies of the Fanes*** for more information about Leo Dilisnya’s dagger and the Swamp Fane.
-
 One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
-# J6. Return to the Winery
-## J6a. Kavan’s Tale
+# J7. Return to the Winery
+## J7a. Kavan’s Tale
 If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
 
 * Long ago, Kavan was a chieftain among the First Folk, whose people arrived in the valley long before Kavan’s own birth.
-* The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it.
+* The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
 
 Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 16 Charisma (Deception) check in order to successfully lie to Kavan.) 
 
 Whether the players have betrayed or wounded anyone or not, once he is satisfied that the players understand the weight of the crimes of betrayal and hubris, Kavan proceeds:
 
 * Nearly one thousand years ago, Kavan came to power as chieftain of his tribe. Arrogant and proud, he defied his people’s strictures and ventured forth into the Whispering Wall, a wall of thick fog said to hold the corpse of the Devourer—an ancient monster that the Ladies killed long before.
-* While within the Wall, Kavan learned terrible secrets—including the means by which he could steal the Huntress’s sacred spear from the Mountain Fane and claim its power for his own. Upon doing so, he waged war on the other tribes, reuniting them beneath his own banner. 
+* While within the Wall, Kavan learned terrible secrets—including the means by which he could steal the Huntress’s sacred spear from the Forest Fane and claim its power for his own. Upon doing so, he waged war on the other tribes, reuniting them beneath his own banner. 
 * The servants of the Seeker, a clan of **wereravens**, hid away the life-giving gems that blessed the Fanes to conceal them from his ambitions, and vanished into the wilderness. (Upon saying this, Kavan gives Muriel a long, meaningful look, though he cannot confirm whether she is spiritually descended from one of the original wereravens that served the Seeker.)
 * The druids of the First Folk condemned Kavan for his hubris, and retreated to the village of Soldav in the Balinok Mountains, their people’s most sacred site and the center of their faith. They named Kavan “enemy," and banished him from Soldav for his crimes. When he died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids buried him here, in a lonely cairn far from the graves of his forefathers. Kavan has been haunted by his isolation from his people as a result ever since his death.
 
@@ -1489,10 +1495,10 @@ If the players ask why Kavan withheld this information during their initial meet
 
 As the conversation comes to a close, Kavan informs the players that, while he cannot give it to them directly, he can tell them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." 
 
-Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains. (Kavan doesn’t know where to find the ruins of Dostron’s fortress, however.) Should they find it, however, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it in the sacred spring there and redeem his past mistakes.
+Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it in the sacred spring there and redeem his past mistakes.
 
 When the players depart, Kavan bids them farewell, offering: “Go with the blessings of the Ladies Three, if they still listen."
-## J6b. Returning the Gem
+## J7b. Returning the Gem
 If the players return the gem to Davian Martikov at the Wizard of Wines, he is deeply grateful, and warms to them considerably compared to his prior prickly demeanor. (He is, of course, still a grumpy old man at heart.)
 
 If asked, Davian now willingly shares the following information:
@@ -1535,6 +1541,15 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 >The agent departs after completing the requested task.
 
 > [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (miraculously undamaged) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki.
+> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (miraculously undamaged) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
+> 
+> Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 
 > While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
+
+> [!abstract]+ **News from Barovia**
+> If the players use the *Keeper's whistle* to seek news from the village of Barovia, they can receive the following information:
+> 
+> * The village is still recovering from Strahd's siege. If Bildrath lived, he has become something of a magnet for malcontents. More and more, however, the people of the village have been looking to Ismark, and—if Doru passed his trial successfully—Father Donavich for leadership.
+> * If Doru passed his trial, he is being reintroduced into the village and has deeply apologized to the families that lost loved ones as a consequence of his failed rebellion. Not all have accepted his apologies, and many are wary of his vampirism, but he appears to have mastered his bloodlust and is overcome with remorse.
+> * The departure of the refugees and casualties of the siege have left the town hollowed out, with many businesses no longer in existence and those that survived struggling to make do with far fewer customers. Overall, the process of rebuilding has been a difficult one, but many families whose houses were damaged or destroyed have been able to relocate into the surplus homes still standing. 
