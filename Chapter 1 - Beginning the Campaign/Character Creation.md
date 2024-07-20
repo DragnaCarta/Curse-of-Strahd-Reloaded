@@ -237,7 +237,7 @@ Unbeknownst to the player, the visage stamped upon the *electrum coin* is the fa
 
 The player who possesses the *electrum coin* should have strong, vivid reasons to believe that the coin first came from a wondrous vault of treasure—a conqueror's hoard—and that, one day, it will lead them to claim riches beyond imagining.
 
-***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Arc C - Into the Valley]], Sir Godfrey Gwilym in **Act IV, Arc O: The Beacon of Argynvostholt**, or Kasimir Velikov in **Act V, Arc U: The Amber Temple**, they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
+***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Act I - Into the Mists/Arc C - Into the Valley]], Sir Godfrey Gwilym in **Act IV, Arc O: The Beacon of Argynvostholt**, or Kasimir Velikov in **Act V, Arc U: The Amber Temple**, they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
 
 When the player first approaches Strahd's treasury, the coin lands on its edge and rolls as far as it can toward the treasury's entrance, in the same way that it did upon sensing Death House.
 ## Healing—The Wolf's Tooth
@@ -257,7 +257,7 @@ Unbeknownst to the player, the feather once belonged to the **roc** of Mount Gha
 
 The player who possesses the *raven's feather* should have strong, vivid reasons to believe that the feather will always guide them to those who need aid, protection, and comfort.
 
-***Developments.*** If the player shows the *raven's feather* to Madam Eva in [[Arc C - Into the Valley]], she inspects it reverently and returns it to the player, claiming mysteriously that she once knew the bird that shed it.  If the player shows the feather to Urwin Martikov, Danika Dorakova, Muriel Vinshaw, or any other member of the Keepers of the Feather, that member grows warmer and friendlier toward that player. 
+***Developments.*** If the player shows the *raven's feather* to Madam Eva in [[Act I - Into the Mists/Arc C - Into the Valley]], she inspects it reverently and returns it to the player, claiming mysteriously that she once knew the bird that shed it.  If the player shows the feather to Urwin Martikov, Danika Dorakova, Muriel Vinshaw, or any other member of the Keepers of the Feather, that member grows warmer and friendlier toward that player. 
 
 When the player first enters the circle of standing stones at the Mountain Fane in **Act V, Arc W: The Ladies of the Fanes**, the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
 ## Power—The Crumpled Page
@@ -279,7 +279,7 @@ The player who possesses the *tattered banner* should have strong, vivid reasons
 
 ***Developments.*** When the player first experiences the haunted battlefield north of Berez in **Act V, Arc T: Baba Lysaga's Revenge** or **Act V, Arc W: The Ladies of the Fanes**, the banner flaps in the wind, which echoes with the sound of war-drums. 
 
-If the player shows the banner to the revenant at Tser Falls in [[Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in **Act IV, Arc O: The Beacon of Argynvostholt**, or Kasimir Velikov in either **Act V, Arc U: The Amber Temple** or **Act IV, Arc M: Strahd's Enemy**, its appearance is met with revulsion and bitter disgust. 
+If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in **Act IV, Arc O: The Beacon of Argynvostholt**, or Kasimir Velikov in either **Act V, Arc U: The Amber Temple** or **Act IV, Arc M: Strahd's Enemy**, its appearance is met with revulsion and bitter disgust. 
 
 If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of Castle Ravenloft.
 ## Faith—The Sunrise Medallion

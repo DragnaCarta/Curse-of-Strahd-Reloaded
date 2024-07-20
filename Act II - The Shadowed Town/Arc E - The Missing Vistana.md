@@ -16,7 +16,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 
 > [!lore]+ **Strahd’s Bounty**
 >
-> When Strahd received Madam Eva’s [[Arc C - Into the Valley#C8. Black Carriage|most recent fortelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
+> When Strahd received Madam Eva’s [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|most recent fortelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
@@ -58,7 +58,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 # E1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
-After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
+After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
 > [!profile]+ **Profile: Gadof Blinsky**
 >
@@ -81,9 +81,9 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Dolls, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time. 
+If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Dolls, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
-If the players ask Blinsky about Piccolo, he can inform them that he received the monkey the day the players arrived in town from Rictavio, a traveling ringmaster who recently arrived in Vallaki.
+If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
 As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
 # E2. Vistani Camp
@@ -148,7 +148,7 @@ If the players do not respond first, Luvash hails them warily and—leaning back
 
 Luvash can share the following information with the players:
 
-* Three days before the players’ arrival in Vallaki, Luvash’s nephew, Alexei, was tasked with watching Arabelle play in the nearby woods while Luvash mediated a dispute between two Vistani families.
+* One day before the players’ arrival in Vallaki, Luvash’s nephew, Alexei, was tasked with watching Arabelle play in the nearby woods while Luvash mediated a dispute between two Vistani families.
 * Instead of watching Arabelle, Alexei got drunk on wine. When he woke up, Arabelle was gone.
 * Alexei claims that Yan, a long-time member of the encampment, gave him the wine and had vanished when Alexei awoke.
 * Luvash led the search for Arabelle, joining more than a dozen Vistani and nearly that many dusk elf scouts from the hovels below the hill. Luvash himself had to return to the encampment after his right leg was caught in a wolf trap, leaving him too wounded to walk.
@@ -223,7 +223,7 @@ If the players ask Kasimir about his injuries, he claims that he had been hiking
 If the players ask Kasimir about the history of the dusk elves, Kasimir shares the following tale:
 
 <div class="description">
-<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the Von Zarovich clan rose like a shadow across the land.</p>
+<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
 <p>It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.</p>
 <p>Barov's conquest was swift and brutal. His forces, joined by Rahadin, my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw Rahadin shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
 <p>Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.</p>
@@ -279,6 +279,11 @@ The NPCs in the mansion behave as follows:
 * Victor Vallakovich can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
 * Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
 * Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
+
+> [!abstract]+ **Banishment from Vallaki**
+> If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken on the western side of the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
+> 
+> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in <span class="citation">N3m. Locked Closet (p. 107)</span>, near the chained Udo Lukovich.
 ## E3b. Searching the Library
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3l.</em></span>
 
@@ -316,7 +321,7 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 
 > [!lore]+ **Ethereal Entities**
 >
-> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
+> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations. Players who ask Victor to allow them to read the book, or who otherwise obtain it, can learn the following:
 >
 > The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
 >
@@ -504,7 +509,7 @@ If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they r
 **Double-Barreled Traps.** The vials of alchemists fire have been removed from the wagon's interior. Instead, if a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door:
 
 * ***Silver Barbed Net***: *Ranged Weapon Attack:* +8 to hit. *Hit:* 5 (2d4) piercing damage and the target is restrained until it is freed. The target can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach on a success. A creature that attempts to do so must also succeed on a DC 15 Dexterity saving throw or take 5 (2d4) piercing damage in the process. Dealing 15 slashing damage to the net (AC 15) also frees the creature without harming it, ending the effect and destroying the net.
-* ***Bottle of Concentrated Alchemist's Fire***. *Ranged Weapon Attack:* +8 to hit. *Hit:* 21 (6d6) fire damage. On a hit, the target is also set ablaze and takes the damage again at the start of each of its turns until the first is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
+* ***Bottle of Concentrated Alchemist's Fire***. *Ranged Weapon Attack:* +8 to hit. *Hit:* 21 (6d6) fire damage. On a hit, the target is also set ablaze and takes the damage again at the start of each of its turns until the fire is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
 
 **Ezmerelda's Belongings.** If the players successfully enter Ezmerelda’s wagon, it does not contain the burned page of Van Richten’s journal. In addition, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
 
@@ -518,7 +523,7 @@ If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they r
 If the players enter the wagon by means of the door instead of the trapdoor, Ezmerelda's chicken squawks angrily at them until they depart.
 
 > [!abstract]+ **Eggsmerelda**
-> If spoken to through the use of a *speak with animals* spell, the chicken introduces herself proudly as Eggsmerelda, the pet of the "legendary monster hunter" Ezmerelda d'Avenir, who Eggsmerelda vows will seek vengeance upon the players for breaking into her wagon. 
+> If spoken to through the use of a *speak with animals* spell, the chicken introduces herself proudly as Eggsmerelda,^[Credit to Lyric42 for coining the name "Eggsmerelda."] the pet of the "legendary monster hunter" Ezmerelda d'Avenir, who Eggsmerelda vows will seek vengeance upon the players for breaking into her wagon.
 > 
 > If treated with kindness and provided with a proper apology, Eggsmerelda can share that she doesn't know where Ezmerelda is currently, and that Ezmerelda is currently "looking for something" in the woods, though she hopes that Ezmerelda will return soon. (Eggsmerelda, whose cage contains close and plentiful access to a bag of seeds and a bowl of water, is at no risk of going hungry or thirsty while Ezmerelda is away.)
 ## E6b. The Tower
@@ -648,7 +653,7 @@ If read, the burned journal page now reads only as follows:
 <p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.</p>
 </div>
 
-The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Arc B - Welcome to Barovia#Settling In|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
+The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Act I - Into the Mists/Arc B - Welcome to Barovia#Settling In|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Act I - Into the Mists/Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
@@ -742,7 +747,7 @@ In battle, the werewolves prioritize players wielding silvered weapons, if any. 
 The players experience no other encounters on their journey to Vallaki.
 
 > [!info]+ **The Curse of Lycanthropy**
-> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Arc C - Into the Valley#C11. The Werewolf's Hunt|Arc C - Into the Valley]] for more information about the curse.
+> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolf's Hunt|Arc C - Into the Valley]] for more information about the curse.
 # E8. Return to Vallaki
 The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
 
@@ -775,7 +780,7 @@ If the players ask Van Richten about his arrival in Barovia or the revolt agains
 * His plans were foiled when an undead dire wolf attacked a trio of Barovia children, and the resulting battle revealed his identity to the onlooking Doru.
 * Doru blackmailed Van Richten into leading a full-scale revolt on the castle, threatening to bring an untrained mob to Ravenloft’s doors if Van Richten didn’t lead them there. Van Richten, fearful that such a mob could awaken Strahd and destroy his own plans, reluctantly agreed.
 * Shortly after entering the castle, however, they were betrayed. Escher, Doru’s “lieutenant,” vanished from the group as they explored the catacombs. Not long thereafter, the mob found Strahd’s coffin empty—and Strahd himself attacked shortly thereafter. Van Richten fled, knowing from his long studies of Strahd that victory was impossible. 
-* Upon escaping Castle Ravenloft and recovering his horse, Van Richten began the journey to warn the Barovians of the vampire’s awakening. However, he was stopped by the Vistani seer Madam Eva, who warned him: “The message you bring shall be born by another. Should you return to the village while light lingers in the valley, you shall surely meet your grave.” 
+* Upon escaping Castle Ravenloft and recovering his horse, Van Richten began the journey to warn the Barovians of the vampire’s awakening. However, he was stopped by the Vistani seer Madam Eva, who warned him: “The message you bring shall be borne by another. Should you return to the village while light lingers in the valley, you shall surely meet your grave.” 
 * Knowing full well of Eva’s reputation, Van Richten reluctantly set forth for Lake Baratok instead, weeping bitter tears for the sons and daughters of Barovia. 
 
 If the players demand it, Van Richten agrees to bring them to his wagon at Arasek Stockyard to see Arabelle for themselves. Proceed to [[#E8b. Following Rictavio]] below.
@@ -820,6 +825,8 @@ As the conversation draws to a close, [[Non-Player Characters#Arrigal|Arrigal]] 
 
 Arrigal is ignorant of Strahd’s bounty on Arabelle and truthfully shares this if asked, finding the notion preposterous. If asked whether he would give Arabelle up to Strahd if commanded, he fiercely and truthfully rejects that he would ever do such a thing.
 
+As the conversation unfolds, Arrigal makes clear his belief that Van Richten has kidnapped Arabelle for nefarious purposes. Although Arabelle protests Arrigal's accusations, Arrigal replies, "Hush, girl—it is clear this man has deceived you. I cannot speak to what nefarious plans he had for you, but he has clearly preyed upon your naivete. You will return to camp with me at once."
+
 If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in <span>V7. Tower, Fourth Floor (p. 171)</span>. He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
 
 > [!item]+ **Talisman of Echoes**
@@ -844,7 +851,7 @@ Yan might also reveal the following information if asked using one of the player
 * Yan didn't know what Escher or Strahd planned to do with Arabelle.
 * Yan received his orders at dusk on the day before the players first arrived in Vallaki (i.e., on the same day the players received their Tarokka reading and first encountered Strahd).
 
-If Yan reveals his loyalty to Strahd and his instructions to kidnap Arabelle, Arrigal is shaken, but not entirely convinced—until Arabelle speaks up to confirm Van Richten’s story, calmly reporting that Yan kidnapped her, that Van Richten rescued her, and that she overheard Yan asking another man whether “the lord” would pay his debts in exchange for the “whelp’s delivery” before hearing the exchanging of coins shortly thereafter.
+If Yan reveals his loyalty to Strahd and his instructions to kidnap Arabelle, Arrigal is shaken, but not entirely convinced—until Arabelle speaks up to confirm Van Richten’s story, calmly reporting that Yan kidnapped her, Van Richten rescued her, and she overheard Yan asking another man whether “the lord” would pay his debts in exchange for the “whelp’s delivery” before hearing the exchanging of coins shortly thereafter.
 ### Brokering an Agreement
 Van Richten is unwilling to allow Arrigal to take Arabelle back to the Vistani encampment. However, Arrigal is unwilling to allow Van Richten to keep Arabelle hidden in Vallaki, away from her family. It is up to the players to broker an agreement between them.
 
@@ -893,6 +900,8 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 >
 > To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
 
+> [!abstract]+ **Inspecting Ireena**
+> If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.") Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
 # Design Notes: The Missing Vistana
 The original module's quest to rescue Arabelle provides the players with no clear motive for her kidnapping, no real reason to find her, and no clear clues to follow in order to do so. The original module also provides Dr. Rudolph van Richten with no clear purpose while in Vallaki, introducing him as little more than a murderous pseudo-antagonist who wishes to commit mass homicide against the Vistani of the nearby encampment with a vague (though undeveloped) interest in investigating the Keepers of the Feather.
 
@@ -938,9 +947,9 @@ The lightning sheath from the original module has been intentionally removed and
 
 The paint-stained lily pads have been added to provide additional clues regarding Rictavio's connection to the tower, as has the burned sign for *Rictavio's Carnival of Wonders*. The beaded bracelet and Tarokka card have been added to confirm Arabelle's presence in the tower, and to suggest that Rictavio is not all that he seems.
 
-Van Richten's journal page has been slightly modified and extended to include his history with Arturi Radanavich, which explains why he no longer views the Vistani as his enemies and explains why he is willing to serve as Arabelle's protector (because his curse has been lifted). The journal also introduces the character of Erasmus van Richten, who will serve a more significant role in [[Arc H - The Lost Soul]].
+Van Richten's journal page introduces the character of Erasmus van Richten, who will serve a more significant role in [[Arc H - The Lost Soul]].
 
-***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[Arc O - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[Arc H - The Lost Soul]].
+***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[Arc H - The Lost Soul]].
 
 ***Return to Vallaki.*** Van Richten's **saber-toothed tiger** has been removed from his wagon because it no longer serves a purpose in the absence of his homicidal plan to kill the Vistani, because he would have had no place to store it during his time as "Alanik" in the village of Barovia before Strahd awoke, and because it is far more overt and uncontrollable a weapon than his cautious and prudent characterization would reasonably allow.
 

@@ -86,7 +86,7 @@ Strahd believes fully in the “survival of the fittest” and expects to see th
 ## Escaping the Mists
 With Madam Eva’s reluctant guidance, Strahd has learned that the Grand Conjunction—a time when the barriers between worlds will be thinned, and the energies of the stars aligned—is a prime opportunity to free himself from the Dark Powers’ prison. 
 
-To this end, Strahd has crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. This ritual has three necessary components: a power source, a control mechanism, and a catalyst.
+To this end, Strahd has crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. This ritual has four necessary components: a power source, a control mechanism, a catalyst, and a sacrifice.
 
 ***The Power Source.*** Strahd’s plan requires a substantial amount of power—far more than he can supply himself. So long as he remains bonded to the Fanes of Barovia, however, he can channel their power directly into the Heart of Sorrow for use in the ritual. 
 
@@ -100,7 +100,11 @@ Should this plot fail, Strahd must instead journey to the Whispering Wall at Yes
 
 The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs.
 
-By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exceptions include Ireena Kolyana and Dr. Rudolph van Richten, who Strahd will allow to keep their souls for his own purposes.
+By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exception includes Ireena Kolyana, who Strahd will allow to keep her soul for his own purposes.
+
+***The Sacrifice.*** The schemes of the Dark Powers command that a Darklord must always sit upon the throne of Castle Ravenloft. To escape their clutches, Strahd must find a suitable replacement—an individual whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as Strahd makes his escape. 
+
+Strahd's chamberlain and adoptive brother, Rahadin, has willingly offered himself as a worthy replacement. However, should Strahd find another suitable candidate, he would leap at the opportunity to retain Rahadin's services as a general for his armies.
 
 ***Plans Within Plans.*** If the players reconsecrate the Fanes, Strahd quickly devises a backup plan. By becoming the champions of the Fanes, the players will unknowingly have made themselves into conduits for their power, allowing Strahd to access the Fanes’ energies if he can lure the players to Castle Ravenloft. 
 
@@ -119,6 +123,9 @@ Strahd commands a vast host of beasts, undead, and other minions, which he can d
 * ***The witches’ coven*** that dwells in Castle Ravenloft
 
 However, Strahd **always faces the final battle alone.** Whether by pride, fate, or mere coincidence, this fight is his to win—or lose.
+
+> [!info]+ **Strahd's Spawn**
+> Strahd's **vampire spawn**, as noted in <span class="citation">Vampire Spawn (Monster Manual, p. 298)</span>, are bound by two compulsions: their hunger for blood, and the need to obey any command Strahd gives them. Only the strongest-willed spawn can master their need for blood, but no spawn can ignore one of Strahd's direct orders. Even so, while all of Strahd's spawn are bound to obey the letter of his commands, intelligent and willful spawn may find opportunities to disobey their spirit.
 # Strahd’s Tactics
 Even in combat, Strahd is no ordinary foe. Like several of the enemies encountered in this adventure, he uses a **multi-phase statblock** in battle. Strahd’s statistics work as follows:
 ### Phases
@@ -128,7 +135,7 @@ Strahd can choose which phase he begins in when rolling initiative. By default, 
 
 When outside of combat, Strahd can:
 
-* switch into his Solder phase by drawing his longsword and extinguishing his focus;
+* switch into his Soldier phase by drawing his longsword and extinguishing his focus;
 * switch into his Mage phase by lighting his focus (his cloak's ruby clasp) and stowing his longsword;
 * switch into his Vampire phase by stowing his longsword and extinguishing his focus.
 ### Phase Transitions
@@ -225,15 +232,15 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 1/day: scrying</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Strahd uses <strong><em>vampiric touch</em></strong> twice, or <strong><em>vampiric touch</em></strong> and <strong><em>telekinetic grasp</em></strong> once each.</p>
-<p><strong><em>Vampiric Touch.</em></strong> Strahd casts or attacks with <em>vampiric touch</em>. A creature hit by an attack made with this spell must make a <span class="highlight">DC 19 Constitution saving throw</span> or be <span class="highlight">dazed</span> until the start of Strahd’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Vampiric Touch.</em></strong> Strahd casts or attacks with <em>vampiric touch</em> (+11 to hit). A creature hit by an attack made with this spell must make a <span class="highlight">DC 19 Constitution saving throw</span> or be <span class="highlight">dazed</span> until the start of Strahd’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Telekinetic Grasp.</em></strong> <em>2nd-level transmutation</em>, range 60 feet, components V S M, 1 round. <em>Effect:</em> Strahd exerts his will on one creature that he can see within <span class="highlight">60 feet</span> and forces it to make a <span class="highlight">DC 19 Strength saving throw</span>. On a failure, that creature rises vertically, up to 20 feet, and remains suspended there until the start of Strahd’s next turn. That creature also takes <span class="highlight">7 (2d6) necrotic damage</span> and is <span class="highlight">restrained</span> until the end of Strahd’s next turn. When the effect ends, the target falls to the ground if it is still aloft.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Circle of Sickness.</em></strong> <em>3rd-level necromancy</em>, self, components V S M, instantaneous. <em>Effect:</em> A sphere of negative energy bursts from Strahd. Each creature within 10 feet of Strahd must make a <span class="highlight">DC 19 Constitution saving throw</span>. On a failure, a creature takes <span class="highlight">28 (8d6) necrotic damage</span> and gains <span>disadvantage</span> on its next attack roll made before the end of its next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p>
-<p><strong><em>Lightning Bolt.</em></strong> Strahd casts <em>lightning bolt</em>.</p>
+<p><strong><em>Lightning Bolt.</em></strong> Strahd casts <em>lightning bolt</em> (DC 19).</p>
 <h3>Reactions</h3>
 <p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Misty Step.</em></strong> In response to taking damage, Strahd casts <em>misty step</em>.</p>
-<p><strong><em>Blindness/Deafness.</em></strong> In response to taking damage from a melee attack, Strahd casts <em>blindness/deafness</em> against the attacker. A creature that fails its saving throw against the spell takes an additional <span class="highlight">7 (2d6) necrotic damage</span>.</p>
+<p><strong><em>Blindness/Deafness.</em></strong> In response to taking damage from a melee attack, Strahd casts <em>blindness/deafness</em> (DC 19) against the attacker. A creature that fails its saving throw against the spell takes an additional <span class="highlight">7 (2d6) necrotic damage</span>.</p>
 <h3>Lair Actions</h3>
 <p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p>
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>

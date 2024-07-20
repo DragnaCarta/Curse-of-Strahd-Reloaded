@@ -11,7 +11,7 @@ Should the players succeed in retrieving Emil from the dungeons, he asks the pla
 The players can locate the werewolves’ den in one of two ways:
 
 * They can recruit the monster hunter Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]]. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
-* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Arc C - Into the Valley]] or [[Arc E - The Missing Vistana]] to lead them to the den.
+* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Act I - Into the Mists/Arc C - Into the Valley]] or [[Arc E - The Missing Vistana]] to lead them to the den.
 
 In the former case, before she leads the players to the den, Ezmerelda proposes the following plan:
 
@@ -28,7 +28,7 @@ Each player with a passive Wisdom (Perception) score of 12 or higher then notice
 As the players approach the source of the music, they can hear the following three stanzas of a haunting lament.
 
 > [!info]+ **Bianca’s Lament**
-> Bianca’s song can be sung to the melody of *Orpheus’s Lament* from the video game *Hades*.
+> Bianca’s song can be sung to the melody of *Lament of Orpheus* from the video game *Hades*.
 
 <div class="description" style="text-align: center;">
 <p>Hear, O stars, my yearning plea,
@@ -77,6 +77,9 @@ If the players allow Bianca to finish, her song concludes:
 
 Whether the players interrupt her or allow her to finish, Bianca greets them with some surprise and warmth and asks whether they’re the owners of the wagon beside the tower.
 
+![[Bianca Stoyanovich.png]]
+<span class="credit">"Bianca Stoyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!profile]+ **Profile: Bianca Stoyanovich**
 > **Roleplaying Information**
 > ***Resonance.*** When the players first meet her, Bianca should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
@@ -112,9 +115,21 @@ If the players ask about Bianca's husband, she is willing to share the following
 
 If the players express an interest in doing so, Bianca requests their counsel, asking what they would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice they might lend, and thanks them sincerely for doing so. (Bianca isn't willing to lead the players to meet Kiril, but assures them that she'll seek them out if she's unable to quell his anger on her own.)
 
-Bianca is happy to relinquish the perfume and scrolls, but asks, in a heartfelt and mournful request, that she be allowed to keep the lyre. “It’s been so long since I’ve been able to play real music," she pleads. If the players allow her to do so, she is deeply grateful.
+Bianca is happy to relinquish the perfume and scrolls, but asks, in a heartfelt and mournful request, that she be allowed to keep the lyre. “It’s been so long since I’ve been able to play real music," she pleads. If the players allow her to do so, she is deeply grateful. (If Ezmerelda is with the party, she waits for the players to respond. If the players ask her to decide, she doesn't mind relinquishing the lyre unless the party has shown a reluctance to trust Bianca.)
 
-Whether the players allow her to keep the lyre or not, she bids them farewell and departs for the northern path away from the lake, vanishing into the trees shortly thereafter.
+Whether the players allow her to keep the lyre or not, Bianca bids them farewell and departs for the northern path away from the lake, vanishing into the trees shortly thereafter.
+
+> [!abstract]+ **Bianca's Secret**
+> If suspicious players determine that Bianca is a threat, she can be persuaded to reveal her true nature as a **werewolf** with a successful DC 15 Charisma (Intimidation) check, provided the players provide sufficient assurances of her safety if she does. 
+> 
+> If the players attack Bianca, she pleads for their mercy and honestly assures them that she means them no harm. If refused, she attempts to flee, first in her humanoid form, then in her **wolf** form as soon as she reaches the tree line.
+> 
+> Players who convince Bianca to reveal her true lycanthropic nature can convince her to share the following information about the werewolf den with a successful DC 20 Charisma (Intimidation) check:
+> * The pack is led by Kiril, her husband and a powerful **werewolf**, who seized power when the old leader stepped down.
+> * Prisoners are kept in Mother Night's shrine, which lies toward the rear of the cave.
+> * When the pack leaves to hunt, only Bianca and Skennis, the pack's old leader, remain behind. (Bianca has little desire to see Kiril transformed following his deals with the "swamp witch" of Berez.)
+> 
+> Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Charisma (Persuasion) check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Charisma (Persuasion) check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
 
 > [!lore]+ **Bianca’s Fall**
 > Thirteen years ago, Bianca—a twenty-one-year-old **noble**—fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents’ wishes, she fled from her life of privilege and wealth and became Kiril’s wife, living with him in a small, humble cottage in the nearby woods. They were poor, but happy—or so Bianca thought.
@@ -162,7 +177,7 @@ The campfire produces no smoke, and its light does not extend beyond the edges o
 >
 > This finely crafted set of flint and steel bears small runes etched along the sides of both pieces. When the set is used to ignite a combustible material, the resulting flame sheds bright light in a 10-foot radius, sheds no dim light, and produces no smoke. While within thirty feet of a flame created in this way, the user can speak a command word to instantly extinguish the flame.
 
-Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. (If the party doesn’t suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
+Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. If the players don't suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
 ### L3a. Campfire Tales
 As night falls, Ezmerelda invites the players and Ireena to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
 
@@ -186,7 +201,7 @@ If asked, Ezmerelda can share that the Radanaviches sold Van Richten’s son—a
 <div class="description">
 <p>"It was a year after I'd parted ways with Dr. Van Richten, and I felt as though no monster could challenge me. That's when I heard whispers of a beast known as the Black Terror—a werewolf that was the bane of several villages skirting the dark forests of Darkon. I vowed to track it and put an end to its reign of terror.</p>
 <p>"It took many nights of investigation and research, but I finally caught sight of the beast at the edge of a shadowed swamp, its fangs stained red with the blood of its latest meal. My heart raced as I watched it slip into the mists—no ordinary fog, but the veil that shrouds the worlds themselves—and I knew that if I failed to pursue it, I might be forced to begin my hunt anew.</p>
-<p>In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.</p>
+<p>In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.</p>
 <p>In that moment, I knew I would die, alone and powerless—until Dmitri and Anna emerged from the woods, cold silver flashing in their hands. The werewolf fled, and the Krezkovs brought me back to their home, where they nursed me back to health. When I recovered, they took me to Vallaki and commissioned the local toymaker, a brilliant man called Blinsky, to craft me a new leg. To this day, this leg reminds me of the importance of caution—and the dangers of unchecked zeal.</p>
 </div>
 
@@ -194,7 +209,13 @@ When her story ends, Ezmerelda gazes into the flames. "I owe the Krezkovs a debt
 
 Ezmerelda isn’t sure whether the Black Terror still lingers in Barovia. “I very nearly hope he does," she says, a wry smile on her lips. Her grip tightens around her silvered handaxe. “I have a gift I’d like to give him."
 # L4. Werewolf Den
-The exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
+One hour after nightfall, the werewolf pack departs the den. Read:
+
+<div class="description">
+<p>The night stirs as several large, dark shapes emerge from beneath the mountain crags. The pack turns north, then east, loping along the shoreline of Lake Baratok until its members vanish into the dark, clustered trees of the Svalich Wood.</p>
+</div>
+
+As the players approach, the exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
 
 <div class="description">
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
@@ -211,14 +232,14 @@ This area is largely as described in <span class="citation">Z1. Cave Mouth (p. 2
 
 <div class="description">
 <p>The open jaws of the wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock. The ceiling rises to a height of twenty feet inside the cave. Small clusters of amber light dot the walls, casting a faint glow across the cavern floor.</p>
-<p>Up ahead stands an empty five-foot-high ledge. The cave splits to the left and right around it. You can hear the faint sound of trickling water echoing from the right-side passage<p>
+<p>Up ahead stands an empty five-foot-high ledge. The cave splits to the left and right around it. You can hear the faint sound of trickling water echoing from the right-side passage.<p>
 </div>
 
 Before proceeding, Ezmerelda suggests posting a guard to keep watch, should the werewolf pack return early. (She isn’t sure if there’s another exit from the cavern, and hopes to avoid being cornered.) 
 
 If the players use the *Keeper’s Whistle* to summon a **wereraven** guard, a gregarious **wereraven** named Stefan Zalenski appears two minutes thereafter and agrees to keep watch.
 
-If the players don’t think to summon a **wereraven** using the *Keeper’s Whistle*, Ireena volunteers to keep watch, producing a nightingale’s trilling whisper to alert the party if anything approaches. (If she does, Ezmerelda casts *darkvision* to grant Ireena darkvision for the following eight hours.
+If the players don’t think to summon a **wereraven** using the *Keeper’s Whistle*, Ireena volunteers to keep watch, producing a nightingale’s trilling whisper to alert the party if anything approaches. (If she does, Ezmerelda casts *darkvision* to grant Ireena darkvision for the following eight hours.)
 ## L4b. Underground Spring
 <span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
 
@@ -233,7 +254,7 @@ Additionally, if the players linger or delve deeper into this chamber, read:
 A creature that approaches the pool sees its reflection distorted. Instead of its own reflection, the creature sees a monstrous image that reflects its worst impulses, urges, and desires. For example:
 
 * Ezmerelda sees her own reflection, but with black sclera and golden irises, predatory canines, and oily black fur covering her skin, with a terrible snarl splitting her face (literally) from ear to ear. (This image reflects Ezmerelda’s hatred of monsters, and her subconscious fear that her protective nature will turn to cruelty and zealotry.)
-* Ireena sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate..
+* Ireena sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.
 ## L4c. Wolf Den
 <span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
 
@@ -292,6 +313,14 @@ This area is largely as described in <span class="citation">Z7. Shrine of Mother
 
 The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a fourteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
 
+Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s Bedroom|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
+
+![[Ilya Krezkov.png]]
+
+![[Zuleika Toranscu.png]]
+
+<span class="credit">"Ilya Krezkov" and "Zuleika Toranescu" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!lore]+ **Kiril’s Prisoners**
 > ***Zuleika.*** When Kiril usurped Emil’s position as leader of the werewolf pack, an enraged Zuleika attacked him. Kiril easily dispatched her, however, and locked her away in Mother Night’s shrine as punishment. Kiril also took Zuleika’s holy symbol—a carved wooden crescent strung from a leather-corded necklace—to prevent her from calling on Mother Night’s power to escape. 
 >
@@ -302,18 +331,18 @@ The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a fo
 > Upon learning that Ilya was Zuleika’s nephew, Kiril crafted a cruel plan. He imprisoned Ilya in a collar and cage and began to starve him of food, as he had Skennis and Zuleika. Eventually, Kiril knew, Ilya would have no choice but to consume the human flesh that had been left by his cage—and, when Ilya was ready, kill and devour a human captive, thereby embracing his curse the same way Kiril had.
 
 > [!item]+ **Silverthorn Collar**
-> Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by Baba Lysaga, the swamp witch of Berez. While worn by a lycanthrope, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
+> Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by Baba Lysaga, the swamp witch of Berez. While worn by a lycanthrope, the lycanthrope can't regenerate. In addition, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
 >
-> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, attempts to disconnect a collar from its chain, or attempts to remove the chain from the stone wall, that creature must make a Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
+> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, attempts to disconnect a collar from its chain, or attempts to remove the chain from the stone wall, that creature must make a DC 17 Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
-> The spells *dispel magic* and *knock* have no effect on either collar.
+> The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
 
 When the two prisoners first notice the players, Ilya presses himself against the back of his cage, clearly terrified, while Zuleika watches quietly. Ilya demands to know who the players are and whether they’re members of the werewolf pack.
 
 If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
 
-* He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, is relieved to hear this, and horrified to see his current condition.)
-* He was kidnapped by a werewolf and taken here as a prisoner. (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
+* He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
+* He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
 
 If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."
 
@@ -363,27 +392,35 @@ If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or 
 > Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Wisdom saving throw or be incapacitated until it releases the item.
 >
 > While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 25 Constitution saving throw at the end of each turn it remains incapacitated, taking 8d8 necrotic damage on a failure or half as much on a success.
+> 
+> A cleric of Mother Night can grant a creature permission to take an item from the shrine. However, this permission has no effect if the cleric is being manipulated or coerced.
 
-As a priestess of Mother Night, Zuleika alone may grant a creature permission to take an item from the shrine. She is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of Castle Ravenloft and help him reclaim his position as packleader from Kiril. 
+Zuleika is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of Castle Ravenloft and help him reclaim his position as packleader from Kiril. 
 
 Zuleika warns the players that, should they fail to keep their oath by the moon's first light after the next new moon, their vitality and strength will sap each night that their oath remains unfulfilled. (See **Oath of the New Moon** below for details.)
 
 > [!info]+ **Oath of the New Moon**
 > Zuleika is willing to allow the players to take the *Holy Symbol of Ravenkind* only if all of them, including any NPC companions, swear the Oath of the New Moon before the statue of Mother Night.
 > 
-> The next new moon takes place on Neyavr 14th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 15th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.)
+> The next new moon takes place on Neyavr 14th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 15th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.) 
+> 
+> A cleric of Mother Night, including Zuleika, can use their action to release a character from their oath and remove any penalties they've suffered for failing to fulfill it. (Zuleika won't do so unless the players free Emil from Castle Ravenloft.) This action has no effect if the cleric is being manipulated or coerced.
 
 If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ravenkind*, it has been revised as follows:
 
-<div class="item">
-<h3>Holy Symbol of Ravenkind</h3>
-<div class="subtitle"><em>Wondrous item, legendary (requires attunement by a creature of good alignment)</em></div>
-<p>The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.</p>
-<p><strong><em>Dawn's Embrace.</em></strong> As a reaction, when a creature you can see within 60 feet of you would be reduced to 0 hit points, you can expend 1 charge to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.</p>
-<p><strong><em>Light of Hope.</em></strong> As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.</p>
-<p><strong><em>Sun’s Blessing.</em></strong> As an action, you can expend 3 charges to cause holy power to radiate from the symbol in a 30-foot radius for 1 minute. Nonhostile creatures in that radius deal an extra 1d4 radiant damage when they hit with a weapon attack.</p>
-<p>You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.</p>
-</div>
+> [!item]+ **Holy Symbol of Ravenkind**
+> 
+> *Wondrous item, legendary (requires attunement by a creature of good alignment)*
+> 
+> The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
+> 
+> **_Dawn's Embrace._** As a reaction, when a creature you can see within 60 feet of you would be reduced to 0 hit points, you can expend 1 charge to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
+> 
+> **_Light of Hope._** As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
+> 
+> **_Sun’s Blessing._** As an action, you can expend 2 charges to cause holy power to radiate from the symbol in a 30-foot radius for 1 minute. Nonhostile creatures in that radius deal an extra 1d4 radiant damage when they hit with a weapon attack.
+> 
+> You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
 ### Bianca’s Return
 Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
 

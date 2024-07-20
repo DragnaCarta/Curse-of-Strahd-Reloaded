@@ -2,7 +2,7 @@ In this act, which begins the morning after the players’ first full moon in Va
 
 The first, a plea from Urwin Martikov, asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[Arc J - The Stolen Gem]].
 
-The second, a letter from Strahd von Zarovich himself, invites the players to dine at Castle Ravenloft with him and his court on the night of the new moon in six days’ time in [[Arc O - Dinner with the Devil]].
+The second, a letter from Strahd von Zarovich himself, invites the players to dine at Castle Ravenloft with him and his court on the night before the new moon in [[Arc O - Dinner with the Devil]].
 
 Should the players accept the Martikovs’ mission in [[Arc J - The Stolen Gem]], they gain two companions for the journey: Muriel Vinshaw, a **wereraven** agent of the Keepers of the Feather; and Ireena Kolyana, who asks to join the players permanently in the fight against Strahd. The players must rescue the winery from the Forest Folk **druids** who have conquered it and, once they have done so, retrieve an enchanted gem from Yester Hill to the south before the Wizard of Wines falls to destruction.
 
@@ -21,11 +21,10 @@ The players begin this act at 5th level and should end it at 8th level, gaining 
 * defeat the druids occupying the Wizard of Wines winery (2,000 XP)
 * retrieve the stolen gem from Yester Hill (2,500 XP)
 * recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,250 XP)
-* bargain with Zuleika Toranescu at the Werewolf Den (1,500 XP)
-* receive Argynvost’s mission at Argynvostholt (2,000 XP)
-* lift Rudolph van Richten’s curse (2,000 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (1,000 XP)
-* return from Castle Ravenloft following the dinner with Strahd (2,500 XP)
+* bargain with Zuleika Toranescu at the Werewolf Den (2,000 XP)
+* receive Argynvost’s mission at Argynvostholt (2,500 XP)
+* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (1,500 XP)
+* return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
 * steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (1,000 XP)
 * recover the *Icon of Ravenloft* from Ravenloft’s catacombs (1,000 XP)
 * rescue Emil Toranescu from Ravenloft’s dungeons (1,000 XP)
@@ -40,13 +39,13 @@ The quests of Act III become available and are resolved as given in the table be
 
 | Arc \ Day of Neyavr      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| K: The Stolen Gem        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| L: The Fallen Abbey      | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| M: The Den of Wolves     | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| N: Argynvost's Beacon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| O: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
-| P: Dinner with the Devil | —   | —   | —   | —   | 🔶  | ❌   | ❌   | ❌   |
-| Q: Ravenloft Heist       | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
+| J: The Stolen Gem        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| K: The Fallen Abbey      | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| L: The Den of Wolves     | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| M: Argynvost's Beacon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| N: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
+| O: Dinner with the Devil | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
+| P: Ravenloft Heist       | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
 
 The most common path through Act III is as follows:
 

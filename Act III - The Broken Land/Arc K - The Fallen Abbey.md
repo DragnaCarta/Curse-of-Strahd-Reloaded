@@ -4,9 +4,26 @@ In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey o
 
 Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
 
-If the players have arrived before the third night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the third night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
+If the players have arrived before the second night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the second night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
 # K1. The Village of Krezk
 The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
+
+> [!profile]+ **Baron Dmitri Krezkov**
+> **Roleplaying Information.**
+> ***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
+> 
+> ***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
+> 
+> ***Motivations.*** Dmitri wants to protect his village and keep his family together.
+> 
+> ***Inspirations.*** When playing Dmitri, channel Eddard Stark (*Game of Thrones*), King Théoden (*Lord of the Rings*) and Stoick the Vast (*How to Train Your Dragon*).
+> 
+> **Character Information**
+> ***Persona.*** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
+> 
+> ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
+> 
+> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
 
 The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
 
@@ -15,7 +32,7 @@ The village of Krezk is as described in <span class="citation">S3. Village of Kr
 
 If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov’s expression becomes stony and cold. He warns the players that the Abbot is a cruel and capricious creature, and further shares the Abbey’s sordid history and the strange rumors surrounding the Abbot.
 
-If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home. Once he does, the players can convince the Baron to discuss his personal enmity toward the Abbot with a successful DC 10 Charisma (Persuasion) check, though he declines to do so until they have arrived at his home.
+If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home.
 
 > [!lore]+ **The Baron's Grief**
 > The Krezkov family has a secret: ever since a werewolf bit the Krezkov heir eighty years ago, some of the family’s direct descendants have been natural—born lycanthropes. Because these descendants are not the product of a union between two werewolves, they are born without the benefits of their curse, which emerges only on the night of the first full moon after their thirteenth birthday.
@@ -24,7 +41,7 @@ If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay
 > 
 > Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
 > 
-> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of Sorina Antonova—Tatyana Federovna’s most recent reincarnation—and decided that she would therefore be a perfect candidate for Vasilka’s completion.
+> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of the Federovna line and a distant relative of Tatyana Federovna. He decided that, as a blood descendant of Strahd's first love, she would therefore be a perfect candidate for Vasilka’s completion.
 > 
 > The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
 > 
@@ -61,6 +78,23 @@ When the players enter the cottage’s front door, read:
 </div>
 
 Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
+
+> [!profile]+ **Baroness Anna Krezkova**
+> **Roleplaying Information**
+> ***Resonance.*** Anna should inspire gratitude and comfort with her kindness and hospitality, mild irritation with her no-nonsense attitude, and (when the players learn of it) sympathy and endearment for her promise to the Abbot.
+> 
+> ***Emotions.*** Anna most often feels compassionate, worried, determined, skeptical, thoughtful, sorrowful, or melancholy.
+> 
+> ***Motivations.*** Anna wants to help Dmitri lead and support the people of Krezk, keep her children safe and happy, and see Ilya safely returned to Krezk.
+> 
+> ***Inspirations.*** When playing Anna, channel Catelyn Stark (_Game of Thrones_), Molly Weasley (_Harry Potter_), and Joyce Byers (_Stranger Things_).
+> 
+> **Character Information**
+> ***Persona.*** To the world, Anna is a compassionate and strong-willed leader dedicated to the safety of Krezk. To those she trusts, she is a caring woman who has resigned herself to the Abbot's bargain—and who grieves the thought of her children growing up without a mother.
+> 
+> ***Morale.*** In a fight, Anna would take up her battleaxe and command any opponents to lay down their weapons, but wouldn't hesitate to fight to defend herself, her family, or her neighbors.
+> 
+> ***Relationships.*** Anna is the wife of Baron Dmitri Krezkov, the mother of Ilya and Kala Krezkov, and the sister-in-law of the **werewolf** Zuleika Toranescu. In exchange for Kala's resurrection, Anna has also promised to allow the Abbot to remove the heart from her chest.
 
 If the players intend on staying the night, Anna asks the players to assist her in completing a series of chores before dinner: feeding the chickens, mucking out the pig pen, weeding the vegetable garden, and (most importantly) obtaining a bucket of milk from the cow of Kretyana Dolvof—a widow whose cottage lies just southwest of the village’s freshwater pool. Anna also welcomes the players’ help in the kitchen as she prepares an evening meal.
 
@@ -138,6 +172,9 @@ If the players enter the graveyard during the day, add:
 <div class="description">
 <p>A young, dark-haired girl sits atop a boulder nearby, her hands hugging her knees to her chest as she stares silently at a small grave. She wears a thin tunic and no shoes, her small body so still that she seems almost to be a statue.</p>
 </div>
+
+![[Kala Krezkova.png]]
+<span class="credit">"Kala Krezkova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The girl is Kala Krezkova. She doesn’t immediately respond if the players speak to her. If the players approach, however, she abruptly asks them: "Have you ever had a bad dream you couldn't wake up from?" 
 
@@ -295,6 +332,23 @@ Dmitri apologizes to the players for concealing this information from them, and 
 The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
 ## K2a. Entering the Abbey
 The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+
+> [!profile]+ **Otto & Zygfrek**
+> ***Roleplaying Information***
+> ***Resonance.*** Otto and Zygfrek should make the players feel amused with their antics, eccentricities, and squabbles, uncomfortable with Otto's lack of personal space and Zygfrek's bluntness, sympathetic to Zygfrek's discomfort with her appearance and voice, endeared to Otto's boundless positivity, and mildly irritated with Zygfrek's rudeness.
+> 
+> ***Emotions.*** Otto most often feels curious, excited, annoyed, or satisfied. Zygfrek most often feels annoyed, suspicious, insulted, melancholy, or thoughtful.
+> 
+> ***Motivations.*** Otto is primarily motivated by his desire for food and attention. Zygfrek is primarily motivated by her bitterness and self-loathing. Both are motivated by their loyalty to the Abbot and desire for the Abbot's "perfection."
+> 
+> ***Inspirations.*** When roleplaying Otto, channel Dobby (*Harry Potter*), Gollum (*Lord of the Rings*), Jar-Jar Binks (*Star Wars*), and Pinky (*Pinky and the Brain*). When roleplaying Zygfrek, channel Squidward Tentacles (*Spongebob SquarePants*), Marvin the Paranoid Android (*The Hitchhiker's Guide to the Galaxy*), and Oscar the Grouch (*Sesame Street*).
+> 
+> ***Character Information***
+> ***Persona.*** To the world, Otto is a braying, over-enthusiastic loudmouth with a fascination for interesting things, while Zygfrek is a brooding, grumpy cynic who can always find something to insult or complain about. To those she trusts, Zygfrek is a quiet, melancholy, self-loathing woman who desperately longs for the "perfection" the Abbot promises.
+> 
+> ***Morale.*** If attacked, Otto would gallantly declare his intent to fight, then immediately back down, while Zygfrek would demand her attacker cease, and plead for mercy if denied.
+> 
+> ***Relationships.*** Otto and Zygfrek are servants of the Abbot, cousins of Clovin Belview, and the grand-niece and -nephew of Strahd's butler, Cyrus Belview.
 
 If told that the players are seeking a Vistana who’s staying at the Abbey, Zygfrek responds as follows:
 
@@ -465,8 +519,7 @@ As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot ap
 
 * Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
 * All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
-
-## K2b. The East Wing
+## K2c. The East Wing
 The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
 
 <div class="description">
@@ -476,7 +529,7 @@ The Abbot guides the players to the doorway of the foyer of the East Wing, which
 
 The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
 
-The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing.
+The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
 
 If a player proffers Vasilka’s garland necklace to the golem, it regards it with little comprehension. If asked to lower its neck for the player to place the necklace around it, the golem does so without protest. If the players provide the golem with the necklace to hold, it can be seen wearing the necklace when the players next return to it.
 
@@ -582,7 +635,7 @@ Ezmerelda shares the following information freely if asked:
 
 * Her name is Ezmerelda d’Avenir. 
 * She is a Vistana, though she travels with no caravan.
-* She has come to the Abbey because her investigations have revealed that the Abbot is not entirely well—especially mentally. (If the players agree with her, she says, in a deadpan tone, “He is utterly insane.") She believes that his madness may endanger those around him, including the people of Krezk, and her chalk circle is a means to investigate what might be done about it.
+* Unbeknownst to the Krezkovs, she has come to the Abbey to learn the source of the Abbot's madness, and how it might be cured in order to save Anna Krezkov's life.
 
 Ezmerelda is reluctant to share further information unless the players first prove that they can be trusted. If the players attempt to dig more deeply into her personal life or her purpose at the Abbey, she says, amusedly, “Well, that depends—who wants to know?"
 
@@ -615,11 +668,11 @@ Additionally, Ezmerelda is tentatively willing to join the players in their figh
 * conducting a seance immediately to contact the Abbey’s restless spirits; and
 * investigating the werewolf den **the following** **night**, while the bulk of the pack is away hunting.
 
-If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance.
+If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance. (See [[Arc L - The Den of Wolves]] for more information about Ezmerelda's plan to investigate the werewolf den.)
 ### The Seance
 To begin the seance, Ezmerelda retrieves a deck of Tarokka cards from her coat and lays the entire deck out flat across the center of the chalk circle. She can inform the players that, like a spirit board, the cards will allow spirits to communicate with them from across the veil. 
 
-She warns the players, however, that they may ask only ten questions of the spirit that answers her question—and that once the seance has concluded, she won’t be able to conduct another one for a full three days.
+She warns the players, however, that they may ask only ten questions of the spirit that answers her call—and that once the seance has concluded, she won’t be able to conduct another one for a full three days.
 
 Once the players are ready, Ezmerelda invites the players to sit around the edges of the circle and join hands. Read:
 
@@ -674,7 +727,7 @@ Immediately after the spirit answers the players’ tenth question, the players 
 
 <div class="description">
 <p>A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.</p>
-<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who presents her with a silver statuette of a cleric kneeling in supplication, its chest glowing with the same golden light that encircles that man's head. The woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
+<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who directs a gold-robed woman to present her with a silver statuette of a cleric kneeling in supplication, its chest glowing with the same golden light that encircles that man's head. The white-robed woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The same woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb beneath a dark, twisted keep. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
 <p>Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state.</p>
 </div>
 
@@ -685,6 +738,9 @@ Immediately after the spirit answers the players’ tenth question, the players 
 > * **Deference to Players**: Party NPCs should generally defer decisionmaking to the players. Their role is to support the players, not to lead them. (The sole exception lies in matters of deep personal or emotional significance to a party NPC, which may lead them to argue or even disagree with the players if doing so is in line with their character.)
 > * **Multi-NPC Conversations**: If other NPCs engage party NPCs in conversation, try to redirect the interaction to include one or more players, keeping them involved and central to the current scene.
 > * **Guidance and Advice**: Avoid using party NPCs to provide direct solutions to puzzles, challenges, or strategic decisions. Although a party NPC might provide quiet commentary where a matter pertains to their expertise, they should offer clear hints or guidance only when directly asked, and the scope of their help should be relatively restricted.
+
+> [!info]+ **The Artifact**
+> The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
 
 ***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,250 XP.
 ##### The Eavesdroppers

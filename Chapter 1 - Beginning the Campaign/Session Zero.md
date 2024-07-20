@@ -39,6 +39,7 @@ To ensure all players are on the same page when beginning the campaign, consider
 <li>This campaign will take place in a "fish-out-of-water" setting, and elements from my character's backstory will not directly appear or be referenced in the campaign.</li>
 <li>It is my sole responsibility to collaborate with the DM and other players to provide my character with an internal emotional character arc if desired.</li> 
 <li>Some powerful enemies will be impossible to defeat through combat, and that we will need to either gain levels, allies, or resources in order to do so.</li>
+<li>Creature alignments and morality will not always be determined by their species or type. Some monsters can be neutral, or even friendly, while some humanoids can be monstrously irredeemable.</li>
 <li>The DM has balanced any expected combat encounters to make a TPK unlikely unless we make poor decisions; should a TPK occur, the party may have an opportunity to "fail forward" and continue the campaign, albeit with severe consequences.</li> 
 <li>This campaign has altered the statistics for many official D&D 5e monsters, and has introduced additional mechanics or altered statistics for other enemies to create a balanced, high-tension combat experience that may differ from the <em>Monster Manual</em> and other official supplements.</li>
 <li>I will not seek out any information, artwork, videos, or other media relevant to Curse of Strahd, or any characters, locations, or lore within the campaign.</li> 

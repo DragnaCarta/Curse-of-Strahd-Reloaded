@@ -76,16 +76,15 @@ If the players have not yet restored Stella Wachter's soul to her body, her spir
 ## Quest Timeline
 The quests of Act II become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable. The players arrive in Vallaki on Neyavr 2. See [[#Timeline]] above for more information about arc beginnings, events, and endings.)
 
-| Arc \ Day of Neyavr     | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| :---------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| C: Into the Valley      | 🟥  | —   | —   | —   | —   | —   | —   | —   |
-| D                       | —   | —   | —   | —   | —   | —   | —   | —   |
-| E: St. Andral's Feast   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  | ❌   | ❌   |
-| F: The Missing Vistana  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| G: Lady Wachter's Wish  | —   | 🔶  | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| H: The Strazni Siblings | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
-| I: The Lost Soul        | —   | —   | —   | 🔶  | 🟢  | 🟢  | 🟥  | ❌   |
-| J: The Walls of Krezk   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🔶  | 🟢  |
+| Arc \ Day of Neyavr    | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| :--------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C: Into the Valley     | 🟥  | —   | —   | —   | —   | —   | —   | —   |
+| D: St. Andral's Feast  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  | ❌   | ❌   |
+| E: The Missing Vistana | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| F: Lady Wachter's Wish | —   | 🔶  | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| G The Strazni Siblings | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
+| H: The Lost Soul       | —   | —   | —   | 🔶  | 🟢  | 🟢  | 🟥  | ❌   |
+| I: The Walls of Krezk  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🔶  | 🟢  |
 
 The most common path through Act II is as follows:
 

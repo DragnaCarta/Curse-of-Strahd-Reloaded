@@ -58,7 +58,7 @@ This area is largely as described in <span class="citation">Q2. Main Entrance (p
 ## M3a. Foyer
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
 
-This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow vanishes through the doors leading to <span class="citation">Q10. Kitchen (p. 133)</span>.
+This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing.
 ## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
@@ -111,7 +111,7 @@ At the players’ request, Godfrey can share the following information regarding
 Godfrey then asks the players whether they would seek to betray and abandon their comrades if forced to fight a hopeless battle, or if they would fight alongside them to the death. If he is satisfied that any of the players would choose loyalty over selfishness, he gently chides any who would do the opposite, then proceeds:
 
 * A great battle took place on the floodplain east of the mansion, and many of the knights of the Order were slaughtered. As Godfrey and his commander, Vladimir Horngaard, led a final sortie against the enemy general’s camp, both were killed as well—Commander Horngaard by Zarovich himself, and Godfrey by Zarovich’s second-in-command: a cruel-eyed dusk elf bearing twin scimitars. (If asked, Godfrey can confirm that the elf was Rahadin, the current chamberlain of Castle Ravenloft.)
-* Several years thereafter, Godfrey felt Commander Horngaard’s rage pull his soul from beyond the grave, and found himself and the other knights of the Order returned to life as undead revenants. He learned that Zarovich had desecrated Argynvost’s remains and taken them as a trophy to the new Castle Ravenloft—an act so foul it had stirred Horngaard to vengeful hatred even in death.
+* Several years thereafter, Godfrey felt Commander Horngaard’s rage pull his soul from beyond the grave, and found himself and the other knights of the Order returned to life as undead revenants. He learned that Zarovich had desecrated Argynvost’s remains, burning the dragon's bones and taking his skull as a trophy to the new Castle Ravenloft—an act so foul it had stirred Horngaard to vengeful hatred even in death.
 * The revenant knights renewed the fight against Strahd, waging war for months—until the Mists descended upon Barovia. The knights marched on Castle Ravenloft, where the Vistani crone Madam Eva met them at the castle gates. She told them Strahd had died and been reborn, and that he and all Barovia were now captives of the Mists.
 
 Godfrey then asks the players if there is anyone that they hate—within or beyond the valley. He then asks if they would condemn all those they love to death and despair, if only to ensure that the one they hate would suffer the same fate for eternity. If he is satisfied that any of the players would choose love over vengeance, he informs them that they “stand amidst the ruin of one who made a different choice," then proceeds:
@@ -133,7 +133,7 @@ If asked why he has summoned the players to Argynvostholt, Godfrey can share the
 Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the Amber Temple. The players can assure him as follows:
 
 * A player without an amber shard can automatically convince Godfrey that they are free of any shard’s influence.
-* A player in Stage One or Two of an amber shard’s corruption can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
+* A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
 * A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 14 Charisma (Deception) or Charisma (Persuasion) check (depending on whether or not they’re telling the truth).
 
 If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."
@@ -176,7 +176,7 @@ Godfrey notes, however, that these hostile spirits *can* be deceived. If the pla
 > [!abstract]+ **The Stone Slab**
 > Godfrey isn't sure what the stone slab symbolizes, and knows only that it was placed there by the land's indigenous inhabitants millennia before the Order of the Silver Dragon ever arrived in the valley. "We dealt little with them aside from the occasional trade," he recalls. "Their religion is one of wild places—a faith of beast and root and sky, rather than the dawn of the Morninglord or the shade of Mother Night."
 
-Should the players express interest in retrieving those garments, Godfrey asks only that they treat any uncovered remains with respect and take no more than necessary. "In burying our own dead," he shares, "it was customary to remark: '*May the day's last light guide you home*. Such sentiment may be still appreciated, even in such a cold and forsaken place."
+Should the players express interest in retrieving those garments, Godfrey asks only that they treat any uncovered remains with respect and take no more than necessary. "In burying our own dead," he shares, "it was customary to remark: '*May the day's last light guide you home*.' Such sentiment may be still appreciated, even in such a cold and forsaken place."
 
 If the players ask about the origin of the buried remains, Godfrey solemnly informs them that the Order of the Silver Dragon made its final stand there.
 ### Obtaining the Garments
@@ -221,7 +221,7 @@ The elk is a **dire elk** (use the statistics of a **giant elk**) with 1 hit poi
 > [!info]+ **The Raven & the Elk**
 > The raven is the Roc of Mount Ghakis in disguise. While in this form, the roc uses the statistics of an ordinary **raven**, except it has an Intelligence score of 15 (+2), a Wisdom score of 20 (+5), a Charisma score of 14 (+2), and the hit points, proficiency bonus, and saving throw proficiencies of a **roc**.
 > 
-> The **dire elk** is one of Barovia's rarest creatures, and a beast once held sacred to the Huntress of the Ladies Three. If the players speak to it the raven using the spell *speak with animals* or similar magic, it introduces itself solemnly as Turul, and shares only that it has come to stand vigil over the elk and mourn its passing.
+> The **dire elk** is one of Barovia's rarest creatures, and a beast once held sacred to the Huntress of the Ladies Three. If the players speak to the raven using the spell *speak with animals* or similar magic, it introduces itself solemnly as Turul, and shares only that it has come to stand vigil over the elk and mourn its passing.
 
 > [!abstract]+ **The Stone Slab**
 > If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Weaver, and the three-pointed star the symbol of the Ladies Three.)
@@ -338,6 +338,7 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 <div class="description">
 <p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
 </div>
+
 ## M4b. Steward’s Wing
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
@@ -405,6 +406,9 @@ If a player unstops the decanter to reveal Zorya’s hiding place, she bursts fo
 <p>A fire of silver flames erupts in the dead hearth and assumes a draconic form. It hisses and crackles - and then yawns, stretches, and unfurls its smoky wings as a familiar sound like chiming crystal pours forth from its tiny throat.</p>
 </div>
 
+![[Zorya.png]]
+<span class="credit">"Zorya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 If the players don’t immediately respond, Zorya chirps happily and flutters up into the air before attempting to settle on the shoulder of whichever player most befriended her during the game. (Though made of fire, Zorya’s body is cold to the touch, not hot.) 
 
 Once befriended in this way, Zorya remains with the players while they remain within Argynvostholt unless driven away. The revenants and spirits of Argynvostholt won’t attack Zorya, though she aids the players in battle where possible.
@@ -448,6 +452,8 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 </table>
 <hr>
 <strong>Skills</strong> Perception +3, Stealth +4<br>
+<strong>Damage Immunities</strong> acid, cold, fire, lightning, thunder, poison; bludgeoning, piercing, and slashing damage from nonmagical attacks<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br>
 <strong>Senses</strong> blindsight 10 ft., darkvision 60 ft., passive Perception 13<br>
 <strong>Languages</strong> understands Common and Draconic but can't speak<br>
 <strong>Challenge</strong> 1/4<br>
@@ -485,7 +491,7 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
 > [!info]+ **Phase Spider Harvesting**
-> An single adult **phase spider** possesses two large fangs and can produce up to four vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
+> A single adult **phase spider** possesses two large fangs and can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
 > 
 > If a glass vial or similar nonreactive material is available, a character can harvest one or more vials of venom by succeeding on a Dexterity (Nature) check and meeting one of the following DCs:
 > 
@@ -601,7 +607,7 @@ This area is largely as described in <span class="citation">Q19. Ruined Bedchamb
 <p>Long, thick webs stretch from the eastern wall, down past the collapsed floor to the space below. Something seems to be protruding from the wall behind the webbing.</p>
 </div>
 
-In addition, add the following text to the end of each room’s description:
+If the players haven't yet defeated the spiders in [[#M4c. Spiders’ Ballroom]], add the following text to the end of each room’s description:
 
 <div class="description">
 <p>As you survey the room, you hear a faint, irregular clicking from the space beneath the floor, followed by the soft scratching of something unseen.</p>
@@ -609,7 +615,7 @@ In addition, add the following text to the end of each room’s description:
 
 The object protruding from the wall in the western room is a rusted iron hook bearing a torn leather strap. (The strap once belonged to the leather satchel in [[#M4c. Spiders’ Ballroom]], but was torn off when a **giant spider** took the satchel and its contents as a trophy.) Both the hook and strap are strewn with thick webs and can’t be identified without approaching.
 
-A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other eight **giant spiders** remain in the ballroom below.)
+A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other six **giant spiders** remain in the ballroom below.)
 ## M5d. Upper Chapel
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
@@ -666,7 +672,7 @@ Revise Argynvost’s journal page to read as follows:
 <div class="description">
 <p>My knights have fallen, and this land is lost. The armies of my enemy will not be stopped by sword or spell, claw or fang. Today I will die, not avenging those who have fallen, but defending that which I love—this valley, this home, and the ideals of the Order of the Silver Dragon.</p>
 <p>The evil surrounds me. The time has come to throw off this guise and show these heathens my true fearsome form. Let it spark terror in their hearts! Let them tell their stories of dark triumph against the protector of the Balinok Mountains! Let Argynvost be remembered as a dragon of honor and valor.</p>
-<p>I do not fear death. I have laid down my trappings beneath the tower's watchful gaze, so that others may carry my legacy in my stead. Though my body will die, my spirit will live on where the oath and fire of the Silver Dragon survive. Let it serve as a beacon of light against the darkness. Let it bring hope to a land wrought with despair.</p>
+<p>I do not fear death. I have laid down my trappings beneath the tower's watchful gaze, so that others may carry my legacy in my stead. Though my body will die, my spirit will live on where the oath and fire of the Silver Dragon survive. Let it serve as a beacon of light against the darkness. Let it bring hope to a land fraught with despair.</p>
 <p>Now, to battle!</p>
 <p>A</p>
 </div>
@@ -686,7 +692,7 @@ The bracelet is carved to resemble a dragon biting its own tail, and is a *brace
 > [!item]+ **Bracelet of Warding**
 > *Wondrous item, rare (requires attunement)*
 >
-> This bracelet has 3 charges. While wearing it, you can use a bonus action to spend 1 of its charges to cast the *sanctuary* spell, or 2 of its charges to cast the *warding bond* spell with a range of 30 feet.
+> This bracelet has 3 charges. While wearing it, you can use a bonus action to spend 1 of its charges to cast the *sanctuary* spell (DC 15), or 2 of its charges to cast the *warding bond* spell with a range of 30 feet.
 >
 > When you cast a spell using this bracelet, you may spend an additional charge to cast the spell as a reaction when an enemy makes an attack against the target of the spell instead. If you do, the spell’s effects end at the start of your next turn.
 >
@@ -716,7 +722,7 @@ The scroll is a letter and reads as follows:
 <div class="description">
 <p>To Lord Argynvost, Protector of the Balinok Mountains and Founder of the Order of the Silver Dragon,</p>
 <p>You have stood as a bulwark against the darkness—a shining example of righteousness and courage. Yet I write to you today with a heavy heart and a burdened soul, fearful that Markovia's counsel will lead your Order down a path that ends in darkness and devastation.</p>
-<p>I confess that Lord Von Zarovich is imperfect, as all men inevitably are. Yet his leadership has brought stability and order to a land wrought with chaos, and restored songs of prayer to halls once consigned to madness.</p>
+<p>I confess that Lord Von Zarovich is imperfect, as all men inevitably are. Yet his leadership has brought stability and order to a land fraught with chaos, and restored songs of prayer to halls once consigned to madness.</p>
 <p>It is therefore with great humility and respect that I implore you and your knights to lay down their arms and make peace. Further bloodshed will tear this land asunder, bringing suffering to the innocent and guilty alike. But with the aid of your wisdom and grace, I do not doubt that we may together forge a brighter dawn.</p>
 <p>Faithfully yours,</p>
 <p>Andral</p>
@@ -934,7 +940,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <h2>Vladimir Horngaard, Vengeful Revenant</h2>
 <em>Medium undead, lawful evil</em>
 <hr>
-<strong>Armor Class</strong> 17<br>
+<strong>Armor Class</strong> 17 (half plate armor)<br>
 <strong>Hit Points</strong> 228 (24d8 + 120)<br>
 <strong>Speed</strong> 30 ft.<br>
 <strong>Challenge</strong> 15<br>
@@ -990,11 +996,12 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
 </div>
 <br>
+
 <div class="statblock">
 <h2>Vladimir Horngaard, Knight of Death</h2>
 <em>Medium undead, lawful evil</em>
 <hr>
-<strong>Armor Class</strong> 17<br>
+<strong>Armor Class</strong> 17 (half plate armor)<br>
 <strong>Hit Points</strong> 228 (24d8 + 120)<br>
 <strong>Speed</strong> 30 ft.<br>
 <strong>Challenge</strong> 15<br>

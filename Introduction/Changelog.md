@@ -1,3 +1,42 @@
+# Version 2.0.8.3 (July 20, 2024)
+* Removed Ludmilla's fly speed, changed her ***vengeful ward*** feature to a ***shroud of shadows*** bonus action, and modified the text of her ***shroud of shadows*** and ***mage's reprisal*** abilities in [[Arc J - The Stolen Gem]] and [[Arc P - Ravenloft Heist]]
+# Version 2.0.8.2 (July 20, 2024)
+* Added milestones and XP to [[Arc P - Ravenloft Heist]]
+# Version 2.0.8.1 (July 19, 2024)
+* Fixed broken links and typos in [[Arc P - Ravenloft Heist]]
+* Added a copy of the deprecated version of [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
+# Version 2.0.8 (July 19, 2024)
+* Added [[Arc P - Ravenloft Heist]]
+* Reworked [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
+* Added additional artwork by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/posts).
+* Added an additional line regarding creature alignments to the campaign contract in [[Session Zero]]
+* Updated Strahd's goals in [[Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
+* Revised the flesh mound's second phase in [[Arc A - Escape From Death House]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
+* Replaced Madam Eva's invitation in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
+* Moved the March of the Dead from [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] to [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Added information regarding the players' ability to ambush the vampire spawn before retrieving the bones in [[Arc D - St. Andral's Feast]]
+* Gave Volenta a smoke bomb escape reaction in [[Arc D - St. Andral's Feast]]
+* Added information regarding their potential banishment from Vallaki if they alienate Baron Vallakovich in [[Arc E - The Missing Vistana]]
+* Added information regarding Lady Wachter's knowledge and character arc in [[Arc F - Lady Wachter's Wish]]
+* Moved Erasmus's plea to arrive just before dawn in [[Arc H - The Lost Soul]]
+* Added information regarding the players' failure to return a heartstone in [[Arc H - The Lost Soul]]
+* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Arc H - The Lost Soul]], [[Arc I - The Walls of Krezk]] and [[Arc J - The Stolen Gem]].
+* Added information regarding other areas of Berez in [[Arc I - The Walls of Krezk]]
+* Redistributed milestone XP in [[Act III Summary]]
+* Added additional reason for the players to return to Kavan's cairn in [[Arc J - The Stolen Gem]]
+* Added NPC profiles for Otto and Zygfrek Belview in [[Arc K - The Fallen Abbey]]
+* Added additional details regarding potential attempts to escape the *silverthorn collars* in [[Arc L - The Den of Wolves]]
+* Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[Arc L - The Den of Wolves]]
+* Added additional information regarding a potential confrontation with Bianca at Lake Baratok in [[Arc L - The Den of Wolves]]
+* Noted that Argynvost's bones, other than his skull, were burned in [[Arc M - Argynvost's Beacon]]
+* Changed Anton to be Dezdrelda's husband, rather than her brother, in [[Arc O - Dinner with the Devil]]
+* Fixed an unsolvable sliding puzzle layout in [[Arc O - Dinner with the Devil]]
+* Added NPC profiles for Escher and Sasha Ivliskova in [[Arc O - Dinner with the Devil]]
+* Added new information regarding Strahd's involvement with Sasha and Gertruda's request for aid in [[Arc O - Dinner with the Devil]]
+* Added new information should players attempt to explore the castle after entering the guest suite in [[Arc O - Dinner with the Devil]]
+* Reworked the fourth floor of Varushka's nightmare in [[Arc O - Dinner with the Devil]]
+* Reduced Varushka's Challenge Rating to 8 in both phases in [[Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.7 (Apr. 28, 2024)
 * Added new rebalancing details for the flesh mound in [[Arc A - Escape From Death House]]
 ## Hotfix 2.0.7.6 (Apr. 27, 2024)
@@ -11,7 +50,7 @@
 * Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Arc A - Escape From Death House]]
 * Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Arc E - The Missing Vistana]]
 ## Hotfix 2.0.7.2 (Apr. 15, 2024)
-* Rolled back an unfinished/discarded rework of the old Watchtower in [[Arc C - Into the Valley]]
+* Rolled back an unfinished/discarded rework of the old Watchtower in [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Added artwork of Vladimir Horngaard in [[Arc M - Argynvost's Beacon]]
 ## Hotfix 2.0.7.1 (Apr. 12, 2024)
 * Increased the XP earned for defeating Izek in [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]
@@ -56,10 +95,10 @@
 * Strengthened the **flesh mound** and added additional dynamic mechanics
 * Modified **shadow** damage resistances
 
-[[Arc B - Welcome to Barovia]]
+[[Act I - Into the Mists/Arc B - Welcome to Barovia]]
 * Gave Doru vampire lore to share
 
-[[Arc C - Into the Valley]]
+[[Act I - Into the Mists/Arc C - Into the Valley]]
 * Made Eva's request regarding Arabelle more urgent and enticing
 * Added additional information about werewolf lycanthropy
 * Added box notifying DMs regarding absence of random encounters
@@ -170,7 +209,7 @@
 * Added footnotes referencing intentional homages/inspirations in [[Arc J - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Arc M - Argynvost's Beacon]] (Brother Marek's speech to the players).
 # Hotfix 2.0.6.2 (Feb. 1, 2024)
 * Updated table of contents to include [[Arc L - The Den of Wolves]] and [[Arc M - Argynvost's Beacon]].
-* Added Muriel's relaying of Strahd's Tarokka reading from [[Arc C - Into the Valley]] at the end of [[Arc J - The Stolen Gem]]
+* Added Muriel's relaying of Strahd's Tarokka reading from [[Act I - Into the Mists/Arc C - Into the Valley]] at the end of [[Arc J - The Stolen Gem]]
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
 * Delayed Ezmerelda's request to investigate the werewolf den in [[Arc L - The Den of Wolves]] to one day after she first meets the players in [[Arc K - The Fallen Abbey]]
 * Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Arc M - Argynvost's Beacon]]
@@ -181,9 +220,9 @@
 * Added Campaign Contract in [[Session Zero]]
 * Added information regarding the Devourer and Strahd's intentions for Ireena to [[History of Barovia]]
 * Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[History of Barovia]]
-* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Arc B - Welcome to Barovia]]
-* Added NPC profile for Morgantha in [[Arc C - Into the Valley]]
-* Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Arc C - Into the Valley]]
+* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
+* Added NPC profile for Morgantha in [[Act I - Into the Mists/Arc C - Into the Valley]]
+* Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc D - St. Andral's Feast]]
 * Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[Arc H - The Lost Soul]]
 * Modified Rahadin's trial in [[Arc D - St. Andral's Feast]] to discourage players from attacking Rahadin
@@ -229,7 +268,7 @@
 * Fixed assorted typos
 * Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Arc J - The Stolen Gem]].
 * Revised Strahd's wager at Yester Hill in [[Arc J - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
-* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Arc C - Into the Valley]]
+* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Act I - Into the Mists/Arc C - Into the Valley]]
 # Version 2.0.5 (Dec. 13, 2023)
 **General Changes**
 * Changed unique monster spells to use in-line "lambda" spellcasting formatting  
@@ -252,7 +291,7 @@
 * Made Waltz for Klara open the first half of the secret door in the library  
 * Removed the deed from the chest in the secret room and moved the will to Gustav's desk in the library.  
 
-**[[Arc B - Welcome to Barovia]]**
+**[[Act I - Into the Mists/Arc B - Welcome to Barovia]]**
 * Decreased Dalvan's tally marks to thirteen  
 * Clarified the behavior of Dalvan's compass  
 * Delayed the players' arrival in the village of Barovia to dusk  
@@ -266,7 +305,7 @@
 * Clarified that Doru doesn't fight in self-defense  
 * Clarified the point at which the players learn the identity of the vampire who bit Ireena  
 
-**[[Arc C - Into the Valley]]**
+**[[Act I - Into the Mists/Arc C - Into the Valley]]**
 * Rebalanced the **zombie plague spreader** to avoid nova turns  
 * Removed Escher's scar  
 * Revised the consequences for disrespect toward Strahd  
@@ -358,7 +397,7 @@
 * moved the Tome of Strahd in Vallakovich mansion to Victor’s workroom
 * fixed assorted typos
 # Version 2.0.3 (Jul. 10, 2023)
-* Added [[Arc C - Into the Valley]]
+* Added [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Moved Van Richten’s weapon cache further southwest down the Old Svalich Road.
 * Added an “Ireena Joins the Party” sidebar presenting Ireena as a sidekick member of the party.
 * Moved the Huntress’s Forest Fane to Yester Hill and the Seeker’s Mountain Fane to Old Bonegrinder.
@@ -375,7 +414,7 @@
 * Confirmed the XP earned for escaping Death House and burying Kolyan to be 400 XP each.
 * Fixed assorted typos and minor omissions.
 # Version 2.0.2 (Jun. 23, 2023)
-* Added [[Arc B - Welcome to Barovia]]
+* Added [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
 * Updated cover page font.
 * Revised and expanded the Strahd's Return segment in the History of Barovia, adding The Darkened Valley and The Wrath of Strahd as additional segments.
 * Moved the Inhabitants of Barovia section to a new appendix at the end of the guide.

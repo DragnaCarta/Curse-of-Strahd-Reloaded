@@ -47,7 +47,7 @@ Strahd's spies, which all understand Common, report the following information, w
 * any spells, weapons, or abilities that the players are seen using; and
 * any locations or NPCs that the players are seen visiting.
 # Encounters with Strahd
-Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Arc C - Into the Valley]]), the players may later speak with him at Yester Hill (see [[Arc J - The Stolen Gem]]) and dine with him at Castle Ravenloft (see [[Arc O - Dinner with the Devil]]).
+Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Act I - Into the Mists/Arc C - Into the Valley]]), the players may later speak with him at Yester Hill (see [[Arc J - The Stolen Gem]]) and dine with him at Castle Ravenloft (see [[Arc O - Dinner with the Devil]]).
 
 Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc R: The Tyrant's Trials*** for more information.
 

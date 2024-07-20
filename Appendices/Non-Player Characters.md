@@ -349,14 +349,6 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 ***Morale.*** In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
 
 ***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of Baron Vargas Vallakovich.
-
-**Statistics**
-While Lady Wachter still has the statistics of a **priest**, she has a different list of prepared spells:
-
-Cantrips (at will): *light, toll the dead, thaumaturgy*
-1st level (4 slots): *command, sanctuary, bane*
-2nd level (3 slots): *blindness/deafness, zone of truth, hold person*
-3rd level (2 slots): *animate dead, spirit guardians*
 ## Father Lucian Petrovich
 **Roleplaying Information**
 ***Resonance.*** Father Petrovich should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.

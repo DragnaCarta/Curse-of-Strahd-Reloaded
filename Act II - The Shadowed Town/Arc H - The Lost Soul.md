@@ -47,7 +47,7 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
 
 # H1. Erasmus' Plea
-On the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
+Shortly before dawn on the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
 
 The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
 
@@ -138,6 +138,9 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
 >
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
+
+> [!info]+ **Harvesting Phase Spiders**
+> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - Argynvost's Beacon#M4c. Spiders’ Ballroom|Arc M - Argynvost's Beacon]] for more information regarding the harvesting and use of phase spider parts.
 # H3. The Refugee Camp
 If it's been at least six hours since Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
 
@@ -198,10 +201,7 @@ Before the players leave Franz’s tent, he grabs for the closest one and rasps,
 
 > [!abstract]+ **Franz’s Fate**
 >
-> The players can identify the nature of Franz’s current condition by consulting *Ethereal Entities* or by asking Dr. Rudolph van Richten for a diagnosis of his symptoms.
->
-> If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. In the meantime, however, he offers to keep Franz safe from Morgantha's hauntings through the use of his *talisman of protection from evil and good* if Franz can be surreptitiously moved to Van Richten’s current location for supervision.
-
+> The players can identify the nature of Franz’s current condition by consulting *Ethereal Entities* or by asking Dr. Rudolph van Richten for a diagnosis of his symptoms. If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. 
 # H4. Victor’s Plan
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
@@ -358,6 +358,9 @@ Lady Wachter then attempts to confirm the following details:
 
 Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
 
+> [!info]+ **Victor's Spellbook**
+> Victor's spellbook largely contains the spells described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
+
 However, Victor warns the players that, according to *Ethereal Entities*, hag covens often possess the ability to dispel enchantments while within close proximity to their lair. Once Lady Wachter's binding circle is erected, he'll need to stay close to the windmill to protect it with his *counterspell.* 
 
 As such, he'll need to conserve his strength—and, specifically, his 5th- and 4th-level spell slots—until then. (**Under no circumstances does Victor spend his 5th-level spell slot before the end of the battle with the hags.**)
@@ -368,7 +371,7 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 >
 > To borrow Morgantha's heartstone for a period of three days, the players must promise to undertake a particular task for her. As a form of insurance to ensure their compliance, Morgantha takes their dreams as collateral once the players accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
 >
-> Morgantha warns the players that, if they fail to complete her task within fourteen days—or if they betray her—she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
+> Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
 >
 > If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
 >
@@ -393,8 +396,6 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 >
 > The area within the cloud of fog is heavily obscured. If the players investigate, they find that a five-foot-diameter stone of smooth, black onyx is half-buried at the center of the circle. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
 >
-> The stone is the door to a secret demiplane that contains the Elder Wisp, one of the three profane leeches that Strahd set to consume the energies of the Fanes. To open it, the players will need to cut its surface with the cursed dagger of Leo Dilisnya, which they can obtain from the sarcophagus of the Vampyr in the Amber Temple. See [[Arc U - The Amber Temple]] and [[Arc Y - The Ladies of the Fanes]] for more information about Leo Dilisnya’s dagger and the Mountain Fane.
->
 > One minute after the players enter the cloud of fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
 ## H7a. Raiding the Windmill
 The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
@@ -405,7 +406,7 @@ The hags' contract is written in Abyssal on a piece of leather made of human ski
 
 The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. The charm allows the wielder to give any number of creatures within 30 feet the benefit of a *potion of heroism* as an action. Once they do so, the charm vanishes from their person.
 
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Bella Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 ### Distracting Morgantha
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
@@ -465,7 +466,7 @@ When the players direct her to do so, Lady Wachter begins the ritual. Read:
 <p>Lady Wachter’s four followers soon join the chant, raising their arms as their voices swell in harmony with hers. The air around the hill begins to crackle and hum, the atmosphere tinged with the scent of ozone.</p>
 <p>Small clouds of mist begin to rise from the ground beneath the ritualists, extruding long tendrils of wisping fog that bathe the earth in pale, ethereal light.</p>
 <p>As the chant continues, the billowing clouds of mist grow brighter, casting long, dancing shadows across the sides of the hill. The fog seems to undulate in rhythm with their words, the very air seeming to thrum with arcane resonance. From deep within the seas of roiling grey, you think you can almost hear a woman’s distant, murmuring voice, joined by the echo of a thousand whispers.</p>
-<p>The tendrils of fog interlock—and snap together, forming a circle: a tight ring of shimmering, swirling mist. Lady Wachter’s hands curl into fists, and she pulls both arms across her chest. In a low, melodic voice, she recites a trio of names again and again: “<em>Morgantha Stormreaver. Bella Sunbane. Offalia Wormwiggle.</em>” Her gaze meets yours, and she gives a single, near-imperceptible nod.</p>
+<p>The tendrils of fog interlock—and snap together, forming a circle: a tight ring of shimmering, swirling mist. Lady Wachter’s hands curl into fists, and she pulls both arms across her chest. In a low, melodic voice, she recites a trio of names again and again: “<em>Morgantha Stormreaver. Belladonna Sunbane. Offalia Wormwiggle.</em>” Her gaze meets yours, and she gives a single, near-imperceptible nod.</p>
 </div>
 
 The circle, which extends five hundred feet vertically into the air, remains for the next ten minutes. During this time, any night hags named by Lady Wachter who remain within the circle cannot use their ***etherealness*** ability to enter the Ethereal Plane.
@@ -653,8 +654,11 @@ The hags fight in self-defense, or if the players make clear that they will not 
 > Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the hags’ HP to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Four Players.*** Reduce the hags’ HP to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
+> * ***Four Players.*** Reduce the hags’ HP to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
 > * ***Six Players.*** Increase the hags’ HP to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage.
+
+> [!design]- **Design Note: Innate Spellcasting**
+> Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
 
 ***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
 
@@ -759,7 +763,7 @@ Morgantha can tell the players that Rahadin’s office is located in the cellar 
 
 As a form of insurance to ensure the players’ compliance, Morgantha takes their dreams as collateral once they accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
 
-Morgantha warns the players that, if they fail to complete her task within fourteen days—or if they betray her—she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
+Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
 
 If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
 ### Escaping the Windmill
@@ -934,8 +938,6 @@ Victor’s panicked eyes flash toward the players, and Stella draws in toward he
 
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
 
-Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
-
 * Cantrips (at will): _light, toll the dead, thaumaturgy_ 
 * 1st level (4 slots): _command, sanctuary, bane_ 
 * 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
@@ -996,9 +998,9 @@ In battle, Lady Wachter also gains the following reaction:
 
 * ***Sentinel of the Veil.*** As a reaction when another creature she can see within 30 feet suffers a critical hit, Lady Wachter can turn that hit into a normal hit.
 
-***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it. 
+***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it.
 
-In its first phase, the **Speaker of the Gallows**, the gallows speaker never retreats, nor does it reposition except to pursue its current target. 
+In its first phase, the **Speaker of the Gallows**, the gallows speaker never retreats, nor does it reposition except to pursue a target. 
 
 In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
 
@@ -1010,7 +1012,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <h2>Speaker of the Gallows</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 13 (natural armor)
+<strong>Armor Class</strong> 13
 <br>
 <strong>Hit Points</strong> 157 (35d8)
 <br>
@@ -1062,14 +1064,14 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <h3>Reactions</h3>
 <p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
 <p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
-<p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw or be frightened until the end of its next turn.</p>
+<p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
 </div>
 <br>
 <div class="statblock">
 <h2>Ba’al Verzi Avenger</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 13 (natural armor)
+<strong>Armor Class</strong> 13
 <br>
 <strong>Hit Points</strong> 157 (35d8)
 <br>
