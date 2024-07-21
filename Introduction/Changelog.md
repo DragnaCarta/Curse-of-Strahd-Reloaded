@@ -1,3 +1,6 @@
+# Version 2.0.8.4 (July 21, 2024)
+* Revised Ludmilla's second-phase claws, mist shards, dissipate, asphyxiate, poison mist, and ambush features in [[Arc P - Ravenloft Heist]]
+* Changed the title of Arc M to [[Arc M - The Dragon's Manor]]
 # Version 2.0.8.3 (July 20, 2024)
 * Removed Ludmilla's fly speed, changed her ***vengeful ward*** feature to a ***shroud of shadows*** bonus action, and modified the text of her ***shroud of shadows*** and ***mage's reprisal*** abilities in [[Arc J - The Stolen Gem]] and [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.2 (July 20, 2024)
@@ -29,7 +32,7 @@
 * Added additional details regarding potential attempts to escape the *silverthorn collars* in [[Arc L - The Den of Wolves]]
 * Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[Arc L - The Den of Wolves]]
 * Added additional information regarding a potential confrontation with Bianca at Lake Baratok in [[Arc L - The Den of Wolves]]
-* Noted that Argynvost's bones, other than his skull, were burned in [[Arc M - Argynvost's Beacon]]
+* Noted that Argynvost's bones, other than his skull, were burned in [[Arc M - The Dragon's Manor]]
 * Changed Anton to be Dezdrelda's husband, rather than her brother, in [[Arc O - Dinner with the Devil]]
 * Fixed an unsolvable sliding puzzle layout in [[Arc O - Dinner with the Devil]]
 * Added NPC profiles for Escher and Sasha Ivliskova in [[Arc O - Dinner with the Devil]]
@@ -51,12 +54,12 @@
 * Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Arc E - The Missing Vistana]]
 ## Hotfix 2.0.7.2 (Apr. 15, 2024)
 * Rolled back an unfinished/discarded rework of the old Watchtower in [[Act I - Into the Mists/Arc C - Into the Valley]]
-* Added artwork of Vladimir Horngaard in [[Arc M - Argynvost's Beacon]]
+* Added artwork of Vladimir Horngaard in [[Arc M - The Dragon's Manor]]
 ## Hotfix 2.0.7.1 (Apr. 12, 2024)
 * Increased the XP earned for defeating Izek in [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]
 * Clarified Ismark the Great's statblock in [[Arc O - Dinner with the Devil]]
 * Clarified spell slot and other resource mechanics in the Nightmare in [[Arc O - Dinner with the Devil]]
-* Modified Zorya's breath weapon to deal full damage to ghosts in [[Arc M - Argynvost's Beacon]]
+* Modified Zorya's breath weapon to deal full damage to ghosts in [[Arc M - The Dragon's Manor]]
 * Expanded the triggers that cause a *silverthorn collar* to deal damage in [[Arc L - The Den of Wolves]]
 * Fixed assorted typos and inconsistencies
 # Version 2.0.7 (Apr. 12, 2024)
@@ -185,7 +188,7 @@
 * Changed Zuleika to give the players the *Holy Symbol of Ravenkind* subject to a time-delayed curse
 * Removed references to Ezmerelda's *clairvoyance* spell
 
-[[Arc M - Argynvost's Beacon]]
+[[Arc M - The Dragon's Manor]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added a key to the knights' quarters in the Dragon's Den
 * Reworked **phantom warrior** damage resistances
@@ -205,18 +208,18 @@
 * Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Arc E - The Missing Vistana]]
 * Revised Ezmerelda's statistics in [[Arc K - The Fallen Abbey]]
 * Modified the Abbot's wrath in [[Arc K - The Fallen Abbey]] to punish the flesh golem while Vasilka watches, rather than punishing Vasilka
-* Added level markers for [[Arc J - The Stolen Gem]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and [[Arc M - Argynvost's Beacon]].
-* Added footnotes referencing intentional homages/inspirations in [[Arc J - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Arc M - Argynvost's Beacon]] (Brother Marek's speech to the players).
+* Added level markers for [[Arc J - The Stolen Gem]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and [[Arc M - The Dragon's Manor]].
+* Added footnotes referencing intentional homages/inspirations in [[Arc J - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Arc M - The Dragon's Manor]] (Brother Marek's speech to the players).
 # Hotfix 2.0.6.2 (Feb. 1, 2024)
-* Updated table of contents to include [[Arc L - The Den of Wolves]] and [[Arc M - Argynvost's Beacon]].
+* Updated table of contents to include [[Arc L - The Den of Wolves]] and [[Arc M - The Dragon's Manor]].
 * Added Muriel's relaying of Strahd's Tarokka reading from [[Act I - Into the Mists/Arc C - Into the Valley]] at the end of [[Arc J - The Stolen Gem]]
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
 * Delayed Ezmerelda's request to investigate the werewolf den in [[Arc L - The Den of Wolves]] to one day after she first meets the players in [[Arc K - The Fallen Abbey]]
-* Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Arc M - Argynvost's Beacon]]
+* Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Arc M - The Dragon's Manor]]
 * Pushed the date of the dinner with Strahd one day forward in [[Arc O - Dinner with the Devil]]
 * Fixed assorted typos
 # Version 2.0.6 (Jan. 31, 2024)
-* Added [[Arc L - The Den of Wolves]] and [[Arc M - Argynvost's Beacon]]
+* Added [[Arc L - The Den of Wolves]] and [[Arc M - The Dragon's Manor]]
 * Added Campaign Contract in [[Session Zero]]
 * Added information regarding the Devourer and Strahd's intentions for Ireena to [[History of Barovia]]
 * Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[History of Barovia]]

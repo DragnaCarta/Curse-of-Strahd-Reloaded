@@ -107,11 +107,11 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc J - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
 [[Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
 [[Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
-[[Arc M - Argynvost's Beacon]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
+[[Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
 [[Arc N - Tales of Vallaki]]. Coming soon.
 [[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
-[[Arc Q - A Light in the Darkness]]. Coming soon.
+[[Arc Q - A Shining Beacon]]. Coming soon.
 
 > [!tip]+ **Under Construction**
 > *Curse of Strahd: Reloaded* is an ongoing project. New releases, including additional arcs and edits to existing arcs, are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).

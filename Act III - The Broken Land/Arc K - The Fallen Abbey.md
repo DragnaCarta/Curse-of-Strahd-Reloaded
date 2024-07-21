@@ -784,5 +784,5 @@ If the player fails the first check, the Abbot notices their attention to Vasilk
 > [!abstract]+ **Vasilka's Punishment**
 > If the players gave Vasilka’s necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing the flesh golem to burn the necklace in the hearth of the main hall—a task that terrifies and distresses it due to its ***aversion of fire*** feature—while making her watch. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
 
-> [!warning]+ **Under Construction**
-> This arc is under construction. The second half of [[Arc K - The Fallen Abbey]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]], will be added in a future update.
+> [!info]+ **Redeeming the Abbot**
+> The players can redeem the Abbot in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].

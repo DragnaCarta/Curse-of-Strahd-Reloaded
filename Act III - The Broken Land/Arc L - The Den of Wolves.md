@@ -478,5 +478,5 @@ The source of the shriek is a **wereraven** of the Keepers of the Feather, using
 
 ***Milestone.*** Meeting Ilya and Zuleika completes a story milestone. If the players successfully escape the werewolf den after making a deal with Zuleika, award each player 1,500 XP.
 
-> [!warning]+ **Under Construction**
-> This arc is under construction. The second half of [[Arc L - The Den of Wolves]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]], will be added in a future update.
+> [!info]+ **Defeating Kiril**
+> The players can defeat Kiril in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].
