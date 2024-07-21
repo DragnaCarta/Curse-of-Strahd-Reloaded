@@ -1091,5 +1091,5 @@ The gargoyle then whispers the short verse described in <span class="citation">Q
 
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,000 XP.
 
-> [!warning]+ **Under Construction**
-> This arc is under construction. The second half of [[Arc M - Argynvost's Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]], will be added in a future update.
+> [!info]+ **Returning the Skull**
+> The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].

@@ -380,17 +380,17 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <p><strong><em>Mistform.</em></strong> Ludmilla can enter and occupy the space of another creature, and can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. She can't fall, and remains hovering in the air even when stunned or otherwise incapacitated. However, while making a melee attack or grappling a target, Ludmilla loses these attributes, as well as her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons and loses her immunity to the grappled, prone, and restrained conditions.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ludmilla makes two attacks with her claws. She can replace one attack with a mist shards or bite attack.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) cold damage. The attack deals 13 (4d4 + 3) slashing damage plus 5 (2d4) cold damage instead if Ludmilla had advantage on the attack roll. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
-<p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) cold damage.</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) necrotic damage. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
+<p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage.</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, and can't breathe.</p>
-<p><strong><em>Poison Mist.</em></strong> Each creature within 10 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, a target takes 7 (2d6) poison damage, or half as much damage on a successful save.</p>
+<p><strong><em>Dissipate.</em></strong> If Ludmilla is heavily obscured by mist or fog, she takes the Hide action.
+<p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, can't breathe (but can hold its breath), and has a number of levels of exhaustion equal to three minus the number of minutes of air it has left (minimum 0). In addition, a target surrounded by this vacuum must succeed on a DC 14 Constitution saving throw at the end of each of its turns or lose 1 minute of air on a failure.<br>&nbsp;&nbsp;&nbsp;&nbsp;The target loses all levels of exhaustion gained in this way if it falls unconscious or the vacuum disappears. The vacuum disappears if Ludmilla takes the Hide action or if the target is ever behind full cover or more than 30 feet away from her.</p>
 <h3>Reactions</h3>
 <p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Fog Cloud.</em></strong> In response to taking damage, Ludmilla casts <em>fog cloud</em> without concentration. She can then immediately use her <em>Dissipate</em> reaction.</p>
-<p><strong><em>Dissipate.</em></strong> In response to taking damage, Ludmilla takes the Hide action if able.</p>
-<p><strong><em>Ambush.</em></strong> In response to hearing or seeing a creature move within 30 feet, Ludmilla moves up to her speed toward it and attacks it with her claws.</p>
+<p><strong><em>Fog Cloud.</em></strong> In response to taking damage, Ludmilla casts <em>fog cloud</em> without concentration.
+<p><strong><em>Poison Mist.</em></strong> In response to taking damage from a creature within 5 feet, Ludmilla forces that creature to succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or take 7 (2d6) poison damage.</p>
+<p><strong><em>Ambush.</em></strong> In response to hearing or seeing a creature move within 30 feet while she's hidden, Ludmilla moves up to her speed toward it and attacks it with her claws.</p>
 </div>
 <br>
 
@@ -485,9 +485,17 @@ This area is as described in <span class="citation">K14. Hall of Faith (p. 57)</
 #### Nave & Chancel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K15, K16, and K17.</em></span>
 
-This area is largely as described in <span class="citation">K14. Hall of Faith (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, and <span class="citation">K17. South Chapel Access (p. 58)</span>. However, if the players encountered her in [[#Main Foyer]], Ludmilla is hovering overhead, just below the ceiling. In addition, if Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
+This area is largely as described in <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, and <span class="citation">K17. South Chapel Access (p. 58)</span>. However, remove the last two sentences from the description of <span class="citation">K15. Chapel (p. 57)</span>. 
 
-If encountered here, Ludmilla attacks the players on sight. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
+Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of the chapel's description:
+
+<div class="description">
+<p>A thin cloud of fog shrouds the chapel floor.</p>
+</div>
+
+If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
+
+Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they enter <span class="citation">K15. Chapel (p. 57)</span>. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
 
 > [!warning]+ **Ezmerelda's *Holy Water***
 > Don't forget Ezmerelda's six *vials of holy water*, which she freely offers to the players as-needed to weaken Ludmilla's ***shroud of shadows***.
@@ -504,6 +512,16 @@ This area is as described in <span class="citation">K29. Creaky Landing (p. 62)<
 <span class="citation"><em>This scene takes place in Chapter 4, Area K28.</em></span>
 
 This area is largely as described in <span class="citation">K28. King’s Balcony (p. 62)</span>. However, remove the two **Strahd zombies**.
+
+Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of this area's description:
+
+<div class="description">
+<p>A thin cloud of fog shrouds the chapel floor below.</p>
+</div>
+
+If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
+
+Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they descend into <span class="citation">K15. Chapel (p. 57)</span>, or if they somehow manage to retrieve the *Holy Symbol* from atop the balcony. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
 ## P4b. Castle Commons, Second Floor 
 ### Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
@@ -1967,4 +1985,4 @@ Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect iden
 > [!tip] **You've Reached the End of the Mists**
 > You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
 > 
-> To get a sneak peek at drafts for [[Arc Q - A Light in the Darkness]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
+> To get a sneak peek at drafts for [[Arc Q - A Shining Beacon]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
