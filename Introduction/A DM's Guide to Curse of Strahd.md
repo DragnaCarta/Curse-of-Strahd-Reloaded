@@ -92,8 +92,8 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 ## Act I - Into the Mists
 [[Act I Summary]]. A summary of the players' first passage into Barovia.
 [[Arc A - Escape From Death House]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
-[[Act I - Into the Mists/Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
-[[Act I - Into the Mists/Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
+[[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
+[[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
 ## Act II - The Shadowed Town
 [[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
 [[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.

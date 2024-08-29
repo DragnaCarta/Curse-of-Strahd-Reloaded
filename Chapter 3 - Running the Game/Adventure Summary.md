@@ -28,9 +28,7 @@ Upon their arrival in Vallaki, the players can find shelter at the Blue Water In
 |   3   | B   | The players receive the Tarokka reading                            | 500   |
 |   3   | C   | The players arrive in Vallaki                                      | 1,000 |
 |   3   | C   | The players escort Ireena to Vallaki                               | 250   |
-|   4   | D   | The players restore the bones of St. Andral                        | 1,250 |
-|   4   | E   | The players find Arabelle and receive her prophecy                 | 1,250 |
-|       |     |                                                                    |       |
+
 # Act II: The Shadowed Town
 <div class="subtitle"><em>For characters of 4th level and higher.</em></div>
 In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has fallen to tension and conflict in the wake of Strahd's awakening.
