@@ -270,7 +270,7 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request L
 # H5. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]] and [[Arc D - The Tome of Strahd]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
 
 Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
 
@@ -358,6 +358,9 @@ Lady Wachter then attempts to confirm the following details:
 
 Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
 
+> [!info]+ **Layout of the Windmill**
+> The windmill rests upon a small, bare, grassy hill approximately one thousand feet in diameter, with a hilltop approximately four hundred feet in diameter. Its north and western edges are flanked by the trees of the Svalich Wood, which press closely toward its base.
+
 > [!info]+ **Victor's Spellbook**
 > Victor's spellbook largely contains the spells described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
 
@@ -404,9 +407,18 @@ One of the arms of the millstone in the bone mill is more gnarled than the rest,
 
 The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
 
-The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. The charm allows the wielder to give any number of creatures within 30 feet the benefit of a *potion of heroism* as an action. Once they do so, the charm vanishes from their person.
+> [!info]+ **Damaging the Contract**
+> The hags' contract, which has AC 20 and 1 hit point, is immune to all damage except damage dealt by the hags' own ***claws*** attack, a fact that a player can recall with a successful DC 20 Intelligence (Arcana) check. If the contract is destroyed, the coven is disbanded, leaving all three members to use the statistics of an ordinary **night hag**.
+
+The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. 
+
+> [!item]+ **Charm of Mass Heroism**
+> As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
 
 Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+
+![[The Three Hags.png]]
+<span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 ### Distracting Morgantha
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
@@ -436,9 +448,11 @@ Unlike their mother, Bella and Offalia are easily distracted. They can be lured 
 ### Morgantha Gets Suspicious
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
-If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. 
+If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
 
-After a brief period of time (during which she reveals nothing of note to the players), she briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
+If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offlia of the players' suspicious visit.
+
+If the players fail to leave, after a brief period of time (during which she reveals nothing of note to the players), Morgantha briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
 
 While Bella and Offalia descend from <span class="citation">O3. Bedroom (p. 127)</span>, Morgantha smiles pleasantly at the players and informs them that her daughters are her most valued taste-testers and she is always grateful for their opinions. (“Folks warn you about old age, but it’s true,” she says pleasantly. “It can be so difficult to run a business like this on your own.”)
 
@@ -541,22 +555,22 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +7, Insight +6, Perception +6, Stealth +6<br>
+<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
 <strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
 <strong>Condition Immunities</strong> charmed<br>
 <strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
 <strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
 <strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>Proficiency Bonus.</strong> +5<br>
 <hr>
 <p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks).
+<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
 <p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
+<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
 <p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
 <p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
 <p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
@@ -571,8 +585,8 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
 <h3>Reactions</h3>
 <p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
+<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
+<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
 <p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
 </div>
 
@@ -617,36 +631,36 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +7, Insight +6, Perception +6, Stealth +6<br>
+<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
 <strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
 <strong>Condition Immunities</strong> charmed<br>
 <strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
 <strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
 <strong>Challenge</strong> CR 15, or 13 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>Proficiency Bonus.</strong> +5<br>
 <hr>
 <p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.</p>
 <p><strong><em>Nightmare Forms.</em></strong> In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.</p>
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
+<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
 <h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +9, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em>. A target that succeeds on the saving throw is dazed instead. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
+<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
+<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em> (DC 17). A target that succeeds on the saving throw is dazed instead until the end of its next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <br><br>
 <h3>Bonus Actions</h3>
-<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 16 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 17 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 16 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
+<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 18 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
+<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 187 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
+<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
 <p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
-<p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 16 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
+<p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 17 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
 <h3>Reactions</h3>
 <p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
 <p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
 <p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
-<p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 16 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
+<p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 17 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
 <p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
 </div>
 
@@ -692,6 +706,9 @@ Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair act
 <p>For a moment, the two forces collide in a deafening clash, a spectacle of light and dark that seems to strain the very air around it. Then, with a resonant sound like the shattering of glass, Victor's spell triumphs—and the coven's shockwave dissipates, its dark energy unraveling into harmless wisps of shadow.</p>
 <p>The hags release a bloodcurdling scream of rage, their voices melding into a single, resonant note of high-pitched fury.</p>
 </div>
+
+![[Victor's Counterspell.jpg]]
+<span class="credit">"Victor's Counterspell" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Immediately following Victor's _counterspell_, Morgantha calls for a parley, promising to reveal three pieces of secret knowledge to the players in exchange for the coven's lives. 
 
@@ -766,6 +783,9 @@ As a form of insurance to ensure the players’ compliance, Morgantha takes thei
 Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
 
 If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
+
+> [!info]+ **Curing Cackle Fever**
+> Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>Monster Manual</em>, p. 178)</span>
 ### Escaping the Windmill
 If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
 
@@ -1162,8 +1182,6 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 
 In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
 
-The following morning, Victor also sends the players the following message with the *sending* spell: “Come to my home. I have a gift for you.” Upon their arrival, he presents them with the *spirit mirror* from his workroom, as well as the *Tome of Strahd* if he previously promised it to them.
-
 ***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 1,750 XP.
 
 > [!item]+ **Spirit Mirror**
@@ -1193,7 +1211,7 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>It was a thousand feet through the mists. No trace of her was ever found, and not even I know her final fate. Arrows from the castle guards pierced me to my soul, but I did not die. Nor did I live. I became undead, forever.</p>
 <p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. But the sword, that cursed sword that Sergei brought! I must dispose of that awful tool! I fear and hate it as much as the sun.</p>
 <p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
-<p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, but each time, she flees from me again. But she cannot run forever—and I have nothing but time.</p>
+<p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, though she fled from me once again. But she cannot run forever—and I have nothing but time.</p>
 <p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
 <p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
 

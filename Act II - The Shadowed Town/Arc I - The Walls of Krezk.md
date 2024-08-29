@@ -166,6 +166,11 @@ If the players enter the hut, they find Baba Lysaga humming a lullaby above the 
 
 Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
 
+> [!abstract]+ **Lysaga's Wrath**
+> If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her goat pen (described below), where they awakens 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.
+> 
+> Darzin warns the players that Lysaga intends to keep them as sacrifices for use in her longevity potions. He can share, however, that a Barovian witch taunting him let slip that Lysaga keeps doses of a potion called a *null tincture* on a shelf in her wicker cabinet, which, if imbibed, ends all spells and magical effects currently affecting its drinker. Players who successfully escape the goat pen and sneak into Baba Lysaga's hut can find six *null tinctures* in her wicker cabinet.
+
 To earn the right to speak with her, Baba Lysaga ordains that one of the players must first pluck a feather from one of the ravens in the hanging cages and lay it in “Strahd’s” crib as an offering. (Baba Lysaga notes that ravens are said to be the servants of prophecy, and that the fate of a royal child should be exalted above all others. The feather, if plucked, falls through the illusory crib to the floor of the hut, but the mad Baba Lysaga pays it no mind.)
 
 Once the players have made the requested offering, Baba Lysaga is glad to do business with them. She is willing to accept Baron Krezkov’s gold bracelet as the payment for a single *scrying* spell. Should the players request it, she is also willing to accept an item of similar value to cast *scrying* a second time on a target of the players’ choice. 
@@ -220,8 +225,6 @@ The village of Krezk is as described in <span class="citation">S3. Village of Kr
 
 If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's fate at the mention of the Abbot.
 
-Upon entering Krezk, the players begin [[Arc K - The Fallen Abbey]].
-
 ***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
 ## I6a. The Blessed Pool
 This area is largely as described in <span class="citation">S4. Pool and Shrine (p. 146)</span>. However, add the following to the end of this area's description:
@@ -232,6 +235,10 @@ This area is largely as described in <span class="citation">S4. Pool and Shrine 
 </div>
 
 The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in <span class="citation">S13. Main Hall (p. 150)</span> and <span class="citation">The Abbot (p. 151)</span>.
+
+
+![[The Abbot.png]]
+<span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Should the players approach or address him, the Abbot, without looking up from the flower, says: "A ward against evil, and yet a deadly poison. Is it not strange that a mere flower can hold such duality within it?"
 

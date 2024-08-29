@@ -1,7 +1,7 @@
 *An adventure for five 2nd-level characters.*
 
 > [!tip]+ **A Taste of Horror**
-> The following pages contain a guide to the first acts of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and the first two-thirds of **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
+> The following pages contain a guide to the first two-thirds of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
 > 
 > You can sign up to receive update notifications in your email inbox by joining the free DragnaCarta community on [Patreon](https://www.patreon.com/DragnaCarta).
 > 
@@ -21,6 +21,11 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 > [!lore]+ **The History of Death House**
 > See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
 # A1. Daggerford
+
+> [!warning]+ **Keep Your Workload Low**
+> *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
+> 
+> If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
 ## A1a. The Nightmare’s Bridle
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
 
@@ -106,7 +111,7 @@ The entrance beyond the portico is otherwise as described in <span class="citati
 > The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding. 
 >
 > In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
-![[The Durst Family.png]]### Main Hall
+### Main Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
 When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
@@ -290,7 +295,7 @@ This room is largely as described in <span class="citation">Conservatory (p. 214
 <p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. </p>
 </div>
 
-***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece parchment tucked beneath one of the strings. 
+***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
 
 The parchment is a piece of handwritten sheet music for the harpsichord titled *Waltz for Klara*. If the sheet music is played on the harpsichord, read:
 
@@ -507,6 +512,9 @@ The music box contains a rusted, bloodstained skinning knife as well as the key 
 
 The music box also contains two curled-up pieces of parchment. The first parchment shows a basic floor plan split into three rectangles labeled QUARTERS, SHRINE, and ALTAR. QUARTERS and SHRINE are connected at the top by a single line, and at the bottom by a double line, which connects both to ALTAR. The second parchment contains a list of unfamiliar names beneath the word RECRUITMENT.
 
+![[Death House Dungeon Map.png]]
+<span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 As the players exit the room, the rocking chair begins to rock softly and the music box opens and begins to play. The sound of motherly humming floats through the air for two measures, but grows off-key and distorted before coming to a violent, screeching halt. The rocking chair then stops rocking.
 ### Children’s Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
@@ -577,8 +585,6 @@ This room is largely as described in <span class="citation">Storage Room (p. 215
 The nursemaid’s **specter** does not appear in this room. Instead, a character who opens the trunk finds the nursemaid’s corpse, with wounds consistent with those seen on the spirit’s body in the **Nursemaid’s Suite**. A DC 14 Wisdom (Medicine) check reveals that the woman died of starvation.
 
 A player inspecting the remains feels a cold breath on their shoulder and the unshakeable sense of being watched. Meanwhile, if another player has previously uncovered a nearby mirror from its sheet covering, that player can see an apparition of Elisabeth Durst within the mirror staring at the player near the chest. Once observed, the apparition swiftly vanishes.
-
-**_Milestone_**. Descending into Death House's dungeon level completes a story milestone. When the party gains access to the secret stairs, award each player 200 XP. 
 ### Guest Bedroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
 
@@ -605,6 +611,7 @@ As the players descend the stairs, read:
 <p>As your eyes and ears adjust to the cold, subterranean corridor, you notice that the tunnel isn't as silent as the staircase above. An eerie, low-pitched sound echoes through the space—and you soon recognize it as a deep, incessant chanting.</p>
 </div>
 
+**_Milestone_**. Descending into Death House's dungeon level completes a story milestone. When the party exits the secret stairs, award each player 200 XP. 
 ## A2f. The Basement
 ### Family Crypts
 <span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
@@ -1043,9 +1050,9 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 > [!combat]- **Balancing the Flesh Mound**
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 2nd-level players and will consume approximately 28% of their total maximum hit points per phase (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the mound’s HP to 56 in each phase. Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 3 (1d4+1) damage. Reduce Engulf to 6 (2d4+1) damage. Reduce the Innocent Heart’s HP to 15. Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 7 (2d4+2). Reduce the Gore Spray’s damage to 5 (2d4).
-> * ***Four Players.*** Reduce the mound’s HP to 75 in each phase. Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 4 (1d6+1) damage. Change Engulf to 8 (2d6+1) damage. Reduce the Innocent Heart’s HP to 20. Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 9 (2d8+1).
-> * ***Six Players.*** Increase the mound’s HP to 112 in each phase. Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active. Increase the Bone Splinters to 6 (1d6+3) damage. Increase Engulf to 12 (2d8+3) damage. Increase the Innocent Heart’s HP to 30. Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active. Increase the Bite attack’s damage to 14 (2d10+3). Increase the Gore Spray’s damage to 9 (2d8).
+> * ***Three Players.*** Reduce the mound’s HP to 56 in each phase. Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 3 (1d4+1) damage. Reduce Engulf to 6 (2d4+1) damage. Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 7 (2d4+2). Reduce the Gore Spray’s damage to 5 (2d4).
+> * ***Four Players.*** Reduce the mound’s HP to 75 in each phase. Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 4 (1d6+1) damage. Change Engulf to 8 (2d6+1) damage. Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 9 (2d8+1).
+> * ***Six Players.*** Increase the mound’s HP to 112 in each phase. Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active. Increase the Bone Splinters to 6 (1d6+3) damage. Increase Engulf to 12 (2d8+3) damage. Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active. Increase the Bite attack’s damage to 14 (2d10+3). Increase the Gore Spray’s damage to 9 (2d8).
 ## A2h. Escape From Death House
 When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
 

@@ -120,7 +120,7 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
     <strong>Challenge Rating</strong> 2<br>
     <strong>Proficiency Bonus</strong> +2
     <hr>
-    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
+    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts its turn with 0 hit points and doesn't regenerate.</p>
     <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
     <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
     <h3>Actions</h3>
@@ -203,7 +203,7 @@ If the players tell the revenant that they are traveling to the Wizard of Wines,
 
 If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
+If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the southeast, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
 
 The revenant will not leave its post on the bridge under any circumstances.
 ## J2d. The Spiked Pit Trap
@@ -491,9 +491,11 @@ The druid and blights attack on sight. On their first turn in combat, the druid 
 > |2|[[#Fermentation Vats]]|2 **swarms of twig blights**|
 > |3|[[#Fermentation Vats]]|1 **druid naturalist** and 2 **elder twig blights**|
 > |4| - |None|
-> |5| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
+> |5| [[#Printing Press]]|1 **druid assailant** and 3 **vine blights**|
 > 
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+> 
+> If the druid and blights in the cellar are alerted by loud or explosive sounds from [[#Fermentation Vats]], the needle blights join the combat after two rounds, and the druid joins the combat after three rounds. If the fighting is taking place elsewhere in the winery, increase the number of rounds by one each.
 
 The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
 
@@ -687,7 +689,7 @@ If the players free the ravens from their cages, they join the party as a **swar
     <p><strong><em>False Appearance.</em></strong> While the blight remains motionless, it is indistinguishable from a dead sapling.</p>
     <h3>Actions</h3>
     <p><strong><em>Multiattack.</em></strong> The twig blight makes one attack with its <em>claws</em> and up to one attack with its <em>roots</em>.</p>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage and the target is grappled (escape DC 9).</p>
+    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage and the target is grappled (escape DC 9).</p>
     <p><strong><em>Root.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature that is grappled by the blight, incapacitated, or restrained. <em>Hit:</em> 4 (1d4 + 2) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the blight regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
 </div>
 
@@ -741,7 +743,7 @@ If the players free the ravens from their cages, they join the party as a **swar
 </div>
 
 ## J3d. The First Floor
-The first floor of the winery is largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>.
+The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
 ### Loading Dock
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
@@ -805,7 +807,7 @@ The two artificial birds are **greater strixes.** The man is a **druid naturalis
 * ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
 * ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points) and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
-The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
 
 > [!info]+ **Strix Statistics**
 > A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
@@ -1189,7 +1191,7 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > 
 > At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
 ## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she creates a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[#J5e. The Shroud of Mist]] below.)
+Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[#J5e. The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
@@ -1230,6 +1232,9 @@ The statistics of the wall of roots are as follows:
 * ***Segment Regeneration.*** A wall segment regains 10 hit points at initiative count 20 if it has at least 1 hit point and isn't in sunlight. If the segment takes radiant or fire damage, this trait doesn't function on the following round. Reducing a segment to 0 hit points destroys it.
 * ***Wrathful Roots.*** A creature other than Ludmilla that moves along the outer edge of the wall for the first time on a turn or ends its turn there must make a DC 17 Dexterity saving throw as long, thorned roots whip out from the wall’s surface. (A creature that moves along an interior edge of the wall—such as a corridor carved out by the players' attacks—is not attacked.) On a failure, the creature is grappled by the roots (escape DC 17) and takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. A bundle of grappling roots, which takes damage separately from its wall segment, has AC 15, 10 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
 
+> [!info]+ **Spirit Guardians**
+> The wall of roots takes damage from *spirit guardians* and other spells or abilities that trigger at the start of a creature's turn at initiative count 0 of each round.
+
 > [!info]+ **Moving Through the Wall**
 > A creature can move through the wall of roots, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a DC 17 Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
 
@@ -1238,7 +1243,7 @@ The statistics of the wall of roots are as follows:
 > 
 > While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
 ### Ludmilla's Provocations
-Once the players pass through the shroud of mist, Ludmilla also engages them in combat. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
+Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
 
 <div class="statblock">
     <h2>Ludmilla, First Form</h2>
@@ -1331,7 +1336,7 @@ A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Cha
 <p>With a shriek of rage and impotent fury, Muriel spreads her wings and launches into the air.</p>
 </div>
 
-Each time Muriel takes damage from Ludmilla's ***vengeful ward*** feature, blood from her wounds spills onto the earth of Yester Hill below. Read:
+Each time Muriel takes damage from Ludmilla's ***shroud of shadows*** feature, blood from her wounds spills onto the earth of Yester Hill below. Read:
 
 <div class=description>
 <p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
@@ -1541,7 +1546,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 >The agent departs after completing the requested task.
 
 > [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (miraculously undamaged) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
+> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
 > 
 > Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 

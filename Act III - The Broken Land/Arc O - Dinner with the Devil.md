@@ -24,7 +24,7 @@ When the players first see Rahadin, read:
 <p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
 </div>
 
-As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***deathly choir.*** Read:
+As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***screams of the dead.*** Read:
 
 <div class="description">
 <p>It begins with a dull roar—a prickle at the edge of your awareness, like the washing of the ocean against the shore. As the man grows closer, however, the muffled sound grows ever—more insistent, amplifying and building upon itself—until it resolves from a more innocuous sound, almost like waves, into a torrent of screams.</p>
@@ -306,7 +306,7 @@ As the players enter the keep, the castle drawbridge rises once more. Read:
 ## O4b. The Foyer
 <span class="citation"><em>This scene takes place in Chapter 4, Area K7.</em></span>
 
-The castle foyer is largely as described in <span class="citation">K7. Entry (p. 54)</span>. However, decrease the number of **dragon wyrmling** statues to two. The dragon statues do not attack the players for as long as the players are here by invitation.
+The castle foyer is largely as described in <span class="citation">K7. Entry (p. 54)</span>. However, decrease the number of **dragon wyrmling** statues to two. (The other two are harmless statuary.) The dragon statues do not attack the players for as long as the players are here by invitation.
 
 In addition, revise this area’s description as follows as Rahadin leads the players through for the first time:
 
@@ -457,6 +457,9 @@ In either case, continue:
 <p>"Good evening," Strahd von Zarovich says, his lips curling into a cordial smile.</p>
 </div>
 
+![[Strahd at Dinner.png]]
+<span class="credit">"Strahd at Dinner" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Each vampire spawn immediately falls silent and turns to offer Strahd a deep curtsy or bow. As she curtsies, Anastrasya bows her head and closes her eyes, murmuring, “Good evening, my lord." She adds, her eyes flickering toward Volenta, “I hope the night’s revelry did not disturb your work."
 
 After cordially dismissing Anastrasya’s concerns, Strahd greets the players, welcoming them to Castle Ravenloft and apologizing for Volenta’s behavior if necessary. (“She can be quite excitable at times," he notes crisply. “One of her most attractive qualities—and perhaps her greatest flaw.")
@@ -494,7 +497,7 @@ While Sasha is gone, Strahd continues to engage the players in smalltalk, posing
 
 If joined, Sasha remains silent as she descends the staircase, passes through <span class="citation">K61. Elevator Trap (p. 74)</span>, and enters <span class="citation">K62. Servants' Hall (p. 76)</span>. (The elevator trap is currently deactivated and doesn’t trigger when Sasha walks through it.) If any player attempts to speak to her, Sasha merely holds up a finger and shakes her head before glancing at the floor overhead, a grim frown upon her face.
 
-The servants’ hall is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, revise this revise this area's description as follows: 
+The servants’ hall is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, revise this area's description as follows: 
 
 <div class="description">
 <p>Heavy beams support the sagging, ten-foot-high ceiling of this long hall, its mortared walls illuminated by flickering torchlight. At the left end of the hall stands a pair of wooden doors, their heavy planks banded with steel. At the right end stands a raised metal portcullis, beyond which lies a dark wine cellar.</p>
@@ -647,7 +650,7 @@ When the topic has been exhausted, Strahd guides the players through  <span clas
 ## O6c. King’s Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
 
-This area is largely as described in <span class="citation">K27. King’s Hall (p. 61)</span>. However, this room now contains the tapestry described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>. Add the description of that tapestry to the end of this area’s description.
+This area is largely as described in <span class="citation">K27. King’s Hall (p. 61)</span>. However, this room now contains the tapestry described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, which is located midway along the corridor's south wall, covering the secret door that leads to <span class="citation">K31. Trapworks (p. 63)</span>. Add the description of that tapestry to the end of this area’s description.
 
 In addition, the mannequin trap is currently disarmed and doesn’t activate as the characters walk through the corridor.
 
@@ -655,7 +658,7 @@ As the players approach the tapestry, Strahd pauses beside it. “Do you know wh
 
 Strahd can share that the tapestry depicts his father, King Barov, leading his fearsome knights into glorious battle. If the players ask about the sword King Barov is wielding, Strahd shares that it was the *Brightblade*—a sword fashioned from the hilt of an elven *Moonblade* and a crystal blade imbued with the radiance of the Morninglord. “It was broken long ago, however," he adds quietly, his voice oddly hollow.
 
-When the topic has been exhausted, Strahd guides the players to <span class="citation">K25. Audience Hall (p. 61)</span>.
+When the topic has been exhausted, Strahd guides the players through <span class="citation">K26. Guards' Post (p. 61)</span> into <span class="citation">K25. Audience Hall (p. 61)</span>.
 ## O6d. Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
 
@@ -703,6 +706,8 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via <span class="citation">K18. High Tower Staircase (p. 58)</span>.
 * Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59)</span> into the castle via <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, which allows access to the servants’ quarters and kitchens.
 * Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in <span class="citation">K41. Treasury (p. 67)</span>).
+
+Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand stalks the shadows of any who enter."
 
 Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions. 
 
@@ -793,12 +798,12 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > [!abstract] **Wandering Players**
 > If any players disobey their guide’s instructions and split off from the remainder of the party to explore Castle Ravenloft, they encounter the following scenes as they do so.
 >
-> > [!info]- **B2F. Dungeon & Catacombs** 
+> > [!info]- **Second Basement Floor (B2F). Dungeon & Catacombs** 
 > > If a player instead descends two floors down <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, they emerge into <span class="citation">K73. Dungeon Hall (p. 79)</span>. This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>; however, remove the reference to the “cry for help" from this area’s description. The teleport traps function as described in [[Arc P - Ravenloft Heist#P11d. Torture Chamber|Arc P - Ravenloft Heist]]. If the character falls victim to one of the teleport traps, they are swiftly retrieved by Rahadin, who escorts them up to the guest suite.
 >
 > <br>
 >
-> > [!info]- **B1F. Larders of Ill Omen** 
+> > [!info]- **First Basement Floor (B1F). Larders of Ill Omen** 
 > > If a player instead descends one floor down <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, they emerge into <span class="citation">K61. Elevator Trap (p. 74)</span>, which remains deactivated and doesn’t trigger if a player walks through it. The remainder of this floor is as follows:
 > >
 > > * **Servants’ Hall.** This area is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>, but remove the final sentence referring to the “dark figure" from this area’s description. In addition, the double doors leading to <span class="citation">K67. Hall of Bones (p. 78)</span> are locked, requiring a successful DC 20 Dexterity (Thieves’ Tools) check or DC 25 Strength check to open.
@@ -821,12 +826,12 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 >
 > <br>
 >
-> > [!info]- **1F. Main Floor** 
+> > [!info]- **First Floor (1F). Main Floor** 
 > > If a player instead lingers in <span class="citation">K9. Guests’ Hall (p. 56)</span>, they are swiftly met by Strahd, who cordially advises them to follow Rahadin up to the guest quarters.
 >
 > <br>
 > 
-> > [!info]- **2F. Court of the Count** 
+> > [!info]- **Second Floor (2F). Court of the Count** 
 > > If a player ascends only one floor up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K30. King’s Accountant (p.62)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
 > >
 > > * **King’s Accountant.** This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief greets any intruders with wariness and suspicion, and threatens to pull his rope to summon the castle’s guards if the players threaten him or the treasures he guards.
@@ -835,7 +840,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 >
 > <br>
 > 
-> > [!info]- **3F. Rooms of Weeping** 
+> > [!info]- **Third Floor (3F). Rooms of Weeping** 
 > > If a player ascends only two floors up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K35. Guardian Vermin (p. 64)</span>. is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
 > > 
 > > **Guardian Vermin.** This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>, except that the door leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check or DC 20 Strength check to open. The **swarms of rats** attack any player that touches them, as well as any player that tries to pick the lock or force the door open.
@@ -844,7 +849,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 >
 > <br>
 > 
-> > [!info]- **5F & 6F. Spires of Ravenloft** 
+> > [!info]- **Fifth & Sixth Floor (5F & 6F). Spires of Ravenloft** 
 > > If a player attempts to ascend <span class="citation">K48. Offstair (p. 70)</span> past <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they must succeed on a DC 24 Dexterity (Stealth) check or be caught by Rahadin. If the player successfully avoids Rahadin’s gaze, they can continue ascending the staircase as follows:
 > >
 > > * **5F. Familiar Room, Element Room & Cauldron.** If a player ascends an additional floor beyond the fourth-floor landing comprising <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they emerge onto the fifth-floor landing leading to <span class="citation">K54. Familiar Room (p. 71)</span>.  The Familiar Room and the rooms beyond are largely as described in <span class="citation">K54. Familiar Room (p. 71)</span>, <span class="citation">K55. Element Room (p. 72)</span>, and <span class="citation">K56. Cauldron (p. 72)</span>. However, the Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the Cauldron room, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into <span class="citation">K48. Offstair (p. 70)</span>.
@@ -888,6 +893,8 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of <span class="citation">K65. Kitchen (p. 78)</span>.
 * Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via <span class="citation">K18. High Tower Staircase (p. 58)</span>.
 * Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59)</span> into the castle via <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, which allows access to the servants’ quarters and kitchens.
+
+Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand stalks the shadows of any who enter."
 
 Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions.
 
@@ -945,7 +952,7 @@ Shortly after the players regain their bearings, read:
 The players then suffer the effects of **The Chiming Clock** below.
 
 > [!info]+ **The Chiming Clock**
-> The clock chimes on each hour. Each time the clock chimes, each player must immediately make a DC 16 Constitution saving throw, taking 7 (2d6) necrotic damage on a failure or half as much on a success. A player who takes this damage has their hit point maximum reduced by an amount equal to the necrotic damage taken. The reduction lasts until the player finishes a long rest.  A character whose maximum hit points is reduced to 0 this way vanishes from the nightmare, their soul taken from their body until the players either defeat or redeem the spirit of Varushka in [[#O8g. Escaping the Nightmare]].
+> The clock chimes on each hour. Each time the clock chimes the hour, each player must immediately make a DC 16 Constitution saving throw, taking 7 (2d6) necrotic damage on a failure or half as much on a success. A player who takes this damage has their hit point maximum reduced by an amount equal to the necrotic damage taken. The reduction lasts until the player finishes a long rest.  A character whose maximum hit points is reduced to 0 this way vanishes from the nightmare, their soul taken from their body until the players either defeat or redeem the spirit of Varushka in [[#O8g. Escaping the Nightmare]].
 >
 > The clock continues to chime on the hour, even if damaged or destroyed. If cast out of a window or otherwise removed from the guest suite, it reappears in its original place on the wall in perfect condition shortly thereafter.
 > 
@@ -958,6 +965,9 @@ If a player investigates the closet, read:
 </div>
 
 The dead woman’s corpse is brown-haired, short, and freckled. She wears a plain, white wool dress and apron. A player who inspects her body finds a pair of puncture marks on her neck.
+
+> [!info]+ **Speak With Dead**
+> Players who cast *speak with dead* on Varushka's corpse can learn the same information as in [[#O8e. The Fifth Level]]. Varushka's corpse can also share that she committed suicide by hanging when she realized Strahd would never let her go free.
 
 A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> on [[#O8a. The Second Level]].
 
@@ -1336,7 +1346,7 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <hr>
 <strong>Saving Throws</strong> Wis +6<br>
 <strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, paralyzed, petrified, poisoned<br>
+<strong>Condition Immunities</strong> charmed, grappled, exhaustion, paralyzed, petrified, poisoned, restrained<br>
 <strong>Senses</strong> Darkvision 60 ft.<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 8<br>
@@ -1400,7 +1410,6 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <strong>Languages</strong> —<br>
 <strong>Challenge</strong> 2<br>
 <strong> Proficiency Bonus</strong> +4
-<div class="break"></div>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
 <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, one target, reach 5 ft. <em>Hit:</em> 8 (1d10 + 3) damage and the target must succeed on a DC 14 Strength saving throw or fall prone.</p>
@@ -1445,7 +1454,6 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <strong>Languages</strong> —<br>
 <strong>Challenge</strong> 2<br>
 <strong>Proficiency Bonus</strong> +4
-<div class="break"></div>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
 <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, one target, reach 5 ft. <em>Hit:</em> 15 (2d10 + 4) damage and the target must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet (Varushka’s choice). If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 bludgeoning damage per 5 feet not moved and is grappled by the object (escape DC 16).</p>

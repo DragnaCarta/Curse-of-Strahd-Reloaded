@@ -323,7 +323,7 @@ Dmitri apologizes to the players for concealing this information from them, and 
 > 
 > Dmitri and Anna, traversing the woods with a hunting party, scared Kiril off and found Ezmerelda unconscious and near-death amidst the trees. They brought Ezmerelda back to Krezkov and nursed her back to health. As she regained her strength, Ezmerelda regaled Anna and the young Ilya Krezkov with tales of her adventures in the lands beyond the mists, filling Ilya’s head with dreams of hunting monsters as she did.
 > 
-> When Ezmerelda’s wound was fully healed, Anna and a party of three Krezkians escorted her to nearby Vallaki, where Ezmerelda commissioned her prosthetic leg from the toymaker Gadof Blinsky. Ezmerelda thanked the Krezkovs deeply for their kindness, and swore to aid and protect them should they ever require it.
+> When Ezmerelda’s wound was fully healed, Anna and a party of three Krezkians escorted her to nearby Vallaki, where Ezmerelda commissioned her prosthetic leg from the toymaker Gadof Blinsky. (Although Baron Vallakovich's edicts prohibited Vistani from entering the town's walls, Baroness Krezkova's steely will and diplomatic manner were sufficient to bypass any such restrictions.) Ezmerelda thanked the Krezkovs deeply for their kindness, and swore to aid and protect them should they ever require it.
 > 
 > When Ezmerelda returned to Barovia in search of Dr. Van Richten, she sought shelter with the Krezkov family once again—and learned of Ilya’s fate and Anna’s bargain. Incensed with righteous fury, Ezmerelda vowed to bring Ilya home, as well as find a means of dissuading the Abbot from collecting his payment. Since then, she has spent most of her days and nights prowling the local Svalich Wood for signs of Ilya and—if the players completed [[Arc I - The Walls of Krezk]]—the den of the werewolves that took him, using her wagon as a mobile base near the shores of Lake Baratok.
 > 
@@ -655,15 +655,20 @@ If the players share that they’ve come to recruit her to their cause, Ezmereld
 
 * Her mentor is Dr. Rudolph van Richten, the legendary vampire hunter. Three months ago, she and his other former students received a letter he’d sent announcing his intention to travel to Barovia. 
 * As the sole Vistana among his students, only she was able to trace his path through the mists and track him to the valley. Upon her arrival, however, she learned from a traveling Vistani caravan that Dr. Van Richten was rumored to be dead, having fallen in battle in a failed rebellion at Castle Ravenloft.
+
+> [!abstract]+ **Ezmerelda & Van Richten**
+> If the players mention meeting Dr. Van Richten in [[Arc E - The Missing Vistana]], Ezmerelda is delighted and grateful to hear that her mentor is still alive. She asks the players, however, to refrain from telling her his location, at least for now. "Knowledge grows more dangerous the further it spreads," she says, "especially when a vampire can easily charm it out of you. If the old man wants to stay hidden, it's probably best that it stays that way."
 ### What Ezmerelda Knows
 Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
 
 * She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
 * Upon first visiting the Abbey, Ezmerelda—a weak clairvoyant—swiftly sensed that unquiet spirits lingered within its shadowed halls. She has intended to return ever since, planning to contact those spirits to further investigate the Abbot’s identity and the cause of his growing madness. (The chalk circle is meant to provide the medium for a seance, focusing the energies Ezmerelda must call upon and acting as a protective barrier against malevolent spirits.)
-* Two nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
-* Five years ago, while hunting a brutal and bloodthirsty werewolf nicknamed "the Black Terror," Ezmerelda tracked him to the valley of Barovia and pursued him through the mists. However, she was cocky and arrogant, and her foolishness led her straight into an ambush. The Black Terror bit off her right leg below the knee, and it was only the quick arrival of Anna and Dmitri that saved her. The Krezkovs nursed her back to health, and took her to Vallaki to obtain a replacement leg, which she obtained from an eccentric toymaker named Gadof Blinsky.
+* Three nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
+* After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition, Ezmerelda shares, will take place at dusk the following night. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."
 
-Additionally, Ezmerelda is tentatively willing to join the players in their fight against Strahd. Before she does so, however, they must first prove their worth by assisting her in the following two tasks:
+If asked how she lost her leg, Ezmerelda grins wryly, and says only that it's "a story for another day." (Ezmerelda can share the full story of her prosthetic leg in [[Arc L - The Den of Wolves]].)
+
+Ezmerelda is tentatively willing to join the players in their fight against Strahd. Before she does so, however, they must first prove their worth by assisting her in the following two tasks:
 
 * conducting a seance immediately to contact the Abbey’s restless spirits; and
 * investigating the werewolf den **the following** **night**, while the bulk of the pack is away hunting.
