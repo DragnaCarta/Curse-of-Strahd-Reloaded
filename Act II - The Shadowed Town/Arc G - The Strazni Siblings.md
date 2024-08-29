@@ -58,6 +58,10 @@ If Ireena was at St. Andral's Church when Izek visited the inn, she visits the i
 
 ***Ireena's Choice.*** Whether Ireena was at the inn or church during Izek's attack, she is filled with guilt, rage, and frustration upon learning of it. With a tremble in her voice, she demands that the players allow her to accompany them should they decide to put a stop to Izek's rampage. Ireena doesn't care about Izek's motivation; she simply wants others to stop suffering for their decisions to protect her.
 
+If the players insist that she remain at the inn, Ireena asks if they truly believe her to be "helpless and incompetent." "Am I a piece of porcelain, to be sealed away so that it can never be chipped?" she demands furiously. "Am I a princess, to be locked away in a tower so that no dragon can snatch me? Did you forget that my father and brother trained me to wield a sword? Or do you mean to take this decision from me, just as Strazni and the Devil do?"
+
+Ireena, determined and stubborn, can't be convinced to remain at the inn or church, and insists on accompanying the players if they attempt to leave without her. Players can keep her from attempting to join them only by succeeding on a DC 16 Charisma (Deception) check to deceive her or by succeeding on a DC 14 Dexterity (Stealth) check to slip away when she's distracted.
+
 > [!abstract]+ **Urwin's Aid**
 >
 > If the players request Urwin’s aid in tracking Izek, Urwin meets them in the taproom the following morning to share the following information, though he politely declines to reveal his sources:

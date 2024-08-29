@@ -77,7 +77,7 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 >
 > ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 >
-> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by Rictavio, the traveling ringmaster. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals.
+> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
@@ -206,6 +206,13 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 > ***Morale.*** In a fight, Kasimir would attempt to negotiate a peace, but would not hesitate to unleash his most powerful spells—or use his magic to escape—if a diplomatic solution proved untenable.
 >
 > ***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of Rahadin, Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
+
+> [!info]+ **What Kasimir Knows**
+> If asked about the different factions and locations throughout Barovia, Kasimir can provide the following information:
+> * ***The Forest Folk.*** "Their ancestors first discovered this valley thousands of years ago. They are a reclusive people, however, and today serve the Devil and his servants."
+> * ***Argynvostholt.*** Kasimir shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
+> * ***The Amber Temple.*** Kasimir pauses thoughtfully, then shares that the Order of the Silver Dragon was once rumored to guard "secrets hidden in amber," and that their revenants and spirits yet haunt Argynvostholt to this day.
+> * ***The Werewolf Den.*** Kasimir shares that the werewolf pack has historically been bloodthirsty and brutal, but become far more reserved—even peaceful—a decade after Strahd entered hibernation. "I presume it was a change of leadership," he notes, "following the absence of pressure from the castle. With Strahd awoken, however, their aggression has reemerged." (Kasimir doesn't know where their den is, but knows that their activities have historically been focused on the western half of the valley.)
 
 His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 12 Wisdom (Medicine) check identifies the symptoms of frostbite.)
 
@@ -381,6 +388,10 @@ If persuaded to aid the players in finding Arabelle, Victor can share the follow
 
 If the players agree to investigate Khazan’s tower and give Victor any artifacts they find, he tells them where the tower can be found: a gravel causeway on Lake Baratok, to the west. 
 
+> [!info]+ **What Victor Knows**
+> If asked about the different factions and locations throughout Barovia, Victor can provide the following information:
+> * ***The Amber Temple.*** Victor flips through his spellbook, then shares that, according to its pages, Khazan once sought out the secrets of power at a temple "forged of amber." "According to his notes, it was previously guarded by an order of knights in the service of a dragon," he adds curiously. "But when Strahd conquered the valley, he slaughtered them all."
+
 Victor isn’t sure how to get to Lake Baratok from Vallaki. However, he does know someone who will: Szoldar Szoldarovich, one of the town’s most skilled hunters. (Last year, in an effort to encourage Victor to develop more masculine hobbies and traits, Vargas forced him to accompany Szoldar on a hunting trip in the woods by Vallaki’s walls. Victor detested the experience, but came away with a healthy respect for Szoldar’s knowledge of Barovia’s wilderness.)
 
 If the players are interested in speaking with Szoldar, Victor directs them to a ramshackle hut at the mouth of the Luna River to the west, which Szoldar and his partner, Yevgeni Krushkin, have turned into a dressing shack for skinning, gutting, and butchering their kills. To get there, the players should travel north, past Vallaki’s Zarovich Gate, and then travel west along the shores of Lake Zarovich.
@@ -518,7 +529,7 @@ If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they r
 * The sets of manacles
 * The wooden chest containing the holy symbol, holy water, perfume, antitoxin, rope, tinderbox, steel mirror, wooden stake, and spyglass
 * The spell scrolls
-* The map of Barovia
+* The map of Barovia (which shows only the roads and settlements of Barovia, and no longer shows all the locations marked on the adventure's map of Barovia)
 
 If the players enter the wagon by means of the door instead of the trapdoor, Ezmerelda's chicken squawks angrily at them until they depart.
 
@@ -538,7 +549,7 @@ The tower door is largely as described in <span class="citation">V2. Tower Door 
 
 The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in <span class="citation">V2. Tower Door (p. 169)</span>. If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
 ![[Tower Door.png]]
-Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
+Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
 A player who compares the platinum signet ring to the symbols notices that the evocation and necromancy runes exactly match the appearance of their corresponding symbols on the door. To unlock the door, the players must press the buttons in the order given by the pattern of crossed lines on the signet ring, beginning with either the evocation or necromancy symbol and moving along the lines in the proper sequence. 
 
@@ -608,7 +619,6 @@ The scaffolding is as described in <span class="citation">V3. Rickety Scaffoldin
 <hr>
 <p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
 <p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<div class="break"></div>
 <p><strong><em>Cold Shift.</em></strong>If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
 <p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
 <p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
@@ -754,6 +764,23 @@ The players' return to Vallaki from Lake Baratok is three and one-quarter miles 
 When the players return to Vallaki, they can pursue their leads either by seeking out Rictavio at the Blue Water Inn, or by directly investigating Rictavio’s wagon in Arasek Stockyard.
 
 As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
+
+> [!profile]+ **NPC Profile: Dr. Rudolph van Richten**
+> **Roleplaying Information**
+> ***Resonance.*** Van Richten should inspire gratitude for his knowledge (freely shared), comfort with his confidence and experience, and mild irritation with his paranoia and bluntness.
+> 
+> ***Emotions.*** Van Richten most often feels suspicious, wary, thoughtful, concerned, wistful, satisfied, inquisitive, guilty, and ashamed.
+> 
+> ***Motivations.*** Van Richten wants to keep Arabelle safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for Erasmus's death and his slaughter of the Radanaviches.
+> 
+> ***Inspiration.*** When playing Van Richten, channel Alastor "Mad-Eye" Moody (*Harry Potter*), Geralt of Rivia (*The Witcher*), and Mike Ehrmantraut (*Breaking Bad*).
+> 
+> **Character Information**
+> ***Persona.*** To the world, Van Richten is a merciless, battle-hardened monster hunter. To those he trusts, Van Richten is a compassionate mentor with exceedingly high standards, a hefty paranoid streak, and an occasional temper. Only Van Richten knows the depths of the guilt, shame, and self-loathing he feels for the deaths of his son and wife, and his slaughter of the Radanavich Vistani caravan.
+> 
+> ***Morale.*** In a fight, Van Richten would attempt to outwit or outmaneuver his foe, retreating as necessary in order to secure the most advantageous terrain.
+> 
+> ***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
 ## E8a. Confronting Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
@@ -902,6 +929,11 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 
 > [!abstract]+ **Inspecting Ireena**
 > If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.") Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
+
+> [!abstract]+ **Recruiting Van Richten**
+> If the players attempt to recruit Van Richten to their party, he politely but firmly declines. If the players ask his reason for doing so, he insists that he must remain at Arabelle's side to keep her safe from Strahd's minions. "I failed to guard a child once," he says stiffly. "I shall not make that mistake again." (Van Richten won't explain further.)
+> 
+> A player who succeeds on a DC 15 Wisdom (Insight) check notices that Van Richten seems to be holding something back. If challenged, Van Richten lauds the player for their astuteness, but refuses to explain himself further. "I work alone—and for good reason," he states firmly. "Such reasons are my own."
 # Design Notes: The Missing Vistana
 The original module's quest to rescue Arabelle provides the players with no clear motive for her kidnapping, no real reason to find her, and no clear clues to follow in order to do so. The original module also provides Dr. Rudolph van Richten with no clear purpose while in Vallaki, introducing him as little more than a murderous pseudo-antagonist who wishes to commit mass homicide against the Vistani of the nearby encampment with a vague (though undeveloped) interest in investigating the Keepers of the Feather.
 

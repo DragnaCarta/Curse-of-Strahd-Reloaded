@@ -48,7 +48,7 @@ Additionally, Stella's room is neither musty nor dark, and her bed is not fitted
 
 ***Master Bedroom.*** Lady Wachter’s late husband, Nikolai, was buried in the cemetery after his death several years ago and is no longer in Lady Wachter’s bed in <span class="citation">N4o. Master Bedroom (p. 113)</span>.
 
-Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 113)</span> also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch.
+Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 113)</span> also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though Lady Wachter doesn't know its significance.
 
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
 
@@ -127,9 +127,9 @@ Lady Wachter may also respond to player questions as follows:
 > [!info]+ **What Lady Wachter Knows**
 > If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
 > 
-> * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside through the Svalich Wood."
+> * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside throughout the Svalich Wood."
 > * ***Argynvostholt.*** Lady Wachter shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
-> * ***The Amber Temple.*** Lady Wachter knows nothing about any structure bearing "amber doors," and is ignorant of the existence of the Amber Temple.
+> * ***The Amber Temple.*** Lady Wachter can share that she once heard of an "order of knights" inhabiting the abandoned manor to the west, which was said to guard a place called the "Amber Temple." (She learned of this from her mentor, the swamp witch Baba Lysaga, who she refers to only as "Lysa.") She knows little else, however.
 > * ***The Werewolf Pack.*** "An uncivilized assortment of bloodthirsty brutes. Their aggression has intensified as of late, I fear, but Vallaki's walls and silver have kept us safe." (Lady Wachter doesn't know where the pack's den lies, and doesn't know enough to speculate.)
 
 > [!lore]+ **Who is Lysa?**

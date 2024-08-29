@@ -17,6 +17,20 @@ Upon receiving a warning and invitation sent in a dream from the Vistani seer Ma
 As the players travel to Madam Eva's camp and the nearby town of Vallaki, they encounter a number of characters with ties to possible future adventures, as well as some adversarial encounters that will test their tactics, coordination, and combat skill.
 
 Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
+
+## Act I Milestones
+| Level | Arc | Milestone                                                          | XP    |
+| :---: | --- | ------------------------------------------------------------------ | ----- |
+|   2   | A   | The players access the secret stairs in Death House                | 200   |
+|   2   | A   | The players begin their first long rest after escaping Death House | 400   |
+|   3   | B   | The players defend and depart the village of Barovia               | 400   |
+|   3   | B   | The players aid Doru in passing his test of will                   | 100   |
+|   3   | B   | The players receive the Tarokka reading                            | 500   |
+|   3   | C   | The players arrive in Vallaki                                      | 1,000 |
+|   3   | C   | The players escort Ireena to Vallaki                               | 250   |
+|   4   | D   | The players restore the bones of St. Andral                        | 1,250 |
+|   4   | E   | The players find Arabelle and receive her prophecy                 | 1,250 |
+|       |     |                                                                    |       |
 # Act II: The Shadowed Town
 <div class="subtitle"><em>For characters of 4th level and higher.</em></div>
 In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has fallen to tension and conflict in the wake of Strahd's awakening.
@@ -30,6 +44,15 @@ Meanwhile, one of the players begins to experience haunting apparitions, leading
 Through it all, the players will have an opportunity to seek out clues leading to the hidden location of the *Tome of Strahd*, which—depending on the Tarokka reading they received—may be hidden in the Baron's mansion or in Wachterhaus. And as the date of the Festival of the Blazing Sun approaches, Izek Strazni and Ireena Kolyana grow closer to a fateful, yet tragic encounter.
 
 Act II ends on the morning after the players' first full moon in Barovia, which takes place on the night of the sixth full day after they first arrive in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+
+| Level | Arc   | Milestone                                                | XP    |
+| :---: | ----- | -------------------------------------------------------- | ----- |
+|   4   | D     | The players restore the bones of St. Andral              | 1,250 |
+|   4   | E     | The players find Arabelle and receive her prophecy       | 1,250 |
+|   4   | F / G | The players defeat Izek Strazni                          | 1,250 |
+|  4/5  | I     | The players gain safe passage through Krezk's gates      | 750   |
+|   5   | H     | The players rescue Stella's soul from the Ethereal Plane | 1,750 |
+
 # Act III: The Broken Land
 <div class="subtitle"><em>For characters of 5th level and higher.</em></div>
 
@@ -48,6 +71,27 @@ On the night of [[Arc O - Dinner with the Devil]], the players are escorted by S
 Should the players survive, they are free to return the following night for [[Arc P - Ravenloft Heist]], where they must battle Strahd's brides and servants to fulfill their assorted quests. Should they escape, they can then return to purify the Abbot, defeat the werewolf alpha Kiril Stoyanovich, and light the radiant beacon of Argynvostholt.
 
 Act III ends when the players recruit the dusk elf Kasimir to journey to the Amber Temple. When the act ends, the **tree blight** Wintersplinter destroys the Wizard of Wines winery unless the players stopped the druids' ritual in [[Arc J - The Stolen Gem]].
+
+| Starting Level | Arc | Milestone                                                                                    | XP    |
+| :------------: | --- | -------------------------------------------------------------------------------------------- | ----- |
+|       5        | J   | The players reclaim the winery from the druids of Yester Hill                                | 2,000 |
+|       5        | J   | The players defeat the druids of Yester Hill                                                 | 2,500 |
+|       6        | K   | The players recruit Ezmerelda d'Avenir                                                       | 1,250 |
+|       6        | L   | The players rescue Ilya Krezkov and Zuleika Toranescu from the werewolf den                  | 1,500 |
+|       6        | M   | The players hear the dragon gargoyle's prophecy in Argynvostholt                             | 2,000 |
+|       6        | O   | The players dine with Strahd and survive Varushka's spirit in Castle Ravenloft               | 4,000 |
+|       6        | O   | The players reunite Varushka with Katarina's necklace and retrieve Varushka's hidden cache   | 500   |
+|       7        | P   | The players recover Argynvost's skull from Castle Ravenloft                                  | 1,000 |
+|       7        | P   | The players recover the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft | 1,000 |
+|       7        | P   | The players rescue Emil Toranescu from the Castle Ravenloft dungeons                         | 1,000 |
+|       7        | P   | The players rescue Gertruda from Castle Ravenloft                                            | 500   |
+|       7        | P   | The players obtain the *spear of the Huntress* from King Dostron's crypt in Castle Ravenloft | 500   |
+|       7        | P   | The players loot Strahd's treasury in Castle Ravenloft                                       | 500   |
+|       7        | Q   | The players defeat the Abbot                                                                 | 2,000 |
+|       7        | Q   | The players redeem the Abbot after defeating him                                             | 500   |
+|       7        | Q   | The players defeat Kiril Stoyanovich                                                         | 3,000 |
+|       7        | Q   | The players light Argynvost's beacon                                                         | 3,000 |
+
 # Act IV: Secrets of the Ancient
 <div class="subtitle"><em>For characters of 8th level and higher.</em></div>
 
@@ -55,24 +99,18 @@ Throughout this act, and until the players light the *Sunsword*, Strahd—having
 
 Meanwhile, the players journey with the dusk elf Kasimir Velikov to the Amber Temple, traveling along Tsolenka Pass as they ascend Mount Ghakis in [[Arc S - The Amber Temple]]. As they do, they can befriend the Mountain Folk of Soldav, including Elder Burebis, an ancient **storm giant** and devotee of the Ladies Three. From Burebis, the players can learn of the three Fanes of Barovia, and of the profane knowledge that Strahd took from the Amber Temple to desecrate them.
 
-After overcoming the trials of Mount Ghakis's slopes, including Strahd's chamberlain Rahadin, the **giant goat** Sangzor, multiple fiends corrupted by the Amber Temple, and the **roc** of Mount Ghakis itself, the players can finally arrive at their destination. Within the Amber Temple, the players can obtain the broken hilt of the *Sunsword*, as well as the arcane secrets that Strahd used to corrupt the Barovian Fanes—and which can, in turn, be used to restore them.
+After overcoming the trials of Mount Ghakis's slopes, the **giant goat** Sangzor, multiple fiends corrupted by the Amber Temple, and the **roc** of Mount Ghakis itself, the players can finally arrive at their destination. Within the Amber Temple, the players can obtain the broken hilt of the *Sunsword*, as well as the arcane secrets that Strahd used to corrupt the Barovian Fanes—and which can, in turn, be used to restore them.
 
 Upon restoring the memory of the **lich** Exethanter and sharing with him the schematics found in the *Tome of Strahd*, the players can also learn Strahd's ultimate plan: to channel the power of the Fanes into the indestructible Heart of Sorrow within Castle Ravenloft, which Strahd will use to tear open the Mists and escape. The players will also learn that Strahd plans to consume the souls of all Barovia in order to power his audacious scheme, and that he cannot ever truly be killed unless severed from the Fanes' power.
 
-When the players have recovered the broken hilt of the *Sunsword*, a mysterious dream invites them to return to the Shrine of the White Sun in Krezk. There, they are met by Madam Eva, who provides the players with the Martikovs' long-lost enchanted gemstone, and the ghost of Sergei von Zarovich, who uses the power of the blessed pool to restore the *Sunsword's* radiant blade.
+When the players have recovered the broken hilt of the *Sunsword*, they learn that Strahd is hunting Dr. Rudolph van Richten for use in his fell ritual, and must aid him and the Vistana Arturi Radanavich to lift both men's curses in [[Arc T - The Monster Hunter]]. When dawn comes, however, the players learn that the swamp witch Baba Lysaga has kidnapped the Martikovs of Vallaki and the Wizard of Wines winery, forcing them to travel to Berez to defeat her in [[Arc U - The Witch of Berez]]. 
 
-If Ireena still accompanies the players, Sergei invites her to take sanctuary at the Shrine—an offer which she denies if the players have treated her with kindness and courage. If she rejects him, Sergei advises Ireena to journey to the ruined manor in Berez, where a wandering spirit can help her learn the true nature of Strahd's curse—and her own.
-
-As the players depart Krezk, they learn that the swamp-witch Baba Lysaga has kidnapped three of the Martikovs from the Wizard of Wines winery—and that she is planning to sacrifice them in a foul and profane ritual. Should the players defeat her in [[Arc T - The Witch of Berez]], Lysaga unleashes the power of the Three Sisters: three twisted leeches that Strahd set to devour the energies of the Fanes, and which now aim to spread hatred, envy, and despair across the valley.
-
-In [[Arc U - The Ladies of the Fanes]], the players must use Leo Dilisnya's dagger to expose and defeat each leech in turn—the Gulthias Tree at the Forest Fane upon Yester Hill; the corpse of Ismark the Great at the Swamp Fane in Berez; and the dead egg of the Roc of Mount Ghakis at the Mountain Fane beneath Old Bonegrinder—before using the winery's three gems to reconsecrate each Fane in turn. As they do, the land grows ever-more hostile to the players' presence, the very plants, earth, and storms of Barovia obstructing their path.
-
-Act IV ends when the players reconsecrate all three Fanes.
+In [[Arc V - The Ladies of the Fanes]], the players must use the three enchanted gems of the Wizard of Wines winery and three ancient artifacts retrieved from the Gulthias Tree of Yester Hill to reconsecrate the three Fanes, even as Strahd musters his forces to defeat them. Act IV ends when the players reconsecrate all three Fanes.
 # Act V: The Curse of Strahd
 <div class="subtitle"><em>For characters of 9th level and higher.</em></div>
-In this act, soon after the last Fane is restored, Strahd's masterstroke unfolds. By releasing the stored energy bound within the Heart of Sorrow, Strahd plunges Barovia into an eternal night—and turns the valley itself into desecrated ground. Meanwhile, the Whispering Wall—resonating with the energies of the Heart of Sorrow—relocates to the surface of Lake Zarovich, where its deadly tendrils threaten to extinguish all life in Vallaki in [[Arc V - Forgotten Dreams]].
+In this act, soon after the last Fane is restored, Strahd's masterstroke unfolds. By releasing the stored energy bound within the Heart of Sorrow, Strahd plunges Barovia into an eternal night—and turns the valley itself into desecrated ground. Meanwhile, the Whispering Wall—resonating with the energies of the Heart of Sorrow—relocates to the surface of Lake Zarovich, where its deadly tendrils threaten to extinguish all life in Vallaki in [[Arc W - Forgotten Dreams]].
 
-Even once the Whispering Wall is quelled, however, a greater danger emerges in [[Arc W - The Curse of Strahd]]. As an undead apocalypse threatens to overwhelm the Barovian people, the players must journey to Castle Ravenloft to face Strahd at the Heart of Sorrow. As the final battle unfolds, the Heart of Sorrow shows visions of Strahd's undead siege from across Barovia—and of the heroic resistance shown by the allies and friends that the players have made across their journey:
+Even once the Whispering Wall is quelled, however, a greater danger emerges in [[Arc X - The Curse of Strahd]]. As an undead apocalypse threatens to overwhelm the Barovian people, the players must journey to Castle Ravenloft to face Strahd at the Heart of Sorrow. As the final battle unfolds, the Heart of Sorrow shows visions of Strahd's undead siege from across Barovia—and of the heroic resistance shown by the allies and friends that the players have made across their journey:
 
 ***Village of Barovia.*** If the players escorted Ireena to Vallaki, reconciled Doru with Father Donavich, befriended Dr. Rudolph van Richten in Vallaki, and inspired Ireena to reject Sergei's invitation, the village of Barovia is saved by the leadership and prowess of Ismark Kolyanovich, Doru and Donavich, Dr. Van Richten and the **ghost** Erasmus van Richten, and the spirit of Sergei von Zarovich.
 

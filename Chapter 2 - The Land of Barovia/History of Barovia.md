@@ -1,7 +1,7 @@
 *All dates are given in the Barovian calendar, in which "B.U." stands for "Before Unification", and "B.C." stands for "Barovian Calendar." The year 1 B.C. is marked by the founding of the first Kingdom of Zarovia by King Barov von Zarovich I.*
 # The Ancient Era (3,000 BU–0 BC)
 ## Origins of the Valley
-Nearly four millenia ago, the land of Barovia was a peaceful valley inhabited by the First Folk: a nomadic society of hunter-gatherers. When they arrived in the valley—which they called "Cerunnos," meaning "fertile land"—the First Folk brought with them the worship of a quartet of minor fey goddesses that they called the *Rozana*—the Ladies.
+Nearly four millennia ago, the land of Barovia was a peaceful valley inhabited by the First Folk: a nomadic society of hunter-gatherers. When they arrived in the valley—which they called "Cerunnos," meaning "fertile land"—the First Folk brought with them the worship of a quartet of minor fey goddesses that they called the *Rozana*—the Ladies.
 
 Each of the four sister goddesses oversaw a particular season:
 
@@ -402,7 +402,7 @@ The demon prince was fearsome, but the *Holy Symbol* and the Keepers’ aid bala
 ## A New Generation
 Three years after Lugdana’s death, in a land far beyond the valley, Rudolph van Richten was born. 
 
-By the time he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Across the Mists, in the land of Barovia, Livius Martikov’s grandson Davian became the proud father to Urwin, Davian’s first-born child. 
+By the time he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Across the Mists, in the land of Barovia, Livius Martikov’s grandson Davian became the proud father to Urwin, Davian’s second-born child. 
 
 Not far from the Martikovs' winery, in the town of Vallaki, the sixteen-year-old Fiona Wachter ran away from home following an explosive argument with her parents and brother. She found herself in the Old Svalich Woods, where the witch Baba Lysaga found her. 
 
@@ -507,19 +507,9 @@ As the Abbot's grave-robbing intensified, Kasimir attempted to reach the Amber T
 ## The Wrath of Strahd
 Ninety days after Rahadin's proclamation, Strahd's undead army was finally complete. He unleashed the zombie horde against the village of Barovia—and, to punish Doru, sent him to the Barovian church to torment his father, Father Donavich.
 
-The zombies’ siege of the town lasted a full week, with the undead crashing against crude village fortifications night after night. Though the village was ultimately secured, dozens of lives were lost—including, on the final night, the life of Burgomaster Indirovich himself. With that, Strahd finally withdrew his forces, allowing the Barovians to heal their wounded, gather their dead, and attempt to rebuild.
+The zombies’ siege of the town has lasted six days thus far, with the undead crashing against crude village fortifications night after night. Dozens of lives have been lost already, and many who remained have turned on Ismark, blaming him for dissuading them from fleeing for safety weeks before. Ismark—named for his ancestor “Ismark the Great”—is now mocked as “Ismark the Lesser.”
 
-The burgomaster’s children, Ismark and Ireena, took charge of the rebuilding effort. Even so, many Barovians, fearful of Strahd’s emergence and the threat of Castle Ravenloft, left their ruined homes and broken families and fled for Vallaki to the west, hoping that its high walls could bring security. 
-
-Many of those who remained in the village of Barovia turned on Ismark, blaming him for dissuading them from fleeing for safety weeks before. Ismark—named for his ancestor “Ismark the Great”—was now mocked as “Ismark the Lesser.”
-
-Two nights after the siege ended, visiting the village in disguise to assure himself of its submission, Strahd caught a glimpse of Ireena in the streets—and recognized her as the spitting image of Tatyana Federovna. The following night, believing Ireena to be Tatyana’s latest reincarnation, Strahd visited the burgomaster’s manor and charmed his way inside before biting her. 
-
-As he returned to Castle Ravenloft, however, he looked into the Mists and realized that, once again, the Dark Powers were tempting him. Determined to ensure Tatyana's soul did not escape him once more, he ascended to the Heart of Sorrow, where he forced the Devourer's vestige to craft a *soul jar* for him—one that, once marked with Ireena's blood, would entrap her soul upon her death.
-
-Two nights later, he visited the village of Barovia again, overcoming Ismark and Ireena’s best efforts to resist him and biting Ireena a second time to retrieve her blood and activate his *soul jar*. Desperate and defiant, the two siblings placed heavy fortifications around the manor—all while doing their best to keep Strahd’s visitations hidden from the other villagers. 
-
-Now, as Strahd’s servants spread themselves across the valley, obedient once more to the vampire’s will, a creeping darkness is returning to corrupt the land. Shadows lurk in every corner, and the Mists watch silently as the horrors unfold. 
+Meanwhile, as Strahd’s servants spread themselves across the valley, obedient once more to the vampire’s will, a creeping darkness is returning to corrupt the land. Shadows lurk in every corner, and the Mists watch silently as the horrors unfold. 
 
 Meanwhile, in a distant land far beyond the valley, several travelers arrive in the town of Daggerford, blissfully unaware of the trials that await . . . 
 # Design Notes: History of Barovia

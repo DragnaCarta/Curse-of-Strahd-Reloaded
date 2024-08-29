@@ -10,8 +10,6 @@ Meanwhile, as the players explore other leads across the western half of the Bar
 
 In the process, they’ll obtain multiple reasons to journey to Castle Ravenloft: to recover the *Icon of Ravenloft* to cleanse the Abbot’s corruption in [[Arc K - The Fallen Abbey]]; to rescue the **werewolf** Emil Toranescu in exchange for the *Holy Symbol of Ravenloft* in [[Arc L - The Den of Wolves]]; and to steal the skull of the dragon Argynvost to bring hope to the land once more in [[Arc M - The Dragon's Manor]].
 
-As the night of the dinner at Ravenloft approaches, Lady Fiona Wachter will also ask the players to investigate a series of grisly murders in [[Arc N - Tales of Vallaki]]. As they close in on the killer, the players will need to clear Rudolph van Richten’s name—and lift his curse—in order to bring peace once more to Vallaki.
-
 On the last night before the new moon, the players can dine with Strahd von Zarovich and the members of his court in [[Arc O - Dinner with the Devil]]. There, they’ll learn that Strahd will be gone from the castle the following night, creating the perfect opportunity to infiltrate the castle in [[Arc P - Ravenloft Heist]]. Once they have done so, the players must then return to the western valley to purify the Abbot’s soul, defeat the **werewolf** Kiril Stoyanovich, and relight the beacon of Argynvostholt.
 
 This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[Arc P - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
@@ -57,7 +55,7 @@ The most common path through Act III is as follows:
 * **Neyavr 14 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
 * **Neyavr 15.** The players light the beacon of Argynvostholt in [[Arc M - The Dragon's Manor]] and defeat the werewolf Kiril Stoyanovich in [[Arc L - The Den of Wolves]].
 
-Alternately, particularly swift players might take the following path through Act II instead:
+Alternately, particularly swift players might take the following path through Act III instead:
 
 * **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶), then investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
 * **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].

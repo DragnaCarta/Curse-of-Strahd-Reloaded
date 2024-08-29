@@ -54,12 +54,16 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > <span class="citation">K84. Catacombs (p. 85)</span>. “Be careful you don’t get lost down here—or open the wrong door. Dark things lurk amongst the crypts. I’m sure it’s only gotten worse with Strahd’s awakening."
 > > <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. “Strahd’s tomb—and the resting place of his coffin. I’m sure he’s a light sleeper, though."
 
+> [!abstract]+ **What the Martikovs Know**
+> Players who ask Davian or Urwin Martikov for information about Castle Ravenloft's layout can learn that the castle has three towers: (1) the north tower, which stands atop the guards' quarters beneath the castle, and was primarily used for defending the keep; (2) the south tower, which connects every level of the main castle, and which was used by guests, servants and Strahd's court alike; and (3) the high tower in the east, which runs from the depths of the catacombs to the castle's highest point, and which bears a shaft in the center that leads directly from the tower's peak to the catacombs below.
+
 > [!abstract]+ **Recruiting Allies**
 > If the players attempt to recruit any of the following NPCs through the use of the Keepers’ ravens, the *sending* spell, or similar means, their responses are as follows:
 >
 > **Ismark Kolyanovich (Barovia).** Ismark is honored by the players’ request and eager to assist, but reluctant to give Strahd any further reason to punish the villagers of Barovia. Players who inform Ismark that they bear the *Holy Symbol of Ravenkind*, or who provide a robust plan to disguise his movements and identity from Strahd’s spies, can successfully convince Ismark to join them for the heist by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if the players both inform Ismark of the *Holy Symbol of Ravenkind* and provide such a plan.
 > **Father Donavich (Barovia/Vallaki).** Father Donavich sadly informs the players that he “is no great fighter," but promises to help heal any wounds they might sustain in the castle following their return.
 > **Doru (Vallaki).** If the players inform Doru that Gertruda is a prisoner in Castle Ravenloft, Doru immediately agrees to help rescue her. Otherwise, Doru apologetically declines to join them due to his lingering trauma and fear of relapse if he returns to the keep.
+> **Father Lucian Petrovich (Vallak).** Father Lucian is taken aback by the players' request, but honored by their confidence in him. Nonetheless, he declines to join them, noting that he has an obligation to the people of his congregation to remain in Vallaki for them.
 > **Victor Vallakovich (Vallaki).** Victor is surprised and grateful for the players’ faith in him, but sheepishly informs them that he would prefer to stay in Vallaki with Stella. “If something happens to you all, someone will need to still be here," he insists.
 > **Lady Fiona Wachter (Vallaki).** Lady Wachter is flattered by the players’ request, but informs them, in no unclear terms, that she must remain in Vallaki to care for her people and family. She also reminds them, somewhat sharply, that she has no intention of defying Strahd. “I am glad to assist you where I can," she chides them gently, “but you ask too much of me."
 > **Kasimir Velikov (Vallaki).** Kasimir is surprised by the players’ request, but apologetically informs them that he will not be able to assist them. (If pushed, he reminds them of Strahd’s genocide of his people, and notes quietly that he has no interest in incurring Strahd’s rage again.)
@@ -168,11 +172,16 @@ The players might use any of the following methods to distract the **wights** pa
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
 > 
-> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players have completed all major objectives, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
+> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
-> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>
-> * <span class="citation">K20. Heart of Sorrow (p. 59)</span>, otherwise
+> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
+> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
+> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
+> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
+> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
 > 
+> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+>
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 
 > [!info]+ **Heist Milestones**
@@ -219,7 +228,7 @@ This area is as described in <span class="citation">K5. Chapel Garden (p. 54)</s
 This area is as described in <span class="citation">K6. Overlook (p. 54)</span>.
 
 > [!info]+ **Descending to the Crypts**
-> Players who use ropes, flight, or other means to descend to the windows in the cliff face beneath the overlook can exit the castle grounds and enter [[#P12. Catacombs]] via [[P12d. King & Queen’s Tomb]].
+> Players who use ropes, flight, or other means to descend to the windows in the cliff face beneath the overlook can exit the castle grounds and enter [[#P12. Catacombs]] via the King & Queen's Tomb in [[#P12b. Central Catacombs]].
 # P4. Castle Commons
 This area of the castle, including the main entry, the castle dining hall, and the chapel on the first floor, as well as the king’s audience hall on the second, was built to host the many petitioners and guests that might visit the castle in its heyday. Once used for public events, holy days, and royal business, it has since grown disused and forsaken, its once-kingly halls now ancient and dusty.
 ## P4a. Castle Commons, First Floor
@@ -260,7 +269,7 @@ In either case, on initiative count 20 of the first round of combat, the four **
 
 Ludmilla always uses her bonus action to cast *darkness* on her first turn in combat. If the spell isn’t countered and the *Holy Symbol of Ravenkind* is visible, she then immediately uses her *misty step* reaction to teleport into the darkness, hiding ten feet above the player bearing the symbol. Ludmilla then uses her action to attempt to take the symbol from the player’s person. (If the symbol isn't visible, Ludmilla immediately retreats to the chapel as described below, hoping to have the gargoyles weaken the players before entering combat herself.)
 
-If Ludmilla isn’t hidden from the target, her attempt to take the *Holy Symbol of Ravenkind* automatically fails. Otherwise, the symbol’s wielder must make a DC 18 Dexterity saving throw to prevent Ludmilla from removing it. 
+If Ludmilla isn’t hidden from the target, her attempt to take the *Holy Symbol of Ravenkind* automatically fails. Otherwise, the symbol’s wielder must make a DC 18 Dexterity saving throw to prevent Ludmilla from removing it.
 
 Whether Ludmilla successfully steals the symbol or not, she then retreats up <span class="citation">K19. Grand Landing (p. 58)</span> and releases concentration on her *darkness* spell before taunting the players with an invitation to "come take it back." She then crosses <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, and passes through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span> before descending into <span class="citation">K15. Chapel (p. 57)</span>. (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
 
@@ -320,11 +329,11 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <p><strong><em>Lightning Lance.</em></strong> A bolt of lightning arcs toward a creature of Ludmilla’s choice that she can see within 30 feet. Two bolts then leap from that creature to as many as two other creatures, each of which must be within 10 feet of the first creature. (A creature can be targeted by only one of the bolts.) Each creature must make a <span class="highlight">DC 15 Dexterity saving throw</span>, taking 9 (2d8) lightning damage on a failed save, or half as much damage on a success.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-<p><strong><em>Duplicate.</em></strong> Ludmilla creates a perfect, intangible illusion of herself that lasts until the start of her next turn. The illusion appears in an unoccupied space within 30 feet of her. Ludmilla can then magically switch places with the illusion. While the illusion remains, it perfectly mimics Ludmilla's actions, speech, and movement, though it cannot attack. A player can make a <span class="highlight">DC 15 Intelligence (Investigation) check</span> to determine which Ludmilla is illusory. The illusion vanishes if it takes any damage.</p>
+<p><strong><em>Duplicate.</em></strong> Ludmilla creates a perfect, intangible illusion of herself that lasts until the start of her next turn. The illusion appears in an unoccupied space within 30 feet of her. Ludmilla can then magically switch places with the illusion. While the illusion remains, it perfectly mimics Ludmilla's actions, speech, and movement, though it cannot attack. A player can make a <span class="highlight">DC 15 Intelligence (Investigation) check</span> (no action required) to determine which Ludmilla is illusory. The illusion vanishes if it takes any damage.</p>
 <p><strong><em>Freezing Ray.</em></strong> <em>Ranged Spell Attack:</em> +7 to hit, range 120 ft., three creatures. <em>Hit:</em> 7 (2d6) cold damage per ray.</p>
 <p><strong><em>Darkness (1/day).</em></strong> Ludmilla casts <em>darkness</em> with a radius of 40 feet.</p>
 <h3>Reactions</h3>
-<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions and isn't incapacitated, she loses one reaction instead..</p>
+<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
 <p><strong><em>Misty Step.</em></strong> In response to taking damage or casting *darkness*, Ludmilla casts <em>misty step</em>. She can then immediately take the Hide action. If she’s flying, she has advantage on the check made to hide.</p>
 <p><strong><em>Disrupt Spell (3/day).</em></strong> 3rd-level spell, range 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a <span class="highlight">DC 15 saving throw</span> using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
 <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
@@ -364,7 +373,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <hr>
 <strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
 <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-<strong>Damage Vulnerabilities</strong> lightning<br>
+<strong>Damage Vulnerabilities</strong> lightning, necrotic<br>
 <strong>Damage Immunities</strong> bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Condition Immunities</strong> grappled, prone, restrained<br>
 <strong>Senses</strong> passive Perception 13<br>
@@ -438,7 +447,6 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <hr>
 <p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
 <p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<div class="break"></div>
 <p><strong><em>Cold Shift.</em></strong> If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
 <p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
 <p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
@@ -501,13 +509,13 @@ Ludmilla has cast *gaseous form* and concealed herself at a random point within 
 > Don't forget Ezmerelda's six *vials of holy water*, which she freely offers to the players as-needed to weaken Ludmilla's ***shroud of shadows***.
 
 > [!info]+ **The High Tower**
-> Players who ascend the high tower staircase reach the high tower peak, which is as described in <span class="citation">K59. High Tower Peak (p. 73)</span>.
+> Players who ascend the high tower staircase reach the high tower peak, which is largely as described in <span class="citation">K59. High Tower Peak (p. 73)</span>, except Pidlwick II cannot be found there.
 >
 > Players who descend the high tower staircase are obstructed by the masonry wall described in <span class="citation">K18. High Tower Staircase (p. 58)</span>. Players who bypass the wall and continue to descend exit the castle commons and enter [[#P12. Castle Crypts]] via [[#P12a. Catacombs]].
 #### Chapel Stairs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K29.</em></span>
 
-This area is as described in <span class="citation">K29. Creaky Landing (p. 62)</span>, 
+This area is as described in <span class="citation">K29. Creaky Landing (p. 62)</span>.
 #### Chapel Balcony
 <span class="citation"><em>This scene takes place in Chapter 4, Area K28.</em></span>
 
@@ -540,7 +548,7 @@ This area is largely as described in <span class="citation">K30. King’s Accoun
 </div>
 
 > [!lore]+ **Lief Lipsiege**
-> When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obedientially served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
+> When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
 
 Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
 
@@ -590,7 +598,7 @@ This area is as described in <span class="citation">K34. Servants’ Upper Floor
 ### Second-Floor Elevator Access
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K31 and K31a.</em></span>
 
-This area is as described in <span class="citation">K31. Trapworks (p. 63)</span> and <span class="citation">K31a. Elevator Shaft (p. 63).</span>.
+This area is as described in <span class="citation">K31. Trapworks (p. 63)</span> and <span class="citation">K31a. Elevator Shaft (p. 63)</span>.
 
 > [!lore]+ **The Elevator**
 > The elevator trap was once a proper elevator, designed by the genius toymaker Fritz von Weerg. In its heyday, servants used it to reach the [[#King’s Hall]] (for access to the [[#Audience Hall]] and [[#Chapel Balcony]]), [[#Belfry Access Hall]] (to ring the bell to mark meals, mornings, emergencies, and other occasions), and [[#P8. Guest Suite]] (to deliver meals to visiting guests and dignitaries). After he became a vampire, however, Strahd turned the elevator into a trap for thieves and vampire hunters.
@@ -599,7 +607,7 @@ This area is as described in <span class="citation">K31. Trapworks (p. 63)</span
 
 > [!info]+ **Second-Floor Shaft Access**
 > Players who find and pass through the secret door exit the servants’ wing and enter [[#P4. Castle Commons]] via [[#King’s Hall]].
-## P5c. Servants’ Wing, Third Floor
+## P5d. Servants’ Wing, Third Floor
 ### Third-Floor Elevator Access
 <span class="citation"><em>This scene takes place in Chapter 4, Area K31b.</em></span>
 
@@ -607,9 +615,10 @@ This area is as described in <span class="citation">K31b. Shaft Access (p. 64)</
 
 > [!info]+ **Third-Floor Shaft Access**
 > Players who find and pass through the secret door exit the servants’ wing and enter [[#P7. Bell Tower]] via [[#P7b. Belfry Access Hall]].
-## P5c. Servants’ Wing, Basement Floor
+## P5d. Servants’ Wing, Basement Floor
 ### Servants’ Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K62.</em></span>
+
 This area is largely as described in <span class="citation">K62. (p. 76)</span>. However, revise this area's description as follows:
 
 <div class="description">
@@ -687,7 +696,7 @@ This area is largely as described in <span class="citation">K61. Elevator Trap (
 > 
 > Escher isn't entirely sure why he's doing this, but feels a mild sense of obligation to the players for keeping Ireena safe. If the players ask him to explain himself, he merely sneers and claims that it would be "unsightly" for them to bleed out all over the guest landing carpet.
 ### Wine Cellar
-<span class="citation"><em>This scene takes place in Chapter 4, Area K3.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 4, Area K63.</em></span>
 
 This area is as described in <span class="citation">K63. Wine Cellar (p. 77)</span>.
 ### Kitchen
@@ -839,7 +848,7 @@ If the players defy her, Anastrasya’s smile broadens, and the rapier and wight
 
 The two wights in the secret passage emerge on their first turns in combat, attacking the nearest enemies.
 
-In her first phase, Anastrasya attempts to keep her distance from the players while attacking with her ***flying sword***, retreating toward [[#Hall of Heroes]] and the [[#King’s Landing]] if approached. If forced into her second phase, Anastrasya is enraged by the reveal of her true, grotesque form, and attacks the characters responsible with a vengeance. (While in her second form, Anastrasya prefers to grapple her prey using her ***unarmed strike***, then fly her chosen victim into the center of <span class="citation">K20. Heart of Sorrow (p. 19)</span> before feeding upon them in midair with her ***bite***. If she reduces a character to 0 hit points in this way, she tosses their unconscious body onto a nearby staircase to feed on later.)
+In her first phase, Anastrasya attempts to keep her distance from the players while attacking with her ***flying sword***, retreating toward [[#Hall of Heroes]] and the [[#King’s Landing]] if approached. If forced into her second phase, Anastrasya is enraged by the reveal of her true, grotesque form, and attacks the characters responsible with a vengeance. (While in her second form, Anastrasya prefers to grapple her prey using her ***unarmed strike***, then fly her chosen victim into the open air beside [[#King’s Landing]] before feeding upon them in midair with her ***bite***. If she reduces a character to 0 hit points in this way, she tosses their unconscious body onto [[#King’s Landing]] to feed on later.)
 
 As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s wrath should she fail.
 
@@ -1199,7 +1208,7 @@ This area is as described in <span class="citation">K68. Guards’ Run (p. 79)</
 ### Guards’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K69.</em></span>
 
-This area is largely as described in <span class="citation">K69. Guards’ Quarters (p. )</span>. However, revise this area’s description as follows:
+This area is largely as described in <span class="citation">K69. Guards’ Quarters (p. 79)</span>. However, revise this area’s description as follows:
 
 <div class="description">
 <p>Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten ten-foot-square alcoves that contain rotting debris and rags.</p>
@@ -1302,7 +1311,7 @@ This area is largely as described in <span class="citation">K22. North Archers�
 
 This area is largely as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. However, four **crawling claws** cling to the ceiling above the secret door leading to <span class="citation">K25. Audience Hall (p. 61)</span>, and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in <span class="citation">Crawling Claws (p. 50)</span>.
 ### Second Floor South Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K11 & K22.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 4, Areas K12 & K22.</em></span>
 
 This area is as described in <span class="citation">K12. Turret Post (p. 57)</span> and <span class="citation">K22. North Archers’ Post (p. 59)</span>.
 ### Servants’ Landing
@@ -1346,7 +1355,7 @@ This area is largely as described in <span class="citation">K46. Parapets (p. 68
 ### King’s Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#Servants’ Landing]]. Players who descend the stairs reach [[#Servants’ Landing]].
+This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
 
 Players who pass through the western archway exit the Garrison and enter [[#P6a. King’s Apartments]] via [[#Hall of Heroes]].
 
@@ -1428,11 +1437,8 @@ The bats arrive in two rounds, rather than three.
 
 This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>. However, the trapdoors function as follows:
 
-* A trapdoor opens when a Medium- or Small-sized creature steps on it.
-* Once a trapdoor activates, the resulting “explosion of air and water" alerts the players to its location, allowing them to navigate around it if they choose.
-* If a character doesn’t know where a trapdoor is and fails to effectively and intentionally avoid it, they automatically activate it as they pass through its section of the hall.
-* The players can learn where the trapdoors are by knocking on the ground with a ten-foot pole or similar equipment, or by activating them. (Each trapdoor is enchanted to appear non-magical through the use of a permanent *Nystul’s magic aura* spell, and therefore doesn’t appear magical beneath the scrutiny of a *detect magic* spell.)
-* A trapdoor resets and recharges after 1 round, not 24 hours.
+* A trapdoor opens when a Medium- or Small-sized creature steps on it, but can be detected or avoided by knocking on the ground with a ten-foot pole or similar equipment. The trapdoors can also be avoided by swimming through the water. (Each trapdoor is enchanted to appear non-magical through the use of a permanent *Nystul’s magic aura* spell, and therefore doesn’t appear magical beneath the scrutiny of a *detect magic* spell.)
+* If a character doesn’t know where a trapdoor is and fails to effectively and intentionally avoid it, they automatically activate it as they pass through its section of the hall. Once a trapdoor activates, the resulting “explosion of air and water" alerts the players to its location, allowing them to navigate around it if they choose.
 
 Additionally, instead of teleporting their victims to cells in the dungeons, the teleporters act as follows:
 
@@ -1455,7 +1461,58 @@ In addition, modify the description of <span class="citation">K74h. Lost Sword (
 
 This area is largely as described in <span class="citation">K75. South Dungeon (p. 81)</span>. However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
 
-Emil, who has four levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed, Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
+Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed, Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
+
+<div class="statblock">
+<h2>Emil Toranescu</h2>
+<em>Medium Humanoid (Human, Shapechanger), Neutral Good</em>
+<hr>
+<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+<br>
+<strong>Hit Points</strong> 97 (15d8 + 30)
+<br>
+<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-label="STR">16 (+3)</td>
+      <td data-label="DEX">13 (+1)</td>
+      <td data-label="CON">14 (+2)</td>
+      <td data-label="INT">10 (+0)</td>
+      <td data-label="WIS">11 (+0)</td>
+      <td data-label="CHA">10 (+0)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Str +5<br>
+<strong>Skills</strong> Perception +4, Stealth +3<br>
+<strong>Senses</strong> darkvision, passive Perception 14<br>
+<strong>Languages</strong> Common (can't speak in wolf form)<br>
+<strong>Challenge</strong> 3, or 2 without his regeneration<br>
+<strong>Proficiency Bonus.</strong> +2<br>
+<hr>
+<p><strong><em>Keen Hearing and Smell.</em></strong> Emil has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
+<p><strong><em>Pack Tactics.</em></strong> Emil has advantage on an attack roll against a creature if at least one of his allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
+<p><strong><em>Regeneration.</em></strong> Emil regains 10 hit points at the start of its turn. If  he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn. He dies only if he starts his turn with 0 hit points and doesn't regenerate.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Emil makes two melee attacks, only one of which can be a bite attack.</p>
+<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, Emil can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
+<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Shapechange.</em></strong> Emil polymorphs into a wolf-humanoid hybrid or into a wolf, or back into his true form, which is humanoid. His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying melds into the new form. He reverts to his true form if he dies.</p>
+</div>
 
 > [!item]+ **Silverthorn Collar**
 > While worn by a lycanthrope, the interior of a *silverthorn collar* extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation. Additionally, a lycanthrope wearing the collar can’t regenerate.
@@ -1466,6 +1523,10 @@ Emil, who has four levels of exhaustion, has been locked in his cell for weeks. 
 
 > [!info]+ **The Keys to the Cells**
 > The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+
+> [!abstract]+ **Milivoj's Prison**
+> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
+> 
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
@@ -1521,8 +1582,8 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > If the players rescue and manage to communicate with Anton (e.g., via writing), he can share the following information about the stairways leading from [[#P11e. Brazier Room]], which he gleaned from Volenta’s taunts and boasts during his imprisonment:
 >
 > * The left staircase leads to the office of Rahadin, the castle chamberlain, as well as a “room full of bones" filled with human skeletons and a giant, reptilian skull. (Anton has visited this bone-filled room once before, when Volenta took him there to lovingly coo about her desire to add his skull to one of the piles.)
-> * The central staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
-> * The right staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
+> * The right staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
+> * The central staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
 ### Meeting Volenta
 If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
@@ -1684,8 +1745,20 @@ Players who investigate the exits from this room can observe the following point
 * A player who investigates <span class="citation">K83. Spiral Stair (p. 85)</span> (leading to <span class="citation">K37. Study (p. 66)</span>) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
 * A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
 
-> [!info]+ **Exiting the Brazier Room**
-> A player who departs the Brazier Room via <span class="citation">K83. Spiral Stair (p. 85)</span> exits the dungeons, passes through <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, and enters the [[#Dungeons]] via [[#P11e. Brazier Room]]. (The spiral stair landing is largely as described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, but the tapestry is no longer present.)
+> [!abstract]+ **Rahadin's Challenge**
+> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
+> 
+> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
+> 
+> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
+> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
+> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
+> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
+> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
+> 
+> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+>
+> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 ## P11f. Western Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K79.</em></span>
 
@@ -1713,6 +1786,21 @@ This area is as described in <span class="citation">K81. Tunnel (p. 84)</span> a
 <span class="citation"><em>This scene takes place in Chapter 4, Area K84.</em></span>
 
 This area is largely as described in <span class="citation">K84. Catacombs (p. 85)</span>, except where denoted otherwise below.
+
+> [!abstract]+ **Rahadin's Challenge**
+> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
+> 
+> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
+> 
+> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
+> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
+> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
+> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
+> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
+> 
+> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+>
+> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 ## P12a. North Catacombs
 ### North Crypts
 #### North Crypts, First Row
@@ -1829,7 +1917,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 >
 > If the players refuse to lay down their arms, Rahadin intones, “So be it," and attacks.
 >
-> In his first phase, Rahadin uses guerilla hit-and-run tactics, leveraging his high mobility to attack the players from multiple directions before concealing himself and repeating the process. In his second phase, Rahadin fights with bloodthirsty abandon, but saves a reaction to activate the *amulet of Ravenkind* when reduced to 0 hit points or fewer (see below).
+> In his first phase, Rahadin uses guerilla hit-and-run tactics, leveraging his high mobility to attack the players from multiple directions before concealing himself and repeating the process. In his second phase, Rahadin fights with bloodthirsty abandon, but saves a reaction to activate the *amulet of Ravenloft* when reduced to 0 hit points or fewer (see below). When he does so, Rahadin uses the reaction's extra movement to retreat from battle by passing through a nearby wall or floor. (Determined to warn Strahd of the players' exploits, Rahadin isn't willing to die here.)
 
 <div class="statblock">
 <h2>Rahadin, Castle Chamberlain</h2>
@@ -1837,7 +1925,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 247 (34d8 + 102)
+<strong>Hit Points</strong> 180 (34d8 + 72)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>
@@ -1887,12 +1975,11 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <h3>Bonus Actions</h3>
 <p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Misty Step.</em></strong> Rahadin casts <em>misty step</em>. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make a <strong><em>saber</em></strong> attack against that enemy with advantage.</p>
-<p><strong><em>Misty Step.</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
+<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
+<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
 <p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
 </div>
 
@@ -1907,7 +1994,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 247 (34d8 + 102)
+<strong>Hit Points</strong> 180 (24d8 + 72)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>
@@ -1956,9 +2043,9 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Vengeful Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong>. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Amulet of Ravenloft (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to drop to 1 hit point instead, end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he does, he suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
+<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Amulet of Ravenloft (1/day).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
 </div>
 
 > [!item]+ **Amulet of Ravenloft**
@@ -1981,8 +2068,3 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 This area is largely as described in <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
 
 Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in <span class="citation">Khazan’s Spell Drain (p. 167)</span>. The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in <span class="citation">Crypt 15 (p. 88)</span> in [[#North Crypts, Third Row]].
-
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for [[Arc Q - A Shining Beacon]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).

@@ -1,6 +1,17 @@
 Throughout the adventure, the players will have the opportunity to obtain one or more *amber shards*—fragments of the amber sarcophagi that imprison the vestiges of the Amber Temple.
 
 Though they don't carry the full essence of the vestiges, each amber shard bears a psychic link to the sarcophagus from which it came. Through that link, a vestige can whisper to the shard's holder, offering promises of power in exchange for descent into corruption.
+
+> [!info]+ **Finding Amber Shards**
+> The players have an opportunity to obtain an amber shard:
+> * during [[Character Creation]]
+> * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
+> * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
+> 
+> You should not, however, add additional shards for the players to obtain.
+
+> [!info]+ **The Magic of the Shards**
+> A player who scrutinizes an amber shard with a *detect magic* spell discerns tinges of abjuration magic. A player who attempts to identify a shard with an *identify* spell learns that it was once a part of a larger framework meant to contain or imprison some entity or creature, and that it still retains some arcane link to the original container.
 # Stage One
 In this stage, the player is a mere possessor of the amber shard, likely unaware of the true power it offers. 
 
@@ -10,17 +21,21 @@ If the player accepts, they regain all of their hit points. The player then proc
 # Stage Two
 In this stage, the player is aware of the shard's unnatural power, but unable to contact the vestige for further aid.
 
-The first time that the player is reduced to half of their maximum hit points or fewer while in combat, the silhouette's voice speaks to them in their mind. The vestige offers to grant the player the power to strike down their foes.
+The first time that the player is reduced to half of their maximum hit points or fewer while in combat, the silhouette's voice speaks to them in their mind. The vestige offers to grant the player the power to strike down their foes. If the player declines the voice's offer, the vestige does not contact them again unless the player is reduce to half of their maximum hit points or fewer while in combat with an enemy that they particularly loathe.
 
-If the player accepts, they gain a number of temporary hit points equal to twice their proficiency bonus at the start of each of their turns for 1 minute. During that time, the player can also cast a particular spell once as a bonus action without expending a spell slot and without components, as given in the **Amber Corruption** section below. Upon granting these boons, the vestige's voice invites the player to commune with its shard if they wish to obtain the power they seek. The player then proceeds to Stage Three of the shard's corruption.
+If the player accepts, they gain a number of temporary hit points equal to twice their proficiency bonus at the start of each of their turns for 1 minute. During that time, the player can also cast a particular spell once as a bonus action without expending a spell slot and without components, as given in the **Amber Corruption** section below. (The spell's attack bonus is +7, and its spell save DC is 15.) 
 
-If the player declines the voice's offer, the vestige does not contact them again unless the player is reduce to half of their maximum hit points or fewer while in combat with an enemy that they particularly loathe.
+Upon granting these boons, the vestige's voice invites the player to commune with its shard if they wish to obtain the power they seek. The player then proceeds to Stage Three of the shard's corruption.
 # Stage Three
 In this stage, the player has tasted of the shard's eldritch power and wishes to pursue it further.
 
 The player can successfully commune with the vestige by meditating for 1 minute while focusing their thoughts on the shard. The vestige's voice then speaks to them in their mind, offering them a permanent boon as a gift, and as a taste of the full power that they can obtain should they travel to the vestige's home in the Amber Temple. 
 
-If the player accepts, they gain a particular boon, as given in the **Amber Corruption** section below. The player also suffers a particular condition, as given on the same table. The condition is incurable without the aid of a *greater restoration* spell or similar magic.
+If the player accepts, they gain the following effects:
+
+* They gain a particular boon, as given in the **Amber Corruption** section below. 
+* They can continue to cast that vestige's spell once per day. Each time they do, they gain a number of levels of exhaustion equal to the number of times they've cast the spell. This number resets only if the player spends three full days without casting the vestige's spell. (For example, if a player casts Fekre's *stinking cloud* spell two days in a row, they receive one level of exhaustion on the first day and two levels of exhaustion on the second day. If the player waits three days before casting the spell again, they will receive only one level of exhaustion for doing so; otherwise, they will receive three additional levels of exhaustion.)
+* They suffers a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[Arc Q - A Shining Beacon]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
 
 If the player asks the vestige about the condition, the vestige informs them that the condition is a byproduct of the imperfect connection forged by the shards. It invites that player to the Amber Temple to receive the vestige's full gift and complete their transformation.
 

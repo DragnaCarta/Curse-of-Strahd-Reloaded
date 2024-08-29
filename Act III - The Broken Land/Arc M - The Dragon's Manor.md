@@ -484,14 +484,16 @@ A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigat
 The northeastern barrel appears to be empty. However, a player who uses the crowbar or another tool to open the barrel finds a small pouch crafted of chainmail sitting inside. The pouch contains two silver rings. Each ring is a plain silver band with the words “From this to the end of days" engraved around the inside of the ring.
 
 > [!lore]+ **The Rings**
-> The two rings are wedding rings, and belonged to Vladimir Horngaard and Sir Godfrey Gwilym. Vladimir and Godfrey hid these rings here on the night before their deaths, unwilling to allow Strahd to loot them and vowing to return to retrieve them if victorious. However, undeath has robbed both men of their memory of the rings, as well as the love they shared in life.
+> The two rings are wedding rings, and belonged to Vladimir Horngaard and Sir Godfrey Gwilym. Vladimir and Godfrey hid these rings here on the night before their deaths, unwilling to allow Strahd to loot them and vowing to return to retrieve them if victorious. However, undeath has robbed both men of their memory of the rings, as well as the love they shared in life. 
+> 
+> If shown the rings, Godfrey notes only, with mild interest, that the rings' engraving appears to be excerpted from the oath of the Order of the Silver Dragon, which is described further in [[#Knights of the Order]].
 ## M4c. Spiders’ Ballroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
 > [!info]+ **Phase Spider Harvesting**
-> A single adult **phase spider** possesses two large fangs and can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
+> A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
 > 
 > If a glass vial or similar nonreactive material is available, a character can harvest one or more vials of venom by succeeding on a Dexterity (Nature) check and meeting one of the following DCs:
 > 
@@ -513,6 +515,10 @@ The satchel, which appears to have had its leather strap forcibly torn off, cont
 <p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
 </div>
 
+## M4d. Exterior
+<span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
+
+These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>.
 # M5. Second Floor
 ## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
@@ -528,7 +534,7 @@ These areas are largely as described in <span class="citation">Q26. Northeast Gu
 ### Trapped Hallway
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
 
-This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, the doors to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q.28 Knights’ Quarters (p. 136)</span> are locked, and no **phantom warriors** reside within those chambers. Finally, there is no *wall of stone* trap.
+This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
 
 Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
 
@@ -620,10 +626,6 @@ A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvan
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
 These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
-## M5e. Exterior
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
-
-These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>.
 # M6. Third Floor
 ## M6a. Halls of the Order
 #### Knights of the Order
@@ -694,7 +696,7 @@ The bracelet is carved to resemble a dragon biting its own tail, and is a *brace
 >
 > This bracelet has 3 charges. While wearing it, you can use a bonus action to spend 1 of its charges to cast the *sanctuary* spell (DC 15), or 2 of its charges to cast the *warding bond* spell with a range of 30 feet.
 >
-> When you cast a spell using this bracelet, you may spend an additional charge to cast the spell as a reaction when an enemy makes an attack against the target of the spell instead. If you do, the spell’s effects end at the start of your next turn.
+> You can cast one of these spells as a reaction in response to an enemy attacking a creature within range. If you do, you must spend an additional charge, and the spell must target the attacked creature. When cast in this way, the spell's effects end at the start of your next turn.
 >
 > The bracelet regains 1 expended charge daily at dawn. If you expend the bracelet's last charge, roll a d20. On a 1, the bracelet loses its magical properties.
 
@@ -742,7 +744,7 @@ This area is largely as described in <span class="citation">Q42. Argynvost’s B
 ## M6b. Collapsed Ceiling & Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
 
-These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>.
+These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
 ## M6c. Upstairs Gallery
 ### East Staircases
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
@@ -810,6 +812,9 @@ If convinced by the players to aid them in speaking with Argynvost, Brother Mare
 
 > [!abstract]+ **Zorya's Flames**
 > If the players are unaccompanied by Argynvost's familiar, the ghostly **pseudodragon** Zorya, modify Brother Marek's first sentence to read: "Seek out the silver dragon's shadow below, and the younger of the twin dragons above."
+
+> [!info]+ **The Younger Dragon**
+> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. 
 #### Marek is Unconvinced
 If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
 
@@ -928,7 +933,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 </div>
 
 > [!info]+ **Oathbound**
-> If Vladimir uses his ***oathbind*** feature to subject a players to the effects of a *geas*, he whispers the following binding command: “You shall raise no hand against me or Strahd von Zarovich for as long as you live."
+> If Vladimir uses his ***oathbind*** feature to subject a players to the effects of a *geas*, he whispers the following binding command: “You shall raise no hand against Strahd von Zarovich for as long as you live."
 
 > [!info]+ **Room Dimensions**
 > When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
@@ -969,6 +974,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 </table>
 <hr>
 <strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
+<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
 <strong>Damage Resistances</strong> necrotic, psychic<br>
 <strong>Damage Immunities</strong> poison<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
@@ -1031,6 +1037,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 </table>
 <hr>
 <strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
+<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
 <strong>Damage Resistances</strong> necrotic, psychic<br>
 <strong>Damage Immunities</strong> Poison<br>
 <strong>Condition Immunities</strong> Charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
@@ -1047,9 +1054,9 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Vladimir makes two melee attacks. He can replace one of those attacks with a <strong><em>black flames</em></strong> attack.</p>
 <p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 3 (1d6) piercing damage, and the target must make a DC 18 Wisdom saving throw. On a failure, it has disadvantage on the first attack roll or ability check it makes before the end of its next turn.</p>
-<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) cold damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) cold damage. (The flames can’t be doused by nonmagical means.)</p>
+<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) cold damage. (The flames can’t be doused by nonmagical means.)</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) cold damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
+<p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
 <p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
 <h3>Reactions</h3>
 <p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
@@ -1058,7 +1065,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
 </div>
 
-While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on a DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
+While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
 
 * If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
 * If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q52. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
