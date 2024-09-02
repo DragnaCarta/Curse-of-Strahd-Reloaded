@@ -192,18 +192,6 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 > [!abstract]+ **The Flesh Golem’s Loyalty**
 > If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
 
-> [!abstract]+ **The Belviews’ Loyalty**
-> If the players exposed the Abbot’s lies to the Belviews in <span class="citation">S15. Madhouse (p. 151)</span> and convinced the Belviews that they were telling the truth, Clovin, Otto, and Zygfrek each unlock one cell door per round at initiative count 0 and direct their brethren to assist the players in their fight against the Abbot. 
->
-> Once freed, each individual Belview **mongrelfolk** attempts to cling to the Abbot’s limbs or back by forcing the Abbot to make a DC 11 Strength or Dexterity saving throw (Abbot’s choice). On a failure, that Belview successfully clings to the Abbot. The Abbot can repeat the saving throw with advantage at the end of each of his turns.
->
-> While one or more Belviews are clinging to him in his first phase, the Abbot suffers the following effects:
-> * His speed is decreased by 5 feet for each Belview clinging onto him.
-> * If three or more Belviews are clinging onto him, he makes Dexterity saving throws with disadvantage.
-> * If five or more Belviews are clinging onto him, he makes attack rolls with disadvantage.
->
-> The Abbot doesn’t attack the Belviews, and does his best to avoid targeting them with his ***divine wind*** bonus action. When the Abbot enters his second phase, all Belviews clinging to him are thrown back ten feet. All Belviews in the Abbey are then rendered unconscious by his ***frightful presence.***
-
 <div class="statblock">
 <h2>Ithuriel, the Dawnbringer</h2>
 <em>Medium Celestial, Lawful Evil</em>
@@ -329,7 +317,7 @@ At will: detect evil and good<br>
 <p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Tail.</em></strong> In response to being missed or hit by a melee attack, Ithuriel makes the following attack against the attacker: <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage and the target must make a DC 19 Strength saving throw. On a failure, Ithuriel can either knock it prone or push it up to 5 feet away (Ithuriel's choice). </p>
 <p><strong><em>Wings (1/round).</em></strong> In response to a creature he can see completing a spell, making an attack, or moving to a space within 60 feet of him, Ithuriel beats his wings, forcing each creature within 5 feet of him to succeed on a DC 19 Strength saving throw or be pushed 5 feet away and knocked prone. Ithuriel can then fly up to his speed toward the original creature without triggering opportunity attacks.</p>
-<p><strong><em>Frightful Presence (1/day).</em></strong> In response to assuming his second form, Ithuriel forces each creature of his choice within 120 feet that is aware of him to make a DC 18 Wisdom saving throw. On a failure, a creature is frightened of Ithuriel until the end of its next turn. A creature that fails the saving throw and has 30 hit points or fewer falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</p>
+<p><strong><em>Frightful Presence (1/day).</em></strong> In response to assuming his second form, Ithuriel forces each creature of his choice within 120 feet that is aware of him to make a DC 18 Wisdom saving throw. On a failure, a creature is frightened of Ithuriel until the end of its next turn.</p>
 </div>
 
 > [!info]+ **Defeating the Abbot**
@@ -667,7 +655,7 @@ Kiril then attacks.
 <hr>
 <strong>Armor Class</strong> 16 (Natural Armor)
 <br>
-<strong>Hit Points</strong> 323 (38d10 + 152)
+<strong>Hit Points</strong> 306 (36d12 + 144)
 <br>
 <strong>Speed</strong> 50 ft. in hybrid or dire wolf form (30 ft. in humanoid form)
 <hr>
@@ -732,7 +720,7 @@ Kiril then attacks.
 <hr>
 <strong>Armor Class</strong> 17 (Natural Armor)
 <br>
-<strong>Hit Points</strong> 323 (38d12 + 152)
+<strong>Hit Points</strong> 306 (36d12 + 144)
 <br>
 <strong>Speed</strong> 30 ft.
 <hr>
@@ -762,7 +750,7 @@ Kiril then attacks.
 <strong>Skills</strong> Perception +5<br>
 <strong>Senses</strong> passive Perception 14<br>
 <strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 19, or 18 without his regeneration<br>
+<strong>Challenge</strong> 18, or 17 without his regeneration<br>
 <strong>Proficiency Bonus.</strong> +6<br>
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
@@ -776,7 +764,7 @@ Kiril then attacks.
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. Hit: 18 (4d10 + 5) piercing damage. If the target is Large or smaller, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and Kiril can't bite another target.</p>
 <p><strong><em>Swallow.</em></strong> Kiril makes one bite attack against a Medium or smaller creature he has restrained with his bite. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Kiril, and it takes 7 (2d6) acid damage at the start of each of Kiril's turns. If Kiril takes 20 damage or more on a single turn, he must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of him. Kiril must also immediately regurgitate all swallowed creatures if he dies.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Corrupted Miasma.</em></strong> Kiril exhales a cloud of necrotic mist. Each creature within 20 feet of him must succeed on a DC 18 Wisdom saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success. The mist remains until the start of Kiril's next turn or until dispersed by a strong wind, heavily obscuring the area to all creatures without the <strong><em>keen hearing and smell</em></strong> feature while it lingers.</p>
+<p><strong><em>Corrupted Miasma.</em></strong> Kiril exhales a cloud of necrotic mist. Each creature within 20 feet of him must succeed on a DC 18 Wisdom saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success.</p>
 <p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
@@ -784,6 +772,7 @@ Kiril then attacks.
 <p><strong><em>Devour.</em></strong> In response to a creature moving within his reach for the first time on a turn, Kiril attacks it with his bite if he isn't currently biting another creature. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
 <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach or a creature leaving his reach, Kiril attacks it with his claws. If he grapples the creature, it must succeed on an additional DC 19 Strength saving throw or fall prone.</p>
 </div>
+
 ## Q5c. Kiril Vanquished
 Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
 

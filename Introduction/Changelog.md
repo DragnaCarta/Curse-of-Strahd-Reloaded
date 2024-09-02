@@ -1,3 +1,7 @@
+# Hotfix 2.0.9.2 (September 2, 2024)
+* Nerfed Kiril's hit points and ***corrupted miasma*** bonus action in [[Arc Q - A Shining Beacon]]
+# Hotfix 2.0.9.1 (September 1, 2024)
+* Removed Belviews from combat with the Abbot and removed unconsciousness from Abbot's ***frightful presence*** in [[Arc Q - A Shining Beacon]]
 # Version 2.0.9 (August 29, 2024)
 * Added [[Arc Q - A Shining Beacon]]
 *  Fixed assorted typos & inconsistencies
