@@ -1,3 +1,5 @@
+# Hotfix 2.0.9.3 (September 3, 2024)
+* Removed Kiril's ***weak grip*** feature and added a warning callout box regarding movement speed while grappled in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.2 (September 2, 2024)
 * Nerfed Kiril's hit points and ***corrupted miasma*** bonus action in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.1 (September 1, 2024)
