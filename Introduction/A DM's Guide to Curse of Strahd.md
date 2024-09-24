@@ -137,7 +137,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 <hr>
 
 # Acknowledgments
-***Curse of Strahd: Reloaded*** is written by **DragnaCarta** and edited by Maxim. You can support Dragna's work by joining his [Patreon](https://www.patreon.com/DragnaCarta). 
+***Curse of Strahd: Reloaded*** is written by **DragnaCarta** and edited by **Maxim**. You can support Dragna's work by joining his [Patreon](https://www.patreon.com/DragnaCarta). 
 
 This unofficial free guide is made available under the Wizards of the Coast [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). You can purchase the official *Curse of Strahd* campaign module on the *Dungeons & Dragons* [website](https://dnd.wizards.com/products/curse-strahd-revamped) or via [D&DBeyond](https://www.dndbeyond.com/sources/cos).
 
