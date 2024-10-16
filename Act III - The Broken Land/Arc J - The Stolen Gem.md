@@ -845,7 +845,7 @@ Lorghoth uses his _**guardian of the Gulthias**_ feature at the first available 
 
 On the strixes’ second turn in combat, the third **greater strix** appears in the skies overhead, one hundred and sixty feet above the winery. Before it can attack, four **swarms of ravens** rise from the grove to the north to surround and attack it, distracting the strix and obstructing its advance.
 
-Lorghoth and the blights fight to the death. When Lorghoth is reduced to 0 hit points, he reverts to this true form and vows that the players’ victory shall be short-lived. “For Wintersplinter comes," he wheezes, cackling, “and when dawn rises, the nectar of victory will turn to ash on your lips."
+Lorghoth and the blights fight to the death. When Lorghoth is reduced to 0 hit points, he reverts to his true form and vows that the players’ victory shall be short-lived. “For Wintersplinter comes," he wheezes, cackling, “and when dawn rises, the nectar of victory will turn to ash on your lips."
 
 When the players break Lorghoth’s staff, read:
 
@@ -1297,7 +1297,7 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
     <h3>Bonus Actions</h3>
     <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla is currently concentrating on a <em>grease</em> spell, she casts <em>web</em> (DC 15) without using concentration, targeting the same 20-foot-square area as the <em>grease</em> spell. The webs vanish when she loses her concentration on <em>grease.</em></p>
+    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</em></p>
     <h3>Reactions</h3>
     <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
     <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
