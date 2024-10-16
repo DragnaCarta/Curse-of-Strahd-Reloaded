@@ -165,7 +165,7 @@ Godfrey notes that these warlike spirits cannot be dissuaded from their mad crus
 > * Such spirits lose these damage immunities upon entering the Ethereal Plane, where they exist as corporeal beings.
 > * Some creatures have developed natural means of counteracting these immunities. For example, the fangs and venom of a **phase spider** are capable of harming spirits on both the Material and Ethereal Plane. 
 > * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
-> * A martial combatant can also deal damage to an incorporeal spirit normally by coating their blade with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
+> * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
 >   
 > The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
 
@@ -309,6 +309,11 @@ The stench and silhouettes belong to a pack of five **ghouls**, which smelled th
 <div class="description">
 <p>Five emaciated, humanoid creatures dressed in rags come hurtling out of the fog, their bloodstained claws outstretched and yellowed, jagged teeth bared in desperate hunger.</p>
 </div>
+>[!combat]+ **Balancing the Mass Grave** 
+>This combat encounter is a bruising combat encounter against a party of five 5th-level players and a CR 2 ally (Ireena Kolyana), and will consume approximately 14% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of ghouls to four. 
+>* **Four Players**. Reduce the number of ghouls to four. 
+>* **Six Players**. Increase the number of ghouls to six.
 
 When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses a bonus action to assume its gargantuan **roc** form before using its action to grapple one of the **ghouls** with its **talons** attack and departing. Read:
 
@@ -492,6 +497,12 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
+>[!combat]+ **Balancing the Spiders’ Ballroom**
+This combat encounter is a bruising combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players.** Reduce the number of giant spiders to seven. 
+>* **Four Players.** Reduce the number of giant spiders to eight. 
+>* **Six Players**. Increase the number of giant spiders to ten.
+
 > [!info]+ **Phase Spider Harvesting**
 > A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
 > 
@@ -505,7 +516,7 @@ This area is largely as described in <span class="citation">Q4. Spider's Ballroo
 > While using this fang as an additional material component for your spells, acid, cold, fire, lightning, thunder, or poison damage your spells deal to incorporeal undead ignores immunity to that damage. (The fang isn't consumed when used in this way.)
 
 > [!item]+ **Vial of Phase Spider Venom**
-> You can use the venom in this vial to coast one weapon or up to three pieces of ammunition. Applying the venom takes an action. Damage dealt to incorporeal undead by a coated weapon or piece of ammunition to ignores immunity to that damage. Once applied, the venom retains potency for 10 minutes before drying.
+> You can use the venom in this vial to coat one weapon or up to three pieces of ammunition. Applying the venom takes an action. Damage dealt to incorporeal undead by a coated weapon or piece of ammunition to ignores immunity to that damage. Once applied, the venom retains potency for 10 minutes before drying.
 
 A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
 
@@ -542,6 +553,12 @@ Instead, when the players first attempt to open one of the doors leading to <spa
 * Each **phantom warrior** gains a fly (hover) speed of 30 feet.
 * Each **phantom warrior** has immunity to acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. (The warrior doesn't have immunity to necrotic damage.)
 * Each **phantom warrior** gains the following feature: ***Etherbound.*** While in the Ethereal Plane, the phantom warrior loses its damage resistances and can't use its ***incorporeal movement*** feature.
+  
+>[!combat]+ **Balancing the Trapped Hallway** 
+>This combat encounter is a bloody combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 45% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of phantom warriors to four. 
+>* **Four Players**. Reduce the number of phantom warriors to four. 
+>* **Six Players**. Increase the number of phantom warriors to six.
 
 Note that, in combat, a **phantom warrior** can attack from above a player using its fly (hover) speed, but can't attack through walls.
 
@@ -678,6 +695,8 @@ Revise Argynvost’s journal page to read as follows:
 <p>Now, to battle!</p>
 <p>A</p>
 </div>
+![[Argynvost_Journal_RRL.jpg]]
+<span class="credit">"Argynvost's Journal" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 If the players inspect the slashed picture, revise the first sentence of its description to read as follows:
 
@@ -729,7 +748,8 @@ The scroll is a letter and reads as follows:
 <p>Faithfully yours,</p>
 <p>Andral</p>
 </div>
-
+![[Andral_Scroll_RRL.jpg]]
+<span class="credit">"Saint Andral's Letter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 #### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
 
@@ -773,7 +793,7 @@ Any player who’s previously met the Abbot of the Abbey of Saint Markovia recog
 > [!lore]+ **The Stained-Glass Windows**
 > The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
 >
-> The statuette is the *Icon of Ravenloft*, which appears as described in <span class="citation">Icon of Ravenloft (p. 222)</span>. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
+> The statuette is the *Icon of Dawn's Grace*, which appears as described in <span class="citation">Icon of Ravenloft (p. 222)</span>. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
 
 If the players are accompanied by the **pseudodragon** spirit Zorya, Zorya breathes silver fire upon two ancient torches flanking the stained-glass windows, setting them alight with cold silver flames that bathe the room in a chill, ethereal light.
 
@@ -938,6 +958,12 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > [!info]+ **Room Dimensions**
 > When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
 
+> [!combat]+ **Balancing the Commander** 
+> Due to the phase mechanic, this is a series of two consecutive bruising combat encounters against a party of five 6th-level players, a CR 3 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will each consume approximately 39% of their total maximum hit points (for a total of 78% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce Vladimir’s HP in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 cold damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 cold and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. 
+> * **Four Players**. Reduce Vladimir’s HP in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 cold damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 cold and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. 
+> * **Six Players**. Increase Vladimir’s HP in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 cold damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** cold and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4.
+
 > [!abstract]+ **The Players Flee**
 > If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.
 
@@ -948,7 +974,6 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Armor Class</strong> 17 (half plate armor)<br>
 <strong>Hit Points</strong> 228 (24d8 + 120)<br>
 <strong>Speed</strong> 30 ft.<br>
-<strong>Challenge</strong> 15<br>
 <hr>
 <table class="ability-table">
   <thead>
@@ -999,7 +1024,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
 <p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
 <p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
-<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
+<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an attack against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
 </div>
 <br>
 
@@ -1010,8 +1035,6 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Armor Class</strong> 17 (half plate armor)<br>
 <strong>Hit Points</strong> 228 (24d8 + 120)<br>
 <strong>Speed</strong> 30 ft.<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5<br>
 <hr>
 <table class="ability-table">
   <thead>
@@ -1068,7 +1091,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
 
 * If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
-* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q52. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
+* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
 
 > [!warning]+ **Failing Forward**
 > The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
