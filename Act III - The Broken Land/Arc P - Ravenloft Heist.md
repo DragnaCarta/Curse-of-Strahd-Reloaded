@@ -244,6 +244,12 @@ This area is largely as described in <span class="citation">K7. Entry (p. 54)</s
 
 This area is largely as described in <span class="citation">K8. Great Entry (p. 55)</span>, <span class="citation">K9. Guests’ Hall (p. 55)</span>, and <span class="citation">K19. Grand Landing (p. 58)</span>. However, reduce the number of **gargoyles** from eight to four. 
 
+> [!combat]+ **Balancing the Entryway** 
+> This combat encounter is a mild combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of gargoyles to three. 
+> * **Four Players**. Reduce the number of gargoyles to three. 
+> * **Six Players**. Increase the number of gargoyles to five.
+
 ***The First Visit.*** The first time the players enter this area, a *glyph of warding* hidden among the dust on the ceiling activates, casting a *major image* spell originating from the organ in the <span class="citation">K10. Dining Hall (p. 56)</span>. (The *major image* is the source of the “sad and majestic organ tones" described in <span class="citation">K8. Great Entry (p. 55)</span>.)
 
 Shortly after the players first enter this area, the *major image* abruptly changes. Read:
@@ -265,6 +271,12 @@ Ludmilla greets the players coldly and notes her regrets that the guards upon th
 
 If no player rises to meet the bait, Ludmilla concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
 
+>[!combat]+ **Balancing the Witch** 
+>Due to the phase mechanic, this combat encounter is a series of two consecutive mild combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points per phase (for a total of 24% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+>* **Three Players**. Reduce Ludmilla’s HP to 58 in each phase, the damage of her Freezing Ray to 1d6 cold damage per ray, and the damage of her **Mage’s Reprisal** to 2d4 damage. In her second phase, remove the Necrotic damage from her **Claws** and **Mist Shards**. 
+>* **Four Players**. Reduce Ludmilla’s HP to 70 in each phase and her **Freezing Ray** attack to only two rays. In her second phase, remove the Necrotic damage from her **Claws** and reduce her **Mist Shards'** damage to 1d4 + 3 slashing damage and 1d4 necrotic damage. 
+>* **Six Players**. Increase Ludmilla’s HP to 94 in each phase and the number of rays to five (reduce the damage of each ray to 2d4 cold damage). In her second phase, increase her **Claws** and **Mist Shards**’ necrotic damage to 1d8.
+
 In either case, on initiative count 20 of the first round of combat, the four **gargoyles** begin to stir, rolling initiative and joining the fray on their turns. Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual_, but increase each gargoyle’s hit points to 45 instead of 37.
 
 Ludmilla always uses her bonus action to cast *darkness* on her first turn in combat. If the spell isn’t countered and the *Holy Symbol of Ravenkind* is visible, she then immediately uses her *misty step* reaction to teleport into the darkness, hiding ten feet above the player bearing the symbol. Ludmilla then uses her action to attempt to take the symbol from the player’s person. (If the symbol isn't visible, Ludmilla immediately retreats to the chapel as described below, hoping to have the gargoyles weaken the players before entering combat herself.)
@@ -284,7 +296,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
+<strong>Hit Points</strong> 120 (16d8 + 48)<br>
 <strong>Speed</strong> 30 ft., climb 20 ft.
 <hr>
 <table class="ability-table">
@@ -345,7 +357,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
+<strong>Hit Points</strong> 120 (16d8 + 48)<br>
 <strong>Speed</strong> 30 ft., fly 50 ft. (hover)
 <hr>
 <table class="ability-table">
@@ -670,6 +682,10 @@ Whether the players accept his quest or not, Cyrus then returns to the kitchen, 
 The first time any player approaches the doors to <span class="citation">K67. Hall of Bones (p. 78)</span> or <span class="citation">K61. Elevator Trap (p. 74)</span>, the door leading to <span class="citation">K61. Elevator Trap (p. 74)</span> opens. An *unseen servant* carrying a crystal dinner bell then emerges from beyond the door, acting as described in <span class="citation">Unseen Servant (p. 51)</span>.
 
 When the dinner bell rings, the two **vampire spawn** lurking in [[#Kitchen]] and [[#Butler’s Quarters]] quietly scuttle across the 10-foot ceiling, attacking from above the following round. Players with a passive Wisdom (Perception) score of 15 or below are surprised when the vampires attack.
+  
+> [!combat]- **Balancing the Ravenous Spawn** 
+> This combat encounter is a mild combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> **Three Players**. Reduce the number of vampire spawn to one.
 
 The vampires prefer to target easy prey, including unarmored or surprised characters. Once a vampire has successfully grappled a target with its ***claws***, it attempts to drag its prey away to a quiet place for feeding as follows:
 
@@ -733,6 +749,12 @@ This area is largely as described in <span class="citation">K32. Maid in Hell (p
 <span class="citation"><em>This scene takes place in Chapter 4, Area K35.</em></span>
 
 This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>. However, seven **crawling claws** emerge from the alcoves behind the **swarms of rats** on the first round of combat as described in <span class="citation">Crawling Claws (p. 50)</span>.
+  
+>[!combat]- **Balancing the Guardian Vermin** 
+>This combat encounter is a mild combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of swarms of rats to three. 
+>* **Four Players**. Reduce the number of crawling claws to five. 
+>* **Six Players**. Increase the number of swarms of rats to five.
 
 > [!info]+ **South Tower Stair**
 > ***B2F.*** Players who descend four flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P11. Dungeons]] via [[#Dungeon Hall]].
@@ -847,6 +869,12 @@ Anastrasya greets the players warmly, but wonders aloud, with a wickedly “inno
 If the players defy her, Anastrasya’s smile broadens, and the rapier and wights at her side twitch as she adds, “Really—I *must* insist." If the players attack or defy her a second time, Anastrasya directs the **wights** to attack. 
 
 The two wights in the secret passage emerge on their first turns in combat, attacking the nearest enemies.
+
+>[!combat]- **Balancing the Socialite** 
+>Due to the phase mechanic, this combat encounter is a series of two consecutive bruising combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points per phase (for a total of 60% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of wights to one visible and one hidden, who emerges in Anastrasya’s second phase. 
+>* **Four Players**. Reduce the number of hidden wights to one. 
+>* **Six Players**. Increase the number of visible wights to three.
 
 In her first phase, Anastrasya attempts to keep her distance from the players while attacking with her ***flying sword***, retreating toward [[#Hall of Heroes]] and the [[#King’s Landing]] if approached. If forced into her second phase, Anastrasya is enraged by the reveal of her true, grotesque form, and attacks the characters responsible with a vengeance. (While in her second form, Anastrasya prefers to grapple her prey using her ***unarmed strike***, then fly her chosen victim into the open air beside [[#King’s Landing]] before feeding upon them in midair with her ***bite***. If she reduces a character to 0 hit points in this way, she tosses their unconscious body onto [[#King’s Landing]] to feed on later.)
 
@@ -1013,6 +1041,12 @@ Otherwise, if undisturbed, the invisible stalker inspects each character’s bod
 This area is as described in <span class="citation">K39. Hall of Webs (p. 67)</span>.
 ## P7c. Belfry
 <span class="citation"><em>This scene takes place in Chapter 4, Area K40.</em></span>
+  
+>[!combat]- **Balancing the Belfry** 
+>This combat encounter is a mild combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of giant spiders to 4. 
+>* **Four Players**. Reduce the number of giant spiders to 4. 
+>* **Six Players**. Increase the number of giant spiders to 6.
 
 This area is largely as described in <span class="citation">K40. Belfry (p. 67)</span>. However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player with a passive Wisdom (Perception) score of 16 or higher notices that the dust and webbing around the secret door have recently been disturbed.
 ## P7d. Treasury
@@ -1049,6 +1083,10 @@ This area is largely as described in <span class="citation">K47. Portrait of Str
 * The portrait can take up to three reactions per round, but only one per turn.
 * The portrait gains the following reaction: ***Reflexive Spellcasting.*** In response to being targeted by an attack or spell, or in response to a creature casting a spell that would place the portrait in its area of effect, the portrait casts one of the spells it knows.
 * The portrait gains the following feature: ***Split Mind.*** The portrait can concentrate on up to three spells at a time. If the portrait would lose its concentration while concentrating on multiple spells, roll 1d4. On a roll of 3 or below, it loses concentration on one random spell it’s currently concentrating on. On a roll of 4, it loses concentration on all spells instead.
+
+>[!combat]- **Balancing the Guest Landing** 
+>This combat encounter is a mild combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the rug of smothering’s HP to 33, and the damage of its Smother attacks to 8 (2d4+3). Additional, reduce the Guardian Portrait’s HP to 16.
 
 On initiative count 20 of the second round of combat after the **guardian portrait** or **rug of smothering** attacks, a black **cat** emerges from <span class="citation">K48. Offstair (p. 70)</span> and notices them. Read:
 
@@ -1162,6 +1200,12 @@ This area is largely as described in <span class="citation">K56. (p. Cauldron Ro
 > The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
 
 In addition, replace the seven **Barovian witches** with two **Barovian hexwitches** wearing bone earrings, two **Barovian bogwitches** with brown paint smeared around their eyes, and three **Barovian stormwitches** wearing black leather gloves (see below). Each witch carries a _potion of healing_, a _potion of poison_, and a _potion of poison immunity_.
+
+>[!combat]- **Balancing the Witches** 
+>This combat encounter is a bruising combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of witches to one Barovian hexwitch, one Barovian bogwitch, and two Barovian stormwitches (including Diavola). 
+>* **Four Players**. Reduce the number of witches to two Barovian hexwitches, two Barovian bogwitches, and Diavola. 
+>* **Six Players**. Increase the number of witches to two Barovian hexwitches, three Barovian bogwitches, and three Barovian stormwitches (including Diavola).
 
 If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up <span class="citation">K48. Offstair (p. 70)</span> toward <span class="citation">K57. Tower Roof (p. 72)</span>, where she can more easily use the open-air battlefield to her advantage.
 
@@ -1431,9 +1475,18 @@ This area is largely as described in <span class="citation">K60a. North Tower Ro
 </div>
 
 The bats arrive in two rounds, rather than three.
+  
+>[!combat]- **Balancing the North Tower Rooftop** 
+>This combat encounter is a mild combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of swarms of bats to 7. 
+>* **Four Players**. Reduce the number of swarms of bats to 9. 
+>* **Six Players**. Increase the number of swarms of bats to 12.
 # P11. Dungeons
 ## P11a. Dungeon Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K73.</em></span>
+
+> [!info]+ ***Flooded areas*** 
+> All flooded squares from <span class="citation">K73. Dungeon Hall (p. 82) <span class="citation">to <span class="citation">K77. Observation Balcony (p. 82)</span>. and adjoining flooded areas are treated as difficult terrain.
 
 This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>. However, the trapdoors function as follows:
 
@@ -1588,6 +1641,12 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
 Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[#Arc D - St. Andral’s Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
+  
+>[!combat]- **Balancing the Torturer** 
+>Due to the phase mechanic, this combat encounter is a series of two consecutive mild combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 11% of their total maximum hit points and the second of which will consume approximately 6% of their total maximum hit points (for a total of 17% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Remove the zombies. 
+>* **Four Players**. Reduce the number of zombies to one. 
+>* **Six Players**. Increase the number of zombies to five.
 
 Volenta joins the zombies in attacking the players on her first turn in combat. In addition, on initiative count 20 of the first round of combat, Volenta kicks over the amphora full of oil on the balcony, causing the oil to seep down to cover the surface of the five-foot-square section of water immediately below. 
 
@@ -1828,7 +1887,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 12 (p
 
 ***Crypt 15.*** Speaking the name “Khazan" inside Crypt 15 does not cause a *staff of power* to materialize. Instead, the back wall of the crypt is engraved with eight arcane runes and the inscription: “The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy."  A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the engraving, is: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
-A creature can cast a spell into an engraved rune, similar to a *ring of spell storing*. If the spell cast is of the same school of magic as the school the rune represents, the rune glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
+A creature can cast a spell into an engraved rune (cantrips and ritual spells also work). If the spell cast is of the same school of magic as the school the rune represents, the rune glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
 
 The runes must be activated in the same order as [[Arc E - The Missing Vistana#1. The Tower Door|the buttons on the door of Khazan’s tower at Lake Baratok]]. The two possible proper sequences are:
 
@@ -1886,6 +1945,12 @@ In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntr
 #### South Crypts, Third Row
 This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 
+>[!combat]- **Balancing the Thirty-Fifth Crypt** 
+>This combat encounter is a bruising combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of ghouls to 4. 
+>* **Four Players**. Reduce the number of ghouls to 5. 
+>* **Six Players**. Increase the number of ghouls to 7.
+
 ***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of <span class="citation">Crypt 6 (p. 86)</span>, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
 
 > [!item]+ **Icon of Dawn’s Grace**
@@ -1918,14 +1983,19 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 > If the players refuse to lay down their arms, Rahadin intones, “So be it," and attacks.
 >
 > In his first phase, Rahadin uses guerilla hit-and-run tactics, leveraging his high mobility to attack the players from multiple directions before concealing himself and repeating the process. In his second phase, Rahadin fights with bloodthirsty abandon, but saves a reaction to activate the *amulet of Ravenloft* when reduced to 0 hit points or fewer (see below). When he does so, Rahadin uses the reaction's extra movement to retreat from battle by passing through a nearby wall or floor. (Determined to warn Strahd of the players' exploits, Rahadin isn't willing to die here.)
-
+  
+>[!combat]- **Balancing the Chamberlain** 
+>Due to the phase mechanic, this combat encounter is a series of two consecutive bloody combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 37% of their total maximum hit points and the second of which will consume approximately 42% of their total maximum hit points (for a total of 79% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+>* Three Players. Reduce Rahadin’s HP in each phase to 127. Reduce his first phase’s Multiattack to only one attack, but increase his Wind Strike and Whirling Blades reactions to 10 (3d6) damage each. Limit his Punishing Strike reaction to 2/round, and decrease the damage of his Psychic Scream to 7 (2d6) damage. Reduce his second phase’s Multiattack to two attacks and limit Riposte to 2/round. Finally, reduce his Deathly Choir’s damage to 7 (2d6). 
+>* Four Players. Reduce Rahadin’s HP in each phase to 154. Limit his first phase’s Punishing Strike to 2/round, but increase the damage of his bonus actions to 9 (2d8). Reduce his Multiattack in his second phase to two attacks. 
+>* Six Players. Increase Rahadin’s HP to 206 in each phase. Increase his Multiattack in his first phase to three attacks, but reduce the damage of his bonus actions to 5 (2d4). Increase his Multiattack in his second phase to four attacks.
 <div class="statblock">
 <h2>Rahadin, Castle Chamberlain</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 180 (34d8 + 72)
+<strong>Hit Points</strong> 180 (24d8 + 72)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>
@@ -2066,5 +2136,9 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <span class="citation"><em>This scene takes place in Chapter 4, Area K86.</em></span>
 
 This area is largely as described in <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
+  
+>[!combat]- **Balancing the Tomb of the Darklord** 
+>This combat encounter is a mild combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+>* **Three Players**. Reduce the number of vampire spawn to 2.
 
 Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in <span class="citation">Khazan’s Spell Drain (p. 167)</span>. The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in <span class="citation">Crypt 15 (p. 88)</span> in [[#North Crypts, Third Row]].

@@ -61,7 +61,7 @@ If the players again refuse the invitation or continue to stall, Rahadin shakes 
 If the players make no move to stop him, Rahadin then moves toward the door, pauses, and quietly notes that, despite his own misgivings, he would not be surprised if his master holds open the invitation regardless, should the players change their minds. He then departs.
 
 > [!abstract]+ **Ezmerelda’s Advice**
-> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a means to scope out the castle in advance of retrieving the *Icon of Ravenloft* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
+> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a means to scope out the castle in advance of retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
 >
 > Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
 
@@ -640,7 +640,7 @@ As he guides the players through this area, Strahd shares that the castle was bu
 
 This area is largely as described in <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, <span class="citation">K17. South Chapel Access (p. 58)</span>, <span class="citation">K18. High Tower Staircase (p. 58)</span>, <span class="citation">K29. Creaky Landing (p. 62)</span>, and <span class="citation">K28. King’s Balcony (p. 62)</span>. 
 
-However, remove the remains of Gustav Herrenghast and the *Icon of Ravenloft* from the Chapel. In addition, remove any reference to these remains, the *Icon of Ravenloft*, and the “piercing shaft of light" from this area’s description. In addition, remove the two **Strahd zombies** from the King’s Balcony.
+However, remove the remains of Gustav Herrenghast and the *Icon of Ravenloft* (renamed in this guide as *Icon of Dawn's Grace*) from the Chapel. In addition, remove any reference to these remains, the *Icon of Ravenloft*, and the “piercing shaft of light" from this area’s description. In addition, remove the two **Strahd zombies** from the King’s Balcony.
 
 Upon entering the chapel, Strahd reminisces aloud: “I recall the day Prefect Ciril Romulich first dedicated this sacred hall to the glory of the Morninglord. Each man and woman had such faith in the power of his consecration—yet behold what it has become." He shakes his head, then asks the players, curiously: “What is it that you have faith in?"
 
