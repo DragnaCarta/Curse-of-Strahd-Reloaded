@@ -872,7 +872,7 @@ The two wights in the secret passage emerge on their first turns in combat, atta
 
 > [!combat]- **Balancing the Socialite** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points per phase (for a total of 60% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of wights to one visible wight by Anastrsya's side, and one hidden wight who emerges from the secret passage in Anastrasya’s second phase. 
+> * **Three Players**. Reduce the number of wights to one visible wight by Anastrasya's side, and one hidden wight who emerges from the secret passage in Anastrasya’s second phase. 
 > * **Four Players**. Reduce the number of hidden wights to one. 
 > * **Six Players**. Increase the number of visible wights to three.
 
