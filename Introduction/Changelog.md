@@ -1,3 +1,5 @@
+# Hotfix 2.0.9.6 (October 22, 2024)
+* Fixed assorted typos and inconsistencies
 # Version 2.0.9.5 (October 21, 2024)
 * Fixed assorted typos and inconsistencies 
 * Amended Strahd's statblock to accurately reflect his ability scores as a CR 21 enemy
