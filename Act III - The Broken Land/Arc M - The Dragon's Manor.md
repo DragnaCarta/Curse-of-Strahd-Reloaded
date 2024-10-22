@@ -309,11 +309,12 @@ The stench and silhouettes belong to a pack of five **ghouls**, which smelled th
 <div class="description">
 <p>Five emaciated, humanoid creatures dressed in rags come hurtling out of the fog, their bloodstained claws outstretched and yellowed, jagged teeth bared in desperate hunger.</p>
 </div>
->[!combat]+ **Balancing the Mass Grave** 
->This combat encounter is a bruising combat encounter against a party of five 5th-level players and a CR 2 ally (Ireena Kolyana), and will consume approximately 14% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
->* **Three Players**. Reduce the number of ghouls to four. 
->* **Four Players**. Reduce the number of ghouls to four. 
->* **Six Players**. Increase the number of ghouls to six.
+
+> [!combat]+ **Balancing the Mass Grave** 
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players and a CR 2 ally (Ireena Kolyana), and will consume approximately 14% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of ghouls to four. 
+> * **Four Players**. Reduce the number of ghouls to four. 
+> * **Six Players**. Increase the number of ghouls to six.
 
 When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses a bonus action to assume its gargantuan **roc** form before using its action to grapple one of the **ghouls** with its **talons** attack and departing. Read:
 
@@ -497,11 +498,11 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
->[!combat]+ **Balancing the Spiders’ Ballroom**
-This combat encounter is a bruising combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
->* **Three Players.** Reduce the number of giant spiders to seven. 
->* **Four Players.** Reduce the number of giant spiders to eight. 
->* **Six Players**. Increase the number of giant spiders to ten.
+> [!combat]+ **Balancing the Spiders’ Ballroom**
+> This combat encounter is a **bruising** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players.** Reduce the number of giant spiders to seven. 
+> * **Four Players.** Reduce the number of giant spiders to eight. 
+> * **Six Players**. Increase the number of giant spiders to ten.
 
 > [!info]+ **Phase Spider Harvesting**
 > A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
@@ -554,11 +555,11 @@ Instead, when the players first attempt to open one of the doors leading to <spa
 * Each **phantom warrior** has immunity to acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. (The warrior doesn't have immunity to necrotic damage.)
 * Each **phantom warrior** gains the following feature: ***Etherbound.*** While in the Ethereal Plane, the phantom warrior loses its damage resistances and can't use its ***incorporeal movement*** feature.
   
->[!combat]+ **Balancing the Trapped Hallway** 
->This combat encounter is a bloody combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 45% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
->* **Three Players**. Reduce the number of phantom warriors to four. 
->* **Four Players**. Reduce the number of phantom warriors to four. 
->* **Six Players**. Increase the number of phantom warriors to six.
+> [!combat]+ **Balancing the Trapped Hallway** 
+> This combat encounter is a **bloody** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 45% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of phantom warriors to four. 
+> * **Four Players**. Reduce the number of phantom warriors to four. 
+> * **Six Players**. Increase the number of phantom warriors to six.
 
 Note that, in combat, a **phantom warrior** can attack from above a player using its fly (hover) speed, but can't attack through walls.
 
@@ -695,6 +696,8 @@ Revise Argynvost’s journal page to read as follows:
 <p>Now, to battle!</p>
 <p>A</p>
 </div>
+<br>
+
 ![[Argynvost_Journal_RRL.jpg]]
 <span class="credit">"Argynvost's Journal" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -748,6 +751,8 @@ The scroll is a letter and reads as follows:
 <p>Faithfully yours,</p>
 <p>Andral</p>
 </div>
+<br>
+
 ![[Andral_Scroll_RRL.jpg]]
 <span class="credit">"Saint Andral's Letter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 #### Argynvost’s Bedroom
@@ -959,10 +964,10 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
 
 > [!combat]+ **Balancing the Commander** 
-> Due to the phase mechanic, this is a series of two consecutive bruising combat encounters against a party of five 6th-level players, a CR 3 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will each consume approximately 39% of their total maximum hit points (for a total of 78% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce Vladimir’s HP in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 cold damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 cold and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. 
-> * **Four Players**. Reduce Vladimir’s HP in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 cold damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 cold and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. 
-> * **Six Players**. Increase Vladimir’s HP in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 cold damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** cold and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4.
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 6th-level players, a CR 3 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will each consume approximately 39% of their total maximum hit points (for a total of 78% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce Vladimir’s hit points in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 cold damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 cold and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. 
+> * **Four Players**. Reduce Vladimir’s hit points in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 cold damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 cold and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. 
+> * **Six Players**. Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 cold damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** cold and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4.
 
 > [!abstract]+ **The Players Flee**
 > If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.

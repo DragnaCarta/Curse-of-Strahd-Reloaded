@@ -389,9 +389,9 @@ A creature that is pushed over the edge of the balcony falls two stories, or twe
 > [!combat]- **Balancing the Animated Armor**
 > This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the armor’s HP to 12.
-> * ***Four Players.*** Reduce the armor’s HP to 21.
-> * ***Six Players.*** Increase the armor’s HP to 48.
+> * ***Three Players.*** Reduce the armor’s hit points to 12.
+> * ***Four Players.*** Reduce the armor’s hit points to 21.
+> * ***Six Players.*** Increase the armor’s hit points to 48.
 ### Master Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 12.</em></span>
 
@@ -694,11 +694,11 @@ Replace the silvered shortsword in footlocker **25E** with a book bound in grimy
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
->[!combat]- **Balancing the Pit Trap** 
->This trap is designed to be a threat for a party of five 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows: 
->* ***Three Players.*** . Reduce the damage to 1d6 bludgeoning and 2d4+1 piercing. 
->* ***Four Players***. Reduce the damage to 1d6 bludgeoning and 2d6+1 piercing. 
->* ***Six Players***. Increase the damage to 1d6 bludgeoning and 2d12+1 piercing.
+> [!combat]- **Balancing the Pit Trap** 
+> This trap is designed to be a threat for a party of five 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * ***Three Players.*** . Reduce the damage to 1d6 bludgeoning and 2d4+1 piercing. 
+> * ***Four Players***. Reduce the damage to 1d6 bludgeoning and 2d6+1 piercing. 
+> * ***Six Players***. Increase the damage to 1d6 bludgeoning and 2d12+1 piercing.
 
 This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
 
@@ -748,9 +748,9 @@ If the players disturb the grick, read:
 > [!combat]- **Balancing the Grick**
 > This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the grick’s HP to 16. Reduce its tentacles attack to 5 (2d4) damage and its beak attack to 3 (1d6) damage.
-> * ***Four Players.*** Reduce the grick’s HP to 22. Reduce its tentacles attack to 7 (2d6) damage and its beak attack to 4 (1d8) damage.
-> * ***Six Players.*** Increase the grick’s HP to 32. Increase its tentacles attack to 11 (2d8+2) and its bite attack to 6 (1d8+2).
+> * ***Three Players.*** Reduce the grick’s hit points to 16. Reduce its tentacles attack to 5 (2d4) damage and its beak attack to 3 (1d6) damage.
+> * ***Four Players.*** Reduce the grick’s hit points to 22. Reduce its tentacles attack to 7 (2d6) damage and its beak attack to 4 (1d8) damage.
+> * ***Six Players.*** Increase the grick’s hit points to 32. Increase its tentacles attack to 11 (2d8+2) and its bite attack to 6 (1d8+2).
 ### Ghoulish Encounter
 <span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
 
@@ -865,9 +865,9 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 > [!combat]- **Balancing the Boneless**
 > This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the boneless’ HP to 16. Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.
-> * ***Four Players.*** Reduce the boneless’ HP to 21. Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.
-> * ***Six Players.*** Increase the boneless’ HP to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
+> * ***Three Players.*** Reduce the boneless’ hit points to 16. Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.
+> * ***Four Players.*** Reduce the boneless’ hit points to 21. Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.
+> * ***Six Players.*** Increase the boneless’ hit points to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
 ## A2g. The Dungeon
@@ -945,9 +945,9 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 > [!combat]- **Balancing the Flesh Mound**
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 2nd-level players and will consume approximately 28% of their total maximum hit points per phase (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the mound’s HP to 56 in each phase. Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 3 (1d4+1) damage. Reduce Engulf to 6 (2d4+1) damage. Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 7 (2d4+2). Reduce the Gore Spray’s damage to 5 (2d4).
-> * ***Four Players.*** Reduce the mound’s HP to 75 in each phase. Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 4 (1d6+1) damage. Change Engulf to 8 (2d6+1) damage. Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 9 (2d8+1).
-> * ***Six Players.*** Increase the mound’s HP to 112 in each phase. Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active. Increase the Bone Splinters to 6 (1d6+3) damage. Increase Engulf to 12 (2d8+3) damage. Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active. Increase the Bite attack’s damage to 14 (2d10+3). Increase the Gore Spray’s damage to 9 (2d8).
+> * ***Three Players.*** Reduce the mound’s hit points to 56 in each phase. Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 3 (1d4+1) damage. Reduce Engulf to 6 (2d4+1) damage. Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 7 (2d4+2). Reduce the Gore Spray’s damage to 5 (2d4).
+> * ***Four Players.*** Reduce the mound’s hit points to 75 in each phase. Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 4 (1d6+1) damage. Change Engulf to 8 (2d6+1) damage. Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 9 (2d8+1).
+> * ***Six Players.*** Increase the mound’s hit points to 112 in each phase. Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active. Increase the Bone Splinters to 6 (1d6+3) damage. Increase Engulf to 12 (2d8+3) damage. Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active. Increase the Bite attack’s damage to 14 (2d10+3). Increase the Gore Spray’s damage to 9 (2d8).
 <div class="statblock">
 <h2>The Flesh Mound</h2>
 <em>Large undead, chaotic evil</em>
@@ -1089,9 +1089,9 @@ If the players attempt to bypass or attack Gustav, a swarm of levitating debris 
 > [!combat]- **Balancing the Poltergeist**
 > This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce Gustav’s HP to 13. Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.
-> * ***Four Players.*** Reduce Gustav’s HP to 18. Reduce his forceful slam attack to 8 (3d4+1) ***force damage*** and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.
-> * ***Six Players.*** Increase Gustav’s HP to 26. Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.
+> * ***Three Players.*** Reduce Gustav’s hit points to 13. Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.
+> * ***Four Players.*** Reduce Gustav’s hit points to 18. Reduce his forceful slam attack to 8 (3d4+1) ***force damage*** and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.
+> * ***Six Players.*** Increase Gustav’s hit points to 26. Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.
 
 The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
 
