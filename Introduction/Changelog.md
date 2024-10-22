@@ -1,3 +1,41 @@
+# Version 2.0.9.5 (October 21, 2024)
+* Fixed assorted typos and inconsistencies 
+* Amended Strahd's statblock to accurately reflect his ability scores as a CR 21 enemy
+* Amended Strahd's statblock to include dispel magic, and fane-specific lair actions
+* Amended Strahd's bite attack to include a new max hit point recovery mechanic 
+* Amended Ithuriel's statblock to be in line with ability scores and proficiency bonus
+* Added additional artwork by artist Caleb Cleveland
+* Added additional detail about spider venom and holy water both being able to coat any weapon or ammunition
+* Clarified that areas K73-76 in Castle Ravenloft are difficult terrain
+* Revised the flesh mound's immunities to include prone and grappled
+* Revised the flesh mound's features to include a variance of the amorphous feature
+* Clarified that the pool in the ritual chamber is difficult terrain for medium or smaller creatures.
+* Revised wording on Ludmilla's grease and web spells
+* Added new rebalancing details for the pit trap in [[Arc A - Escape From Death House]] 
+* Added new rebalancing details for the escape in [[Arc A - Escape From Death House]] 
+* Added new rebalancing details for the town square in [[Arc B - Welcome to Barovia]]
+* Added new rebalancing details for the siege in [[Arc B - Welcome to Barovia]]
+* Added new rebalancing details for the wolves in [[Arc C - Into the Valley]]
+* Added new rebalancing details for the mass grave in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the spiders' ballroom in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the trapped hallway in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for Vladimir in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the entryway in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the ravenous spawn in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guardian vermin in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guest landing in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the witches in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the tomb of the darklord in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the north tower rooftop in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the thirty-fifth crypt in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ludmilla in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Anastrasya in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Volenta in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ithuriel in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for the return to the foyer in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Kiril in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Vladimir in [[Arc Q - A Shining Beacon]]
+
 # Hotfix 2.0.9.4 (October 1, 2024)
 * Revised the introductory text regarding player expectations in [[Session Zero]]
 # Hotfix 2.0.9.3 (September 3, 2024)

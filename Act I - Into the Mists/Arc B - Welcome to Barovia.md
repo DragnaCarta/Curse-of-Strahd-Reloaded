@@ -468,11 +468,11 @@ If he is present, Bildrath’s face grows grim, and he grips his crossbow tightl
 > * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, or if the damage taken is 15 or more.
 
   
->[!combat]- **Balancing the Siege** 
->Due to the wave mechanic, this combat encounter is a series of two consecutive mild combat encounters and a third bloody combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
->* **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. 
->* **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. 
->* **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
+> [!combat]- **Balancing the Siege** 
+> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. 
+> * **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. 
+> * **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
 
 ***The First Wave.*** Not long after darkness falls, six **zombies** emerge from the darkness and approach the barricade. Read:
 
@@ -531,11 +531,11 @@ Ismark, who has been reduced to 40 hit points, welcomes any help the players can
 
 The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
   
->[!combat]- **Balancing the Town Square** 
->This combat encounter is a mild combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
->* **Three Players**. Decrease the zombie plague spreader’s HP to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4. 
->* **Four Players**. Decrease the zombie plague spreader’s HP to 112 and decrease the necrotic damage of its unarmed strikes to 1d6. 
->* **Six Players**. Add one zombie fighting alongside the plague spreader.
+> [!combat]- **Balancing the Town Square** 
+> This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players**. Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4. 
+> * **Four Players**. Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6. 
+> * **Six Players**. Add one zombie fighting alongside the plague spreader.
 
 > [!info]+ **Dying NPCs**
 >
@@ -584,7 +584,7 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 180 (24d8 +72)
+<strong>Hit Points</strong> 180 (24d8 + 72)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>
@@ -649,7 +649,7 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 180 (24d8 +72)
+<strong>Hit Points</strong> 180 (24d8 + 72)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>
@@ -885,6 +885,8 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 <p>His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.</p>
 <p>"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."</p>
 </div>
+<br>
+
 ![[Doru.jpg]]
 <span class="credit">"Doru" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
