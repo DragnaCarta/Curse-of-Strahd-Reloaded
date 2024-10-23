@@ -1309,9 +1309,9 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
 > [!combat]- **Balancing the Second Bride**
 > This combat encounter is a **mild** combat encounter against a party of five 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Decrease Ludmilla’s HP to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
-> * ***Four Players.*** Decrease Ludmilla’s HP to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
-> * ***Six Players.*** Increase Ludmilla’s HP to 136. 
+> * ***Three Players.*** Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
+> * ***Four Players.*** Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
+> * ***Six Players.*** Increase Ludmilla’s hit points to 136. 
 
 In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
 

@@ -163,9 +163,9 @@ Additionally, Strahd can use the following action in his ***Vampire*** form:
 
 While Strahd retains a connection to the Fanes of Barovia, he also possesses the following features in all three phases:
 
-* ***Dominion of the Mountain.*** While Strahd retains the power of the Mountain Fane, he is under the effect of a permanent *nondetection* spell. Additionally, Strahd can cast *control weather* as an action without components.
+* ***Dominion of the Mountain.*** While Strahd retains the power of the Mountain Fane, he is under the effect of a permanent *nondetection* spell.
 * ***Dominion of the Swamp.*** While Strahd retains the power of the Swamp Fane, he can cast *major image* and *move earth* without components.
-* ***Dominion of the Forest.*** While Strahd retains the power of the Forest Fane, he can cast *beast sense*, *locate creature*, and *animal shapes* without components.
+* ***Dominion of the Forest.*** While Strahd retains the power of the Forest Fane, he can cast *beast sense* and *locate creature* without components.
 * ***Rejuvenation.*** If Strahd is destroyed while he retains the power of at least one of the Fanes, he gains a new body in 24 hours, regaining all his hit points and phases and becoming active again. His new body appears within his coffin.
 
 > [!info]+ **Vampiric Forbiddance**
@@ -228,12 +228,13 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Strahd takes <span class="highlight">20 radiant damage</span> at the start of his turn, and he has <span class="highlight">disadvantage</span> on attack rolls and ability checks.</p>
 <p><strong><em>Innate Spellcasting.</em></strong> Strahd’s innate spellcasting ability is Intelligence. He can innately cast the following spells:<br>
-3/day: detect thoughts, animate dead, dispel magic<br>
+3/day: detect thoughts, animate dead<br>
 1/day: scrying</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Strahd uses <strong><em>vampiric touch</em></strong> twice, or <strong><em>vampiric touch</em></strong> and <strong><em>telekinetic grasp</em></strong> once each.</p>
 <p><strong><em>Vampiric Touch.</em></strong> Strahd casts or attacks with <em>vampiric touch</em> (+12 to hit). A creature hit by an attack made with this spell must make a <span class="highlight">DC 20 Constitution saving throw</span> or be <span class="highlight">dazed</span> until the start of Strahd’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Telekinetic Grasp.</em></strong> <em>2nd-level transmutation</em>, range 60 feet, components V S M, 1 round. <em>Effect:</em> Strahd exerts his will on one creature that he can see within <span class="highlight">60 feet</span> and forces it to make a <span class="highlight">DC 20 Strength saving throw</span>. On a failure, that creature rises vertically, up to 20 feet, and remains suspended there until the start of Strahd’s next turn. That creature also takes <span class="highlight">7 (2d6) necrotic damage</span> and is <span class="highlight">restrained</span> until the end of Strahd’s next turn. When the effect ends, the target falls to the ground if it is still aloft.</p>
+<p><strong><em>Dispel Magic (3/day).</em></strong> Strahd casts <em>dispel magic</em>.
 <h3>Bonus Actions</h3>
 <p><strong><em>Circle of Sickness.</em></strong> <em>3rd-level necromancy</em>, self, components V S M, instantaneous. <em>Effect:</em> A sphere of negative energy bursts from Strahd. Each creature within 10 feet of Strahd must make a <span class="highlight">DC 20 Constitution saving throw</span>. On a failure, a creature takes <span class="highlight">28 (8d6) necrotic damage</span> and gains <span>disadvantage</span> on its next attack roll made before the end of its next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p>
 <p><strong><em>Lightning Bolt.</em></strong> Strahd casts <em>lightning bolt</em> (DC 20).</p>
@@ -246,13 +247,13 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p><strong><em>Scatter.</em></strong> The air quivers around up to three creatures of Strahd's choice that he can see within <span class="highlight">60 feet</span>. Each creature must succeed on a <span class="highlight">DC 20 Wisdom saving throw</span> or be teleported to an unoccupied space on the ground or floor that Strahd can see within 60 feet of him.</p>
 <p><strong><em>Fiery Sphere.</em></strong> A <span class="highlight">10-foot diameter</span> sphere of fire appears in an unoccupied space of Strahd's choice within <span class="highlight">60 feet</span> that he can see until initiative count 20 on the following round. Any creature that starts its turn within <span class="highlight">5 feet</span> of the sphere must succeed on a <span class="highlight">DC 20 Dexterity saving throw</span> or take <span class="highlight">14 (4d6) fire damage</span>. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a <span class="highlight">30-foot radius</span> and dim light for an additional <span class="highlight">30 feet</span>.</p>
-
+<!-- Fane Lair Actions Section -->
 <h3>Lair Actions of the Fanes</h3>
-<p>While outdoors, if the players have not yet deconsecrated the Fanes, Strahd can take lair actions as long as he isn't incapacitated.
+<p>While outdoors, if the players have not yet reconsecrated the Swamp Fane, Strahd can take lair actions as long as he isn't incapacitated.
 </p>
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Control Water</em></strong>  (requires Swamp Fane, Mage phase only. Strahd casts or uses <em>control water</em> without components or concentration.</p>
-<p><strong><em>Fog Cloud</em></strong> (requires Swamp Fane, Mage phase only). Strahd casts <em>fog cloud</em> at 5th level without components or concentration. While the fog remains, Strahd has blindsight out to its edges.</p>
+<p><strong><em>Control Water (requires Swamp Fane.</em></strong> Strahd casts or uses <em>control water</em> without components or concentration.</p>
+<p><strong><em>Fog Cloud (requires Swamp Fane.</em></strong> Strahd casts <em>fog cloud</em> at 5th level without components or concentration. While the fog remains, Strahd has blindsight out to its edges.</p>
 </div>
 
 
@@ -297,7 +298,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br>
 <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br>
 <strong>Challenge</strong> 21, or 19 when fought in sunlight<br>
-<strong>Proficiency Bonus.</strong> +6<br>
+<strong>Proficiency Bonus.</strong> +7<br>
 <hr>
 <p><strong><em>Battlefield Awareness.</em></strong> Strahd has <span class="highlight">advantage</span> on Strength and Dexterity saving throws against effects that he can see or hear, such as traps and spells. Additionally, Strahd can't be disarmed.</p>
 <p><strong><em>Legendary Resistance (2/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
@@ -324,12 +325,12 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p><strong><em>Ghostly Hands.</em></strong> All non-undead creatures in a <span class="highlight">10-foot</span> square starting from a point within <span class="highlight">60 feet </span>must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">restrained</span> by grasping ghostly hands until initiative count 20 on the following round.</p>
 <p><strong><em>Fog Bank.</em></strong> A <span class="highlight">40-foot radius</span> sphere of fog appears centered on a point within <span class="highlight">60 feet</span> of Strahd that he can see. The sphere spreads around corners, and its area is heavily obscured. It lasts until initiative count 20 on the following round or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. When the fog appears, Strahd can immediately take the <span class="highlight">Hide</span> action as a reaction and move up to his speed.</p>
-
+<!-- Fane Lair Actions Section -->
 <h3>Lair Actions of the Fanes</h3>
-<p>While outdoors, if the players have not yet deconsecrated the Fanes, Strahd can take lair actions as long as he isn't incapacitated.</p>
+<p>While outdoors, if the players have not yet reconsecrated the Forest Fane, Strahd can take lair actions as long as he isn't incapacitated.</p>
 <p> On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Plant Growth</em></strong> (requires Forest Fane, Soldier phase only). Strahd casts <em>plant growth</em> without components or concentration.</p>
-<p><strong><em>Wrath of Nature</em></strong> (requires Forest Fane, Soldier phase only). Strahd casts <em>wrath of nature</em> without components or concentration. When he casts it in this way, Strahd can’t use the spell’s <strong><em>rocks</em></strong> effect.
+<p><strong><em>Plant Growth (requires Forest Fane).</em></strong> Strahd casts <em>plant growth</em> without components or concentration.</p>
+<p><strong><em>Wrath of Nature (requires Forest Fane).</em></strong> Strahd casts <em>wrath of nature</em> without components or concentration. When he casts it in this way, Strahd can’t use the spell’s <strong><em>rocks</em></strong> effect.
 
 </div>
 
@@ -337,7 +338,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 >Because fog only creates heavy obscurement and does not extinguish or otherwise dim sources of light, Strahd and other undead are still affected by sunlight created by the *Sunsword* and other sources while heavily obscured by fog.
 ### The Vampire
 <br>
-<div class="statblock"> <h2>Strahd, the Vampire</h2> <em>Medium undead (shapechanger), lawful evil</em> <hr> <strong>Armor Class</strong> 16 (natural armor) <br> <strong>Hit Points</strong> 331 (39d8 + 156) <br> <strong>Speed</strong> 40 ft., climb 40 ft. <hr> <table class="ability-table"> <thead> <tr> <th>STR</th> <th>DEX</th> <th>CON</th> <th>INT</th> <th>WIS</th> <th>CHA</th> </tr> </thead> <tbody> <tr> <td>20 (+5)</td> <td>20 (+5)</td> <td>18 (+4)</td> <td>20 (+5)</td> <td>15 (+2)</td> <td>20 (+5)</td> </tr> </tbody> </table> <hr> <strong>Saving Throws</strong> Dex +12, Wis +9, Cha +12<br> <strong>Skills</strong> Arcana +19, Athletics +12, Deception +19, Insight +9, Perception +16, Religion +13, Stealth +19<br> <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br> <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br> <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br> <strong>Challenge</strong> 21, or 19 when fought in sunlight<br> <strong>Proficiency Bonus.</strong> +6<br> <hr> 
+<div class="statblock"> <h2>Strahd, the Vampire</h2> <em>Medium undead (shapechanger), lawful evil</em> <hr> <strong>Armor Class</strong> 16 (natural armor) <br> <strong>Hit Points</strong> 331 (39d8 + 156) <br> <strong>Speed</strong> 40 ft., climb 40 ft. <hr> <table class="ability-table"> <thead> <tr> <th>STR</th> <th>DEX</th> <th>CON</th> <th>INT</th> <th>WIS</th> <th>CHA</th> </tr> </thead> <tbody> <tr> <td>20 (+5)</td> <td>20 (+5)</td> <td>18 (+4)</td> <td>20 (+5)</td> <td>15 (+2)</td> <td>20 (+5)</td> </tr> </tbody> </table> <hr> <strong>Saving Throws</strong> Dex +12, Wis +9, Cha +12<br> <strong>Skills</strong> Arcana +19, Athletics +12, Deception +19, Insight +9, Perception +16, Religion +13, Stealth +19<br> <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br> <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br> <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br> <strong>Challenge</strong> 21, or 19 when fought in sunlight<br> <strong>Proficiency Bonus.</strong> +7<br> <hr> 
 <p><strong><em>Father of the Night.</em></strong> A humanoid killed by Strahd’s <strong><em>bite</em></strong>, or which is reduced to 0 hit points by it and dies without regaining consciousness, arises as a <strong><em>vampire spawn</em></strong> under Strahd’s control at the start of his next turn.</p> 
 <p><strong><em>Legendary Resistance (2/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p> 
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p> 
@@ -360,12 +361,13 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options:</p> 
 <p><strong><em>Deluge of Blood.</em></strong> A wave of blood explodes outward from a point Strahd can see within <span class="highlight">60 feet</span>. Each creature within 10 feet of that point must make a DC 20 Strength saving throw. On a failure, a creature takes 7 (2d6) bludgeoning damage and is pushed 10 feet away from the point and knocked prone. The creature is also blinded until initiative count 20 on the next round.</p> 
 <p><strong><em>Wails of the Damned.</em></strong> Strahd summons an ethereal torrent of shrieking specters in a 5-foot radius centered on a point within 60 feet that he can see. Each creature in that area must make a DC 20 Wisdom saving throw or be frightened of Strahd until initiative count 20 on the next round. A creature frightened in this way is paralyzed.</p>
+<!-- Fane Lair Actions Section -->
 <h3>Lair Actions of the Fanes</h3>
-<p>While outdoors, if the players have not yet deconsecrated the Fanes, Strahd can take lair actions as long as he isn't incapacitated.
+<p>While outdoors, if the players have not yet reconsecrated the Mountain Fane, Strahd can take lair actions as long as he isn't incapacitated.
 </p>
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Change Weather</em></strong> (requires Mountain Fane, Vampire phase only). Strahd casts <em>control weather</em> as an action without concentration or components. When he does, he can change any number of weather conditions to any of the stages given.</p>
-<p> <strong><em>Call Lightning</em></strong> (requires Mountain Fane, Vampire phase only). Strahd casts or uses <em>call lightning</em> without components or concentration. Whenever he rolls lightning damage with this spell while outdoors in a storm, he deals maximum damage, instead of rolling.
+<p><strong><em>Change Weather (requires Mountain Fane).</em></strong> Strahd casts <em>control weather</em> as an action without concentration or components. When he does, he can change any number of weather conditions to any of the stages given.</p>
+<p> <strong><em>Call Lightning (requires Mountain Fane).</em></strong> Strahd casts or uses <em>call lightning</em> without components or concentration. Whenever he rolls lightning damage with this spell while outdoors in a storm, he deals maximum damage, instead of rolling.
 </div>
 
 
