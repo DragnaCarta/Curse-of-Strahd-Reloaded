@@ -21,6 +21,14 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 
 If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
+> [!combat]- **Balancing the Ruins of Berez**
+ > Due to the wave mechanic, this combat encounter is a series of a consecutive **mild** combat encounter followed by a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 4% of their total maximum hit points and the second of which will consume approximately 29% of their total maximum hit points (for a total of 33% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+ > 
+ > * Three Players. Reduce the number of bogwitches in the first wave to 1. Reduce the number of scarecrows in the second wave to five.
+ > * Four Players. Reduce the number of hexwitches in the first wave to three. Reduce the number of scarecrows in the second wave to six.
+ > * Six Players. Add one stormwitch to the first wave. Increase the number of scarecrows in the second wave to eight."
+
+
 The players can also travel from Berez to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
 * The journey from Berez to Vallaki is four-and-one-half miles long and takes one hour and thirty minutes.
@@ -28,6 +36,14 @@ The players can also travel from Berez to the town of Vallaki, Van Richten's Tow
 * The journey from Berez to Krezk is eight-and-one-quarter miles long and takes three hours.
 
 ***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
+
+> [!combat]- **Balancing the Old Svalich Road**
+> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
+> * Four Players. Reduce the number of scarecrows to one.
+> * Six Players. Increase the number of scarecrows to three.
+
 
 ***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
 
@@ -91,7 +107,7 @@ Anna and Dmitri, two **nobles** with Strength scores of 14 (+2) and wielding a *
 > If Emil is present, the players can convince him to assist them in confronting the Abbot by referencing his obligations as the Krezkovs’ brother-in-law and succeeding on a DC 10 Charisma (Persuasion) check. (Emil, who dislikes Dmitri for his “cowardice" and “resignation" to his family’s curse, and for Dmitri’s efforts to make Zuleika avoid Emil and feel ashamed of her lycanthropy, feels no obligation to assist the Krezkovs initially.)
 >
 > The players make the check with advantage if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate Ilya into killing Kala (Emil’s niece).
-## Q2a. Return to the Abbey
+## Q3a. Return to the Abbey
 As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, the shard of divinity in the *Icon of Dawn’s Grace* speaks to them, asking:
 
 * what became of the Abbey of St. Markovia following Markovia’s death at Castle Ravenloft
@@ -121,7 +137,7 @@ Regardless of his own disappointment, Clovin is determined to make good on his p
 * Once a set of wings has been used, it can't be used again until the next dawn.
 * One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's giant eagle form, while the other resembles bat wings and bears long membranes of tanned animal hide.
 * A creature can attune itself to the wings in 1 minute.
-## Q2b. Confronting the Abbot
+## Q3b. Confronting the Abbot
 The players can find the Abbot in the Abbey’s asylum, which is largely as described in <span class="citation">S15. Madhouse (p. 151)</span>. However, the players overhear the following conversation as they approach and enter this area:
 
 <div class="description">
@@ -177,7 +193,7 @@ Unless prevented by the players, the Abbot then grapples Vasilka (who does not r
 </div>
 
 The Abbot then attacks.
-## Q2c. The Abbot's Rage
+## Q3c. The Abbot's Rage
 When the Abbot attacks, he sheds his monk’s robes and transforms, revealing his true angelic form. Read:
 
 <div class="description">
@@ -495,7 +511,7 @@ Before the players depart, Ithuriel freely offers them healing through the use o
 > ***Persona.*** To the world, Ithuriel is a mature, contemplative youth with a strong sense of humility and a deep compassion for others. To those he trusts, Ithuriel is a young angel persevering to reassemble his purpose and identity following his corruption, defeat, and restoration.
 >
 > ***Morale.*** In a fight, Ithuriel would seek to calm his foe, but would not hesitate to forcefully defend an innocent threatened by enemies of ill intent.
-## Q2d. St. Markovia’s Gratitude
+## Q3d. St. Markovia’s Gratitude
 When the players first descend the switchback road and enter the village of Krezk after defeating the Abbot, whether they redeem the Abbot or not, St. Markovia calls them to the Shrine of the White Sun. Read:
 
 <div class="description">
@@ -779,7 +795,7 @@ Kiril then attacks.
 <p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet of him, making a ranged attack against him, or casting a spell, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 19 Strength saving throw or fall prone. Kiril can then attack the creature that moved, attacked, or cast a spell with his claws.</p>
+<p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet of him, making a ranged attack against him, or casting a spell, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 19 Strength saving throw or fall prone. Kiril can then attack the creature that moved, attacked, or cast a spell with his claws. Being a huge creature, Kiril is able to land on medium or smaller creatures, and can leap whilst grappling creatures with his claws or bite attacks.</p>
 <p><strong><em>Devour.</em></strong> In response to a creature moving within his reach for the first time on a turn, Kiril attacks it with his bite if he isn't currently biting another creature. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
 <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach or a creature leaving his reach, Kiril attacks it with his claws. If he grapples the creature, it must succeed on an additional DC 19 Strength saving throw or fall prone.</p>
 </div>
@@ -811,11 +827,11 @@ Emil is also happy to ask Zuleika to release the players from the *Oath of the N
 > [!lore]+ **Vladimir’s Command**
 > When the players retrieve Argynvost’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the Ethereal Plane. After interrogating Sir Godfrey Gwilym and learning of the players’ intent to place the skull in Argynvost’s mausoleum, Vladimir relocates to <span class="citation">Q15. Cemetery (p. 134)</span>, where he waits for the players to return to Argynvostholt.
 ## Q6a. Return to the Foyer
-When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return:
+When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return. After the players escape Castle Ravenloft:
 
-* If the players return to Argynvostholt before noon on the day they escape Castle Ravenloft in [[Arc P - Ravenloft Heist]], no revenants are present in the foyer.
-* If the players return to Argynvostholt before dusk on the day they escape Castle Ravenloft in [[Arc P - Ravenloft Heist]], one revenant is present in the foyer.
-* If the players return to Argynvostholt before midnight on the day they escape Castle Ravenloft in [[Arc P - Ravenloft Heist]], two revenants are present in the foyer.
+* If they return to Argynvostholt before noon, no revenants are present in the foyer.
+* If they return to Argynvostholt before dusk, one revenant is present in the foyer.
+* If they return to Argynvostholt before midnight, two revenants are present in the foyer.
 * Otherwise, three revenants are present in the foyer.
 
 Read the following, modifying the text as needed depending on the number of revenants present:
@@ -865,10 +881,10 @@ Vladimir attacks if the players attack him first, or if he deems further convers
 
 When Vladimir enters his second phase, four **phantom warriors** materialize to aid him. The phantom warriors fight to the death.
 
-In addition, the first time a player enters the mausoleum, Vladimir summons a ring of black fire encircling the cemetery. Read:
+In addition, the first time a player enters the mausoleum, Vladimir uses his reaction to summon a ring of black fire encircling the cemetery. Read:
 
 <div class="description">
-<p>Jet-black shadows swirl in Horngaard’s eyes as he lifts a hand toward the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, forming a ring of black flames that clings to the wrought-iron fencing.</p>
+<p>Jet-black shadows swirl from the torces either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, forming a ring of black flames that clings to the wrought-iron fencing.</p>
 </div>
 
 Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 18 Strength saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
