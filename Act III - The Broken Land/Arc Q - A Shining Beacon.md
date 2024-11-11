@@ -884,7 +884,7 @@ When Vladimir enters his second phase, four **phantom warriors** materialize to 
 In addition, the first time a player enters the mausoleum, Vladimir uses his reaction to summon a ring of black fire encircling the cemetery. Read:
 
 <div class="description">
-<p>Jet-black shadows swirl from the torces either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, forming a ring of black flames that clings to the wrought-iron fencing.</p>
+<p>Jet-black shadows swirl from the torches either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, forming a ring of black flames that clings to the wrought-iron fencing.</p>
 </div>
 
 Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 18 Strength saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
