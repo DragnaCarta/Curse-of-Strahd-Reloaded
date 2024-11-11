@@ -694,12 +694,6 @@ Replace the silvered shortsword in footlocker **25E** with a book bound in grimy
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
-> [!combat]- **Balancing the Pit Trap** 
-> This trap is designed to be a threat for a party of five 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * ***Three Players.*** . Reduce the damage to 1d6 bludgeoning and 2d4+1 piercing. 
-> * ***Four Players***. Reduce the damage to 1d6 bludgeoning and 2d6+1 piercing. 
-> * ***Six Players***. Increase the damage to 1d6 bludgeoning and 2d12+1 piercing.
-
 This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
 
 <div class="description">
