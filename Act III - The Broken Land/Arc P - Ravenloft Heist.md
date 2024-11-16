@@ -1066,7 +1066,7 @@ Creatures that don’t cast a reflection (e.g., because they are invisible, beca
 
 Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in <span class="citation">K41. Treasury (p. 67)</span>.
 ### Plundering the Treasury
-The contents of the treasury are largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, two *pearls of power* and an *amber shard* of Great Taar Haak, the Five-Headed Destroyer. (See the **Amber Shard** appendix for more information about amber shards.). In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
+The contents of the treasury are largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, two *pearls of power* and an *amber shard* of Great Taar Haak, the Five-Headed Destroyer. (See the [[Amber Shards]] appendix for more information about amber shards.). In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
 
 An **invisible stalker** bound by Strahd to protect the treasury’s contents lurks in the upper floor of the tower. The invisible stalker has the following changes to its statistics:
 
@@ -1239,9 +1239,13 @@ This area of the castle once hosted the barracks and common areas of the castle 
 ### Hall of Bones
 <span class="citation"><em>This scene takes place in Chapter 4, Area K67.</em></span>
 
-This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>, transformed to its current state by Volenta a century ago. However, if Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
+This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>. However, if Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
 
 For the next 1 minute, an additional **skeleton** crawls from each non-destroyed bone mound at initiative count 0 of each round. Each bone mound has AC 15, 10 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to bludgeoning damage.
+
+> [!lore]+ The Hall of Bones
+> 
+> Over a century ago, Volenta transformed the mess hall into an elaborate ossuary as an art piece signifying her devotion to Strahd.
 
 > [!abstract]+ **Storing the Skull**
 > Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Arc O - Dinner with the Devil#O3c. The Black Carriage|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
@@ -2127,7 +2131,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 > * Every crypt door in <span class="citation">K84. Catacombs (p. 85)</span> swings open.
 > * The **skeletons** in <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, <span class="citation">Crypt 17 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, and <span class="citation">Crypt 40 (p. 93)</span> animate. The following round, each skeleton emerges from its crypt, attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
 > * All one hundred **skeletons** in <span class="citation">Crypt 14 (p. 88)</span> animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
-> * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in <span class="citation">Crypt 38 (p. 92)</span> start to manifest slowly in their crypt, coalescing from brimstone smoke. They emerge three rounds later to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
+> * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in <span class="citation">Crypt 38 (p. 92)</span> begin to manifest in their crypt, coalescing fully from brimstone smoke three rounds later. They then emerge to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
 > * The **iron golems** in <span class="citation">K78. Brazier Room (p. 82)</span> begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)
 > * The **red dragon wyrmling** statues in the [[#Main Entrance]], as well as any remaining **gargoyles** in the [[#Main Foyer]] and any remaining **wights** still guarding the castle walls (see [[#P2d. Crossing the Chasm]]), animate and begin moving toward the amulet’s wielder.
 >

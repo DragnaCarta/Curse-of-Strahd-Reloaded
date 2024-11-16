@@ -835,16 +835,22 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > If a player ascends only one floor up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K30. King’s Accountant (p.62)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
 > >
 > > * **King’s Accountant.** This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
-> > <div class="description" style="padding-left: 20px;">
+> > 
+> > <hr>
+> > 
 > > The corpselike figure atop the stool is—or once was—an elderly man, clad in a high-collared, once-crisp white shirt, a deep brown vest, and a light pink ascot, all of which have grown faded and rotted with the ravages of age. His thinning, white-haired combover is neatly parted over his pallid, wrinkled forehead, and his gaunt, ash-gray face is framed by an impressively thick pair of mutton chops. His near-skeletal hands tremble slightly as he scribbles along a crumbling parchment scroll, his gray eyes never once flickering in your direction.
-> > </div>
+> > 
+> > <hr>
 > > 
 > > Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
 > > 
 > > If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of <span class="citation">K41. Treasury (p. 67)</span>, rather than that of the *Holy Symbol of Ravenkind*. Read:
-> > <div class="description" style="padding-left: 20px;">
+> > 
+> > <hr>
+> > 
 > > "If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."
-> > </div>
+> > 
+> > <hr>
 > > 
 > > > [!lore]- **Lief Lipsiege**
 > > > When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
@@ -852,6 +858,9 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > > Lief then continues to ramble. If stopped and further questionned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 > > > 
 > > > If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
+> > > 
+> > > <hr>
+> > > 
 > >
 > > * **Audience Hall.** This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, shortly after a player enters this room, Strahd uses his ***shapechange*** feature to secretly enter the room in mist form from <span class="citation">K19. Grand Landing (p. 58)</span>, surprising any player with a passive Wisdom (Perception) score of 26 or below. Strahd then assumes his true form and amusedly chides his “curious friend" for “wandering amidst the shadows." After asking whether the castle’s guest quarters were not to their liking, he asks if they require him to escort them to their rooms. “After all," he adds, his eyes glinting in the darkness, “we wouldn’t want you getting lost again."
 >

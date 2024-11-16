@@ -795,10 +795,14 @@ Kiril then attacks.
 <p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet of him, making a ranged attack against him, or casting a spell, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 19 Strength saving throw or fall prone. Kiril can then attack the creature that moved, attacked, or cast a spell with his claws. Being a huge creature, Kiril is able to land on medium or smaller creatures, and can leap whilst grappling creatures with his claws or bite attacks.</p>
+<p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet of him, making a ranged attack against him, or casting a spell, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 19 Strength saving throw or fall prone. Kiril can then attack the creature that moved, attacked, or cast a spell with his claws.</p>
 <p><strong><em>Devour.</em></strong> In response to a creature moving within his reach for the first time on a turn, Kiril attacks it with his bite if he isn't currently biting another creature. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
 <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach or a creature leaving his reach, Kiril attacks it with his claws. If he grapples the creature, it must succeed on an additional DC 19 Strength saving throw or fall prone.</p>
 </div>
+
+> [!warning]+ **Leaping While Grappling**
+> 
+> As a Huge creature, Kiril is able to land on Medium or smaller creatures, and can leap while grappling creatures with his claws or bite attacks
 
 > [!warning] **Dragging Grappled Creatures**
 > Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
@@ -881,7 +885,7 @@ Vladimir attacks if the players attack him first, or if he deems further convers
 
 When Vladimir enters his second phase, four **phantom warriors** materialize to aid him. The phantom warriors fight to the death.
 
-In addition, the first time a player enters the mausoleum, Vladimir uses his reaction to summon a ring of black fire encircling the cemetery. Read:
+In addition, the first time a player enters the mausoleum, Vladimir uses one of his reactions to summon a ring of black fire encircling the cemetery. Read:
 
 <div class="description">
 <p>Jet-black shadows swirl from the torches either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, forming a ring of black flames that clings to the wrought-iron fencing.</p>
