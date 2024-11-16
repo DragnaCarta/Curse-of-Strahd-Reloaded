@@ -617,7 +617,7 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
 <p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
 <p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. (See <span class="citation">Glyphs (Hearts), p. 14</span>, for this card’s foretelling.)</p>
-<p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the walls of the graves beyond shimmer with a twilit glow.</p>
+<p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
 <p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
 <p>She flips the card.</p>
 <p>This time, the illustration revealed is a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. "The Mists." Madam Eva leans forward. (See <span class="citation">Strahd’s Enemy, p. 15</span>, for this card’s foretelling.)</p>

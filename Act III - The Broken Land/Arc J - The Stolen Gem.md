@@ -220,9 +220,7 @@ The road here hides a spiked pit trap (<span class="citation">Dungeon Master's G
 
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
-> [!combat]- **Vine Blight Tactics**
-> 
-> In combat the vine blights will use their constrict attack to grapple enemies before dragging them into the pit trap.
+In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
 
 > [!combat]- **Balancing the False Trail**
 > This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
