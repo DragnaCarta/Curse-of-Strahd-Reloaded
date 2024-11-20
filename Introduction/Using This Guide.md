@@ -8,6 +8,10 @@ Consider *Curse of Strahd: Reloaded* your all-in-one guide to running this campa
 > 
 > If this guide doesn't reference a particular element in the original adventure—such as a random encounter or a piece of lore—**assume it doesn't exist.**
 
+> [!warning]+ **2014 Rules**
+> 
+> This guide has not been updated for the Dungeons & Dragons 2024 rules update. Readers are advised to use the 2024 rules, including the revised Player's Handbook, Monster Manual, and Dungeon Master's Guide, at their own risk.
+
 > [!info]+ **Don't Panic**
 > Unlike most modules, you don't need to read this guide in full before running the adventure. In fact, you don't need to read the original module at all, except when this guide references it.
 > 

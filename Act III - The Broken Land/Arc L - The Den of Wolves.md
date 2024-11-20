@@ -129,6 +129,8 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 > * The pack is led by Kiril, her husband and a powerful werewolf, who seized power when the old leader stepped down.
 > * Prisoners are kept in Mother Night's shrine, which lies toward the rear of the cave.
 > * When the pack leaves to hunt, only Bianca and Skennis, the pack's old leader, remain behind. (Bianca has little desire to see Kiril transformed following his deals with the "swamp witch" of Berez.)
+> * In addition, four werewolves also remain to guard the den, rotating their watch in pairs. (The four werewolves, Azianka, Davanka, Kobal, and Radovan are newly infected by Kiril and obey him slavishly.) 
+> * Whilst all other werewolves will be on the hunt, about half a dozen wolves still remain at the den.
 > 
 > Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Charisma (Persuasion) check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Charisma (Persuasion) check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
 
@@ -257,6 +259,12 @@ Azianka and Davanka are restless, and can easily be lured from the cave mouth by
 If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two werewolves then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
 
 The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolves and **werewolf brawlers** in [[#L4d. Deep Caves]], who arrive after 1 round to investigate.
+
+Replace the wolves' ***bite*** attack with the following action options:
+
+* ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
+* ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
+
 ## L4b. Underground Spring
 <span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
 
@@ -381,7 +389,7 @@ To sneak through this area without disturbing the wolves, the players must succe
 This area is largely as described in <span class="citation">Z7. Shrine of Mother Night</span>. However, there is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. Additionally, revise the area's description to read as follows:
 
 <div class="description">
-<p>Rough-hewn stairs lead down to a torchlit cave. A crude wooden statue stands against the far wall, bearing the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. A gleaming medallion hangs around its neck, and mounds of gold, silver, and gemstones are piled high around its base. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall. Gold coins have been driven into the empty sockets where their eyes should be.</p>
+<p>Rough-hewn stairs lead down to a torchlit cave. From a small crack in the chamber ceiling, a shaft of moonlight illuminates a crude wooden statue standing against the far wall, bearing the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Around its neck hangs a gleaming platinum medallion in the shape of a sunburst, a large ruby set in its center, and mounds of gold, silver, and gemstones are piled high around its base. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall. Gold coins have been driven into the empty sockets where their eyes should be.</p>
 <p>Two wooden cages flank the statue, their lids held shut with heavy rocks. In the left-side cage kneels a youth with sunken eyes and loose, tattered clothing, a rotting human leg laid across the ground before his cage. In the right-side cage, an amber-eyed woman wearing shredded clothes sits with her legs crossed, her shaggy, rope-like strands of hair tied back behind a black bandana. Silver collars around their necks are chained to the wall behind them, each collar’s band carved with patterns of wicked-looking thorns.</p>
 </div>
 

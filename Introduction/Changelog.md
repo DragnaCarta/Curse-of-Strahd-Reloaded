@@ -1,8 +1,21 @@
+# Version 2.0.9.7 (November 11, 2024)
+* Fixed assorted typos and inconsistencies
+* Removed outdated references in Madam Eva's tarokka reading in [[Arc C - Into the Valley]]
+* Added tactics to vine blights at the spiked pit trap in [[Arc J - The Stolen Gem]]
+* Added further description of the Holy Symbol of Ravenkind to bring attention to it in [[Arc L - The Den of Wolves]]
+* Added a shaft of moonlight to illuminate the Holy Symbol of Ravenkind in [[Arc L - The Den of Wolves]]
+* Added reasoning for Vladimir to be dismissive of players mentioning Argynvost's spirit in [[Arc M - The Dragon's Manor]]
+* Added information on Lief Lipsiege to [[Arc O - Dinner with the Devil]]
+* Added Great Taar Haak's amber shard to the Ravenloft treasury in [[Arc P - Ravenloft Heist]]
+* Amended which round the wraith and hell hounds manifest in [[Arc P - Ravenloft Heist]]
+* Clarified what Kiril can do with his leap ability in [[Arc Q - A Shining Beacon]]
+* Clarified how many revenants appear at different times in [[Arc Q - A Shining Beacon]]
+* Brought Vladimir's flame trap in line with action economy in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.6 (October 22, 2024)
 * Fixed assorted typos and inconsistencies
 # Version 2.0.9.5 (October 21, 2024)
 * Fixed assorted typos and inconsistencies 
-* Amended Strahd's statblock to accurately reflect his ability scores as a CR 21 enemy
+* Amended Strahd's statblock to accurately reflect his proficiency bonus as a CR 21 enemy
 * Amended Strahd's statblock to include dispel magic, and fane-specific lair actions
 * Amended Strahd's bite attack to include a new max hit point recovery mechanic 
 * Amended Ithuriel's statblock to be in line with ability scores and proficiency bonus
