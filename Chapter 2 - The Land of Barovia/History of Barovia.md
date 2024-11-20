@@ -418,7 +418,7 @@ Baron Metus commissioned Madame Radanavich to kidnap victims and consorts for hi
 
 The Radanaviches brought Radovan to Rudolph, who proved unable to save him. When Radovan died, Madame swore vengeance on Rudolph's family and kidnapped his son, Erasmus before selling him to Baron Metus. Their terrible task complete, the Radanaviches parted ways with the d'Avenirs and fled through the Mists to Barovia, where they believed neither Van Richten nor Metus could follow.
 
-Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but Ingrid as well.  (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani.
+Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well.  (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani.
 
 For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a  platinum ring that had once belonged to Khazan—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness. 
 

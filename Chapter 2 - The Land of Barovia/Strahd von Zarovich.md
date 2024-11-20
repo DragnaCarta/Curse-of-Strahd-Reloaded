@@ -252,8 +252,8 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p>While outdoors, if the players have not yet reconsecrated the Swamp Fane, Strahd can take lair actions as long as he isn't incapacitated.
 </p>
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Control Water (requires Swamp Fane.</em></strong> Strahd casts or uses <em>control water</em> without components or concentration.</p>
-<p><strong><em>Fog Cloud (requires Swamp Fane.</em></strong> Strahd casts <em>fog cloud</em> at 5th level without components or concentration. While the fog remains, Strahd has blindsight out to its edges.</p>
+<p><strong><em>Control Water (requires Swamp Fane.)</em></strong> Strahd casts or uses <em>control water</em> without components or concentration.</p>
+<p><strong><em>Fog Cloud (requires Swamp Fane.)</em></strong> Strahd casts <em>fog cloud</em> at 5th level without components or concentration. While the fog remains, Strahd has blindsight out to its edges.</p>
 </div>
 
 

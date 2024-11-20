@@ -220,6 +220,8 @@ The road here hides a spiked pit trap (<span class="citation">Dungeon Master's G
 
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
+In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
+
 > [!combat]- **Balancing the False Trail**
 > This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -513,7 +515,7 @@ As the players climb the spiral staircase or back staircase toward the first flo
 ### Fermentation Vats
 <span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
 
-The scream originates from the large room containing the winery’s fermenation vats, which is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>. However, remove the final two sentences of the room’s description. If the players have entered the room from <span class="citation">W10. Glassblower's Workshop (p. 177)</span> or have entered the chamber fully, also read the following text:
+The scream originates from the large room containing the winery’s fermentation vats, which is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>. However, remove the final two sentences of the room’s description. If the players have entered the room from <span class="citation">W10. Glassblower's Workshop (p. 177)</span> or have entered the chamber fully, also read the following text:
 
 <div class="description">
 <p>Beneath the sloping roof stretch thick rafters, from which hang six wooden cages arranged side-by-side. Each cage holds more than a dozen ravens crammed together, with little space to move or breathe. Most of the ravens bear cuts or broken beaks, and all of them are missing feathers.</p>
@@ -1046,7 +1048,7 @@ If the players attempt to conceal their purpose, Strahd guesses aloud that they 
 
 In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
 ### Walking with Strahd
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in ***Arc E: St. Andral’s Feast***, Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
+If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
 
 If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
 
