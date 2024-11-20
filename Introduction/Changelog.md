@@ -1,4 +1,4 @@
-# Version 2.0.9.7 (November 11, 2024)
+# Patch 2.0.9.7 (November 19, 2024)
 * Fixed assorted typos and inconsistencies
 * Removed outdated references in Madam Eva's tarokka reading in [[Arc C - Into the Valley]]
 * Added tactics to vine blights at the spiked pit trap in [[Arc J - The Stolen Gem]]
@@ -13,7 +13,7 @@
 * Brought Vladimir's flame trap in line with action economy in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.6 (October 22, 2024)
 * Fixed assorted typos and inconsistencies
-# Version 2.0.9.5 (October 21, 2024)
+# Patch 2.0.9.5 (October 21, 2024)
 * Fixed assorted typos and inconsistencies 
 * Amended Strahd's statblock to accurately reflect his proficiency bonus as a CR 21 enemy
 * Amended Strahd's statblock to include dispel magic, and fane-specific lair actions
