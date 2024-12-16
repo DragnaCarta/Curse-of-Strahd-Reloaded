@@ -112,22 +112,25 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
 [[Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf Kiril Stoyanovich, and light the beacon of Argynvostholt.
+## Act IV - Secrets of the Ancient
+[[Act IV Summary]]. Coming soon.
+[[Arc R - Trials of the Mountain]]. The players ascend the treacherous Tsolenka Pass while surviving Strahd's predations.
+[[Arc S - A Sword of Sunlight]]. Coming soon.
+[[Arc T - The Cavern of Lights]]. Coming soon.
 
 > [!tip]+ **Under Construction**
 > *Curse of Strahd: Reloaded* is an ongoing project. New releases, including additional arcs and edits to existing arcs, are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).
 > 
 > Alternatively, if you'd like to read drafts, outlines, and notes for upcoming releases, you can do so by becoming a paid supporter of DragnaCarta's [Patreon](https://www.patreon.com/DragnaCarta). Doing so also allows you to join an exclusive Discord community of new and experienced DMs running *Reloaded* themselves.
 > 
-> The guide is currently projected to be completed in the fall of 2024, with regular additions and revisions released approximately once per month. If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]]. If you'd like to provide suggestions, feedback, or critiques regarding the current version of the guide, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
-## Act IV - Secrets of the Ancient
-[[Act IV Summary]]. Coming soon.
-[[Arc R - Trials of the Mountain]]. Coming soon.
-[[Arc S - The Amber Temple]]. Coming soon.
-[[Arc T - The Monster Hunter]]. Coming soon.
-[[Arc U - The Ladies of the Fanes]]. Coming soon.
+> The guide is currently projected to be completed in the spring of 2025, with regular additions and revisions released approximately once per month. If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]]. If you'd like to provide suggestions, feedback, or critiques regarding the current version of the guide, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
 ## Act V - The Curse of Strahd
 [[Act V Summary]]. Coming soon.
-[[Arc V - The Curse of Strahd]]. Coming soon.
+[[Arc U - The Monster Hunter]]. Coming soon.
+[[Arc V - The Witch of Berez]]. Coming soon.
+[[Arc W - The Ladies of the Fanes]]. Coming soon.
+[[Arc V - The Whispering Wall]]. Coming soon.
+[[Arc X - The Curse of Strahd]]. Coming soon.
 [[Epilogue]]. Coming soon.
 ## Appendices
 [[Non-Player Characters]]. A compendium of every major NPC in the adventure.
