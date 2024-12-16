@@ -2340,6 +2340,11 @@ If Sangzor determines that a player intends to seek the power of the vestiges of
 
 If Sangzor does not detect any intent to seek the vestiges' power in the players' hearts, it bows its head as a show of respect, then turns to depart, soon vanishing into the snow and mist.
 ## R6b. The Amber Temple
-Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>.
+Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.
+
+> [!tip] **You've Reached the End of the Mists**
+> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
+> 
+> To get a sneak peek at drafts for [[Arc S - A Sword of Sunlight]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
