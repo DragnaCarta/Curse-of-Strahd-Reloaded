@@ -1,3 +1,5 @@
+# Hotfix 2.0.10.1 (December 19, 2024)
+* Removed Strahd's *Father of the Night* ability from [[Strahd von Zarovich]] 
 # Version 2.0.10 (December 16, 2024)
 * Added [[Act IV Summary]]
 * Added [[Arc R - Trials of the Mountain]]
