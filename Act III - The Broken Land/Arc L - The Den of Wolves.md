@@ -128,7 +128,7 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 > Players who convince Bianca to reveal her true lycanthropic nature can convince her to share the following information about the werewolf den with a successful DC 20 Charisma (Intimidation) check:
 > * The pack is led by Kiril, her husband and a powerful werewolf, who seized power when the old leader stepped down.
 > * Prisoners are kept in Mother Night's shrine, which lies toward the rear of the cave.
-> * When the pack leaves to hunt, only Bianca and Skennis, the pack's old leader, remain behind. (Bianca has little desire to see Kiril transformed following his deals with the "swamp witch" of Berez.)
+> * When the pack leaves to hunt, Bianca and Skennis, the pack's old leader, remain behind. (Bianca has little desire to see Kiril transformed following his deals with the "swamp witch" of Berez.)
 > * In addition, four werewolves also remain to guard the den, rotating their watch in pairs. (The four werewolves, Azianka, Davanka, Kobal, and Radovan are newly infected by Kiril and obey him slavishly.) 
 > * Whilst all other werewolves will be on the hunt, about half a dozen wolves still remain at the den.
 > 
@@ -310,7 +310,7 @@ Skennis is not asleep, only dozing. The players must succeed on a group DC 14 De
 
 The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
 
-If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the nine **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
+If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
 
 If the players remain in Skennis’s cave without feeding, healing, pacifying, incapacitating, or hiding from him, his growl escalates to a rumbling snarl. One round later, he releases a sharp, piercing howl that echoes across the walls of the cave and into the valley beyond.
 
@@ -320,7 +320,7 @@ Skennis’s howl alerts Ilya and Zuleika in [[#L4e. Shrine of Mother Night]], th
 
 This area is largely as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>.
 
-Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by nine alert **wolves** loyal to Strahd and Kiril.
+Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by six alert **wolves** loyal to Strahd and Kiril.
 
 To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
 

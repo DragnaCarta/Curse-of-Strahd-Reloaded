@@ -570,7 +570,7 @@ If treated with kindness and allowed to ramble regarding Strahd’s assorted ric
 <p>"If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."</p>
 </div>
 
-Lief then continues to ramble. If stopped and further questionned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
+Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 
 If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
 ### King’s Hall
@@ -684,7 +684,7 @@ The first time any player approaches the doors to <span class="citation">K67. Ha
 When the dinner bell rings, the two **vampire spawn** lurking in [[#Kitchen]] and [[#Butler’s Quarters]] quietly scuttle across the 10-foot ceiling, attacking from above the following round. Players with a passive Wisdom (Perception) score of 15 or below are surprised when the vampires attack.
   
 > [!combat]- **Balancing the Ravenous Spawn** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller, modify the encounter as follows: 
 > **Three Players**. Reduce the number of vampire spawn to one.
 
 The vampires prefer to target easy prey, including unarmored or surprised characters. Once a vampire has successfully grappled a target with its ***claws***, it attempts to drag its prey away to a quiet place for feeding as follows:
@@ -797,7 +797,7 @@ This area is largely as described in <span class="citation">K42. King’s Bedcha
 ![[Gertruda.png]]
 <span class="credit">"Gertruda" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Gertruda**
+> [!profile]+ **Profile: Gertruda**
 > **Roleplaying Information**
 > ***Resonance.*** Gertruda should inspire endearment for her idealism and pity for Escher, sympathy for her devotion to Doru and her mother, and flattery for her sincere gratitude to the players for rescuing her.
 >
@@ -1574,7 +1574,7 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 > [!item]+ **Silverthorn Collar**
 > While worn by a lycanthrope, the interior of a *silverthorn collar* extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation. Additionally, a lycanthrope wearing the collar can’t regenerate.
 >
-> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, that creature must make a Dexterity saving throw or take 31 (7d8) piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
+> Each collar is magically locked and bears a single, small keyhole. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, that creature must make a Dexterity saving throw or take 31 (7d8) piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
 > The spells *dispel magic* and *knock* have no effect on the collar.
 
@@ -1945,7 +1945,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 30 (p
 In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
 
 > [!item]+ **Spear of the Huntress**
-> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsectating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
+> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
 #### South Crypts, Third Row
 This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 

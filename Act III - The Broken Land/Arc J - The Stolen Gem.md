@@ -50,7 +50,7 @@ When the players meet Urwin in the Blue Water Inn's kitchen after accepting his 
 ![[Muriel Vinshaw 1.png]]
 <span class="credit">"Muriel Vinshaw" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Muriel Vinshaw**
+> [!profile]+ **Profile: Muriel Vinshaw**
 > **Roleplaying Information**
 > ***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
 > 
@@ -691,7 +691,7 @@ If the players free the ravens from their cages, they join the party as a **swar
     <p><strong><em>False Appearance.</em></strong> While the blight remains motionless, it is indistinguishable from a dead sapling.</p>
     <h3>Actions</h3>
     <p><strong><em>Multiattack.</em></strong> The twig blight makes one attack with its <em>claws</em> and up to one attack with its <em>roots</em>.</p>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage and the target is grappled (escape DC 9).</p>
+    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage and the target is grappled (escape DC 9).</p>
     <p><strong><em>Root.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature that is grappled by the blight, incapacitated, or restrained. <em>Hit:</em> 4 (1d4 + 2) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the blight regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
 </div>
 
@@ -1125,7 +1125,7 @@ Shortly after the players enter the circle, any players still looking at the cir
 ![[Ludmilla.png]]
 <span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Ludmilla Vilisevic**
+> [!profile]+ **Profile: Ludmilla Vilisevic**
 > **Roleplaying Information**
 > ***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
 > 

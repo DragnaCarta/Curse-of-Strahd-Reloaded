@@ -306,7 +306,7 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
 
 > [!info]+ **Muriel Incognito**
-> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she insists excitedly, then (if questioned) stubbornly, that her name is "Blue."
+> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly responds that it is "Blue." She stubbornly insists that this is her name if questioned.
 > 
 > While accompanying the group, Muriel may use her ***mimicry*** feature to produce any of the following sounds to prompt or react to the players:
 > 
@@ -395,7 +395,7 @@ Unless the players intervene, the conversation unfolds as follows:
 >
 > ***Dark Beginnings.*** Twenty years ago, when Arturi Radanavich was only seventeen, several members of his extended family amongst the Radanavich caravan invited him on a “hunting trip.” Awkward, lonesome, and desperate for connection, Arturi accepted their invitation gratefully.
 >
-> It wasn’t long, however, before Arturi learned the true nature of their hunt. His aunt, Madame Irene Radanavich and the leader of the caravan, had recently seen her son, Radu, gravely injured. When the Vistani’s treatments proved fruitless, Madame Radanavich had taken Radu to a healer in a nearby village—a doctor named Rudolph van Richten. Radu, however, had died under Van Richten’s care, and a vengeful and grieving Madame Radanavich sought to visit his pain upon Van Richten in turn.
+> It wasn’t long, however, before Arturi learned the true nature of their hunt. His aunt, Madame Irene Radanavich and the leader of the caravan, had recently seen her son, Radu, gravely injured. When the Vistani’s treatments proved fruitless, Madame Radanavich had taken Radu to a healer in a nearby village—a doctor named Rudolph van Richten. Radu, however, had died under Van Richten’s care, and a vengeful and grieving Madame Radanavich sought to visit this pain upon Van Richten in turn.
 >
 > Arturi felt bewildered and afraid—but each time he thought to open his mouth, he imagined the insults and jeers of his cousins or Aunt Irene’s smoldering glare. And so, Arturi watched silently as his family kidnapped Van Richten’s fourteen-year-old son, Erasmus, spirited him away to a darkened mire, and sold him to the vampire lord Baron Metus. The Radanaviches then fled through the Mists—to Barovia.
 >
@@ -657,7 +657,7 @@ As the players travel west from the River Ivlis Crossroads, read:
 <p>Soon enough, though, the road levels out, continuing past a ruined three-story watchtower perched atop the edge of the cliff. </p>
 <p>The tower's old stone walls are covered in moss and ivy, its rotten wooden door hanging off its hinges. Nearby, two fresh graves sit against the road. An animal's corpse seems to lie in the tall grass not far away.</p></div>
 
-Pause to allow the players to act or react. If the players remain silent, continue to [[#C7. The Wolves' Hunt]] below. Otherwise, allow the players to explore the area.
+Pause to allow the players to act or react. If the players remain silent, continue to [[#C7. The High Road]] below. Otherwise, allow the players to explore the area.
 ## The Watchtower
 The ruined watchtower was built as a lookout post by the Order of the Silver Dragon long ago. It has the same structure as the <span class="citation">Guard Tower (p. 157)</span> at Tsolenka Pass, with the following changes:
 
@@ -711,7 +711,8 @@ If the players pause, proceed, or attack, the five wolves in the woods strike. R
 <div class="description">
 <p>Five snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
 </div>
-  
+
+
 > [!combat]- **Balancing the Wolves** 
 > This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of wolves to 3. 
@@ -823,7 +824,7 @@ This scene largely unfolds as described in <span class="citation">Dream Pastries
 ![[Morgantha_Disguised.png]]
 <span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Morgantha, Dream Peddler**
+> [!profile]+ **Profile: Morgantha, Dream Peddler**
 > **Roleplaying Information**
 > ***Resonance.*** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
 > 
@@ -1386,7 +1387,7 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***Tser Falls.*** The encounter with the revenant has been added to provide the players with a clear, though non-urgent hook to Argynvostholt. The revenant's responses are intentionally kept terse in order to ensure that the players learn little of the Order of the Silver Dragon until their meeting with Sir Godfrey Gwilym.
 
-***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in ***Arc I. The Lost Soul***.) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
+***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Arc H - The Lost Soul]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
 
 ***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
 

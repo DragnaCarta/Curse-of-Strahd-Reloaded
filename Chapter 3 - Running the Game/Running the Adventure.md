@@ -70,7 +70,7 @@ The *Holy Symbol of Ravenkind* has been revised as follows:
 </div>
 
 ## The Sunsword
-The *Sunsword* cannot be attuned to when the players first obtain it. Instead, the players must submerge it in the blessed pool near the Shrine of the White Sun to restore its radiant blade. (The hilt retains its sentience and ability to communicate telepathically before its blade is restored.) For more information about this arc, see ***Arc V: The Sunsword*** below.
+The *Sunsword* cannot be attuned when the players first obtain it. Instead, the players must submerge it in the blessed pool near the Shrine of the White Sun to restore its radiant blade. (The hilt retains its sentience and ability to communicate telepathically before its blade is restored.) For more information about this arc, see ***Arc V: The Sunsword*** below.
 
 Note that the *Sunsword* is a sentient magic item; as described in **Conflict** (*Dungeon Master's Guide*, p. 216), it may make demands of its wielder or attempt to seize control of them if they act contrary to its will. (This is especially likely to occur if, for example, its wielder is charmed by Strahd von Zarovich.)
 ## Strahd’s Enemy
@@ -101,7 +101,7 @@ The *Holy Symbol* has been intentionally placed in the Werewolf Den to ensure th
 
 The four foretellings leading to Krezk—the scarecrow in the garden of the Abbey of Saint Markovia (***Two of Glyphs—Missionary***), the main hall of the Abbey (***One of Glyphs—Monk***), the nursery of the Abbey (***Two of Coins—Philanthropist***), and the gazebo in the Shrine of the White Sun (***Three of Glyphs—Healer***)—have been removed to ensure that the players do not fulfill two of their Tarokka readings (i.e., both the *Holy Symbol* and Strahd's Enemy) while within the same relative area.
 
-***The Sunsword.*** The *Sunsword*'s radiant blade has been withheld from the players to create a more organic opportunity to meet the spirit of Sergei von Zarovich, to manufacture a late-game interaction between Sergi and Ireena, and to create a more climactic and engaging narrative. 
+***The Sunsword.*** The *Sunsword*'s radiant blade has been withheld from the players to create a more organic opportunity to meet the spirit of Sergei von Zarovich, to manufacture a late-game interaction between Sergei and Ireena, and to create a more climactic and engaging narrative. 
 
 Due to its power in combat against Strahd, the *Sunsword* has been intentionally placed in the Amber Temple—the most dangerous and isolated location in the game—to ensure that the players do not obtain it too early. This placement also ensures that the players have a reliable hook to the Temple and a rewarding goal to achieve while there.
 
