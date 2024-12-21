@@ -16,7 +16,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 
 > [!lore]+ **Strahd’s Bounty**
 >
-> When Strahd received Madam Eva’s [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|most recent fortelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
+> When Strahd received Madam Eva’s [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
@@ -256,7 +256,7 @@ While he is not generally inclined to grant their request, if the players indica
 
 * For the past two months, a spirit has haunted the Vallakovich mansion. 
 * Servants have seen its reflection in mirrors or darkened windows, and have reported cold drafts, strange sounds, and objects that move of their own volition.
-* The mansion’s butler and the baroness's lady-in-waiting have already left the Baron's employment, too fearful of the ghost to continue working in the house.
+* The mansion’s butler and the baroness' lady-in-waiting have already left the Baron's employment, too fearful of the ghost to continue working in the house.
 * The Baron’s wife, Baroness Lydia Petrovna, hosts daily lunches for a group of Vallakian women, who Vargas uses to prepare costumes and decorations for his weekly festivals. Vargas is desperate to ensure that the women remain ignorant of the spirit’s existence.
 * The Baron's cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before the Baron convinced her to stay by (reluctantly) increasing her pay.
 
@@ -413,7 +413,7 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 >
 > According to the spellbook, a magical binding allowed Khazan to summon it by merely speaking his own name. With the aid of Khazan’s staff, Victor believes he may be able to rescue Stella’s soul from the Ethereal Plane and restore it to her body.
 >
-> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in <span class="citation">Crypt 15 (p. 88)</span> in Castle Ravenloft. See **_Arc T: Ravenloft Heist_** for more information about Khazan's staff.
+> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in <span class="citation">Crypt 15 (p. 88)</span> in Castle Ravenloft. See [[Arc P - Ravenloft Heist]] for more information about Khazan's staff.
 
 # E4. Lake Zarovich
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
@@ -450,7 +450,7 @@ If the players choose to set off on their own, Szoldar gives the following direc
 
 Szoldar also warns the players to be cautious of werewolves on the Svalich Road and northern path. The woods to the west of Vallaki—and especially the woods around Lake Baratok—are the preferred hunting grounds of a local werewolf pack.
 
-The werewolves's recent flurry of activity has made Szoldar suspect that the pack has come under the leadership of a new, more reckless alpha. He doesn’t know where the werewolves’ den is, but he cautions the players to keep an eye out for anything strange or unusual.
+The werewolves' recent flurry of activity has made Szoldar suspect that the pack has come under the leadership of a new, more reckless alpha. He doesn’t know where the werewolves’ den is, but he cautions the players to keep an eye out for anything strange or unusual.
 # E5. The Svalich Road
 As the players exit Szoldar’s shack, any characters with a passive Wisdom (Perception) score of 19 or higher notice a silhouette watching them from the southern treeline. If the players approach, look toward, or otherwise attempt to interact with the silhouette, it vanishes. 
 
@@ -765,13 +765,13 @@ When the players return to Vallaki, they can pursue their leads either by seekin
 
 As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
 
-> [!profile]+ **NPC Profile: Dr. Rudolph van Richten**
+> [!profile]+ **Profile: Dr. Rudolph van Richten**
 > **Roleplaying Information**
 > ***Resonance.*** Van Richten should inspire gratitude for his knowledge (freely shared), comfort with his confidence and experience, and mild irritation with his paranoia and bluntness.
 > 
 > ***Emotions.*** Van Richten most often feels suspicious, wary, thoughtful, concerned, wistful, satisfied, inquisitive, guilty, and ashamed.
 > 
-> ***Motivations.*** Van Richten wants to keep Arabelle safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for Erasmus's death and his slaughter of the Radanaviches.
+> ***Motivations.*** Van Richten wants to keep Arabelle safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for Erasmus' death and his slaughter of the Radanaviches.
 > 
 > ***Inspiration.*** When playing Van Richten, channel Alastor "Mad-Eye" Moody (*Harry Potter*), Geralt of Rivia (*The Witcher*), and Mike Ehrmantraut (*Breaking Bad*).
 > 

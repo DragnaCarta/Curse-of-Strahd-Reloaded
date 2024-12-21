@@ -401,7 +401,7 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 ## B5e. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
-Should the players choose to visit it before proceeding to [[#B5e. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
 
 If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
 
@@ -636,8 +636,8 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make a <strong><em>saber</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
+<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
 <p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
 <p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
 </div>
@@ -698,8 +698,8 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Vengeful Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong>. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
 </div>
 
 ## B5h. Return to the Mansion
@@ -770,7 +770,7 @@ Ismark shares the information regarding his desire to bring her to Vallaki as de
 
 ***Seeking Madam Eva.*** Strahd's attack on the village has only strengthened Ismark's belief that the Barovians must find some way of escaping the vampire's tyranny. "We can't go on living like this," he croaks, his knuckles whitening as he stares into his mug. "I've heard how terrible things were a hundred years ago, before he went to sleep. Vampires lurking in every shadow. Parents and their children disappearing in the night. Rats and wolves and bats reporting our every move to the castle. Even if the Devil goes dormant again in fifty or sixty years' time, who would we be if we condemned our children and grandchildren to that same fate?"
 
-Although he asks them to be discrete in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of Madam Eva, a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
+Although he asks them to be discreet in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of Madam Eva, a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
 
 If the players agree to do so, the player with the highest passive Wisdom (Perception) score notices a **rat**—one of Strahd's spies—watching them with rapt, malevolent, and intelligent interest from beneath a nearby piece of furniture. Once noticed, the rat immediately dashes toward the kitchen in a clear attempt to escape.
 

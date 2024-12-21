@@ -497,7 +497,7 @@ Before the players depart, Ithuriel freely offers them healing through the use o
 >
 > If asked to linger or fight alongside the players, Ithuriel politely declines, insisting that his place is at the Abbey, and he cannot leave his wards or neighbors without his protection. “Do not fear," he reassures the players before departing. “The Morninglord is with you."
 
-> [!profile]+ **Ithuriel**
+> [!profile]+ **Profile: Ithuriel**
 > **Roleplaying Information**
 > ***Resonance.*** Ithuriel should inspire endearment for his determination to repair the harm he has done, comfort for his deep compassion and care, and gratitude for his earnest efforts to aid the players.
 >

@@ -339,7 +339,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 > * ***Six Players.*** Increase the number of vampire spawn to three.
 
 > [!warning]+ **Sunlight in Barovia**
-> Remember that vampires and other creatures in Barovia are unaffected by sunlight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
+> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
 
 > [!warning]+ **Vampires Aren't Humanoid**
 > Remember that **vampire spawn**, including Volenta, have the **undead** type, rather than the **humanoid** type. As such, spells and effects that target only humanoids, such as _hold person_, or which can't affect undead, such as _command_, have no effect on Volenta and the vampires accompanying her.
@@ -537,7 +537,7 @@ The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows
 * DC 15: Rahadin agrees to a light sentence.
 * DC 20: Rahadin agrees to free Henrik without punishment.
 
-The difficulty of convincing Rahadin to decrease Milivojs sentence is as follows:
+The difficulty of convincing Rahadin to decrease Milivoj's sentence is as follows:
 
 * DC 5: Rahadin agrees to an extreme sentence.
 * DC 10: Rahadin agrees to a severe sentence.
@@ -701,7 +701,7 @@ Milivoj himself has been relocated to his family home—both to show (not tell) 
 
 ***Return to the Church.*** Father Lucian asks to accompany the players to the coffin maker's shop in order to ensure that the party has the benefits of his *spirit guardians* spell during the fight with Volenta's **vampire spawn** (i.e., to counteract their regeneration).
 
-***Arasek Stockyard.*** Erasmus's ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
+***Arasek Stockyard.*** Erasmus' ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
 
 The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[Arc E - The Missing Vistana]]) is not all that he seems.
 
