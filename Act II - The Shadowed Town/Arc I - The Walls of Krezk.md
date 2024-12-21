@@ -56,7 +56,7 @@ The road to Krezk is as described in <span class="citation">S1. Road Junction (p
 
 The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
 
-> [!profile]+ **Baron Dmitri Krezkov**
+> [!profile]+ **Profile: Baron Dmitri Krezkov**
 > **Roleplaying Information.**
 > ***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
 > 
@@ -242,7 +242,7 @@ The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Mark
 
 Should the players approach or address him, the Abbot, without looking up from the flower, says: "A ward against evil, and yet a deadly poison. Is it not strange that a mere flower can hold such duality within it?"
 
-> [!profile]+ **The Abbot**
+> [!profile]+ **Profile: The Abbot**
 > **Roleplaying Information**
 > ***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
 > 
