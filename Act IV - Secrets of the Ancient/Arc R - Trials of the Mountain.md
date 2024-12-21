@@ -1368,13 +1368,13 @@ If the players enter the cave, read:
 > Cassius and Deirdre have the statistics of **bodaks** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 64</span>), but with the following changes:
 > * Increase each bodak’s hit points to 136 (21d8 + 42).
 > * Give each bodak the following action: "***Multiattack.*** The bodak attacks twice with its fist."
-> * Revise the first sentence of each bodak’s ***death gaze*** feature to read as follows: "As a reaction, in response to a creature it can see attacking the bodak or moving to a space within 30 feet of it, the bodak can force that creature, as well as each other creature in a 30-foot cone containing that creature, to make a DC 13 Constitution saving throw. A creature automatically succeeds on the saving throw if it can’t see the bodak, or if the bodak can’t see it.
+> * A creature that fails its saving throw against a bodak's ***death gaze*** by 5 or more is reduced to half its current hit points (rounded up), rather than 0.
 >
 > If the bodaks encounter the players while dormant, each bodak uses its first bonus action to activate its ***aura of annihilation***. It then uses its ***multiattack*** if any player is within melee range, and its ***withering gaze*** otherwise.
 >
 > If the bodaks corner the players while active (i.e., after the players have entered [[#The Eastern Nest]] or [[#The Western Nest]], or as the players first attempt to ascend the chimney in [[#The Trash Heap]]), each bodak quietly activates its ***aura of annihilation*** from a separate adjacent room and waits for the players to die. (Because a bodak’s ***aura of annihilation*** is an aura, rather than a spell or attack, the damage dealt by the aura spreads around corners.) 
 >
-> If the players subsequently pursue and attack either bodak, the bodak uses its ***death gaze*** reaction to defend itself. On its turn, the bodak then uses its ***withering gaze*** before retreating to a new room, hoping to avoid the players’ attacks until they succumb to its ***aura of annihilation***.
+> If the players subsequently pursue and attack either bodak, the bodak uses its ***withering gaze*** and retreats to a new room on its turn, hoping to avoid the players’ attacks until they succumb to its ***aura of annihilation***.
 > 
 > The first time a bodak activates its ***aura of annihilation***, read:
 >
