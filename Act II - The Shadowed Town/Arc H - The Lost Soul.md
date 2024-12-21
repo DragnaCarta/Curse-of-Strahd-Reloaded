@@ -885,7 +885,7 @@ After a few moments have passed, the players hear a teenaged girl's voice behind
 
 The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who floats down to the players from ten feet above the ground. Stella appears largely as she does in life, though her body is translucent and her legs below the knees have begun to fade into mist.
 
-> [!profile]+ **Stella Wachter**
+> [!profile]+ **Profile: Stella Wachter**
 > **Roleplaying Information.**
 > ***Resonance.*** Stella should inspire sympathy for her guilt over causing such anxiety and pain to her family and Victor; endearment for her chipper, optimistic attitude; and gratitude for her steadfast faith in the players.
 > 

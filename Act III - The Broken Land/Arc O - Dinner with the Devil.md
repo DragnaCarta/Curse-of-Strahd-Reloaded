@@ -250,7 +250,7 @@ This area is largely as described in <span class="citation">K1. Front Courtyard 
 
 The players recognize the man as Rahadin, Strahd’s chamberlain. The woman is Anastrasya Karelova, one of Strahd’s vampiric brides.
 
-> [!profile]+ **Anastrasya Karelova**
+> [!profile]+ **Profile: Anastrasya Karelova**
 > **Roleplaying Information**
 > ***Resonance.*** Anastrasya should inspire flattery for her compliments and charm, suspicion for her disguised efforts to probe for the players’ secrets, and disgust for her apathy toward the plight of the Barovian people.
 >
@@ -267,7 +267,7 @@ The players recognize the man as Rahadin, Strahd’s chamberlain. The woman is A
 >
 > ***Relationships.*** Anastrasya is Strahd’s third-youngest bride and a former Vallakian noble from a now-extinct house.
 
-> [!profile]+ **Rahadin**
+> [!profile]+ **Profile: Rahadin**
 > **Roleplaying Information**
 > ***Resonance.*** Rahadin should inspire anger for his condescension and unease for his deadly calm and undying devotion to carrying out Strahd’s will.
 >
@@ -323,7 +323,7 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 ![[Sasha Ivliskova.png]]
 <span class="credit">"Sasha Ivliskova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Escher**
+> [!profile]+ **Profile: Escher**
 > **Roleplaying Information**
 > ***Resonance.*** Escher should make the players feel amused and flattered with his flamboyantly flirtatious behavior, irritated with his snide or condescending commentary, and, eventually, sympathetic to his unspoken guilt for his role in bringing harm to his friends and neighbors by awakening Strahd.
 > 
@@ -331,7 +331,7 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 > 
 > ***Motivations.*** Escher wants to please Strahd and avoid falling from his favor.
 > 
-> ***Inspirations.*** When roleplaying Escher, channel Asterion (*Baldur's Gate 3*), Crowley (*Good Omens*), and Renly Baratheon (*Game of Thrones*).
+> ***Inspirations.*** When roleplaying Escher, channel Astarion (*Baldur's Gate 3*), Crowley (*Good Omens*), and Renly Baratheon (*Game of Thrones*).
 > 
 > **Character Information**
 > ***Persona.*** To the world, Escher is a flamboyant and self-assured member of Strahd's court, with a love for preening, luxuries, and attention. Only Escher knows that he is a guilt-ridden, self-loathing, broken man who longs desperately for Strahd's approval and has long since resigned himself to the cage his choices have trapped him in.
@@ -340,7 +340,7 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 > 
 > ***Relationships.*** Before becoming one of Strahd's consorts, Escher had a crush on Doru, his former best friend. He is now one of Strahd's consorts—though not formally wed to him—and an inferior member of Strahd's court.
 
-> [!profile]+ **Sasha Ivliskova**
+> [!profile]+ **Profile: Sasha Ivliskova**
 > **Roleplaying Information**
 > ***Resonance.*** Sasha should make the players feel sympathetic toward her clear discomfort as one of Strahd's brides, endeared to her for her efforts to maintain her dignity in the face of dismissal and cruelty from Strahd's other brides, and mildly put off by her standoffish reluctance to allow others to get close to her.
 > 
@@ -489,7 +489,7 @@ While Sasha is gone, Strahd continues to engage the players in smalltalk, posing
 >
 > * ***Bonegrinder Coven.*** (If the coven is dead) “It is my understanding that they were fell, putrid creatures, finding joy in the practice of petty corruption. My realm is no lesser for their absence."
 >
-> * **Order of the Silver Dragon.*** “A forgotten and tarnished militia, long-since forsaken by their own will. Pay them little mind."
+> * ***Order of the Silver Dragon.*** “A forgotten and tarnished militia, long-since forsaken by their own will. Pay them little mind."
 >
 > * ***The Abbot.*** “An odd creature, quite taken with his own whims and fancies. While I find his obsessive faith offputting, one must bear a certain respect for the sheer depth of his dedication."
 ### Sasha Alone
@@ -539,7 +539,7 @@ The man is the **mongrelfolk** Cyrus Belview, and is as described in <span class
 > ***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
 
 > [!abstract]+ **Talking to Cyrus**
-> If the players ask Cyrus about his life at Castle Ravenloft or the Abbot’s “perfection" and mention Clovin, Otto, and Zygfrek Belview’s curiosity, Cyrus is initially reluctant to interrupt his cooking efforts to reply to them. If the players continue to press him for a response, however, and succeed on a DC 5 Charisma (Persuasion) check, Cyrus pauses, sighs, and shakes his head before replying, “They’re good lads. Tell them I’m well and thriving."
+> If the players ask Cyrus about his life at Castle Ravenloft or the Abbot’s “perfection" and mention Clovin, Otto, and Zygfrek Belview’s curiosity, Cyrus is initially reluctant to interrupt his cooking efforts to reply to them. If the players continue to press him for a response, however, and succeed on a DC 5 Charisma (Persuasion) check, Cyrus pauses, sighs, and shakes his head before replying, “They’re good kids. Tell them I’m well and thriving."
 >
 > If asked, Cyrus can share the following information:
 >
@@ -694,7 +694,7 @@ If the player doesn’t reveal their interest in infiltrating Castle Ravenloft, 
 > [!lore]+ **Strahd's Scheme**
 > Unbeknownst to Sasha, Gertruda has been charmed by Strahd since the day she first arrived in the castle. Although Gertruda's friendship with Sasha is real, it was Strahd who told Gertruda to seek Sasha's aid in escaping.
 > 
-> Strahd hopes to use Gertruda as bait to lure the players to the castle while he's away, seeking to test their skills against his brides. Although he has no knowledge of the players' other objectives at the castle—such as obtaining Argynvost's skull or freeing the **werewolf** Emil Toranescu—he has been disappointed with his brides' performance against the players, and hopes to orchestra an opportunity to separate the wheat from the chaff. Should the players succeed, Strahd believes, they will have proven themselves worthy of becoming his vampiric generals in the wars to come.
+> Strahd hopes to use Gertruda as bait to lure the players to the castle while he's away, seeking to test their skills against his brides. Although he has no knowledge of the players' other objectives at the castle—such as obtaining Argynvost's skull or freeing the **werewolf** Emil Toranescu—he has been disappointed with his brides' performance against the players, and hopes to orchestrate an opportunity to separate the wheat from the chaff. Should the players succeed, Strahd believes, they will have proven themselves worthy of becoming his vampiric generals in the wars to come.
 
 If the players agree to rescue Gertruda, Sasha can share the following information about Castle Ravenloft:
 
@@ -707,7 +707,7 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59)</span> into the castle via <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, which allows access to the servants’ quarters and kitchens.
 * Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in <span class="citation">K41. Treasury (p. 67)</span>).
 
-Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand stalks the shadows of any who enter."
+Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand man stalks the shadows of any who enter."
 
 Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions. 
 
@@ -919,8 +919,9 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of <span class="citation">K65. Kitchen (p. 78)</span>.
 * Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via <span class="citation">K18. High Tower Staircase (p. 58)</span>.
 * Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59)</span> into the castle via <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, which allows access to the servants’ quarters and kitchens.
+* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in <span class="citation">K41. Treasury (p. 67)</span>).
 
-Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand stalks the shadows of any who enter."
+Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand man stalks the shadows of any who enter."
 
 Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions.
 
@@ -995,7 +996,7 @@ The dead woman’s corpse is brown-haired, short, and freckled. She wears a plai
 > [!info]+ **Speak With Dead**
 > Players who cast *speak with dead* on Varushka's corpse can learn the same information as in [[#O8e. The Fifth Level]]. Varushka's corpse can also share that she committed suicide by hanging when she realized Strahd would never let her go free.
 
-A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> on [[#O8a. The Second Level]].
+A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> on [[#O8b. The Second Level]].
 
 > [!info]+ **A Haunting Loop**
 > Instead of leading to <span class="citation">K55. Element Room (p. 72)</span>, the trapdoor in the Nightmare always leads to the trapdoor exit beneath the rug in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. In addition, for as long as the players remain in the Nightmare, the **rug of smothering** and **portrait of Strahd** in <span class="citation">K47. Portrait of Strahd (p. 68)</span> are inanimate objects and don’t attack the players.
@@ -1043,7 +1044,7 @@ A player who ascends through the trapdoor emerges in <span class="citation">K47.
 ## O8c. The Third Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the upper levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
+This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the lower levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
 
 Any player who enters the Guest Room immediately notices a quiet, persistent ticking noise deeper and more resonant than that of the clock. A player who listens closely to the noise can discern that it appears to be emanating from beneath the bed. A player who looks beneath the bed or otherwise disturbs its contents encounters Pidlwick II, who is as described in <span class="citation">K59. High Tower Peak (p. 73)</span>.
 
@@ -1234,7 +1235,7 @@ The corridor beyond the southern door leading to <span class="citation">K68. Gua
 ***Kingsmen Hall.*** A player who passes through the half-open door at the northern end of the guards’ meeting hall, or who enters via the kingsmen quarters (see below), emerges into <span class="citation">K70. Kingsmen Hall (p. 79)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
 
 <div class="description">
-<p>This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken and bloody corpses lie scattered across the floor, many bearing crumpled and crushed plate armor. Shields and swords just from the walls as if driven into them by some tremendous force.</p>
+<p>This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken and bloody corpses lie scattered across the floor, many bearing crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.</p>
 <p>Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.</p>
 </div>
 
@@ -1432,7 +1433,7 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 </table>
 <hr>
 <strong>Damage Immunities</strong> poison, psychic<br>
-<strong>Senses</strong> blindsight 30 ft., passive Perception X<br>
+<strong>Senses</strong> blindsight 30 ft., passive Perception 6<br>
 <strong>Languages</strong> —<br>
 <strong>Challenge</strong> 2<br>
 <strong> Proficiency Bonus</strong> +4
@@ -1522,7 +1523,7 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <hr>
 <strong>Saving Throws</strong> Wis +6<br>
 <strong>Damage Immunities</strong> poison
-<strong>Condition Immunities</strong> charmed, exhaustion, paralyzed, petrified, poisoned
+<strong>Condition Immunities</strong> charmed, exhaustion, paralyzed, petrified, poisoned<br>
 <strong>Senses</strong> Darkvision 60 ft.<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 10<br>
@@ -1543,9 +1544,9 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <p><strong><em>Calming Whispers</em></strong> In response to a creature that she can see within 10 feet targeting her with an attack or spell, Varushka forces that creature to succeed on a DC 15 Wisdom saving throw. On a failure, the creature takes 5 (2d4) psychic damage and gains one level of exhaustion for the next minute. If the creature wasn’t already exhausted, it can repeat the saving throw at the end of each of its turns except this one, decreasing its exhaustion by one level on a success.
 </div>
 
-# O10. Waking Up
+# O9. Waking Up
 Whether the players appease Varushka or defeat her, unlocking and exiting the nightmare version of the guest suite door causes them to reawaken in their physical bodies in the physical guest suite in Castle Ravenloft approximately twenty minutes before dawn with all the benefits of a long rest. Any players who died in the dream also reawaken in their physical bodies.
-### O10a. Varushka’s Last Wish
+### O9a. Varushka’s Last Wish
 When the players awaken, if they reunited Varushka with Katarina’s necklace in the dream, the necklace is no longer among their possessions. In addition, if the players reunited Varushka with the necklace, Varushka also appears to them as a **shadow** on the guest suite wall. Read:
 
 <div class="description">
@@ -1567,8 +1568,8 @@ The parchment is a note written in simple, large lettering. It reads: “When yo
 
 The pouch contains a diamond ring with a gold band worth 150 gp.
 
-Once the players have retrieved Varushka’s items, her **shadow** vanishes. (See [[#O9. Exploring the Castle]] below for more information should the players attempt to explore the castle after Varushka has left them.)
-# O9. Exploring the Castle
+Once the players have retrieved Varushka’s items, her **shadow** vanishes. (See [[#O10. Exploring the Castle]] below for more information should the players attempt to explore the castle after Varushka has left them.)
+# O10. Exploring the Castle
 If the players attempt to explore the castle after waking up, but before Strahd has sent for them, they can do so by exiting the guest suite via the hidden trapdoor in <span class="citation">K51. Closet (p. 70)</span>. 
 
 The trapdoor exits into the Element Room, which is largely as described in <span class="citation">K55. Element Room (p. 72)</span>, except it also contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. There are no **Barovian witches** in the nearby <span class="citation">K56. Cauldron (p. 72)</span>, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into <span class="citation">K48. Offstair (p. 70)</span>.
@@ -1627,7 +1628,7 @@ If appeased, Strahd is intrigued to know what drove the players to exit their ch
 > If confronted regarding Varushka’s nightmare, Strahd raises an eyebrow and notes that the players appear wholly unharmed. “It is not uncommon for rich food to cause ill dreams, after all," he adds serenely. If the players continue to argue that Strahd placed them in danger, Strahd shrugs, adding, “I’m sure you believe what you thought you saw was real. This castle is host to things that have led many a mind astray."
 
 Once appeased, Strahd directs the players to return to their suite, noting he shall send Rahadin to retrieve them shortly. He then adds, “And do try to avoid straying from the path again. It would be most unpleasant to need to revisit this conversation—wouldn’t you agree?" Once the players agree, Strahd departs, assuming his mist form through the use of his ***shapechange*** feature and vanishing into the darkness below.
-# O10. Morning at Ravenloft
+# O11. Morning at Ravenloft
 Approximately an hour after dawn, Rahadin knocks on the door of the guest suite. Once the players open the door to greet him, Rahadin coldly informs the players that the drawbridge has been repaired, and that they are to dress and prepare themselves for their departure. If the players are ready to depart, Rahadin leads them downstairs; otherwise, he instructs them to be ready within the next ten minutes.
 
 Once the players are ready, Rahadin leads them down <span class="citation">K21. South Tower Stair (p. 59)</span> into <span class="citation">K9. Guests’ Hall (p. 56)</span>, where Strahd is waiting to meet them.
