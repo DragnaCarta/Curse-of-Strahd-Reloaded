@@ -1,3 +1,11 @@
+# Hotfix 2.0.10.2 (December 20, 2024)
+* Amended the bodaks' combat strategy in [[Arc R - Trials of the Mountain]]
+# Hotfix 2.0.10.1 (December 19, 2024)
+* Removed Strahd's *Father of the Night* ability from [[Strahd von Zarovich]] 
+# Version 2.0.10 (December 16, 2024)
+* Added [[Act IV Summary]]
+* Added [[Arc R - Trials of the Mountain]]
+* Updated the Table of Contents in [[A DM's Guide to Curse of Strahd|Introduction]]
 # Patch 2.0.9.7 (November 19, 2024)
 * Fixed assorted typos and inconsistencies
 * Removed outdated references in Madam Eva's tarokka reading in [[Arc C - Into the Valley]]
