@@ -1,7 +1,7 @@
 *All dates are given in the Barovian calendar, in which "B.U." stands for "Before Unification", and "B.C." stands for "Barovian Calendar." The year 1 B.C. is marked by the founding of the first Kingdom of Zarovia by King Barov von Zarovich I.*
 # The Ancient Era (3,000 BU–0 BC)
 ## Origins of the Valley
-Nearly four millennia ago, the land of Barovia was a peaceful valley inhabited by the First Folk: a nomadic society of hunter-gatherers. When they arrived in the valley—which they called "Cerunnos," meaning "fertile land"—the First Folk brought with them the worship of a quartet of minor fey goddesses that they called the *Rozana*—the Ladies.
+Nearly four millennia ago, the land of Barovia was a peaceful valley inhabited by the First Folk: a nomadic society of hunter-gatherers. When they arrived in the valley—which they called "Girvisa," meaning "fertile land"—the First Folk brought with them the worship of a quartet of minor fey goddesses that they called the *Rozana*—the Ladies.
 
 Each of the four sister goddesses oversaw a particular season:
 
