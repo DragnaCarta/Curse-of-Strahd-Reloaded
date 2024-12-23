@@ -132,6 +132,7 @@ As the players make their way from the Vistani encampment to Vallaki or the Old 
 <p>The grassy hill that houses the dusk-elf hamlet and Vistani encampment recedes into the distance as the gnarled canopy of the Svalich Wood swallows it up once again. The muddy, faded hunter’s trail continues north, pushing through the dense foliage.</p>
 <p>As the northern treeline comes into view, the hunter’s trail splits, the eastern branch meandering further into the woods while the northern branch curves toward the pale thread of the Old Svalich Road in the distance. The air here is cool and quiet, with nothing but the rustling of leaves to fill the silence.</p>
 </div>
+
 ## R2a. The Baron’s Revenge
 If Baron Vargas Vallakovich is alive, Lady Fiona Wachter is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
 
@@ -489,7 +490,9 @@ If the players open the door, combat ends. Proceed to [[#The Visitor]] below. If
 <p><strong><em>Multiattack.</em></strong> The swarm makes two attacks.</p>
 <p><strong><em>Bites.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 0 ft., each creature in the swarm's space. <em>Hit:</em> 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.</p>
 </div>
+
 #### The Bat
+
 In this strategy, Strahd seeks to charm one of the players in order to gain entry to their resting location. To do so, he uses his ***shapechange*** to assume the form of a **bat**, then hangs from a suitable location (e.g., a building’s eaves or tree branch) clearly visible from the vantage point of the player(s) currently on watch. 
 
 Each round that one or more players can see him, Strahd uses his ***charm*** ability to attempt to charm one of those players. If successful, Strahd immediately flies from his current position to the door of the players’ resting place, assumes his ordinary form, and knocks three times on the door. 
