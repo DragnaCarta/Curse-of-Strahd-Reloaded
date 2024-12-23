@@ -206,7 +206,7 @@ A player seeking **redemption** begins the campaign with the *angel's feather*, 
 
 Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Ithuriel is the true name of the Abbot, who dwells in the Abbey of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.
 
-The player who possesses the *angel's feather* should have strong, vivid reasons to believe that the feather will one day lead them to penance for the sins that they have committed.
+The player who possesses the *angel's feather* should have strong, vivid reasons to believe that the feather will one day lead them to redemption for the sins that they have committed.
 
 ***Developments.*** When the players first arrive at the Abbey in [[Arc I - The Walls of Krezk]] or [[Arc K - The Fallen Abbey]] the *angel's feather* glimmers and is swept away in the same way that it did upon sensing Death House, guiding the player toward the Abbot. The Abbot recognizes the feather as his own, but dismisses its importance.
 ## Family—The Wanderer's Scarf
