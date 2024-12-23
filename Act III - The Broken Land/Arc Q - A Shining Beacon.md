@@ -249,7 +249,7 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 <hr>
 <strong>Saving Throws</strong> Wis +10, Cha +10<br>
 <strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> radiant<br>
+<strong>Damage Resistances</strong> necrotic, radiant<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
 <strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
 <strong>Languages</strong> all, telepathy 120 ft.<br>
@@ -317,7 +317,7 @@ At will: detect evil and good<br>
 <hr>
 <strong>Saving Throws</strong> Wis +10, Cha +10<br>
 <strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> radiant<br>
+<strong>Damage Resistances</strong> necrotic, radiant<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
 <strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
 <strong>Languages</strong> all, telepathy 120 ft.<br>
@@ -579,7 +579,7 @@ If the players do so, the revenant gravely informs them that it has received a m
 
 * Commander Vladimir Horngaard has commanded all knights of the Order of the Silver Dragon to return to Argynvostholt no later than tomorrow noon.
 * Commander Horngaard is enraged following the players’ recent incursion into Castle Ravenloft, and seeks their deaths, so that they shall meddle with Strahd von Zarovich no further.
-* Commander Horngaard is expected to compel his knights to swear a new oath: to seek out the players’ destruction, at any cost.
+* Commander Horngaard is expected to issue his knights with a new command: to seek out the players’ destruction, at any cost.
 
 The revenant apologizes sincerely to the players “for the harm it may be forced to visit upon them if they meet again." If the players share or indicate that they have been to Argynvostholt, it asks whether they have spoken with Sir Godfrey Gwilym and learned of the mission he sought to fulfill. If told that the players have recovered the skull of Argynvost in accordance with the dragon’s wishes, the revenant urges the players to fulfill the dragon’s prophecy before Commander Horngaard “releases his full wrath upon them."
 
@@ -609,7 +609,7 @@ When the players first approach the pack, read:
 <p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
 </div>
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise.
+The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. To one side, standing stiff, pale and silent is Bianca.
 
 > [!info]+ **The Starving Wolves**
 > Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
@@ -775,6 +775,7 @@ Kiril then attacks.
   </tbody>
 </table>
 <hr>
+<strong>Saving Throws</strong> Strength +11, Constitution +10<br>
 <strong>Skills</strong> Perception +5<br>
 <strong>Senses</strong> passive Perception 14<br>
 <strong>Languages</strong> Common<br>
@@ -808,6 +809,15 @@ Kiril then attacks.
 > Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
 
 ## Q5c. Kiril Vanquished
+
+> [!abstract] Bianca's Fate
+> As Kiril dies, his body shrinks down to his normal form. How Bianca responds to his death is based on how the players treated her previously.
+> 
+> * Alienated. If the players alienated her at the den, she turns to attack them as Kiril dies. As Kiril shrinks down to his normal form, a shriek is heard from Bianca as she leaps at them in her hybrid form. Visibly crying and trembling, Bianca is broken by Kiril's death. Players can attempt to convince her to stand down, calming her despair. 
+> * Neutral. If the players did little to sway Bianca either way previously, she watches silently in combat, moving to silently stand at Kiril's body upon his demise. The last to leave the site, Bianca does not return to the den. 
+> * Befriended. If the players befriended her at the lake or the den, and if they talked about the nature of Kiril's emotional abuse, Bianca leaps into assist them in combat the first time Kiril knocks a player unconscious. After Kiril dies, especially if the players have urged Bianca to take her future into her own hands, she will ask the players what she should now do. Having only become a werewolf because of her love for Kiril, her future is uncertain.
+
+
 Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
 
 <div class="description">
@@ -859,6 +869,11 @@ In combat, the revenants attack with their longswords as described in <span clas
 A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Dexterity saving throws with disadvantage, and grant advantage on any attacks made against them.
 
 When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
+
+> [!abstract]+ Vladimir's Command
+> After learning of their intentions, Vladimir has commanded Godfrey to not speak to the players.  If the players speak to Godfrey ahead of Argynvost's return and he attempts to reply, more black wires will emerge to bind and gag him into silence as he violates Vladimir's orders.
+
+
 ## Q6b. Return to the Cemetery
 When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
 
@@ -948,6 +963,8 @@ Argynvost’s spirit can share the following information if asked, or as appropr
 
 If asked, Argynvost can also share any and all of the information regarding events that occurred in [[History of Barovia#The Founding Era (1 BC–345 BC)|The Founding Era]] or during the [[History of Barovia#Birth of Barovia|Birth of Barovia]], excepting any information regarding the origins of King Barov’s *Brightblade*, Baba Lysaga’s history with the Von Zarovich clan, the birth of Sergei, and the origins of the Wizard of Wines (though Argynvost can share his strong suspicions that the winery’s founders had strong ties to—or were descended from—the indigenous people of the valley itself).
 
+If the players possess an amber shard, Godfrey is still wary of them, and offers a last warning before the temple. "Beware how fiercely you gaze into the abyss," Godfrey informs. "There is an edge, and you are not aware of how close you are in getting to it."
+
 If he has reason to believe the players hold an interest in journeying to the Amber Temple, Godfrey can also share the following information:
 
 * Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple. 
@@ -960,7 +977,7 @@ As the conversation draws to a close, or if the players request a boon for resto
 * The weapon becomes a +1 magical weapon of its kind, and has 3 charges. It regains all expended charges at dawn.
 * The weapon’s wielder can use 1 charge as a bonus action to imbue the weapon with silver flames for the next 1 minute. While the flames remain, each of the creature’s attacks deals an additional 1d4 cold damage. In addition, if the weapon’s wielder rolls a critical hit while the flames remain, the target must succeed on a DC 20 Constitution saving throw or be paralyzed until the start of the wielder’s next turn.
 * The weapon’s wielder can use 2 charges as a bonus action to cast the *beacon of hope* spell.
-* The weapon’s wielder can use 3 charges as a bonus action to create a blast of silver flame, which takes the shape of a 15-foot cone for a melee weapon and a 30-foot line for a ranged weapon. Each hostile creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. Once this feature is used, the weapon doesn’t regain charges for the next three days.
+* The weapon’s wielder can use 3 charges as an action to create a blast of silver flame, which takes the shape of a 15-foot cone for a melee weapon and a 30-foot line for a ranged weapon. Each hostile creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. Once this feature is used, it is not renewed until the anniversary of the lighting of the beacon, and the weapon doesn’t regain charges for the next three days.
 
 Once Argynvost has blessed a player’s weapon, he notes that they have “a long and difficult path ahead of them," and asks if they truly understand the evil they now face. “You will face trials unbeknownst to most mortals," he rumbles, “and endure things that should never be endured. Are you prepared to do so?"
 

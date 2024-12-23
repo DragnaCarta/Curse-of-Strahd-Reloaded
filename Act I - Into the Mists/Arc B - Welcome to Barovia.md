@@ -193,6 +193,8 @@ Should one or more of the players join him, Bildrath can share the following inf
 * Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, Parriwimple, inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
 * Ninety days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them.)
 
+Staring at Ismark with contempt, Bildrath speaks loud enough for him to hear across the tavern, "Thanks to him my nephew is an orphan and I'm all he's got left, so *forgive me* if I'm not courteous to the man whose silvertongued falsities brought ruin to this town."
+
 When he's regained his composure, Bildrath warns the players that the village is doomed, and likely all of Barovia with it. "There's no sun to bring back," he spits. "No escape from the mists. This is Hell, now and for all eternity. The sooner you lot accept that, the better off you'll be."
 ### Mary's News
 As the players' conversations with [[Non-Player Characters#Ismark Kolyanovich|Ismark]] and Bildrath wind to a close, read:
