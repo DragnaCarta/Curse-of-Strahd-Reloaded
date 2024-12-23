@@ -64,7 +64,7 @@ If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay
 As the players approach the Krezkovs’ cottage, read:
 
 <div class="description">
-<p>The cottage before you is the largest structure you’ve seen within the village, still but modest in its design. Its outer walls are constructed of sturdy pine logs, weathered by time but well-maintained. A thick thatch roof slopes gently above, crowned by a stone chimney from which a thin wisp of smoke rises into the air. The windows are small but adorned with simple lace curtains, offering a glimpse of a warmer interior. </p>
+<p>The cottage before you is the largest structure you’ve seen within the village, but still modest in its design. Its outer walls are constructed of sturdy pine logs, weathered by time but well-maintained. A thick thatch roof slopes gently above, crowned by a stone chimney from which a thin wisp of smoke rises into the air. The windows are small but adorned with simple lace curtains, offering a glimpse of a warmer interior. </p>
 <p>Nearby, a fenced-in area reveals a small garden, the earth freshly turned and bearing a variety of herbs and vegetables. To one side of the cottage, a narrow path leads to a small family graveyard, its tombstones casting long shadows in the grey light.</p>
 </div>
 
@@ -598,7 +598,7 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
     <p><strong><em>Rapier +1.</em></strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
     <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
     <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
-    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
+    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
     <h3>Bonus Actions</h3>
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
@@ -684,7 +684,7 @@ Once the players are ready, Ezmerelda invites the players to sit around the edge
 <div class="description">
 <p>
 <p>Ezmerelda’s eyes meet each of yours in turn before closing. She bows her head, black curls cascading across her shoulders, and softly begins to chant.</p>
-<p>The air thickens, as if charged with static, and the hairs on your arms begin to stand on end. You hear the soft scrape of chalk against stone as, one by one, the lines of the pentagram begin to glow faintly, emanating a soft, silver light.</p>
+<p>The air thickens, as if charged with static, and the hairs on your arms begin to stand on end. You hear the soft scrape of chalk against stone as, one by one, the lines of a pentagram begin to glow faintly, emanating a soft, silver light.</p>
 <p>A low, resonant hum fills the room, vibrating through the floor and into the soles of your feet, as if the very stones of the Abbey have joined in the chant. The ambient sounds beyond the walls fade away, leaving only the rhythmic cadence of Ezmerelda's whispered incantations, which rise and fall like a distant tide. The air grows colder, each breath forming wisps of mist that rise and swirl above your heads.</p>
 <p>"Spirits," Ezmerelda murmurs, swaying faintly. “We seek your wisdom and knowledge. The Abbot of this Abbey has fallen to darkness and corruption. Aid us, and tell us how the stains upon his soul may be cleansed."</p>
 <p>There is a pause — and then the temperature plunges, your skin prickling fiercely. You feel a sudden sense of being watched, as an unmistakable, yet unseeable presence settles like a shroud across the room.</p>

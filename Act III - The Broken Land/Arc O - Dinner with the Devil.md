@@ -61,7 +61,7 @@ If the players again refuse the invitation or continue to stall, Rahadin shakes 
 If the players make no move to stop him, Rahadin then moves toward the door, pauses, and quietly notes that, despite his own misgivings, he would not be surprised if his master holds open the invitation regardless, should the players change their minds. He then departs.
 
 > [!abstract]+ **Ezmerelda’s Advice**
-> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a means to scope out the castle in advance of retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
+> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once in a lifetime opportunity to do reconnaissance of the castle right under Strahd's nose in advance of retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
 >
 > Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
 
@@ -75,7 +75,7 @@ Without acknowledging their familiarity, Arrigal then snarls at the player to �
 A player who checks their pocket finds a small, scribbled note. (A player who fails to notice Arrigal’s sleight of hand automatically finds the note the next time they take a short or long rest.) The note reads as follows:
 
 <div class="description">
-<p>Traitor amongst Strahd’s consorts. Don’t know who. May be of use.</p>
+<p>Spy in castle. Seeks a meeting to discuss an opportunity. Find the victim amidst the court.</p>
 <p>Burn this.</p>
 <p>—A</p>
 </div>
@@ -476,7 +476,7 @@ While Sasha is gone, Strahd continues to engage the players in smalltalk, posing
 * “I regret that the mists have concealed much of the valley’s once-radiant beauty. Still, I’m told you’re quite well-traveled across it. How have you found its inhabitants and vistas?"
 * “The Old Svalich Road can be lonely when travelled alone. Have you found pleasant company amidst my domain?"
 
-> [!lore]+ **Strahd’s Opinions**
+> [!abstract]+ **Strahd’s Opinions**
 > If asked about the following residents or factions of Barovia, Strahd can share the following opinions:
 >
 > * ***Werewolf Pack.*** “A pack of feral animals, and twice as unruly. Still, with their excesses properly tamed, they have their uses."
@@ -521,7 +521,7 @@ Sasha then enters the open door leading to the <span class="citation">K65. Kitch
 <p>Sasha clears her throat. “We require a pair of mops, Master Belview," she says politely. “There’s been a bit of a spill."</p>
 </div>
 
-The man is the **mongrelfolk** Cyrus Belview, and is as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
+The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
 
 > [!profile]+ **Profile: Cyrus Belview**
 > **Roleplaying Information**
@@ -814,7 +814,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > >
 > > * **Butler’s Quarters.** This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, Cyrus is currently curled up and asleep on his bed, cuddled up with the plush werewolf described in <span class="citation">Blinsky Toy (p. 50)</span>.
 > >
-> > * **Hall of Bones.** This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>. However, six **crawling claws** have climbed into the jaw of Argynvost’s skull, and drop on any player from above to attack as soon as the player enters this chamber.
+> > * **Hall of Bones.** This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>. However, six **crawling claws** have climbed into the jaw of Argynvost’s skull, and drop on any player from above to attack as soon as the player enters this chamber. The combat causes a lot of noise, alerting Rahadin to the players location, who will escort them up to the guest suite.
 > >
 > > * **Guards’ Run, Guards’ Quarters & Guards’ Stair.** These areas are as described in <span class="citation">K68. Guards’ Run (p. 79)</span>, K69. Guards’ Quarters (p. 79)</span>, and <span class="citation">K64. Guards’ Stair (p. 78)</span>.
 > >
@@ -956,7 +956,7 @@ A player who enters a trance or falls asleep while in the guest suite enters [[#
 # O8. Varushka’s Nightmare
 A player or allied NPC who falls unconscious in the lounge, guest room, or closet is mentally transported to Varushka’s Nightmare—a nightmare realm shaped by the spirit of one of Strahd’s first victims. 
 
-Varushka's Nightmare exists across five near-identical copies of the Ravenloft guest suite, layered vertically atop one another. Within the Nightmare, the trapdoor in <span class="citation">K51. Closet (p. 70)</span> always leads to the trapdoor beneath the **rug of smothering** in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, the door to the Closet on the fifth and highest level of the Nightmare instead leads to a copy of Castle Ravenloft on the day of Sergei's wedding, via a copy of <span class="citation">K23. Servants' Entrance (p. 59)</span>, as described in [[#O8f. The Bloody Keep]] below.
+Varushka's Nightmare exists across five near-identical copies of the Ravenloft guest suite, layered vertically atop one another. Within the Nightmare, the trapdoor in <span class="citation">K51. Closet (p. 70)</span> always leads to the trapdoor in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, the door to the Closet on the fifth and highest level of the Nightmare instead leads to a copy of Castle Ravenloft on the day of Sergei's wedding, via a copy of <span class="citation">K23. Servants' Entrance (p. 59)</span>, as described in [[#O8f. The Bloody Keep]] below.
 
 ![[Nightmare Map.png]]
 
@@ -999,7 +999,7 @@ The dead woman’s corpse is brown-haired, short, and freckled. She wears a plai
 A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> on [[#O8b. The Second Level]].
 
 > [!info]+ **A Haunting Loop**
-> Instead of leading to <span class="citation">K55. Element Room (p. 72)</span>, the trapdoor in the Nightmare always leads to the trapdoor exit beneath the rug in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. In addition, for as long as the players remain in the Nightmare, the **rug of smothering** and **portrait of Strahd** in <span class="citation">K47. Portrait of Strahd (p. 68)</span> are inanimate objects and don’t attack the players.
+> Instead of leading to <span class="citation">K55. Element Room (p. 72)</span>, the trapdoor in the Nightmare always leads to the trapdoor exit in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. In addition, for as long as the players remain in the Nightmare, the **rug of smothering** and **portrait of Strahd** in <span class="citation">K47. Portrait of Strahd (p. 68)</span> are inanimate objects and don’t attack the players.
 > 
 > Each time the players emerge through the trapdoor, the area is largely as described in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, the entryways to both <span class="citation">K21. South Tower Stair (p. 59)</span> and <span class="citation">K48. Offstair (p. 70)</span> have been bricked up, preventing the players from ascending or descending further into the castle.
 
@@ -1130,7 +1130,7 @@ A character who approaches the guest room hears the sound of a woman’s quiet s
 If a player speaks or otherwise interacts with the woman, read:
 
 <div class="description">
-<p>The woman’s sobs quiet, and she peers up at you over the top of her knees. Her eyes are red and blotchy, her freckled cheeks stained with tears. You can see now that the right neckline of her white dress is stained a dark, wet red, and two crimson puncture wounds mark the side of her neck. She releases her grip around the object in her palm, revealing a small, half-locket necklace made of tarnished silver that sags against her chest.</p>
+<p>The woman’s sobs quiet, and she peers up at you over the top of her knees. Her eyes are red and blotchy, her freckled cheeks stained with tears. You can see now that the right neckline of her white dress is stained a dark, wet red, and two crimson puncture wounds mark the side of her neck. She releases her grip around the object in her palm, revealing a small, half-heart necklace made of tarnished silver that sags against her chest.</p>
 </div>
 
 The woman is a memory of the servant Varushka, as she was in the first days following the arrival of the Mists. Any player who saw the hanged corpse in [[#O8a. The First Level]] immediately recognizes her as the same woman.
@@ -1384,7 +1384,7 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <p><strong><em>Overwhelming Despair.</em></strong> When Varushka drops to 0 hit points, her sclera darken and a shroud of swirling mist and whispering shadows surrounds her. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Varushka uses <strong><em>warp flesh</em></strong> twice. She can replace one or both with <strong><em>animate minor object.</em></strong></p>
-<p><strong><em>Animate Minor Object.</em></strong> Varushka animates an undamaged Small or Medium object she can see within 30 feet for 1 minute or until the object is destroyed. The object becomes an <strong>animated minor object</strong> (see below).</p>
+<p><strong><em>Animate Minor Object.</em></strong> Varushka animates an undamaged Small or Medium object she can see within 30 feet for 1 minute or until the object is destroyed. The object acts on Varushka’s initiative, but takes its turn immediately after hers. The object becomes an <strong>animated minor object</strong> (see below).</p>
 <p><strong><em>Animate Major Object (1/day).</em></strong> Varushka animates an undamaged Large object she can see within 30 feet for 1 minute or until the object is destroyed. The object acts on Varushka’s initiative, but takes its turn immediately after hers. The object becomes an <strong>animated major object</strong> (see below).</p>
 <p><strong><em>Warp Flesh.</em></strong> Varushka forces one creature she can see within 30 feet to make a DC 15 Charisma saving throw. On a failure, the target takes 12 (2d8 + 3) necrotic damage and Varushka can cause its arms or legs to warp grotesquely until the start of her next turn. (A creature with warped arms can’t crawl, makes weapon attacks with disadvantage, and must succeed on a DC 15 Constitution saving throw each time it attempts to cast a spell with somatic components or lose the spell. A creature with warped legs falls prone.)</p>
 <h3>Bonus Actions</h3>
@@ -1439,7 +1439,7 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <strong> Proficiency Bonus</strong> +4
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, one target, reach 5 ft. <em>Hit:</em> 8 (1d10 + 3) damage and the target must succeed on a DC 14 Strength saving throw or fall prone.</p>
+<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, one target, reach 5 ft. <em>Hit:</em> 8 (1d10 + 3) bludgeoning damage and the target must succeed on a DC 14 Strength saving throw or fall prone.</p>
 </div>
 <br>
 
@@ -1483,7 +1483,7 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 <strong>Proficiency Bonus</strong> +4
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, one target, reach 5 ft. <em>Hit:</em> 15 (2d10 + 4) damage and the target must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet (Varushka’s choice). If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 bludgeoning damage per 5 feet not moved and is grappled by the object (escape DC 16).</p>
+<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, one target, reach 5 ft. <em>Hit:</em> 15 (2d10 + 4) bludgeoning damage and the target must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet (Varushka’s choice). If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 bludgeoning damage per 5 feet not moved and is grappled by the object (escape DC 16).</p>
 </div>
 
 <br>
@@ -1545,7 +1545,7 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 </div>
 
 # O9. Waking Up
-Whether the players appease Varushka or defeat her, unlocking and exiting the nightmare version of the guest suite door causes them to reawaken in their physical bodies in the physical guest suite in Castle Ravenloft approximately twenty minutes before dawn with all the benefits of a long rest. Any players who died in the dream also reawaken in their physical bodies.
+Whether the players appease Varushka or defeat her, unlocking and exiting the nightmare version of the guest suite door causes them to reawaken in their physical bodies in the physical guest suite in Castle Ravenloft approximately twenty minutes before dawn with all the benefits of a long rest. Any players who died in the dream also reawaken in their physical bodies. If all members of the party die within the nightmare, they die in reality and do not reawaken.
 ### O9a. Varushka’s Last Wish
 When the players awaken, if they reunited Varushka with Katarina’s necklace in the dream, the necklace is no longer among their possessions. In addition, if the players reunited Varushka with the necklace, Varushka also appears to them as a **shadow** on the guest suite wall. Read:
 

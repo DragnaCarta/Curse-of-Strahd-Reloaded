@@ -1079,8 +1079,8 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <p><strong><em>Will-o'-Wisp.</em></strong> <em>Ranged Spell Attack:</em> +8 to hit, range 30 ft., one creature. <em>Hit:</em> 13 (3d8) necrotic damage.</p>
 <p><strong><em>Deathly Visions.</em></strong> The gallows speaker forces a creature that it can see within 30 feet to make a DC 16 Wisdom saving throw, flooding its mind with terrifying images of its own violent death. On a failure, that creature is paralyzed until the start of the gallows speaker’s next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures that the gallows speaker can see within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
-<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point it can see within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
+<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
+<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
 <h3>Reactions</h3>
 <p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
 <p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
@@ -1186,11 +1186,11 @@ In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of 
 
 > [!item]+ **Spirit Mirror**
 >
-> *Wondrous item, rare (requires attunement)*
+> *Wondrous item, rare)*
 >
 > In addition to its current plane, this ornate bronze mirror also reflects the corresponding location in the Ethereal Plane out to a distance of 60 feet.
 >
-> Once per day while attuned, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
+> Once per day, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.

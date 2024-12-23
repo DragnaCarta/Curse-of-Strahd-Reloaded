@@ -1251,11 +1251,11 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <h2>Ludmilla, First Form</h2>
     <em>Medium undead, neutral evil</em>
     <hr>
-    <strong>Armor Class</strong> 16 (natural armor)
+    <strong>Armor Class</strong> 15 (natural armor)
     <br>
     <strong>Hit Points</strong> 120 (16d8 + 48)
     <br>
-    <strong>Speed</strong> 30 ft., climb 30 ft.
+    <strong>Speed</strong> 30 ft., climb 20 ft.
     <hr>
     <table class="ability-table">
         <thead>
@@ -1280,14 +1280,15 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
         </tbody>
     </table>
     <hr>
-    <strong>Saving Throws</strong> Dex +6, Wis +5, Int +7<br>
+    <strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
     <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
     <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
-    <strong>Senses</strong> Darkvision 120 ft., passive Perception 13<br>
-    <strong>Languages</strong> Common, Abyssal, Infernal<br>
-    <strong>Challenge Rating</strong> 6<br>
+    <strong>Senses</strong> passive Perception 13<br>
+    <strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
+    <strong>Challenge Rating</strong> 8<br>
     <strong>Proficiency Bonus</strong> +3
     <hr>
+    <p><strong><em>Devil's Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
     <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
     <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
     <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -1495,7 +1496,7 @@ If he is satisfied that any of the players would choose sanctity over comfort, K
 
 * In Kavan’s ailing years, a tyrant named King Dostron the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
 * When Strahd invaded the valley hundreds of years later, many members of the druidic caste—still angered by Kavan’s betrayal and Dostron’s oppression—sought out his protection. A great schism split the First Folk, with those who opposed Strahd retreating to Soldav and those who favored Strahd remaining within the Svalich Wood. Today, Barovians know them as the Mountain Folk and the Forest Folk.
-* The land of Barovia, which the First Folk once called “Cerunnos"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
+* The land of Barovia, which the First Folk once called “Girvisa"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
 * Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
 
 If the players ask why Kavan withheld this information during their initial meeting, he truthfully tells them that he sought to avoid revealing Soldav’s existence to Strahd’s servants or spies. “I betrayed my people once by choice," he rumbles. “I will not betray them a second time through foolish indiscretion."
