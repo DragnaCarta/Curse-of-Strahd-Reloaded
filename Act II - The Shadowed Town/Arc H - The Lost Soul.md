@@ -1186,7 +1186,7 @@ In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of 
 
 > [!item]+ **Spirit Mirror**
 >
-> *Wondrous item, rare)*
+> *Wondrous item, rare*
 >
 > In addition to its current plane, this ornate bronze mirror also reflects the corresponding location in the Ethereal Plane out to a distance of 60 feet.
 >
