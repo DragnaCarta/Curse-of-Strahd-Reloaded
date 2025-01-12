@@ -690,13 +690,7 @@ The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, an
 
 If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the following entries:
-
-<div class="description">
-<p>We keep giving sacrifices but the time between his hunger and feeding is getting shorter. Nothing will placate him. Sister Durst says we have to keep him fed, but I don't htink that possible. Soon either we will raise our blades against him or he will devour us all.</p>
-<p>Lured group of vagrants, promised them that if they chose one amongst themselves as a gift ot the beast, they would go free. They chose and all were devoured.</p>
-<p>Tonight whilst the beast sleeps and is vulnerable I will take my dagger and end this before we are all devoured.</p>
-</div>
+Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 
 
 ### Hidden Spiked Pit

@@ -269,7 +269,7 @@ Shortly after the players first enter this area, the *major image* abruptly chan
 
 Ludmilla greets the players coldly and notes her regrets that the guards upon the walls evidently could not keep “troglodytes" such as them outside of the keep. She proceeds to attempt to provoke the players into attacking her, preferring to focus her insults and provocations upon melee-oriented players most likely to lose their tempers. (Ludmilla might threaten characters the player holds dear, impugn their principles or sense of honor, or imply that they are weak or otherwise incapable.)
 
-If no player rises to meet the bait, Ludmilla derides the players for thinking they are a match for her, "the greatest and eldest student of Baba Lysaga," and concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
+If no player rises to meet the bait, Ludmilla sneers at the players for believing they could match "Baba Lysaga's eldest and greatest student" (herself), and concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
 
 > [!combat]+ **Balancing the Witch** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points per phase (for a total of 24% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
@@ -1214,7 +1214,7 @@ If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is al
 > [!item]+ **Potion of Poison Immunity**
 > A *potion of poison immunity* has the properties of a *potion of poison resistance*, but grants immunity rather than resistance.
 
-One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, who wears pewter earrings shaped like lightning bolts, has 28 hit points and an additional 2nd-level spell slot. In addition, rather than a _potion of healing_, Diavola carries a *potion of greater healing*. When combat breaks out Diavola will cry, "We have been trained by Mother Lysaga! We will defeat you as the guardians of our loyal brother Strahd!"
+One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, who wears pewter earrings shaped like lightning bolts, has 28 hit points and an additional 2nd-level spell slot. In addition, rather than a _potion of healing_, Diavola carries a *potion of greater healing*. On her first turn in combat, Diavola cries: "We shall defeat you as Mother Lysaga taught us—for the glory of Brother Strahd!"
 
 > [!info]+ **Hexwitches, Bogwitches & Stormwitches**
 >
@@ -1576,7 +1576,7 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 > [!item]+ **Silverthorn Collar**
 > While worn by a lycanthrope, the interior of a *silverthorn collar* extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation. Additionally, a lycanthrope wearing the collar can’t regenerate.
 >
-> Each collar is magically locked and bears a single, small keyhole. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, that creature must make a Dexterity saving throw or take 31 (7d8) piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
+> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, that creature must make a Dexterity saving throw or take 31 (7d8) piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
 > The spells *dispel magic* and *knock* have no effect on the collar.
 

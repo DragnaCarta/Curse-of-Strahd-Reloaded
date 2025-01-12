@@ -1,4 +1,4 @@
-# Patch 2.0.10.3 (December 21st, 2024)
+# Patch 2.0.10.3 (January 12, 2025)
 * Amended various typos and errors in formatting
 * Amended inconsistencies across various statblocks
 * Amended Zuleika's surname to Toranescu
@@ -8,7 +8,6 @@
 * Clarified that if all players die in Varushka's nightmare in [[Arc O - Dinner with the Devil]] that they die in reality
 * Removed attunement requirement for the spirit mirror in [[Arc H - The Lost Soul]]
 * Added details of Godfrey being ordered by Vladimir to not speak to players upon their return in [[Arc Q - A Shining Beacon]]
-* Added options for Bianca's fate in [[Arc Q - A Shining Beacon]]
 * Amended Muriel's stat block and added a reminder on NPC allies falling to death saves in [[Arc C - Into the Valley]]
 * Removed Resurrection Madness mechanics from the guide in [[Lore of Barovia]]
 * Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[Strahd von Zarovich]]
