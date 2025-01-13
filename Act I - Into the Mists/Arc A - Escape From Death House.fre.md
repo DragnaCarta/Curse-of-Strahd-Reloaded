@@ -10,7 +10,7 @@
 > [!warning]+ **Une aventure de second niveau***
 > Rappelez-vous que, contrairement à l'aventure originale de la Malédiction de Strahd, les joueurs de ce guide commencent au second niveau, et non 1er premier.
 
-Les joueurs commencent dans la ville de Daggerford la nuit précédant le [Highharvesttide](https://forgottenrealms.fandom.com/wiki/Highharvestide), un festin annuel et une célébration de vacances. Les auberges locales sont pleines pour la nuit et les joueurs - des vagabonds sans beaucoup d'argent ni de compagnie - trouvent refuge dans l'écurie de la Bride du Cauchemar, une taverne délabrée à la périphérie de la ville.
+Les joueurs commencent dans la ville de [Daggerford](https://forgottenrealms.fandom.com/wiki/Daggerford) la nuit précédant le [Highharvesttide](https://forgottenrealms.fandom.com/wiki/Highharvestide), un festin annuel et une célébration de vacances. Les auberges locales sont pleines pour la nuit et les joueurs - des vagabonds sans beaucoup d'argent ni de compagnie - trouvent refuge dans l'écurie de la Bride du Cauchemar, une taverne délabrée à la périphérie de la ville.
 
 Cependant, lorsque les reliques qu'ils portent sentent la présence de la Funeste Demeure, les joueurs sont conduits à travers les rues pluvieuses de Daggerford jusqu'au seuil de la maison.
 
@@ -26,11 +26,12 @@ Si les joueurs tuent le monstre, la maison commence à s'effondrer, les obligean
 > La malédiction de Strahd : Reloaded* a été délibérément écrit pour minimiser le temps passé loin de la table de jeu, dans le but de servir de campagne « zéro préparation » dans la mesure du possible. Pour rendre cela possible, ce guide a été conçu pour manipuler les joueurs afin qu'ils empruntent des chemins spécifiques et déterminés tout au long de l'aventure, tout en offrant des degrés de liberté intentionnels qui, bien que significatifs, ne changeront pas de manière substantielle le résultat final de la campagne.
 >
 > Si vous souhaitez minimiser votre charge de travail, faites de votre mieux pour éviter d'apporter des modifications ou des ajouts à ce guide. Cela risquerait de modifier la façon dont les joueurs abordent la narration, le gameplay et de perturber des piliers porteurs qu'il serait difficile de remarquer sans relire plusieurs fois le guide dans son intégralité. (Par exemple, l'augmentation des distances entre les colonies baroviennes rend plusieurs quêtes des Actes II et III impossibles à accomplir sans une révision complète de la chronologie de la campagne). Toute modification - comme les changements de délais, de distances, de blocs de statuts, de motivations des personnages ou d'événements - est faite aux risques et périls du MJ et peut entraîner des TPK, des divergences sauvages ou des intrigues insatisfaisantes.
+
 ## A1a. The Nightmare’s Bridle - La Bride du Cauchemar
-Si un ou plusieurs de vos joueurs utilisent le crochet [[Running the Adventure#Adventure Hooks|Barovian Relics]] , lisez le texte suivant. Sinon, passez à [[#A2. La Funeste Demeure]]  ci-dessous.
+Si un ou plusieurs de vos joueurs utilisent l'arc [[Running the Adventure#Adventure Hooks|Barovian Relics]] , lisez le texte suivant. Sinon, passez à [[#A2. La Funeste Demeure]]  ci-dessous.
 
 <div class="description">
-<p>C'est la veille du Highharvesttide et une tempête s'est abattue sur Daggerford, les nuages sombres déversant des cascades de pluie sur la ville. Malgré le temps, la ville bourdonne d'impatience à l'approche du festival de l'automne, chaque maison étant remplie de chaleur et de joie. Des bougies brillantes et joyeuses scintillent à chaque fenêtre et les sons des chants et des danses résonnent dans les rues humides et boueuses.
+<p>C'est la veille du Highharvesttide et une tempête s'est abattue sur le Gué de la Dague, les nuages sombres déversant des cascades de pluie sur la ville. Malgré le temps, la ville bourdonne d'impatience à l'approche du festival de l'automne, chaque maison étant remplie de chaleur et de joie. Des bougies brillantes et joyeuses scintillent à chaque fenêtre et les sons des chants et des danses résonnent dans les rues humides et boueuses.
 </p>
 <p>Au milieu de la gaieté, cependant, vous vous démarquez. Ni habitants ni visiteurs, vous êtes des vagabonds, des fantômes de passage dans une ville inconnue. Alors que les rires retentissent dans les auberges et les maisons, vous êtes confrontés à un dilemme plus simple et plus dur : la recherche d'un abri.
 <p> Toutes les chambres de cette ville sont occupées, tous les foyers sont pleins à craquer, vous laissant en proie à l'âpreté de la tempête. Jusqu'à ce que le propriétaire de la taverne délabrée La Bride du Cauchemar vous offre un répit à contrecœur : le grenier à foin au-dessus de son écurie. Il n'y a pas de quoi se vanter, le froid mordant et l'odeur persistante du foin moisi étant vos seuls compagnons. Mais c'est un toit au-dessus de vos têtes, une petite miséricorde pour une nuit comme celle-ci.</p>
@@ -72,8 +73,9 @@ Si les joueurs se lancent à leur poursuite, lisez :
  <p>Le brouillard se retire comme un rideau, révélant une silhouette haute et inquiétante qui se dresse dans la pénombre devant vous.</p> 
  </div>
 
- C'est la **Funeste Deumeure.**
-# A2. Funeste Deumeure
+C'est la **Funeste Deumeure.**
+ 
+# A2. La Funeste Demeure
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
 <div class="description">
 <p>Les fêtes de Highharvesttide à Daggerford. C'est une période de joie et de célébration, de foyer et de maison, de rires dorés qui résonnent dans la nuit. Mais ce soir, alors qu'une tempête a balayé la ville, vous vous retrouvez loin de la chaleur et des réjouissances, attirés par l'étreinte froide et sombre du mystère.</p>
