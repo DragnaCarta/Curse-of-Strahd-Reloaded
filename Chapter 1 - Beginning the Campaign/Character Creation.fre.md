@@ -189,7 +189,7 @@ Si vous choisissez d'utiliser l'arc d'aventure ***Reliques baroviennes*** pour u
 
 Une fois que le joueur a choisi sa motivation principale, utilisez la section correspondante ci-dessous pour l'aider à développer l'histoire et les objectifs de son personnage.
 
-Funeste Demeure## Connaissance - L'éclat d'ambre
+## Connaissance - L'éclat d'ambre
 ![[Amber Shard.png]]
 Un joueur en quête de **Savoirs** commence la campagne avec un *éclat d'ambre*, un petit morceau de résine d'ambre monté sur un cordon de mailles. Le tesson est incrusté de runes arcaniques complexes et tridimensionnelles. Lorsqu'il est examiné avec le sort *détection de la magie*, il dégage une forte aura de magie d'abjuration.
 
@@ -209,6 +209,7 @@ Un joueur en quête de **rédemption** commence la campagne avec la *plume d'ang
 Le joueur qui possède la *plume d'ange* doit avoir des raisons fortes et vivantes de croire que la plume le conduira un jour à la pénitence pour les péchés qu'il a commis.
 
 ***Développements.*** Lorsque les joueurs arrivent pour la première fois à l'Abbaye dans [[Arc I - Les Murs de Krezk]] ou [[Arc K - L'Abbaye Déchue]], la *plume d'ange* scintille et est emportée de la même manière qu'elle l'a fait lorsqu'elle a senti la Funeste Demeure, guidant le joueur vers l'Abbé. L'Abbé reconnaît la plume comme étant la sienne, mais néglige son importance.
+
 ## Famille — L'écharpe du vagabond
 ![[Écharpe du vagabond.png]]
 Un joueur en quête de **famille** commence la campagne avec l'*écharpe du vagabond*, une écharpe multicolore tissée de motifs complexes. Le tissu est doux et chaud, et est suffisamment long pour être porté autour du cou ou sur la tête. Lorsque la lumière du soleil, de la lune ou des étoiles le traverse, les motifs semblent scintiller et se tourmentent de manière étrange et magnifique.
@@ -218,6 +219,7 @@ Un joueur en quête de **famille** commence la campagne avec l'*écharpe du vaga
 Le joueur qui possède l'écharpe du vagabond doit l'avoir reçue d'un membre de sa famille bien-aimé et doit avoir de fortes et vives raisons de désirer un sentiment de famille et d'appartenance.
 
 ***Développements.*** Lorsque les joueurs rencontrent Ezmerelda pour la première fois dans [[Arc K - The Fallen Abbey]], *l'écharpe du vagabond* scintille et est emportée de la même manière qu'elle l'a fait lors de la détection de la Funeste Demeure, atterrissant à Les pieds d'Ezmerelda. Ezmerelda reconnaît le foulard et, après avoir confirmé comment le joueur en a hérité, le salue comme un membre de sa famille, l'appelant « cousin ».
+
 ## Héritage — L'Écaille du Dragon
 ![[Écaille du Dragon.png]]
 Un joueur en quête d'**héritage** commence la campagne avec l'*écaille du dragon*, une grande écaille argentée qui est toujours froide au toucher. Un joueur d'alignement Bon La créature qui touche l'écaille ressent un sentiment fugace de sécurité, de protection et de réconfort.
@@ -229,6 +231,7 @@ Le joueur qui possède l'*écaille du dragon* doit avoir reçu l'écaille d'un m
 **Développements.** Lorsque le joueur rencontre pour la première fois l'ombre d'Argynvost dans le hall d'Argynvostholt dans l'[[Arc M - Le Manoir du Dragon]], l'écaille brûle brièvement de la même manière qu'elle l'a fait lorsqu'elle a détecté la Funeste Demeure. Chaque fois que le joueur s'approche d'une manifestation de l'esprit d'Argynvost, l'écaille brûle de façon froide et brille d'une lumière argentée brillante en direction de la manifestation.
 
 Si le joueur aide à récupérer le crâne d'Argynvost et à le restituer dans sa crypte dans l'[[Arc Q - Un phare brillant]], l'esprit d'Argynvost accueille chaleureusement le joueur, le désignant comme son héritier de l'héritage de l'Ordre du Dragon d'Argent avant d'allumer le phare d'Argynvostholt.
+
 ## Richesse — La pièce d'électrum
 ![[Pièce d'électrum.png]]
 Un joueur en quête de **richesse** commence la campagne avec une vieille pièce d'électrum ébréchée, frappée du visage profilé d'un noble fier mais d'apparence froide. Sous un certain éclairage, l'expression du noble semble passer d'un ricanement ferme et aristocratique à un grognement féroce et monstrueux.
@@ -240,6 +243,7 @@ Le joueur qui possède la pièce d'électrum doit avoir de bonnes et fortes rais
 ***Développements.*** Tout Barovien reconnaît immédiatement le visage gravé sur la pièce comme étant celui de Strahd. Si le joueur partage l'histoire de la pièce avec l'un des Vistani du camp de Madame Eva dans l'[[Acte I - Dans les brumes/Arc C - Dans la vallée|Arc C - Dans la vallée]], Sir Godfrey Gwilym dans l'[[Arc M - Le manoir du dragon]], ou Kasimir Velikov dans l'[[Arc E - La Vistana disparue]], ils peuvent en apprendre davantage sur le vaste trésor de Strahd, collecté à l'époque où il était conquérant et caché dans le château de Ravenloft.
 
 Lorsque le joueur s'approche pour la première fois du trésor de Strahd, la pièce atterrit sur son bord et roule aussi loin qu'elle le peut vers l'entrée du trésor, de la même manière qu'elle l'a fait lorsqu'elle a détecté la Funeste Demeure.
+
 ## Soin — La dent du loup
 ![[Wolf's Tooth.png]]
 Un joueur en quête de **soin** commence la campagne avec une *dent de loup* recouverte de résine transparente et montée sur un cordon en cuir. La dent semble s'allonger et s'aiguiser les nuits de pleine lune, et apaise les rêves de son porteur lorsqu'elle est portée la nuit.
@@ -249,6 +253,7 @@ Un joueur en quête de **soin** commence la campagne avec une *dent de loup* rec
 Le joueur qui possède la *dent de loup* doit avoir de fortes et vivaces raisons de croire que la dent est la clé pour guérir une blessure, une maladie ou une malédiction particulière qui l'afflige.
 
 ***Développements.*** Si le joueur montre la *dent de loup* à Kavan dans l'[[Arc J - La Gemme Volée]] ou à l'Ancien Burebis dans l'**Acte V, Arc W : Les Dames des Fanes**, la dent est reconnue comme un artefact et un symbole de la Chasseuse. Lorsque le joueur s'approche pour la première fois du cercle de pierres du Fane de la Forêt dans l'**Acte V, Arc W : Les Dames des Fanes**, la dent s'allonge et brille au clair de lune comme elle l'a fait lorsqu'elle a détecté la Funeste Demeure.
+
 ## Devoir — La plume du corbeau
 ![[Raven's Feather.png]]
 Un joueur en quête de **devoir** commence la campagne avec une *plume de corbeau*, une petite plume noire aux poils doux et duveteux. Lorsqu'elle est levée avant une tempête, la plume semble trembler doucement, exhalant l'odeur de la pluie froide et de la terre humide.
@@ -260,6 +265,7 @@ Le joueur qui possède la *plume de corbeau* doit avoir de fortes et vivaces rai
 ***Développements.*** Si le joueur montre la *plume de corbeau* à Madame Eva dans l'[[Acte I - Dans les brumes/Arc C - Dans la vallée|Arc C - Dans la vallée]], elle l'inspecte avec révérence et la rend au joueur, affirmant mystérieusement qu'elle a connu autrefois l'oiseau qui l'a perdue. Si le joueur montre la plume à Urwin Martikov, Danika Dorakova, Muriel Vinshaw ou tout autre membre des Gardiens de la plume, ce membre devient plus chaleureux et plus amical envers ce joueur.
 
 Lorsque le joueur entre pour la première fois dans le cercle de pierres dressées du Fane de la montagne dans l'**Acte V, Arc W : Les Dames des Fanes**, la plume tremble et l'air autour d'elle s'épaissit brièvement de l'odeur de la pluie et de l'ozone comme il l'a fait lorsqu'il a senti la Funeste Demeure. Si le joueur montre la plume au Roc du Mont Ghakis après avoir consacré le Fane de Montagne dans le même arc, le roc place la pointe de son bec contre le front du joueur en signe de gratitude et d'approbation avant de partir.
+
 ## Pouvoir — La page froissée
 ![[Page froissée.png]]
 Un joueur en quête de **pouvoir** commence la campagne avec la *page froissée*, une vieille page jaunie qui a été arrachée de son livre il y a bien longtemps. La page est écrite avec des runes arcaniques étranges et cryptiques ; les quelques runes qui peuvent être déchiffrées parlent d'un chemin qui mène à l'immortalité et à un pouvoir incalculable.
@@ -269,6 +275,7 @@ Un joueur en quête de **pouvoir** commence la campagne avec la *page froissée*
 Le joueur qui possède la *page froissée* doit avoir de fortes et vives raisons de vouloir trouver et revendiquer le pouvoir que la page promet.
 
 ***Développements.*** Lorsque le joueur s'approche pour la première fois de la bibliothèque d'Exethanter dans l'**Acte V, Arc U : Le Temple d'ambre**, l'encre brille d'une lumière ambrée comme lorsqu'elle a détecté la Funeste Demeure, et les runes se transforment en une carte des chambres d'Exethanter et des points d'accès à proximité. Si le joueur montre la page à Exethanter après avoir restauré ses souvenirs dans le même arc, Exethanter devient plus chaleureux et amical envers ce joueur.
+
 ## Ambition — La bannière en lambeaux
 ![[Tattered Banner.png]]
 Un joueur en quête d'**ambition** commence la campagne avec la *bannière en lambeaux*, une vieille bannière rouge en lambeaux portant l'héraldique d'un corbeau devant un bouclier. Les ailes du corbeau sont déployées et le bouclier porte l'image du donjon d'un château gravée sur son sommet. Parfois, lorsqu'une créature d'alignement loyal tient la bannière, une lumière cramoisie semble scintiller au sommet du donjon du château et le bruit des soldats qui marchent peut être entendu au loin.
@@ -282,6 +289,7 @@ Le joueur qui possède la *bannière en lambeaux* doit avoir de fortes et vivace
 Si le joueur montre la bannière au revenant des chutes de Tser dans l'[[Acte I - Dans les brumes/Arc C - Dans la vallée|Arc C - Dans la vallée]], à Sir Godfrey Gwilym ou Sir Vladimir Horngaard dans l'[[Arc M - Le manoir du dragon]], ou à Kasimir Velikov dans l'[[Arc E - La Vistana disparue]] ou dans l'**Acte V, Arc U : Le temple d'ambre**, son apparition est accueillie avec répulsion et dégoût amer.
 
 Si le joueur montre la bannière à Strahd, il la considère avec tendresse, mais refuse d'en dire plus sur sa signification. Si le joueur montre la bannière au Dr Rudolph van Richten dans l'**Arc M : L'ennemi de Strahd** ou à n'importe quel Vistani, ils la reconnaissent immédiatement comme l'héraldique du château de Ravenloft.
+
 ## La foi — Le médaillon du lever du soleil
 ![[Médaillon du lever du soleil.png]]
 Un joueur en quête de **foi** commence la campagne avec le *médaillon du lever du soleil*, un disque de bronze gravé de l'image d'un soleil levant. Le disque scintille comme de l'or lorsqu'il est exposé à la lumière du lever du soleil, et une créature d'alignement bon qui le touche ressent un sentiment fugace de révérence, de droiture et de paix.
@@ -291,6 +299,7 @@ Un joueur en quête de **foi** commence la campagne avec le *médaillon du lever
 Le joueur qui possède le *médaillon du lever du soleil* doit avoir de fortes et vives raisons de croire qu'il renforcera ou guidera sa foi, et que certains signes divins le mèneront vers ceux qui ont besoin de salut et de délivrance.
 
 ***Développements.*** Lorsque le joueur s'approche pour la première fois de l'église Saint-Andral dans [[Arc D - Fête de Saint-Andral]], le *médaillon du lever du soleil* brille et brille en direction des portes de l'église. Si le joueur montre le *médaillon du lever du soleil* au père Donavich ou à Lucien, ils le reconnaissent comme un symbole de l'église du Seigneur du matin et deviennent plus chaleureux et amicaux envers ce joueur.
+
 ## Harmonie — Le blason de pierre
 ![[Stone Crest.png]]
 Un joueur en quête d'**harmonie** commence la campagne avec le *blason de pierre*, une pierre plate et ronde gravée de l'image d'une étoile à trois branches. Les nuits de nouvelle lune, l'étoile semble scintiller d'une lumière émeraude.
@@ -302,6 +311,7 @@ Le joueur qui possède le *blason de pierre* doit avoir de fortes et vivaces rai
 ***Développements.*** Lorsque le joueur s'approche pour la première fois de l'extérieur de Soldav dans **Acte V, Arc W : Les Dames des Fanes**, le *blason de pierre* bourdonne et libère une odeur d'aiguilles de pin et de terre comme il l'a fait lorsqu'il a senti la Funeste Demeure, toutes deux de plus en plus fortes à mesure que le joueur s'approche du Sanctuaire de Rozana à Soldav.
 
 Si le joueur montre le *blason de pierre* à Kavan dans [[Arc J - La Gemme Volée]] ou à l'Ancienne Burebis dans **Acte V, Arc W : Les Dames des Fanes**, le blason est reconnu comme un artefact et un symbole des Dames des Fanes. 
+
 ## Justice — La Lame Brisée
 ![[Broken Blade.png]]
 Un joueur en quête de **justice** commence la campagne avec la *lame brisée*, la pointe brisée d'une épée longue elfique. La lame est gravée du sceau d'un lion rampant, qui semble rugir lorsque la lumière du crépuscule la touche.
