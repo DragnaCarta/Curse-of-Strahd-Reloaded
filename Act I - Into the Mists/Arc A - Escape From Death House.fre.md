@@ -1,12 +1,14 @@
-Une aventure pour cinq personnages de 2e niveau.
+*Une aventure pour cinq personnages de 2e niveau.*
 
-[Les pages suivantes contiennent un guide pour les deux premiers tiers de la campagne : Acte I : Into the Mists, Acte II : The Shadowed Town et l'Acte III : The Broken Land. Des mises à jour fournissant du contenu supplémentaire devraient suivre régulièrement sur le subreddit /r/CurseOfStrahd.
+> [!tip]+ **A Taste of Horror**
+> Les pages suivantes contiennent un guide pour les deux premiers tiers de la campagne : **Act I: Into the Mists**, **Act II: The Shadowed Town**, et **Act III: The Broken Land**.. Des mises à jour fournissant du contenu supplémentaire devraient suivre régulièrement sur le subreddit /r/CurseOfStrahd.
+>
+>Vous pouvez vous inscrire pour recevoir des notifications de mise à jour dans votre boîte aux lettres électronique en rejoignant la communauté gratuite de DragnaCarta sur [Patreon](https://www.patreon.com/DragnaCarta).
+>
+>Vous pouvez également avoir un aperçu des ébauches du reste de l'Acte III : The Broken Land, ainsi que les grandes lignes et les notes pour tous les actes et arcs suivants, en soutenant ce guide sur [Patreon](https://www.patreon.com/DragnaCarta).
 
-Vous pouvez vous inscrire pour recevoir des notifications de mise à jour dans votre boîte aux lettres électronique en rejoignant la communauté gratuite de DragnaCarta sur [Patreon](https://www.patreon.com/DragnaCarta).
-
-Vous pouvez également avoir un aperçu des ébauches du reste de l'Acte III : The Broken Land, ainsi que les grandes lignes et les notes pour tous les actes et arcs suivants, en soutenant ce guide sur [Patreon](https://www.patreon.com/DragnaCarta).
-
-[Une aventure de second niveau Rappelez-vous que, contrairement à l'aventure originale de la Malédiction de Strahd, les joueurs de ce guide commencent au second niveau, et non au premier.
+> [!warning]+ **Une aventure de second niveau***
+> Rappelez-vous que, contrairement à l'aventure originale de la Malédiction de Strahd, les joueurs de ce guide commencent au second niveau, et non 1er premier.
 
 Les joueurs commencent dans la ville de Daggerford la nuit précédant le [Highharvesttide](https://forgottenrealms.fandom.com/wiki/Highharvestide), un festin annuel et une célébration de vacances. Les auberges locales sont pleines pour la nuit et les joueurs - des vagabonds sans beaucoup d'argent ni de compagnie - trouvent refuge dans l'écurie de la Bride du Cauchemar, une taverne délabrée à la périphérie de la ville.
 
