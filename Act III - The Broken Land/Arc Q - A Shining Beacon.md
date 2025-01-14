@@ -249,7 +249,7 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 <hr>
 <strong>Saving Throws</strong> Wis +10, Cha +10<br>
 <strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> radiant<br>
+<strong>Damage Resistances</strong> necrotic, radiant<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
 <strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
 <strong>Languages</strong> all, telepathy 120 ft.<br>
@@ -317,7 +317,7 @@ At will: detect evil and good<br>
 <hr>
 <strong>Saving Throws</strong> Wis +10, Cha +10<br>
 <strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> radiant<br>
+<strong>Damage Resistances</strong> necrotic, radiant<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
 <strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
 <strong>Languages</strong> all, telepathy 120 ft.<br>
@@ -497,7 +497,7 @@ Before the players depart, Ithuriel freely offers them healing through the use o
 >
 > If asked to linger or fight alongside the players, Ithuriel politely declines, insisting that his place is at the Abbey, and he cannot leave his wards or neighbors without his protection. “Do not fear," he reassures the players before departing. “The Morninglord is with you."
 
-> [!profile]+ **Ithuriel**
+> [!profile]+ **Profile: Ithuriel**
 > **Roleplaying Information**
 > ***Resonance.*** Ithuriel should inspire endearment for his determination to repair the harm he has done, comfort for his deep compassion and care, and gratitude for his earnest efforts to aid the players.
 >
@@ -579,7 +579,7 @@ If the players do so, the revenant gravely informs them that it has received a m
 
 * Commander Vladimir Horngaard has commanded all knights of the Order of the Silver Dragon to return to Argynvostholt no later than tomorrow noon.
 * Commander Horngaard is enraged following the players’ recent incursion into Castle Ravenloft, and seeks their deaths, so that they shall meddle with Strahd von Zarovich no further.
-* Commander Horngaard is expected to compel his knights to swear a new oath: to seek out the players’ destruction, at any cost.
+* Commander Horngaard is expected to issue his knights a new command: to seek out the players’ destruction, at any cost.
 
 The revenant apologizes sincerely to the players “for the harm it may be forced to visit upon them if they meet again." If the players share or indicate that they have been to Argynvostholt, it asks whether they have spoken with Sir Godfrey Gwilym and learned of the mission he sought to fulfill. If told that the players have recovered the skull of Argynvost in accordance with the dragon’s wishes, the revenant urges the players to fulfill the dragon’s prophecy before Commander Horngaard “releases his full wrath upon them."
 
@@ -609,7 +609,7 @@ When the players first approach the pack, read:
 <p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
 </div>
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise.
+The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
 
 > [!info]+ **The Starving Wolves**
 > Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
@@ -775,6 +775,7 @@ Kiril then attacks.
   </tbody>
 </table>
 <hr>
+<strong>Saving Throws</strong> Strength +11, Constitution +10<br>
 <strong>Skills</strong> Perception +5<br>
 <strong>Senses</strong> passive Perception 14<br>
 <strong>Languages</strong> Common<br>
@@ -808,6 +809,7 @@ Kiril then attacks.
 > Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
 
 ## Q5c. Kiril Vanquished
+
 Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
 
 <div class="description">
@@ -859,6 +861,11 @@ In combat, the revenants attack with their longswords as described in <span clas
 A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Dexterity saving throws with disadvantage, and grant advantage on any attacks made against them.
 
 When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
+
+> [!abstract]+ Vladimir's Command
+> Vladimir Horngaard has forbidden Godfrey from speaking with the players. If he attempts to do so while bound in the chapel, black wires manifest to bind his tongue and jaw.
+
+
 ## Q6b. Return to the Cemetery
 When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
 
@@ -948,6 +955,8 @@ Argynvost’s spirit can share the following information if asked, or as appropr
 
 If asked, Argynvost can also share any and all of the information regarding events that occurred in [[History of Barovia#The Founding Era (1 BC–345 BC)|The Founding Era]] or during the [[History of Barovia#Birth of Barovia|Birth of Barovia]], excepting any information regarding the origins of King Barov’s *Brightblade*, Baba Lysaga’s history with the Von Zarovich clan, the birth of Sergei, and the origins of the Wizard of Wines (though Argynvost can share his strong suspicions that the winery’s founders had strong ties to—or were descended from—the indigenous people of the valley itself).
 
+If any player still possesses an amber shard, Godfrey warns them to "beware how fiercely you gaze into the abyss," adding: "Each moment you linger draws you closer to its edge."
+
 If he has reason to believe the players hold an interest in journeying to the Amber Temple, Godfrey can also share the following information:
 
 * Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple. 
@@ -960,7 +969,7 @@ As the conversation draws to a close, or if the players request a boon for resto
 * The weapon becomes a +1 magical weapon of its kind, and has 3 charges. It regains all expended charges at dawn.
 * The weapon’s wielder can use 1 charge as a bonus action to imbue the weapon with silver flames for the next 1 minute. While the flames remain, each of the creature’s attacks deals an additional 1d4 cold damage. In addition, if the weapon’s wielder rolls a critical hit while the flames remain, the target must succeed on a DC 20 Constitution saving throw or be paralyzed until the start of the wielder’s next turn.
 * The weapon’s wielder can use 2 charges as a bonus action to cast the *beacon of hope* spell.
-* The weapon’s wielder can use 3 charges as a bonus action to create a blast of silver flame, which takes the shape of a 15-foot cone for a melee weapon and a 30-foot line for a ranged weapon. Each hostile creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. Once this feature is used, the weapon doesn’t regain charges for the next three days.
+* The weapon’s wielder can use 3 charges as an action to create a blast of silver flame, which takes the shape of a 15-foot cone for a melee weapon and a 30-foot line for a ranged weapon. Each hostile creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. Once this feature is used, it can't be used again for one year.
 
 Once Argynvost has blessed a player’s weapon, he notes that they have “a long and difficult path ahead of them," and asks if they truly understand the evil they now face. “You will face trials unbeknownst to most mortals," he rumbles, “and endure things that should never be endured. Are you prepared to do so?"
 
