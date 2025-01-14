@@ -901,7 +901,7 @@ The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the stai
 ![[Vladimir Horngaard.png]]
 <span class="credit">"Commander Vladimir Horngaard" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Vladimir Horngaard**
+> [!profile]+ **Profile: Vladimir Horngaard**
 > **Roleplaying Information**
 > ***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
 > 
@@ -938,7 +938,7 @@ If asked, Vladimir can share the following information:
 > Vladimir can’t remember the love he shared with Sir Godfrey Gwilym in life, and angrily denies any insinuations otherwise. If confronted with the rings from [[#Wine Storage]] or the portrait from [[#Vladimir’s Bedroom]], Vladimir is obviously disturbed and thrown off balance. However, he insists that such things prove nothing, and that the players mock him and the Order with their lies. “There is no room for love in the war we fight," he snarls. “We are knights, born only to die in the battle against evil. This is how it has always been, and how it will always be."
 
 > [!lore] **Vladimir and Argynvost**
-> Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. As Argynvost's commander, Vladimir is convinced that if he has not heard Argynvost's spirit, then no one will have, and is unable to be persuaded otherwise.
+> Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
 
 If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 
@@ -1011,7 +1011,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Damage Resistances</strong> necrotic, psychic<br>
 <strong>Damage Immunities</strong> poison<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
 <strong>Languages</strong> Common, Draconic<br>
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
