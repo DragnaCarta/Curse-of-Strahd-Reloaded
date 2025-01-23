@@ -38,7 +38,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > Van Richten himself had an *amulet of nondetection* to avoid Strahd’s watchful eye—as well as a spare amulet that his student, Ezmerelda d’Avenir, had returned to him when the two parted ways. The two amulets would suffice to protect them from Strahd’s magic, but Arabelle still needed a place to live and sleep away from the eyes of Strahd’s spies—at least until Van Richten could find a better alternative.
 >
-> ***Laying Low.*** The nearby town of Vallaki, with its large and bustling population, could provide a far better place for the two to lose themselves in the crowd. However, while Van Richten could disguise himself with his *hat of disguise*, he had no such disguises for Arabelle, and any effort to transport her into or around Vallaki would risk alerting Strahd’s spies.
+> ***Lying Low.*** The nearby town of Vallaki, with its large and bustling population, could provide a far better place for the two to lose themselves in the crowd. However, while Van Richten could disguise himself with his *hat of disguise*, he had no such disguises for Arabelle, and any effort to transport her into or around Vallaki would risk alerting Strahd’s spies.
 >
 > Fortunately, Van Richten still had an old Vistani wagon hidden away in the woods from when he had first entered Barovia—one with ample space for Arabelle to reside. While Vistani weren’t welcome in Vallaki, Van Richten decided that a different disguise—one that would allow them to hide in plain sight—could serve just as well.
 >
@@ -59,6 +59,11 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
 After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
+
+![[Jamboree_Poster_Distressed.png]]
+
+<span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 
 > [!profile]+ **Profile: Gadof Blinsky**
 >
@@ -663,7 +668,7 @@ If read, the burned journal page now reads only as follows:
 <p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.</p>
 </div>
 
-The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Act I - Into the Mists/Arc B - Welcome to Barovia#Settling In|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Act I - Into the Mists/Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
+The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Act I - Into the Mists/Arc B - Welcome to Barovia#Rooms at the Mansion|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Act I - Into the Mists/Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
@@ -757,7 +762,7 @@ In battle, the werewolves prioritize players wielding silvered weapons, if any. 
 The players experience no other encounters on their journey to Vallaki.
 
 > [!info]+ **The Curse of Lycanthropy**
-> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolf's Hunt|Arc C - Into the Valley]] for more information about the curse.
+> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolves' Hunt|Arc C - Into the Valley]] for more information about the curse.
 # E8. Return to Vallaki
 The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
 
@@ -788,9 +793,13 @@ If the players visit the Blue Water Inn first, they can learn from [[Non-Player 
 
 If the players indicate an interest in following Rictavio to the stockyard, Danika jokingly warns them to be on the lookout for dangerous beasts—local rumors suggest that the ringmaster is keeping something big and deadly in his wagon.
 
-If the players wait for Rictavio to return before confronting him, [[Non-Player Characters#Rictavio|Rictavio]] greets them warmly and feigns ignorance of their allegations and claims. However, he invites them to his guest suite to discuss the matter in private if the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover.
+If the players wait for Rictavio to return before confronting him, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] greets them warmly and feigns ignorance of their allegations and claims. However, he invites them to his guest suite to discuss the matter in private if the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover.
 
 Once he and the players are alone in his guest suite, Rictavio draws his sword-cane and demands proof that the players are not servants of Strahd von Zarovich. If the players muster sufficient evidence or succeed on a DC 15 Charisma (Persuasion) check, Rictavio reluctantly stows his blade, checks the window and corridor for Strahd’s spies, and shuts the window shutters tight. He then removes his *hat of disguise*, and confesses his identity as Dr. Rudolph van Richten. 
+
+![[RVR_Transparent.png]]
+
+<span class="credit">"Dr. Rudolph van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Van Richten can share the following information:
 
@@ -814,7 +823,7 @@ If the players demand it, Van Richten agrees to bring them to his wagon at Arase
 ## E8b. Following Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-If the players follow [[Non-Player Characters#Rictavio|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
+If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
 
 If the players confront him, Rictavio greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover, Rictavio’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
 
@@ -822,7 +831,7 @@ If the players muster sufficient evidence of their good faith or succeed on a DC
 ## E8c. Rictavio’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5</em></span>
 
-Once the players or Arabelle have convinced him to do so, [[Non-Player Characters#Rictavio|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
+Once the players or Arabelle have convinced him to do so, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
 
 ![[Arabelle.png]]
 <span class="credit">"Arabelle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -863,6 +872,10 @@ If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, 
 > This talisman has 4 charges. While holding it, you can use an action to spend 1 of its charges to cast the _gentle repose_ spell, or 2 of its charges to cast the _speak with dead_ spell. (The spell *speak with dead* isn't affected by the spell's ordinary ten-day limit when cast in this way.)
 >
 > The talisman regains 1d4 expended charges daily at dawn. If you expend the talisman's last charge, roll a d20. On a 1, the talisman crumbles into ashes and is destroyed.
+
+![[SpeakWithDead.png]]
+
+<span class="credit">"Talisman of Echoes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Five sample answers a players might receive are given below:
 
@@ -951,7 +964,7 @@ The plotline involving the signet ring has been added to provide Luvash with a r
 
 ***Dusk Elf Hovels.*** In order to discourage the players from exploring the Amber Temple too early (and because the players are strangers that he has only just met, with no evident qualifications that will help him achieve his goals), Kasimir Velikov no longer shares Patrina's dreams or his interest in the Amber Temple upon their first meeting. 
 
-Kasimir will later lead the players to the Amber Temple in [[Arc U - The Amber Temple]] after the players learn of his interest in the temple at the conclusion of [[Arc R - The Beacon of Argynvostholt]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
+Kasimir will later lead the players to the Amber Temple in [[Arc U - The Amber Temple]] after the players learn of his interest in the temple at the conclusion of [[Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
 
 The symbols on the signet ring have been added to provide the players with the solution to the puzzle door at the entrance to Van Richten's Tower.
 
@@ -963,7 +976,7 @@ The geneology of the Strazni family has been added to explicitly reveal Ireena's
 
 *Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[Arc H - The Lost Soul]] for more information about Stella's fate.)
 
-Victor has been given Khazan's lost spellbook to provide him with a reason to know of (and a reason to take an interest in) the tower at Lake Baratok, as well as to explain Victor's precocious skill as a mage. Victor's interest in Khazan's staff has been added to foreshadow the means by which the players can obtain the staff in the Ravenloft catacombs in [[Arc T - Ravenloft Heist.]]
+Victor has been given Khazan's lost spellbook to provide him with a reason to know of (and a reason to take an interest in) the tower at Lake Baratok, as well as to explain Victor's precocious skill as a mage. Victor's interest in Khazan's staff has been added to foreshadow the means by which the players can obtain the staff in the Ravenloft catacombs in [[Arc P - Ravenloft Heist]].
 
 ***Lake Zarovich.*** This brief detour to Szoldar and Yevgeni's dressing shack has been added to make sure that the Barovian wilderness remains strange and foreboding (because only experienced hunters know how to navigate it), to explicitly introduce the players to a pair of individuals able to point out important paths and landmarks, and to inform the players of the werewolves' heavy presence along the western half of the valley.
 
