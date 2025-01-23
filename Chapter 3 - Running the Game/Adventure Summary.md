@@ -93,7 +93,7 @@ Act III ends when the players recruit the dusk elf Kasimir to journey to the Amb
 # Act IV: Secrets of the Ancient
 <div class="subtitle"><em>For characters of 8th level and higher.</em></div>
 
-Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - The Tyrant's Trials]], seeking to test their ambition, cunning, power, and capacity for cruelty.
+Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - Trials of the Mountain]], seeking to test their ambition, cunning, power, and capacity for cruelty.
 
 Meanwhile, the players journey with the dusk elf Kasimir Velikov to the Amber Temple, traveling along Tsolenka Pass as they ascend Mount Ghakis in [[Arc S - The Amber Temple]]. As they do, they can befriend the Mountain Folk of Soldav, including Elder Burebis, an ancient **storm giant** and devotee of the Ladies Three. From Burebis, the players can learn of the three Fanes of Barovia, and of the profane knowledge that Strahd took from the Amber Temple to desecrate them.
 
