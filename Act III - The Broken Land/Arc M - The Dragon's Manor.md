@@ -276,7 +276,7 @@ Ultimately, the players can also dissuade Wensencia from harvesting the elk by s
 
 As Wensencia departs, if the players treated her cordially, she warns them to beware the creatures that lurk amidst the gloom of the nearby crags and woods. "This meadow is a place of ancient death," she says, "and such creatures are drawn to it like moths to a flame. Do not linger long, lest you draw their attention—and their appetites." (Wensencia is referring to the **ghouls** that dwell amidst the cliffs of the nearby mountains, described in further detail below.)
 
-If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its eyes slowly drifting closed as the wound overtakes it.
+If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its remaining eye slowly drifting closed as the wound overtakes it.
 #### The Mass Grave
 When the players depart the stone slab for the grave site, read:
 
@@ -500,9 +500,9 @@ This area is largely as described in <span class="citation">Q4. Spider's Ballroo
 
 > [!combat]+ **Balancing the Spiders’ Ballroom**
 > This combat encounter is a **bruising** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players.** Reduce the number of giant spiders to seven. 
-> * **Four Players.** Reduce the number of giant spiders to eight. 
-> * **Six Players**. Increase the number of giant spiders to ten.
+> * **Three Players.** Reduce the number of giant spiders to four. 
+> * **Four Players.** Reduce the number of giant spiders to five. 
+> * **Six Players**. Increase the number of giant spiders to eight.
 
 > [!info]+ **Phase Spider Harvesting**
 > A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
@@ -1127,7 +1127,7 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 
 The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
 
-***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,000 XP.
+***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 
 > [!info]+ **Returning the Skull**
 > The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].
