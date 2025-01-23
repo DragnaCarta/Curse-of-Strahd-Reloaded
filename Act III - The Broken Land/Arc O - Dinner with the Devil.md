@@ -1650,4 +1650,4 @@ As the carriage pulls away from the courtyard, the players can catch a final gli
 <p>As the keep shrinks behind you, the chains of the two gate towers shriek and groan, rusted machinery grinding as it slowly heaves the drawbridge back into the air. The carriage rounds a bend in the road—and the sound of the drawbridge slamming shut echoes through the mountains.
 </div>
 
-***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 2,000 XP. Award each player an additional 1,500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache.
+***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 4,000 XP. Award each player an additional 500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache.
