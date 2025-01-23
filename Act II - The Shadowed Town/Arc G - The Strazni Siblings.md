@@ -70,7 +70,7 @@ Ireena, determined and stubborn, can't be convinced to remain at the inn or chur
 > - Izek’s day-to-day schedule varies, but he reliably takes his midday meal in Vallaki’s town square, delivered by the Baron’s cook. He returns every night to Baron Vallakovich’s mansion to sleep.
 > - Strange figures have been seen going in and out of Wachterhaus, the home of Lady Fiona Wachter, one of the Baron’s fiercest political enemies. Rumor has it that one of her servants has been shadowing Izek around town for the past two weeks. She might have aid to offer.
 > 
-> If the players journey to Lady Wachter’s estate to seek her assistance, they begin [[Arc G - Lady Wachter’s Wish]].
+> If the players journey to Lady Wachter’s estate to seek her assistance, they begin [[Arc F - Lady Wachter's Wish]].
 
 # G2. The Streets of Vallaki
 One day after his visit to the Blue Water Inn, Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching Ireena’s description. Each poster includes a sketch that roughly matches Ireena’s appearance and offers a reward of five gold pieces for information delivered to Izek Strazni at the Baron’s mansion.

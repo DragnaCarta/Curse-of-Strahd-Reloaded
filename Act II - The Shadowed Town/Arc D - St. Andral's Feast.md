@@ -59,9 +59,9 @@ The church's occupants follow the following schedule unless interrupted:
 > 
 > A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
 > 
-> Given his profession, Henrik had encountered Milivoj - the church's groundskeeper - on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
+> Given his profession, Henrik had encountered Milivoj—the church's groundskeeper—on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
 > 
-> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer.     St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
+> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
 > 
 > Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
 > 

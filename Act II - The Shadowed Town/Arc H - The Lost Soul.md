@@ -61,7 +61,7 @@ The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrov
 
 If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
 
-If the players describe Erasmus's visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
@@ -921,6 +921,10 @@ If one of the players moves to attack, Erasmus shouts, “Wait! I don’t mean t
 <p>He wears short pants, a loose shirt, and a vest, though his body becomes wisps of curling fog not far below his knees. His eyes glitter with mirth, and an elfin smile plays across his face as his unkempt hair drifts lazily amidst the gloom. When he speaks, his voice is cheery and light, and his fingers twitch with excitement. “Stella! You brought your friends!”</p>
 </div>
 
+![[Erasmus.png]]
+
+<span class="credit">"Erasmus van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Erasmus greets the players and Victor warmly, and Stella introduces him using his full name as he stands beside her. Victor greets Erasmus somewhat stiffly, and a DC 10 Wisdom (Insight) check reveals that he is slightly jealous of the younger ghost. (Though Victor has no romantic interest in Stella, he has had few friends throughout his life, and fears losing his only friend to the cheerier, sunnier Erasmus.)
 
 Erasmus can share the following information, either at the players’ request or of his own volition:
@@ -1234,9 +1238,9 @@ As such, this arc aims to comprehensively rework these stray narrative elements 
 * The players now have a true opportunity to witness and intervene in the suffering wrought by night hags upon their victims, and to destroy their corruption once and for all.
 * Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the Fanes of Barovia, and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
 
-This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc G - Lady Wachter's Wish.]]
+This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc F - Lady Wachter's Wish]]
 
-***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc F - The Missing Vistana.]]
+***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc E - The Missing Vistana]]
 
 ***Burgomaster's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
 

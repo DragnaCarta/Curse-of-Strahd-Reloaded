@@ -495,7 +495,7 @@ If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ra
 > 
 > The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
 > 
-> **_Dawn's Embrace._** As a reaction, when a creature you can see within 60 feet of you would be reduced to 0 hit points, you can expend 2 charges to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
+> **_Dawn's Embrace._** As a reaction, when a creature you can see within 30 feet of you would be reduced to 0 hit points, you can expend 2 charges to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
 > 
 > **_Light of Hope._** As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
 > 

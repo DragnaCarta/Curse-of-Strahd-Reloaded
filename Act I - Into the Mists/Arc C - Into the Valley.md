@@ -109,7 +109,7 @@ Whether Ireena is with the party or not, add:
 >Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
 >
 >* **Enjoy Invincibility.** Strahd is the one NPC in the entire campaign that (until they obtain the *Sunsword*) your players cannot hurt in any meaningful way. Their strongest attacks do little more than tickle him. Their cruelest insults merely amuse him. Enter Strahd-related scenes without fear of player action.
->* **Embrace Unpredictability.** In each scene before [[Arc R - The Tyrant's Trials]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
+>* **Embrace Unpredictability.** In each scene before [[Arc R - Trials of the Mountain]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
 >* **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
 
 > [!abstract]+ **The Players Misbehave**
@@ -843,7 +843,7 @@ This scene largely unfolds as described in <span class="citation">Dream Pastries
 > 
 > ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
 > 
-> ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#I3b. Franz’s Tent|Franz]].
+> ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
 
 Morgantha greets the players warmly, calling them "weary travelers," and shares her hope that the road has not been too hard on them. She freely shares the following information if asked:
 
@@ -1018,7 +1018,7 @@ The members of the refugee camp, which include Emeric, a melancholy older man, a
 * Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
 * Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>.
 
-The refugees are lost in despair. Some recall a superstition that red-haired Barovian woman bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
+The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
 
 Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
 ### The Guards at the Gates
@@ -1058,6 +1058,10 @@ When the players first arrive, the inn contains the following notable NPCs:
 * Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
 * Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
 * Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
+
+![[Vallaki_Martikovs.png]]
+
+<span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Urwin Martikov**
 >
