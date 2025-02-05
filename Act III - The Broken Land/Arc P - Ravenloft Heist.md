@@ -193,14 +193,14 @@ The players might use any of the following methods to distract the **wights** pa
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 
 > [!info]+ **Heist Milestones**
-> Raiding Castle Ravenloft completes a story milestone. If the players depart Castle Ravenloft with one or more of their objectives completed, award each player:
+> Raiding Castle Ravenloft completes a story milestone. When the players depart Ravenloft, award each player 4,000 XP. If the players depart Castle Ravenloft with one or more of their objectives completed, award each player:
 > 
-> * 1,000 XP if they recovered Argynvost's skull
-> * 1,000 XP if they obtained the *Icon of Dawn's Grace* from St. Markovia's crypt
-> * 1,000 XP if they rescued Emil Toranescu
-> * 500 XP if they rescued Gertruda
-> * 500 XP if they obtained the *spear of the Huntress* from King Dostron's crypt
-> * 500 XP if they looted Strahd's treasury
+> * 200 XP if they recovered Argynvost's skull
+> * 200 XP if they obtained the *Icon of Dawn's Grace* from St. Markovia's crypt
+> * 200 XP if they rescued Emil Toranescu
+> * 200 XP if they rescued Gertruda
+> * 200 XP if they obtained the *Spear of the Huntress* from King Dostron's crypt
+> * 200 XP if they looted Strahd's treasury
 ## P3a. Front Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
 
