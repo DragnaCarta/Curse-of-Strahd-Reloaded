@@ -499,10 +499,10 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
 > [!combat]+ **Balancing the Spiders’ Ballroom**
-> This combat encounter is a **bruising** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players.** Reduce the number of giant spiders to four. 
-> * **Four Players.** Reduce the number of giant spiders to five. 
-> * **Six Players**. Increase the number of giant spiders to eight.
+> Due to the wave mechanic, this combat encounter is a series of a consecutive **bruising** combat encounter followed by a **mild** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), the first of which will consume approximately 30% of their total maximum hit points and the second of which will consume approximately 7% of their total maximum hit points (for a total of 37% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players.** Reduce the number of giant spiders in the first wave to one. Have the phase spiders appear in waves—first one, then the other. 
+> * **Four Players.** Reduce the number of giant spiders in the first wave to six. 
+> * **Six Players**. Increase the number of giant spiders in the first wave to eight.
 
 > [!info]+ **Phase Spider Harvesting**
 > A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)

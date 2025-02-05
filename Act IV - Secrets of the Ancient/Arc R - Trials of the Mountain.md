@@ -2302,7 +2302,7 @@ If asked, Burebis has sufficient energy to answer one final question; otherwise,
 
 ***Milestone.*** Receiving Burebis’s mission achieves a story milestone. When the players depart the Shrine of the Rozana, award each player 5,000 XP.
 ## R5g. Morning in Soldav
-Upon their return to Chief Diegia's longhouse, the players find that Como, Kaldur, and Scorilo (if the players have made peace with him) have cleared away the tables, benches, and refuse left by the holiday feast, allowing the players to place their bedrolls around the hearth. (Due to Burebis’s protective clouds, which shroud Soldav’s crater from view and protect it from divination, Strahd and his spies can’t find the players while they remain in Soldav, and their long rest is uninterrupted.)
+Upon their return to Chief Diegia's longhouse, the players find that Como, Kaldur, and (if the players have made peace with him) Scorilo have cleared away the tables, benches, and refuse left by the holiday feast, allowing the players to place their bedrolls around the hearth. (Due to Burebis’s protective clouds, which shroud Soldav’s crater from view and protect it from divination, Strahd and his spies can’t find the players while they remain in Soldav, and their long rest is uninterrupted.)
 
 When the players awaken the next morning, Oroles greets them with a breakfast of warm flatbreads with honey, dried berries, and soft cheese. If the players previously asked Diegia about the Amber Temple, or if they request such information now, she joins Oroles and can share the following information:
 
