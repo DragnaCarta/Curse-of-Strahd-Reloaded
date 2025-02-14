@@ -702,7 +702,7 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Gertruda is a prisoner on the third floor of the castle, in the king’s suites. The players can access the suites via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
 * Sasha doesn’t know any of the traps that Strahd or his servants might have set in the castle. She does know, however, that the inside of the keep is often patrolled by undead **wights**—the animated remains of those that once guarded the castle.
 * Strahd keeps prisoners in the dungeons, on the floor beneath the castle larders. The players can access the dungeons via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
-* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of <span class="citation">K65. Kitchen (p. 78)</span>.
+* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber (<span class="citation">K67. Hall of Bones (p. 78)</span>) is behind the closed wooden doors to the west of <span class="citation">K65. Kitchen (p. 78)</span>.
 * Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via <span class="citation">K18. High Tower Staircase (p. 58)</span>.
 * Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59)</span> into the castle via <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, which allows access to the servants’ quarters and kitchens.
 * Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in <span class="citation">K41. Treasury (p. 67)</span>).
@@ -908,7 +908,7 @@ Once inside the lounge, Sasha can share any or all of the following information 
 * She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her over four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.”)
 * She despises Strahd with every fiber of her being. “I am old, and I am tired,” she hisses. “There are two things I wish to see before I die: the light of the rising sun, and the death of the monster Strahd von Zarovich.”
 
-If the players don't reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda,” Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep.”
+If the players don't reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda,” Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
 
 If the players agree to rescue Gertruda, Sasha can share the following information about Castle Ravenloft:
 
@@ -988,7 +988,7 @@ The players then suffer the effects of **The Chiming Clock** below.
 If a player investigates the closet, read:
 
 <div class="description">
-<p>A woman’s corpse dangles from an improvised noose crafted of torn fabric, which hangs from a black iron hook at the center of the far wall. Three feet above the hook, a wooden trapdoor hangs open on rusted metal hinges, its exit covered by a piece of heavy fabric.</p>
+<p>A woman’s corpse dangles from an improvised noose crafted of torn fabric, which hangs from a black iron hook at the center of the far wall. Three feet above the hook, a wooden trapdoor hangs open on rusted metal hinges.</p>
 </div>
 
 The dead woman’s corpse is brown-haired, short, and freckled. She wears a plain, white wool dress and apron. A player who inspects her body finds a pair of puncture marks on her neck.
@@ -1014,6 +1014,10 @@ Shortly after the players emerge into <span class="citation">K47. Portrait of St
 <div class="description">
 <p>A silhouette looms against the stone-brick wall obstructing the descending stair—and then emerges from the stonework like a ghost, revealing a cloaked, broad-shouldered man with long, blond hair, a strong, slightly crooked nose, and a thick, well-trimmed beard. He holds a fiery torch in one hand and a gleaming steel sword in the other, and a black-feathered raven sits perched atop his shoulder.</p>
 </div>
+
+![[IsmarkGreat_transparent.png]]
+
+<span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The man is a memory of Ismark Antonovich (Ismark the Great), and appears strangely familiar to any player who’s previously seen the statue of Ismark the Great in the Barovian village square. The raven on his shoulder is a memory of the **wereraven** Livius Martikov, the founder of the Keepers of the Feather.
 
@@ -1063,7 +1067,7 @@ A player who treats Pidlwick II kindly and succeeds on a DC 12 Charisma (Persuas
 ## O8d. The Fourth Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, K51, and K53.</em></span>
 
-The trapdoor leads to a copy of the guest suite largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the upper levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#P8a. The First Level]].
+The trapdoor leads to a copy of the guest suite largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the upper levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[Arc O - Dinner with the Devil#O8a. The First Level|The First Level]].
 
 Instead of opening into the closet, the closet door in the guest suite opens into a blank stone wall. When the closet door is opened for the first time, the southwestern windows in the Lounge slam open, allowing the storm to howl inside and revealing a copy of the castle rooftop, which is largely as described in <span class="citation">K53. Rooftop (p. 71)</span>. However, the remainder of the castle is absent, leaving the rooftops surrounded only by an endless, misty void. When a character first opens the door, read:
 
@@ -1163,7 +1167,7 @@ A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges
 
 A player who looks out of the window perceives nothing but an endless, blood-red void. (The door the players entered from still leads back into the guest suite closet.)
 
-The corpse is clad in a guard’s chain-mail armor. His snapped wooden spear lies discarded on the stones beneath the table not far away. A player who inspects the corpse can discern that his throat was torn open. A successful DC 14 Wisdom (Medicine) check reveals that the man’s flesh was ripped by long, elegant claws.
+The corpse is clad in a guard’s chain-mail armor. His snapped wooden spear lies discarded on the stones beneath the table not far away. A player who inspects the corpse can discern that his throat was torn open. A successful DC 14 Wisdom (Medicine) check reveals that the man’s flesh was ripped by long, fine claws.
 
 The splintered door leads into the Servants’ Rooms (see below). The staircase descends to the Castle Cellar (see below).
 ### Servants’ Rooms
@@ -1646,4 +1650,4 @@ As the carriage pulls away from the courtyard, the players can catch a final gli
 <p>As the keep shrinks behind you, the chains of the two gate towers shriek and groan, rusted machinery grinding as it slowly heaves the drawbridge back into the air. The carriage rounds a bend in the road—and the sound of the drawbridge slamming shut echoes through the mountains.
 </div>
 
-***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 4,000 XP. Award each player an additional 500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache.
+***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 3,500 XP. Award each player an additional 500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache.

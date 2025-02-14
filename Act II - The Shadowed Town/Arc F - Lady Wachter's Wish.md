@@ -338,11 +338,16 @@ If the players ask the truth behind the Ireena-shaped doll, Izek snarls that the
 
 If Ireena has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
 
+![[Lake-Zarovich_Izek-Encounter_4k_NoGrid_40x30_102PPI_Gloom_Fog.jpg]]
+
+<span class="credit">"Lake Zarovich" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/29a5db8e9c/">here!</a></span>
+
+
 > [!warning]+ **Poisoned Izek**
 > Remember that Izek remains **poisoned** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
 
 > [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters have been calibrated to consume most or all of the players' hit points in order to create a dangerous and exciting fight.
 > 
 > However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
 > 

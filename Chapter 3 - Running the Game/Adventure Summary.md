@@ -47,7 +47,7 @@ Act II ends on the morning after the players' first full moon in Barovia, which 
 | :---: | ----- | -------------------------------------------------------- | ----- |
 |   4   | D     | The players restore the bones of St. Andral              | 1,250 |
 |   4   | E     | The players find Arabelle and receive her prophecy       | 1,250 |
-|   4   | F / G | The players defeat Izek Strazni                          | 1,250 |
+|   4   | F / G | The players defeat Izek Strazni                          | 1,500 |
 |  4/5  | I     | The players gain safe passage through Krezk's gates      | 750   |
 |   5   | H     | The players rescue Stella's soul from the Ethereal Plane | 1,750 |
 
@@ -74,10 +74,10 @@ Act III ends when the players recruit the dusk elf Kasimir to journey to the Amb
 | :------------: | --- | -------------------------------------------------------------------------------------------- | ----- |
 |       5        | J   | The players reclaim the winery from the druids of Yester Hill                                | 2,000 |
 |       5        | J   | The players defeat the druids of Yester Hill                                                 | 2,500 |
-|       6        | K   | The players recruit Ezmerelda d'Avenir                                                       | 1,250 |
+|       6        | K   | The players recruit Ezmerelda d'Avenir                                                       | 1,000 |
 |       6        | L   | The players rescue Ilya Krezkov and Zuleika Toranescu from the werewolf den                  | 1,500 |
-|       6        | M   | The players hear the dragon gargoyle's prophecy in Argynvostholt                             | 2,000 |
-|       6        | O   | The players dine with Strahd and survive Varushka's spirit in Castle Ravenloft               | 4,000 |
+|       6        | M   | The players hear the dragon gargoyle's prophecy in Argynvostholt                             | 2,500 |
+|       6        | O   | The players dine with Strahd and survive Varushka's spirit in Castle Ravenloft               | 3,500 |
 |       6        | O   | The players reunite Varushka with Katarina's necklace and retrieve Varushka's hidden cache   | 500   |
 |       7        | P   | The players recover Argynvost's skull from Castle Ravenloft                                  | 1,000 |
 |       7        | P   | The players recover the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft | 1,000 |
@@ -85,15 +85,15 @@ Act III ends when the players recruit the dusk elf Kasimir to journey to the Amb
 |       7        | P   | The players rescue Gertruda from Castle Ravenloft                                            | 500   |
 |       7        | P   | The players obtain the *spear of the Huntress* from King Dostron's crypt in Castle Ravenloft | 500   |
 |       7        | P   | The players loot Strahd's treasury in Castle Ravenloft                                       | 500   |
-|       7        | Q   | The players defeat the Abbot                                                                 | 2,000 |
+|       7        | Q   | The players defeat the Abbot                                                                 | 1,500 |
 |       7        | Q   | The players redeem the Abbot after defeating him                                             | 500   |
-|       7        | Q   | The players defeat Kiril Stoyanovich                                                         | 3,000 |
+|       7        | Q   | The players defeat Kiril Stoyanovich                                                         | 1,500 |
 |       7        | Q   | The players light Argynvost's beacon                                                         | 3,000 |
 
 # Act IV: Secrets of the Ancient
 <div class="subtitle"><em>For characters of 8th level and higher.</em></div>
 
-Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - The Tyrant's Trials]], seeking to test their ambition, cunning, power, and capacity for cruelty.
+Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - Trials of the Mountain]], seeking to test their ambition, cunning, power, and capacity for cruelty.
 
 Meanwhile, the players journey with the dusk elf Kasimir Velikov to the Amber Temple, traveling along Tsolenka Pass as they ascend Mount Ghakis in [[Arc S - The Amber Temple]]. As they do, they can befriend the Mountain Folk of Soldav, including Elder Burebis, an ancient **storm giant** and devotee of the Ladies Three. From Burebis, the players can learn of the three Fanes of Barovia, and of the profane knowledge that Strahd took from the Amber Temple to desecrate them.
 
