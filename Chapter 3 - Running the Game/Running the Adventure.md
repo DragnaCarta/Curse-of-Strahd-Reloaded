@@ -55,7 +55,7 @@ Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind*
 > Combat encounters in this guide have been designed using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a system that calibrates encounter difficulty to ensure challenging, balanced encounters. Unless specifically provided in this guide, or unless necessary to compete with players using similar tactics, enemies (including Strahd) should not need to use any tactics (e.g., targeting weak players or focus-firing) in order to provide a challenging experience.
 # The Tarokka Reading
 ## The Tome of Strahd
-The contents of the Tome of Strahd are now as described in [[Arc H - The Lost Soul#I9a. Reading the Tome|Arc I - The Lost Soul]].
+The contents of the Tome of Strahd are now as described in [[Arc H - The Lost Soul#H9a. Reading the Tome|Arc H - The Lost Soul]].
 ## The Holy Symbol of Ravenkind
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
