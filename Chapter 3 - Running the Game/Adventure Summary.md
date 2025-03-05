@@ -50,6 +50,7 @@ Act II ends on the morning after the players' first full moon in Barovia, which 
 |   4   | F / G | The players defeat Izek Strazni                          | 1,500 |
 |  4/5  | I     | The players gain safe passage through Krezk's gates      | 750   |
 |   5   | H     | The players rescue Stella's soul from the Ethereal Plane | 1,750 |
+|   5   | H     | The players obtain the *Tome of Strahd*                  |       |
 
 # Act III: The Broken Land
 <div class="subtitle"><em>For characters of 5th level and higher.</em></div>
@@ -75,19 +76,20 @@ Act III ends when the players recruit the dusk elf Kasimir to journey to the Amb
 |       5        | J   | The players reclaim the winery from the druids of Yester Hill                                | 2,000 |
 |       5        | J   | The players defeat the druids of Yester Hill                                                 | 2,500 |
 |       6        | K   | The players recruit Ezmerelda d'Avenir                                                       | 1,000 |
-|       6        | L   | The players rescue Ilya Krezkov and Zuleika Toranescu from the werewolf den                  | 1,500 |
+|       6        | L   | The players bargain with Zuleika Toranescu at the Werewolf Den                               | 1,500 |
+|       6        | L   | The players free Ilya and Zuleika from the den                                               | 250   |
 |       6        | M   | The players hear the dragon gargoyle's prophecy in Argynvostholt                             | 2,500 |
 |       6        | O   | The players dine with Strahd and survive Varushka's spirit in Castle Ravenloft               | 3,500 |
 |       6        | O   | The players reunite Varushka with Katarina's necklace and retrieve Varushka's hidden cache   | 500   |
-|       7        | P   | The players recover Argynvost's skull from Castle Ravenloft                                  | 1,000 |
-|       7        | P   | The players recover the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft | 1,000 |
-|       7        | P   | The players rescue Emil Toranescu from the Castle Ravenloft dungeons                         | 1,000 |
-|       7        | P   | The players rescue Gertruda from Castle Ravenloft                                            | 500   |
-|       7        | P   | The players obtain the *spear of the Huntress* from King Dostron's crypt in Castle Ravenloft | 500   |
-|       7        | P   | The players loot Strahd's treasury in Castle Ravenloft                                       | 500   |
-|       7        | Q   | The players defeat the Abbot                                                                 | 1,500 |
+|       7        | P   | The players recover Argynvost's skull from Castle Ravenloft                                  | 4,000 |
+|       7        | P   | The players recover the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft | 250   |
+|       7        | P   | The players rescue Emil Toranescu from the Castle Ravenloft dungeons                         | 250   |
+|       7        | P   | The players rescue Gertruda from Castle Ravenloft                                            | 250   |
+|       7        | P   | The players obtain the *spear of the Huntress* from King Dostron's crypt in Castle Ravenloft | 250   |
+|       7        | P   | The players loot Strahd's treasury in Castle Ravenloft                                       | 250   |
+|       7        | Q   | The players defeat the Abbot                                                                 | 2,000 |
 |       7        | Q   | The players redeem the Abbot after defeating him                                             | 500   |
-|       7        | Q   | The players defeat Kiril Stoyanovich                                                         | 1,500 |
+|       7        | Q   | The players defeat Kiril Stoyanovich                                                         | 2,000 |
 |       7        | Q   | The players light Argynvost's beacon                                                         | 3,000 |
 
 # Act IV: Secrets of the Ancient

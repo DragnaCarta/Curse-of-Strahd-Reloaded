@@ -14,6 +14,23 @@ Spells cast in Barovia function as described in <span class="citation">Alteratio
 The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
 # Weather
 Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
+# Calendar
+The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar has twelve 28-day months, which are named as follows: <sup>1</sup>
+  
+| Month | Barovian Name | Gregorian Name |
+| :---: | :------------ | :------------- |
+|   1   | Yinvar        | January        |
+|   2   | Fivral        | February       |
+|   3   | Mart          | March          |
+|   4   | Apryl         | April          |
+|   5   | Mai           | May            |
+|   6   | Eyune         | June           |
+|   7   | Eyule         | July           |
+|   8   | Avgust        | August         |
+|   9   | Sintyavr      | September      |
+|  10   | Octyavr       | October        |
+|  11   | Neyavr        | November       |
+|  12   | Dekavr        | December       |
 # Cultures
 ## Barovians
 The denizens of the Village of Barovia are a broken, haunted people, largely as described in <span class="citation">Chapter 3: The Village of Barovia (p. 41)</span> and <span class="citation">Barovian Villagers (p. 41)</span>. 
@@ -214,3 +231,5 @@ The "good" Mountain Folk of Soldav have been added to provide the players with a
 Finally, the recent history of the werewolf pack has been updated to tie more strongly into the narrative of Strahd's recent reawakening, while the amber vestiges have been given "amber shards" to introduce players to their corruption on a much earlier timescale than the original module.
 
 ***Religions.*** The cult of Ezra has been added to the campaign to provide additional depth to Fiona Wachter’s characterization and to foreshadow the true nature of the Dark Powers before Ireena meets and defies them at the climax of her character arc.
+
+<sup>1</sup> Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).
