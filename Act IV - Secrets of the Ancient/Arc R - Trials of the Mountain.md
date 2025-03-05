@@ -1074,7 +1074,7 @@ Depending on the players’ response, Strahd responds as follows:
 
 * If the players tell Strahd they’ve journeyed to Mt. Ghakis to find a weapon capable of destroying him, Strahd raises an eyebrow and says: "I regret to inform you that but one weapon was capable of such a thing—and it was destroyed long ago." 
 * If the players tell Strahd they’ve journeyed to Mt. Ghakis to find a "sword of sunlight," Strahd chuckles coldly and informs them that "the weapon they seek was destroyed long ago."
-* If the players falsley tell Strahd they’ve journeyed to Mt. Ghakis to seek power or knowledge from the Amber Temple, have the responding players roll a DC 19 group Charisma (Deception) check. Regardless of the result, Strahd curiously asks who told them of the Temple’s existence. Regardless of the players’ response, Strahd notes that "few have the strength or will to claim the power that lies dormant within its vaults," adding: "Forgive me, but I hold my doubts as to your capabilities in this regard."
+* If the players falsely tell Strahd they’ve journeyed to Mt. Ghakis to seek power or knowledge from the Amber Temple, have the responding players roll a DC 19 group Charisma (Deception) check. Regardless of the result, Strahd curiously asks who told them of the Temple’s existence. Regardless of the players’ response, Strahd notes that "few have the strength or will to claim the power that lies dormant within its vaults," adding: "Forgive me, but I hold my doubts as to your capabilities in this regard."
 * If the players provide Strahd with any other false reason, have the responding players roll a DC 19 group Charisma (Deception) check, made with disadvantage if the reason is particularly poor. On a success, Strahd makes any appropriate response. On a failure, Strahd’s gaze grows icy. He informs the players that "he has refrained from speaking any falsehood before them," and shares his regrets that they "have not seen fit to return the courtesy."
 ### Strahd’s Challenge
 Regardless of the players’ response, Strahd then turns to the player he bit the previous night. "Many in this valley name me ‘tyrant,’" he says, "but I have always respected the choices of my subjects." He then retrieves a small item from an inner pocket of his cloak and holds his hand forward, the item clenched in his fist. 
@@ -1337,6 +1337,9 @@ If the players enter the cave, read:
 <p>The cave entrance leads to a small, rocky chamber no more than twenty feet across. A narrow natural corridor splits from the chamber’s right side, bending further into the depths of the mountain before winding out of sight.</p>
 </div>
 
+![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+<span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
+
 > [!lore]+ **The Bodaks**
 > Several decades ago, two siblings bearing amber shards named Cassius and Deirdre found their way through the Mists into Barovia. Their shards led them to the Amber Temple, where they accepted the dark gift of the vestige Sykane, the Soul Hungerer in order to resurrect their mother. Both succumbed to Sykane’s corruption, however, transforming into dark, twisted husks with the statistics of **bodaks** before they could escape the mountain or Mists. 
 >
@@ -1589,7 +1592,7 @@ When the pendant first becomes visible, read:
 > [!lore]+ **The Cursed Pendant**
 > Strahd intentionally placed this pendant here the night of [[#R4f. The Tyrant’s Second Trial]], hoping that one of the players might take it with them to the Amber Temple and accept the Vampyr’s dark gift—thereby giving him a full-blooded vampire under his control. (The vestige of the Vampyr doesn’t know that the pendant is cursed.)
 >
-> The amber shard embedded in the pendant is the same one the Dark Powers bestowed upon Strahd on the day of Sergei’s wedding, thereby allowing him to accept the dark gift of the Vampyr before his brother could be wed. (Due to his prior encounter with the Vampyr’s sarcophagus under Patrina Velikov’s guidance, Strahd didn’t need to return to the Amber Temple in person in order to accept the Vampyr’s dark gift by means of the amber shard.)
+> The amber shard embedded in the pendant is the same one the Dark Powers bestowed upon Strahd on the day of Sergei’s wedding, thereby allowing him to accept the dark gift of the Vampyr before his brother could be wed. (Due to his prior encounter with the Vampyr’s sarcophagus under Patrina Velikovna’s guidance, Strahd didn’t need to return to the Amber Temple in person in order to accept the Vampyr’s dark gift by means of the amber shard.)
 ### The Cave of Daggers
 The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry cavern, then bends west again, soon widening into a tunnel. Read:
 
@@ -1614,7 +1617,7 @@ A player who succeeds on a DC 15 Intelligence (Nature) check recognizes the cave
 > [!info]+ **Icicle Cascade**
 > Each time the players perform one of the following acts, roll a d100. If the result falls within the "Warning" range for that act, the icicles overhead tremble faintly, clinking together and causing bits of frost to filter down from above, but otherwise remain undisturbed. However, if the result falls within the "Cascade" range for that act, an icicle cascade begins. 
 >
-> | Action | | Cascade Range | Warning Range |
+> | Action | Cascade Range | Warning Range |
 > |:---|:---:|:--:|
 > | Ordinary Noises | 00-09 | 10-49 |
 > | Weak Heat | 00-09 | 10-49 |
@@ -2310,8 +2313,8 @@ When the players awaken the next morning, Oroles greets them with a breakfast of
 * Many have sought to obtain power or knowledge from the temple; most all have fallen prey to the temple’s corruption, or else fallen victim to the danger that lies within. Though its builders died long ago, the temple remains well-defended by unnatural forces, with strange constructs and undead patrolling its darkened corridors. In addition, an evil miasma fills the temple’s chambers, consuming the vitality of any who seek to rest there.
 * The temple is well-hidden, mounted high in the frozen reaches of Mt. Ghakis and surrounded by deadly cliffs. Although an ancient road once led directly to its front facade, it collapsed long ago, leaving only treacherous paths and narrow ledges to approach it. "The easiest path begins on the southwestern edge of the plateau outside Soldav," Diegia says. "If you follow it, it will guide you to the temple’s doors."
 * The **giant goat** Sangzor guards the only pass that now leads toward the temple. Rumored to have dwelled upon Mt. Ghakis for centuries, if not millenia, Sangzor has sent many pilgrims to the Temple plummeting to their deaths down the mountainside. "It is said that Sangzor senses the evil that lurks in men’s hearts," Diegia says solemnly. "Only if it judges you worthy will it allow you to pass."
-* Heirs to the chiefdom of Soldav, each joined by two trusted companions, have traveled to the Amber Temple for centuries, seeking to test their resilience and will against the corruption it contains. "From time immemorial, it has dwelled upon our sister peak," Diegia says grimly, "its whispers gently caressing the dreams of those it seeks to tempt. Each time a chief has accepted its invitations, calamity has befallen the tribe not long after. Now, we test our chiefs before they take the wooden chair—so that if weakness lurks in their heart, it shall be drawn out and be destroyed with its bearer." 
-* Currently, Diegia’s eldest child and only daughter, Diona, is undergoing such a trial, meditating in the temple with her two chosen companions for six days and six nights before she may return to Soldav. Should the players encounter her, Diegia asks them to convey her regards, and her hope that Diona may complete her rite of passage successfully and return home to her family.
+* Heirs to the chiefdom of Soldav, each joined by three trusted companions, have traveled to the Amber Temple for centuries, seeking to test their resilience and will against the corruption it contains. "From time immemorial, it has dwelled upon our sister peak," Diegia says grimly, "its whispers gently caressing the dreams of those it seeks to tempt. Each time a chief has accepted its invitations, calamity has befallen the tribe not long after. Now, we test our chiefs before they take the wooden chair—so that if weakness lurks in their heart, it shall be drawn out and be destroyed with its bearer." 
+* Currently, Diegia’s eldest child and only daughter, Diona, is undergoing such a trial, meditating in the temple with her three chosen companions for six days and six nights before she may return to Soldav. Should the players encounter her, Diegia asks them to convey her regards, and her hope that Diona may complete her rite of passage successfully and return home to her family.
 
 When the players are ready to depart, Diegia and her family wish them farewell. Como then guides them to the exit tunnel and bids them luck in their journey. (If asked, Como declines to join the players on their journey. "My place is here, with my family and people," he says, apologetically.)
 # R6. Mt. Ghakis

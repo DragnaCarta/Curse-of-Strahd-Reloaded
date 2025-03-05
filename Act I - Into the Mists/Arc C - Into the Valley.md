@@ -439,6 +439,14 @@ If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#
 
 Give the players a few minutes away from the table to plan out their stories before the game begins.
 
+> [!info]+ ***Campfire Reactions***
+> In response to the players' stories, the participants of the Game of Stories vote as follows:
+> * Stanimir, too quick to prove himself right, votes nothing but True.
+> * Eliza, not one for half-truths, alternates between True and False.
+> * Arturi, cynical and distrusting, alternates between Half-True and False.
+> * Ireena, quick to warm to the PC, alternates between True and Half-True.
+
+
 > [!lore]+ **Arturi's Manuscript**
 >
 > Arturi's manuscript—authored by Dr. Rudolph van Richten—is handwritten and two pages long. It is titled "A Study of the Werewolf's Curse," and reads as follows:
@@ -1233,7 +1241,7 @@ The taproom slowly clears out over the following two hours. Nikolai and Karl Wac
 
 If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 
-***Milestone.*** Arriving in Vallaki completes a story milestone. When the party takes its first long rest in Vallaki, award each player 1,000 XP, plus an additional 250 XP if they successfully escorted Ireena to Vallaki. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
+***Milestone.*** Arriving in Vallaki completes a story milestone. When the party takes its first long rest in Vallaki, award each player 1,000 XP, plus an additional 250 XP if they successfully escorted Ireena to Vallaki. (The players don't need to bring Ireena to St. Andral's church to receive this XP.) This will bring the players to level 4.
 ## C12c. Morning in Vallaki
 ### Urwin's Advice
 When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
