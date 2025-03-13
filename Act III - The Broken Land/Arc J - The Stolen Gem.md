@@ -1449,7 +1449,7 @@ If the players ask about the nature of the spark Strahd holds, he holds it up to
 When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
 
 > [!item]+ **Twilight Crest**
-> _Uncommon wondrous item (requires attunement)_
+> _Uncommon wondrous item_
 > 
 > This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
 > 
@@ -1537,7 +1537,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 <p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
 </div>
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
+***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP. (This should bring the players to 6th level.)
 
 > [!item]+ **Keeper's Whistle**
 > The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)

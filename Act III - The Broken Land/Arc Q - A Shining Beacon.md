@@ -47,7 +47,7 @@ The players can also travel from Berez to the town of Vallaki, Van Richten's Tow
 
 ***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
 
-***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the north side of the portcullis.
+***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the east side of the portcullis.
 
 The players can also travel from the guard tower to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
@@ -120,7 +120,7 @@ The players are met at <span class="citation">S6. North Gate (p. 147)</span> by 
 
 If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
 
-The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 10 Charisma (Persuasion) check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, snifling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
+The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 10 Charisma (Persuasion) check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, sniffling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
 
 Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity. 
 ### The Courtyard
@@ -256,7 +256,7 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Innate Spellcasting.</em></strong> Ithuriel's spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring only verbal components:<br>
 At will: detect evil and good<br>
 1/day each: commune, raise dead</p>
@@ -325,14 +325,14 @@ At will: detect evil and good<br>
 <strong>Challenge</strong> 16<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
 <p><strong><em>Magic Weapons.</em></strong> Ithuriel's weapon attacks are magical.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) radiant damage. If the target is a creature, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Ithuriel can't bite another target.</p>
 <p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
-<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, reach 5 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
+<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, range 30 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
 <p></p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
@@ -725,7 +725,7 @@ Kiril then attacks.
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Kiril would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)</p>
+<p><strong><em>Indomitable.</em></strong> If Kiril would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
 <h3>Actions</h3>
@@ -791,7 +791,7 @@ Kiril then attacks.
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
 <p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Kiril would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)</p>
+<p><strong><em>Indomitable.</em></strong> If Kiril would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
@@ -936,7 +936,7 @@ The first time the players enter the cemetery, if they’re not using stealth or
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
 <p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
@@ -997,7 +997,7 @@ The first time the players enter the cemetery, if they’re not using stealth or
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
@@ -1148,7 +1148,7 @@ Continue with the following, modifying the text as necessary to reflect each non
 
 All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
 
-***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP.
+***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
 # Q7. Return to the Werewolf Den
 
 > [!abstract]+ **Fighting Kiril**

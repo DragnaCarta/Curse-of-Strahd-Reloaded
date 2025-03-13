@@ -519,7 +519,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 >
 > - **_Warding Wind._** The coven casts _warding wind._
 > - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement on its next turn to move as far as it can toward the mill.
+> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
 > - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
 
 <div class="statblock">
@@ -1072,9 +1072,9 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Abyssal, Common<br>
 <strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>Proficiency Bonus</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If the gallows speaker would fail a saving throw, it can choose to succeed instead. If it does so, it is hindered until the end of its next turn. While hindered, it is slowed, can use one less reaction per round, and can't use its multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
 <p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
@@ -1133,7 +1133,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <strong>Challenge</strong> CR 11<br>
 <strong>Proficiency Bonus</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If the gallows speaker would fail a saving throw, it can choose to succeed instead. If it does so, it is hindered until the end of its next turn. While hindered, it is slowed, can use one less reaction per round, and can't use its multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
 <p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
 <h3>Actions</h3>
@@ -1186,6 +1186,9 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 * When Lady Wachter finally releases her, Stella steps forward toward the players—and stumbles, her foot nearly falling out from under her. Victor and Lady Wachter swiftly move to catch her. “You’ve been out of your body for too long,” Victor cautions her. “You need to get used to having legs again.”
 * Stella nods, then looks around at the players, her eyes shining with gratitude. “Thank you,” she says. “It was so quiet in there—so *cold.* But because of you, I can *feel* again. I can hear the world again. Thank you—from the bottom of my heart, *thank you.*” 
 
+![[Stella_Alive.png]]
+<span class="credit">"Stella Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
 
 ***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 1,750 XP.
@@ -1227,7 +1230,7 @@ Players who read through these sections find numerous annotations referencing (i
 
 > [!abstract]+ **The Symbol**
 >
-> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc M - The Dragon's Manor]]—is willing to tell them how to get there.
+> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 

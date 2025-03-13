@@ -282,7 +282,10 @@ The players recognize the man as Rahadin, Strahd’s chamberlain. The woman is A
 >
 > ***Morale.*** In a fight, Rahadin would immediately draw his weapons and softly offer his opponent an opportunity to stand down—then attack mercilessly and with every strategic advantage if denied.
 >
-> ***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikov, who was killed by her brother Kasimir).
+> ***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikovna, who was killed by her brother Kasimir).
+
+![[Anastrasyatransparent.png]]
+<span class="credit">"Anastrasya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Anastrasya greets the players warmly by name (“You must be . . . “), then welcomes them to Castle Ravenloft. As she does, she expresses her cheerful delight at finally having an opportunity to meet them in person and shares that she’s “heard *so* much about them."
 
@@ -358,13 +361,13 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 > ***Relationships.*** Sasha is Strahd's first bride and a secret friend to Gertruda, Doru's betrothed and Strahd's prisoner.
 
 > [!lore]+ **The Eldest Bride**
-> Over four hundred years ago, in his grief after losing Tatyana, Strahd lured several more women to Castle Ravenloft as described in <span class="citation">Rahadin (p. 236)</span>. All perished to his newfound thirst for blood—but only Sasha Ivliskova, whom Strahd found remarkably similar in temperament to Tatyana, retained his interest for long.
+> Nearly four hundred years ago, in his grief after losing Tatyana, Strahd lured several more women to Castle Ravenloft as described in <span class="citation">Rahadin (p. 236)</span>. All perished to his newfound thirst for blood—but only Sasha Ivliskova, whom Strahd found remarkably similar in temperament to Tatyana, retained his interest for long.
 >
 > In a wedding ceremony attended by the terrified burgomasters and other nobles of Barovia, Strahd made Sasha a **vampire spawn**—and his first vampiric bride. Their union, however, was not a happy one. Embittered and disappointed by his loss of Tatyana, Strahd often raged at Sasha’s “inadequacy," cursing her and treating her cruelly for her many perceived shortcomings. Terrified, but unwilling to accept his abuse any longer, Sasha demanded her freedom—and Strahd punished her by imprisoning her in a tiny crypt in Ravenloft’s catacombs.
 >
 > Sasha remained in her crypt for centuries, descending into madness as the long years starved her of both blood and companionship. Compelled by Strahd’s orders to remain, she was powerless to even touch the heavy slab that sealed her silent tomb, its smooth stone surface mere inches from her shriveled, trembling hands.
 >
-> It was only when Strahd awoke from his recent hibernation that he finally retrieved Sasha from her prison, allowing her eyes to see light for the first time in four centuries. Driven into a frenzy by the three Barovian prisoners he left for her, she descended upon them like an animal, her mind returning only once she’d drunk their final drop of blood.
+> It was only when Strahd awoke from his recent hibernation that he finally retrieved Sasha from her prison, allowing her eyes to see light for the first time in nearly four centuries. Driven into a frenzy by the three Barovian prisoners he left for her, she descended upon them like an animal, her mind returning only once she’d drunk their final drop of blood.
 >
 > Sasha hates what she has become—and the only thing she hates more than that is Strahd. Though she isn’t sure why he awoke her, she desires nothing less than his complete and utter end—and her own opportunity to finally find rest at last.
 
@@ -686,7 +689,7 @@ Sasha warns the player that she has little time, and that their absences will su
 
 Sasha can share any or all of the following information about herself if asked:
 
-* She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her over four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.")
+* She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her nearly four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.")
 * She despises Strahd with every fiber of her being. “I am old, and I am tired," she hisses. “There are two things I wish to see before I die: the light of the rising sun, and the death of the monster Strahd von Zarovich."
 
 If the player doesn’t reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda," Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
@@ -905,7 +908,7 @@ If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and as
 
 Once inside the lounge, Sasha can share any or all of the following information about herself if asked:
 
-* She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her over four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.”)
+* She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her nearly four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.”)
 * She despises Strahd with every fiber of her being. “I am old, and I am tired,” she hisses. “There are two things I wish to see before I die: the light of the rising sun, and the death of the monster Strahd von Zarovich.”
 
 If the players don't reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda,” Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
@@ -943,7 +946,7 @@ Before departing, Rahadin also produces a key from his pocket, which he uses to 
 The guest suite is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However:
 
 * In the Lounge, remove the reference to Escher in this area’s description;
-* In the Guest Room, revise the second sentence to read as follows: “Several comfortable divans are placed about the room, and an ornate clock shaped like a castle’s keep looks down from its place on the wall above them." The metal clock, which was made by the legendary inventor Fritz von Weerg over four centuries ago, is shaped like the front facade of Castle Ravenloft. However, the clock is broken and doesn’t run. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 20 Intelligence (Investigation) check finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
+* In the Guest Room, revise the second sentence to read as follows: “Several comfortable divans are placed about the room, and an ornate clock shaped like a castle’s keep looks down from its place on the wall above them." The metal clock, which was made by the legendary inventor Fritz von Weerg nearly four centuries ago, is shaped like the front facade of Castle Ravenloft. However, the clock is broken and doesn’t run. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 20 Intelligence (Investigation) check finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
 * In the Closet, remove the “dusty black cloak" and revise the second sentence of this area’s description to read simply: “Iron hooks line the walls."
 
 > [!abstract]+ **Wandering Players**
@@ -1158,7 +1161,7 @@ The closet door doesn’t open into the guest suite closet. Instead, a player wh
 ## O8f. The Bloody Keep
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
 
-A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges into <span class="citation">K23. Servants’ Entrance (p. 59)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges into <span class="citation">K23. Servants’ Entrance (p. 59)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>Blood-red light streams in through a window on the east wall. A large, heavy table stands in the center of the floor, half-covered in a puddle of black ink from an overturned inkwell. A bloody dagger has been plunged into the pages of a thick book beside the inkwell, and a man’s corpse lies slumped against the leg of the table just beneath it.</p>
@@ -1175,7 +1178,7 @@ The splintered door leads into the Servants’ Rooms (see below). The staircase 
 
 This area includes <span class="citation">K24. Servants’ Quarters (p. 61)</span>, <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, and <span class="citation">K20. Heart of Sorrow (p. 59)</span>, but as they were on the day of Strahd’s death.
 #### Servants’ Quarters
-A player who passes through the splintered door emerges into <span class="citation">K24. Servants’ Quarters (p. 61)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+A player who passes through the splintered door emerges into <span class="citation">K24. Servants’ Quarters (p. 61)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>Crimson light from the windows illuminates a tidy room containing several pieces of simple furniture, including a writing desk, a dozen wooden chairs, and a pair of tables decorated with floral-pattern tablecloths. A narrow staircase with a wooden railing ascends along the north wall.</p>
@@ -1183,11 +1186,11 @@ A player who passes through the splintered door emerges into <span class="citati
 
 A player with a passive Wisdom (Perception) score of 10 or greater notices something trembling beneath the tablecloth of the far table. A player who pulls aside the tablecloth reveals Varushka, who is wide-eyed, pale, and obviously terrified. She doesn’t recognize the players, and whispers fearfully for them to “leave her alone" and “flee for their own lives." 
 
-Varushka will not willingly leave her hiding place beneath the table. However, if questioned, Varushka tells them that if they’re searching for “Captain Dilisnya," they’re too late—he just fled down the stairs and escaped outside into the castle courtyard. (Varushka is referring to Leo Dilisnya, the captain of Strahd’s guard. She’s bewildered by how he came to be in the servants’ upper quarters—given that she last saw him descending the stairs to the servants' hall—but hasn’t spared the time to think about it too closely, given that the whole world seems to have fallen into insanity.)
+Varushka will not willingly leave her hiding place beneath the table. However, if questioned, Varushka tells them that if they’re searching for “Captain Dilisnya," they’re too late—he just fled down the stairs and escaped outside into the castle courtyard. (Varushka is referring to [[History of Barovia#Arrival of the Mists|Leo Dilisnya]], the captain of Strahd’s guard. She’s bewildered by how he came to be in the servants’ upper quarters—given that she last saw him descending the stairs to the servants' hall—but hasn’t spared the time to think about it too closely, given that the whole world seems to have fallen into insanity.)
 
 Varushka is too terrified to share any information other than that “King Strahd" has gone mad, and is currently rampaging through the lower floors of the castle. “The skies have turned red," she sobs. “Are we all going to die?"
 #### Servants’ Upper Floor
-A player who ascends the stairs from the [[#Servants’ Quarters]] emerges into <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+A player who ascends the stairs from the [[#Servants’ Quarters]] emerges into <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>Neat rows of small, tidy cots line the left-hand side of this upstairs room. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two full-length mirrors hanging on the south wall. One of the mirrors hangs slightly askew.</p>
@@ -1195,7 +1198,7 @@ A player who ascends the stairs from the [[#Servants’ Quarters]] emerges into 
 
 The mirror conceals the secret door described in <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>. It can be pulled open to reveal a small, empty closet that contains a wooden ladder as described in <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>.
 #### North Tower
-A player who passes through the secret door emerges into <span class="citation">K20. Heart of Sorrow (p. 59)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+A player who passes through the secret door emerges into <span class="citation">K20. Heart of Sorrow (p. 59)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>A yawning, blood-red void surrounds the shattered remains of a once-mighty tower. Above you, shards of pulverized stone drift helplessly through the air, marking the silhouette where a spiral staircase might once have risen into the heights above.</p>
@@ -1207,7 +1210,7 @@ The lack of stairs makes further ascent in the ruined tower impossible. A player
 The second set of stairs below is as described in <span class="citation">K20a. Tower Hall Stair (p. 59)</span>, and forms a loop with the [[#Castle Cellar]] via <span class="citation">K71. Kingsmen Quarters (p. 79)</span>.
 ### Castle Cellar
 #### Servants’ Hall
-A player who descends the stairs from <span class="citation">K23. Servants' Entrance (p. 59)</span> emerges into <span class="citation">K62. Servants’ Hall (p. 76)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+A player who descends the stairs from <span class="citation">K23. Servants' Entrance (p. 59)</span> emerges into <span class="citation">K62. Servants’ Hall (p. 76)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>A final scream is cut abruptly silent as you descend the stone stairs. Three corpses clad in bloodied chain mail litter this long hall. The doors to the left and right stand closed, though the twin heavy double doors at the end of the hall have been thrown open. The upper torso of an additional corpse lies slumped at the base of a long, bloody smear along the right-side door, its severed legs discarded along the floor several feet away.</p>
@@ -1219,7 +1222,7 @@ The corridor beyond the left-side door leading to <span class="citation">K61. El
 * ***Kitchen.*** The kitchen is largely as described in <span class="citation">K65. Kitchen (p. 78)</span>, but with no odor of decay, no pot bubbling over the fire pit, and the fire pit unlit.
 * ***Butler’s Quarters.*** The butler’s quarters are largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>, but contains only a neat, primly made bed and a chest of drawers filled with clean and pressed tunics, slacks, and undergarments.
 #### Guards’ Meeting Room
-A player who passes through the double doors at the end of the servants’ hall emerges into <span class="citation">K67. Hall of Bones (p. 78)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+A player who passes through the double doors at the end of the servants’ hall emerges into <span class="citation">K67. Hall of Bones (p. 78)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>You emerge from the door into a scene of bloodstained carnage. Red pools cover the floor of this area, which is further littered by a half-dozen broken corpses. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Above the eastern doors is mounted the skull of a dragon.</p>
@@ -1236,7 +1239,7 @@ The voice is recognizable as Strahd’s, but more full of emotion and life.
 
 The corridor beyond the southern door leading to <span class="citation">K68. Guards’ Run (p. 79)</span> has been bricked up and is currently inaccessible.
 #### Kingsmen Hall & Quarters
-***Kingsmen Hall.*** A player who passes through the half-open door at the northern end of the guards’ meeting hall, or who enters via the kingsmen quarters (see below), emerges into <span class="citation">K70. Kingsmen Hall (p. 79)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+***Kingsmen Hall.*** A player who passes through the half-open door at the northern end of the guards’ meeting hall, or who enters via the kingsmen quarters (see below), emerges into <span class="citation">K70. Kingsmen Hall (p. 79)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken and bloody corpses lie scattered across the floor, many bearing crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.</p>
@@ -1265,7 +1268,7 @@ The players can attempt to lure Strahd away from the door to the chamberlain’s
 
 A player who then tells Strahd of Leo Dilisnya’s whereabouts and succeeds on a DC 20 Charisma (Persuasion) check can convince Strahd to allow them and their companions to live. Otherwise, Strahd attacks them on sight, pursuing them wherever they go in the castle. However, if the players retreat into [[#O8e. The Fifth Level]] and close the door, Strahd can’t follow them inside.
 
-***Kingsmen Quarters.*** A player who passes through the archway in the kingsmen hall or descends <span class="citation">K20a. Tower Hall Stair (p. 59)</span> from [[#North Tower]] emerges into <span class="citation">K71. Kingsmen Quarters (p. 79)</span>, as it was on the day of Strahd’s death over four centuries ago. Read:
+***Kingsmen Quarters.*** A player who passes through the archway in the kingsmen hall or descends <span class="citation">K20a. Tower Hall Stair (p. 59)</span> from [[#North Tower]] emerges into <span class="citation">K71. Kingsmen Quarters (p. 79)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are ten-foot-square alcoves cluttered with cots and fine rugs.</p>
@@ -1650,4 +1653,4 @@ As the carriage pulls away from the courtyard, the players can catch a final gli
 <p>As the keep shrinks behind you, the chains of the two gate towers shriek and groan, rusted machinery grinding as it slowly heaves the drawbridge back into the air. The carriage rounds a bend in the road—and the sound of the drawbridge slamming shut echoes through the mountains.
 </div>
 
-***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 3,500 XP. Award each player an additional 500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache.
+***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 3,500 XP. (This should bring the players to 7th level.) Award each player an additional 500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache. 
