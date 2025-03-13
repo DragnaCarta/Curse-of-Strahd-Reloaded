@@ -1,4 +1,4 @@
-# Patch 2.0.10.5 (March 5th, 2025)
+# Patch 2.0.10.5 (March 13th, 2025)
 * Amended various typos and errors in formatting
 * Added images for Anastrasya, Stella Wachter, and the Bodak Lair
 * Removed attunement from the Twilight Crest, Bracelet of Warding, and Mace of Life
@@ -9,6 +9,7 @@
 * Tidied Izek's schedule in [[Arc F - Lady Wachter's Wish]]
 * Clarified the timeline in [[Act III Summary]]
 * Updated the *Indomitable* feature across various statblocks 
+* Added *Hindered* into glossary
 # Patch 2.0.10.4 (February 13th, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Revised XP rewards to match milestone levels
