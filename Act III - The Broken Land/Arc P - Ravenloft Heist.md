@@ -833,7 +833,7 @@ Gertruda is surprised to see the players, and fearful that they’re “another 
 >
 > If caught in a lie and confronted, Gertruda will continue to deny concealing the truth unless the players threaten to abandon her in Ravenloft. If this occurs, she reveals that Strahd instructed her to tell those lies to anyone who came to rescue her as a way to “make the game more authentic." (Gertruda isn’t sure what Strahd meant by his reference to a “game.")
 >
-> Gertruda’s charm expires at dawn. If able, she then recounts to the players—with a haunted, horrified realization—that Strahd kept her charmed since she first arrived at the castle, and that he instructed her to ask Sasha to help her “escape" Castle Ravenloft, suggesting that he orchestrated the entire event to unknown ends.
+> Gertruda’s charm expires at dawn. If still with the players, she then recounts—with a haunted, horrified realization—that Strahd kept her charmed since she first arrived at the castle, and that he instructed her to ask Sasha to help her “escape" Castle Ravenloft, suggesting that he orchestrated the entire event to unknown ends.
 
 > [!abstract]+ **Doru’s Reunion**
 > If Doru accompanied the players to Castle Ravenloft, Gertruda greets him with disbelief, then tearful joy. As she embraces him, Doru breaks into tears, apologizing for awakening Strahd and indirectly causing her imprisonment. “It’s all my fault," he sobs, his body trembling. “I’m a monster, both inside and out. I don’t—I don’t deserve you."
