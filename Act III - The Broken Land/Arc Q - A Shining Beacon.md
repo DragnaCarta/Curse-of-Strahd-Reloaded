@@ -1148,7 +1148,7 @@ Continue with the following, modifying the text as necessary to reflect each non
 
 All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
 
-***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. This will bring the players to level 8.
+***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
 # Q7. Return to the Werewolf Den
 
 > [!abstract]+ **Fighting Kiril**

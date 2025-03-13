@@ -1537,7 +1537,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 <p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
 </div>
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP. This will bring the players to level 6.
+***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP. (This should bring the players to 6th level.)
 
 > [!item]+ **Keeper's Whistle**
 > The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
