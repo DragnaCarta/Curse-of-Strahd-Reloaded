@@ -1546,6 +1546,8 @@ If a player enters this chamber, read:
 <p>The opening leads to a small stone cavern no more than twelve feet across and approximately ten feet high. Its walls, sheathed in ice, form a natural mirror, reflecting your blurry, fractured silhouette across every angle as you pass inside. Every sound here seems amplified, bouncing off the frozen surfaces with an eerie, echoing clarity.</p>
 <p>An enormous, lone icicle hangs from the center of the ceiling, easily three feet tall and ten inches wide at the base. A deep, pulsating red light flickers from something frozen inside of it.</p>
 </div>
+![[Frozen-Vault.png]]
+<span class="credit">"The Frozen Vault" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 The icicle, which ends seven feet above the ground and falls easily if melted or broken, contains a frozen *ironblood pendant* (see below), whose iron chain dangles from a natural stone hook on the ceiling. The pendant falls if the icicle falls, or becomes exposed if the icicle is melted. 
 
@@ -1594,12 +1596,15 @@ When the pendant first becomes visible, read:
 >
 > The amber shard embedded in the pendant is the same one the Dark Powers bestowed upon Strahd on the day of Sergei’s wedding, thereby allowing him to accept the dark gift of the Vampyr before his brother could be wed. (Due to his prior encounter with the Vampyr’s sarcophagus under Patrina Velikovna’s guidance, Strahd didn’t need to return to the Amber Temple in person in order to accept the Vampyr’s dark gift by means of the amber shard.)
 ### The Cave of Daggers
+
 The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry cavern, then bends west again, soon widening into a tunnel. Read:
 
 <div class="description">
 <p>The rocky, frost-coated crack broadens into a long, rounded tunnel. Rippled, wave-like ice sheets cover the walls, forming a near-perfect circular passage through the mountain. The ice glimmers faintly, shimmering as if filled with thousands of distant stars.</p>
 <p>The tunnel continues long into the distance ahead, soon vanishing into darkness.</p>
 </div>
+![[The-Cave-of-Daggers.png]]
+<span class="credit">"The Cave of Daggers" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 If the players follow the tunnel, read:
 
