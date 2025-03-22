@@ -574,6 +574,9 @@ This area is largely as described in <span class="citation">K30. King’s Accoun
 > [!lore]+ **Lief Lipsiege**
 > When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
 
+![[Leif.png]]
+<span class="credit">"Lief Lipsiege" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
 
 If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of <span class="citation">K41. Treasury (p. 67)</span>, rather than that of the *Holy Symbol of Ravenkind*. Read:
@@ -1931,6 +1934,9 @@ At the end of each turn the character continues to hold the staff, they can make
 | Chest | The staff’s energy recedes to the player’s shoulder. | The player takes 8d8 force damage.|
 
 The player can release the staff at any time. If they release the staff while the arcane surge is active, the staff vanishes, and the runes cannot be activated again for one year.
+
+![[Khazan-Staff.png]]
+<span class="credit">"Khazan's Staff" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!item]+ **Khazan's Staff**
 > *Staff, weapon, rare (requires attunement by a sorcerer, warlock, or wizard)*
