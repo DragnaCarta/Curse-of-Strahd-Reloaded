@@ -73,12 +73,15 @@ Upon encountering the party, Arrigal—recognizable, though wearing a heavy cloa
 Without acknowledging their familiarity, Arrigal then snarls at the player to “watch where they’re going" before swiftly departing. Determined to avoid Strahd’s wrath for his betrayal, Arrigal makes every effort to dismiss the players if they attempt to follow him or otherwise interact with him further.
 
 A player who checks their pocket finds a small, scribbled note. (A player who fails to notice Arrigal’s sleight of hand automatically finds the note the next time they take a short or long rest.) The note reads as follows:
-
 <div class="description">
 <p>Spy in castle. Seeks a meeting to discuss an opportunity. Find the victim amidst the court.</p>
 <p>Burn this.</p>
 <p>—A</p>
 </div>
+
+![[Spy Note.png]]
+<span class="credit">"Arrigal's Note" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 
 If Ezmerelda learns of the note, she excitedly advises the players to use the dinner at Castle Ravenloft as an opportunity to subtly squirrel out the traitor’s identity—and coordinate a meeting if possible.
 
