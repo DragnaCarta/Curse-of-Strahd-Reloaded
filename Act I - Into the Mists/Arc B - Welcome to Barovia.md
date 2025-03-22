@@ -446,6 +446,9 @@ If any of the players treated him kindly at the Blood of the Vine Tavern or Bild
 > The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 15, 10 hit points, and immunity to piercing, psychic, and poison damage. 
 >
 > Wooden platforms scattered across the western side of the barricade allow defenders to peer over the edge and attack approaching enemies. While behind the barricade, defenders have full cover, or three-quarters cover while standing on a platform.
+
+![[Eastern-Barricades.jpg]]
+<span class="credit">"The Eastern Barricade" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/ef507db2df">here!</a></span>
 ### The Siege
 Dusk falls soon after the players complete their preparations. Read:
 
@@ -951,7 +954,7 @@ If the players agree to fulfill Doru’s request by exposing him to fresh blood,
 <p>Doru’s muscles tense and he squeezes his eyes shut. A few moments later, his nostrils flare, and a thin line of saliva begins to run down his lips. He whimpers, his clawed fingers flexing and twitching.</p>
 <p>"When the shadows come," he whispers, “I will not yield. Darkness is the destroyer, and temptation its weapon. I will face the night and its horrors and await the horizon. For in the light of the Morninglord's love, only light can remain."</p>
 <p>Doru's voice shakes, his emaciated body trembling. One fist is clenched at his side, the other squeezing the bloodstained sunburst that lies across his neck.</p>
-<p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. Gertruda. Gertruda. ***Gertruda***—"</p>
+<p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. Gertruda. Gertruda. <b><em>Gertruda</em></b>  —"</p>
 </div>
 
 If Doru succumbs to the bloodlust (see **Doru Will Remember That** above), he pauses, then attacks. Roll initiative.

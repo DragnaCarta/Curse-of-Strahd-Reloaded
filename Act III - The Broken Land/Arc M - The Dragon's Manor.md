@@ -1016,7 +1016,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
 <p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
@@ -1077,7 +1077,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Indomitable.</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
