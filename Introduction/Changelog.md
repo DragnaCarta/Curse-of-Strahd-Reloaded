@@ -1,4 +1,6 @@
-# Patch 2.0.10.5 (March 13th, 2025)
+# Update 2.0.11 (March 22, 2025)
+* Added [[Arc S - A Sword of Sunlight]]
+# Patch 2.0.10.5 (March 22nd, 2025)
 * Amended various typos and errors in formatting
 * Added images for Anastrasya, Stella Wachter, and the Bodak Lair
 * Removed attunement from the Twilight Crest, Bracelet of Warding, and Mace of Life
