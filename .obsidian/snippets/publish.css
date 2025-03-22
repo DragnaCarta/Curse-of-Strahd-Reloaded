@@ -1,0 +1,501 @@
+/* =========================================
+   VARIABLES
+   ========================================= */
+
+   @import url('https://fonts.cdnfonts.com/css/chomsky');
+
+   .theme-light {
+    --highlight-primary: #020046;;
+    --highlight-secondary: #250030;
+    --highlight-friendly: #200036;
+    --highlight-neutral: #292929;
+    --highlight-warning: #914300;
+    --highlight-cold: #002a35;
+    --highlight-bright: #0a3b00;
+    --highlight-interesting: #270021;
+    --highlight-design: #360000; 
+    --custom-background-primary: #a4a1ff2a;;
+    --custom-background-friendly: #d8a2ff44;
+    --custom-background-neutral: #ececec3d;
+    --custom-background-warning: #ff9a4749;
+    --custom-background-cold: #77e4ff48;
+    --custom-background-bright: #afff9f42;
+    --custom-background-interesting: #ff97ec34;
+    --custom-background-design: #ff62622d;
+    --link-color: #337ABE !important;
+  }
+
+  .theme-light .image-dark,
+  .theme-dark .image-light {
+    display: none;
+  }
+
+  .theme-dark {
+     --highlight-primary: #FFC107;
+     --highlight-secondary: #d697e9;
+     --highlight-friendly: #d79eff;
+     --highlight-neutral: #d8d8d8;
+     --highlight-warning: #ff8725;
+     --highlight-cold: #5fdfff;
+     --highlight-bright: #68ff4a;
+     --highlight-interesting: #ff83ea;
+     --highlight-design: #ff6262; 
+     --highlight-combat: #ff6262; 
+     --custom-background-primary: #362a004d;
+     --custom-background-friendly: #31065034;
+     --custom-background-neutral: #292929;
+     --custom-background-warning: #642d0046;
+     --custom-background-cold: #00354244;
+     --custom-background-bright: #0d4e0042;
+     --custom-background-interesting: #33002a34;
+     --custom-background-design: #3600003a;
+     --custom-background-combat: #3600003a;
+  }
+
+
+  /* =========================================
+     GLOBAL STYLES & UTILITY CLASSES
+     ========================================= */
+  
+  
+  /* =========================================
+     TYPOGRAPHY
+     ========================================= */
+  
+  .markdown-preview-view .internal-link {
+        font-weight: bold !important;
+  }
+  
+  .site-body-left-column-site-name,
+  .page-header,
+  .markdown-preview-view h1,
+  .markdown-preview-view h2,
+  .markdown-preview-view h3,
+  .markdown-preview-view h4,
+  .markdown-preview-view h5 {
+    color: var(--highlight-primary);
+  }
+
+  .page-header {
+    margin-bottom: 8px !important;
+  }
+  
+  .markdown-preview-view strong {
+    color: var(--highlight-primary);
+  }
+  
+  .citation,
+  .citation em {
+    color: var(--highlight-secondary);
+    font-weight: bold;
+  }
+
+  .credit {
+    color: var(--highlight-secondary);
+    display: block;
+    margin: auto;
+    font-weight: bold;
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .published-container .markdown-rendered h1,
+  .published-container .markdown-rendered h2 {
+    padding-bottom: 0 !important;
+  }
+  
+  h1.publish-article-heading {
+    font-size: 2.5em;
+      margin-bottom: 0 !important;
+      margin-top: 40px !important;
+      border-bottom: 0 !important;
+  }
+  
+  h2.publish-article-heading {
+    font-size: 1.75em;
+      margin-bottom: -10px !important;
+      margin-top: 25px !important;
+      border-bottom: 1px solid var(--highlight-primary) !important;
+  }
+  
+  h3.publish-article-heading {
+    font-size: 1.4em;
+    margin-top: 15px !important;
+    margin-bottom: -15px !important;
+  }
+
+  .sidebar h4 {
+    font-size: 1.2em !important;
+    margin-top: 15px !important;
+    margin-bottom: 5px !important;
+  }
+
+  strong {
+    color: var(--highlight-primary);
+  }
+
+  .subtitle {
+    margin-bottom: 10px;
+  }
+
+  h4 + p {
+    margin-top: 0 !important;
+  }
+
+  .mod-header + div > p {
+    margin-top: 0;
+  }
+  
+  /* =========================================
+     GENERIC COMPONENTS
+     ========================================= */
+  
+  table {
+    margin-top: 15px !important;
+    width: 100%;
+  }
+  
+  /* Remove vertical borders from table cells and headers */
+  table td, 
+  table th {
+    border-left: none !important;
+    border-right: none !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+  }
+  
+  table th {
+    background-color: #2C2C2C !important;
+    color: #FFFFFF;
+  }
+  
+  details {
+    border: 4px solid #ccc;
+    margin: 0.5em 0;
+    background-color: #cccccc17;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding: 15px;
+  }
+  
+  details hr {
+    margin-top: 0.2em !important;      /* Remove space above */
+    margin-bottom: 0.5em !important; /* Add space below */
+    background-color: var(--statblock-bold-night)   !important;
+    border: none;
+    height: 3px;
+    border-radius: 5px;
+  }
+
+  .mod-header p:first-of-type {
+    margin-top: 5px !important;
+  }
+  
+  details p:first-of-type {
+      margin-top: 5px !important;
+      padding-top: 0;
+    }
+  
+    details p:last-of-type {
+      margin-bottom: 0px;
+  }
+
+  summary {
+    cursor: pointer;
+    list-style: none;
+    text-decoration: none !important;
+  }
+
+  details > summary h3::before {
+    content: "+";
+    font-weight: 800 !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+  }
+
+  details[open] > summary h3::before {
+    content: "–" !important;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+  }
+
+details > summary h3 {
+  border-bottom: 0 !important;
+}
+
+details[open] > summary h3 {
+  border-bottom: 1px solid #FFC107 !important;
+}
+
+
+
+  /* =========================================
+     SPECIFIC COMPONENTS
+     ========================================= */
+  .sidebar, .description, .handout, .item, .statblock, .details, .flowchart li {
+    border: 4px solid var(--highlight-primary);
+    border-radius: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: var(--custom-background-primary) !important;
+  }
+  
+  .sidebar,
+  .item {
+    padding-top: 20px;
+  }
+  
+  .sidebar strong,
+  .description strong,
+  .handout strong,
+  .item strong,
+  .statblock strong,
+  .details strong {
+    color: var(--highlight-primary);
+  }
+  
+  .sidebar h3,
+  .item h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: var(--highlight-primary) !important;
+    margin-top: 0px !important;
+    border-bottom: 2px solid var(--highlight-primary);
+  }
+  
+  .sidebar p:first-of-type {
+    margin-top: 5px !important;
+    padding-top: 0;
+  }
+  
+.statblock {
+  background-color: var(--custom-background-primary);
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 0px;
+  padding-bottom: 15px;
+  font-size: 0.8em;
+  columns: 2;
+  padding: 15px;
+  margin-left: 0;
+  margin-right: 0;
+  }
+  
+  .statblock hr {
+  margin-top: 0.5em !important;      /* Remove space above */
+  margin-bottom: 0.55em !important; /* Add space below */
+  background-color: var(--highlight-primary)   !important;
+  border: none;
+  height: 3px;
+  border-radius: 5px;
+  }
+  
+  .statblock h2, 
+  .statblock h3 {
+    color: var(--highlight-primary);
+  }
+  
+  .statblock h2 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    font-size: 2em;
+    border-bottom: 0 !important;
+  }
+
+  .statblock h3 {
+    border-bottom: 2px solid var(--highlight-primary) !important;
+    margin-top: 7px !important;
+    font-size: 1.5em;
+  }
+  
+  .statblock p {
+  margin-bottom: 5px !important;
+  margin-top: 0;
+  }
+  
+.statblock .ability-table {
+  max-width: 100% !important;
+  table-layout: fixed !important;
+  width: 100% !important;
+  background-color: transparent !important;
+}
+  
+  .statblock .ability-table th,
+  .statblock .ability-table td {
+  text-align: center;
+  font-size: 1em;
+  background-color: transparent !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  }
+
+  .statblock .ability-table th {
+    padding: 0 !important;
+  }
+
+  .statblock .ability-table td {
+    padding-top: 2px !important;
+    padding-bottom: 4px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .callout-content {
+    font-size: 1em;
+  }
+
+  .callout-content p:first-child {
+    margin-top: 5px;
+  }
+
+  .callout-content p:last-child {
+    margin-bottom: 0;
+  }
+
+  .callout[data-callout="info"] {
+    --highlight: var(--highlight-neutral);
+    --background: var(--custom-background-neutral);
+  }
+
+  .callout[data-callout="tip"] {
+    --highlight: var(--highlight-friendly);
+    --background: var(--custom-background-friendly);
+  }
+
+  .callout[data-callout="profile"] {
+    --callout-color: 0, 0, 0; 
+    --callout-icon: lucide-user;
+    --highlight: var(--highlight-friendly);
+    --background: var(--custom-background-friendly);
+  }
+
+  .callout[data-callout="combat"] {
+    --callout-color: 0, 0, 0; 
+    --callout-icon: lucide-swords;
+    --highlight: var(--highlight-combat);
+    --background: var(--custom-background-combat);
+  }
+
+  .callout[data-callout="warning"] {
+    --highlight: var(--highlight-warning);
+    --background: var(--custom-background-warning);
+  }
+
+  .callout[data-callout="abstract"] {
+    --highlight: var(--highlight-bright);
+    --background: var(--custom-background-bright);
+  }
+
+  .callout[data-callout="lore"] {
+    --callout-color: 0, 0, 0; 
+    --callout-icon: lucide-book;
+    --highlight: var(--highlight-cold);
+    --background: var(--custom-background-cold);
+  }
+
+  .callout[data-callout="item"] {
+    --callout-color: 0, 0, 0; 
+    --callout-icon: lucide-gem;
+    --highlight: var(--highlight-interesting);
+    --background: var(--custom-background-interesting);
+  }
+
+  .callout[data-callout="design"] {
+    --callout-color: 0, 0, 0; 
+    --callout-icon: lucide-wrench;
+    --highlight: var(--highlight-design);
+    --background: var(--custom-background-design);
+  }
+
+  .callout {
+    border: 4px solid var(--highlight) !important;
+    border-radius: 15px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    background-color: var(--background) !important;
+    mix-blend-mode: normal !important;
+    border-radius: 15px;
+  }
+
+  .callout .callout-content em,
+  .callout .callout-title-inner strong,
+  .callout .callout-content strong,
+  .callout .callout-content hr,
+  .callout .callout-icon svg,
+  .callout .callout-fold svg {
+    color: var(--highlight) !important;
+    stroke: var(--highlight) !important;
+  }
+
+  .flowchart {
+    display: flex;
+    flex-direction: column; /* makes the layout vertical */
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.flowchart li {
+    margin-bottom: 20px; /* adds space between each box */
+    position: relative; /* needed for positioning the pseudo-elements */
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;    
+}
+
+/* Adding connecting lines */
+.flowchart li::after {
+    content: '';
+    position: absolute;
+    left: 50%; /* aligns the line in the center of the li */
+    bottom: -24px; /* positions the line at the bottom of the li */
+    width: 4px; /* width of the line (make it thicker for vertical lines) */
+    height: 20px; /* length of the line (adjust as needed) */
+    background-color: var(--highlight-primary);
+}
+
+/* Remove line after the last item */
+.flowchart li:last-child::after {
+    display: none;
+}
+
+.break {
+  break-before: column;
+}
+
+  
+  /* =========================================
+     LIGHT & DARK MODE
+     ========================================= */
+  
+  
+  /* =========================================
+     INTERACTION STATES
+     ========================================= */
+  
+  summary:hover {
+    color: #0077cc;
+  }
+  
+  /* =========================================
+     RESPONSIVE DESIGN
+     ========================================= */
+  @media (max-width: 1350px) {
+    .statblock {
+      columns: 1;
+      font-size: 0.9em;
+    }
+
+    .statblock .ability-table th,
+    .statblock .ability-table td {
+      font-size: 0.8em;
+    }
+
+    .sidebar, .description, .handout, .item, .statblock, .details {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+  }
