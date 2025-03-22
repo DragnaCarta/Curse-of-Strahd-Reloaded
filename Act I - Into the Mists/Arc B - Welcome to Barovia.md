@@ -625,8 +625,7 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
 - 3/day: phantom steed<br>
 - 1/day: nondetection</p>
@@ -690,8 +689,7 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.

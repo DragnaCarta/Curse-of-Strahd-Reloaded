@@ -179,8 +179,7 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Izek would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
@@ -237,8 +236,7 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (He must spend 1 extra foot of movement for every foot he moves using his speed, attack rolls against him have advantage, and he has disadvantage on Dexterity saving throws.)
+<p><strong><em>Indomitable.</em></strong> If Izek would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
 <p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>

@@ -23,7 +23,7 @@ The players begin this act at 2nd level and should end it at 4th level, gaining 
 * [[Act I - Into the Mists/Arc C - Into the Valley]]: The players receive the Tarokka reading on Neyavr 1, arrive in Vallaki on Neyavr 2, and encounter Baron Vallakovich the morning of Neyavr 3.
 
 > [!info]+ **The Barovian Calendar** 
-> The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar has twelve 28-day months, which are named as follows: [^1]
+> The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar has twelve 28-day months, which are named as follows: <sup>1</sup>
 > 
 > 
 | Month | Barovian Name | Gregorian Name |
@@ -43,4 +43,4 @@ The players begin this act at 2nd level and should end it at 4th level, gaining 
 
 
 
-[^1] Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).
+<sup>1</sup> Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).
