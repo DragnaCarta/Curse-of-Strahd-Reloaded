@@ -1875,7 +1875,7 @@ Once Patrina’s spirit is defeated, a player who inspects the *Sunsword* by cas
 Without a ritual to bind a soul to the *Sunsword*, the players must find and convince a spirit to inhabit it. Once infused with a soul, the *Sunsword* is largely as described in <span class="citation">Sunsword (p. 223)</span>, with the following changes:
 
 * It has a **resonance level**, as described in **Resonance Level** below.
-* Its wielder gains a bonus to attack and damage rolls equal to its resonance level.
+* Its wielder gains a bonus to attack and damage rolls equal to its resonance level. (*This replaces its original +2 bonus.*)
 * It emits bright light in a minimum radius equal to 5 feet times its resonance level, and dim light for an additional number of feet equal to 5 feet times its resonance level. (For example, if the blade has a resonance level of 3, it emits bright light in a 15-foot radius and dim light for an additional 15 feet.)
 * It can emit bright light out to a maximum of 10 feet times its resonance level, and dim light for an additional number of feet equal to 10 feet times its resonance level. (For example, if the blade has a resonance level of 3, it can emit bright light out to a maximum of 30 feet, and dim light for an additional 30 feet.)
 * Depending on the nature of the spirit inhabiting it, it gains one of the following additional effects (your choice). (For example, St. Markovia’s spirit might allow the wielder to use the *shield of faith* effect, while an unsuitable spirit might grant no effect.) Once used, this feature can’t be used again until the wielder completes a long rest.
