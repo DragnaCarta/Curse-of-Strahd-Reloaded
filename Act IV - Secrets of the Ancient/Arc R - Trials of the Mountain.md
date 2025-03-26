@@ -6,7 +6,7 @@ The players’ sole respite arrives in the form of Soldav, the hidden refuge of 
 
 Should the players survive the final leg of their journey, they emerge before the great facade of the Amber Temple. Each night as they rest, however, Strahd pays them a personal visit, hoping to drain a victim’s blood and bring them closer to the abyss of vampirism. Can the players stop Strahd’s dark plans—or will one of them find themselves eternally chained to the grave?
 # R1. Recruiting Kasimir
-Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana|#E2. The Vistani Camp|Arc E - The Missing Vistana]].
+Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
 > [!info]+ **Kasimir’s Spellbook**
 > Kasimir’s spellbook largely contains the spells described in <span class="citation">N9a. Kasimir’s Hovel (p. 121)</span>. However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
@@ -1413,7 +1413,7 @@ The bones on the floor are the remnants of Cassius’s meals. They crunch loudly
 The tunnel to the left leads to [[#The Western Nest]]. The chimney, which is two-and-a-half feet in diameter, begins ten feet above the floor before rising sixty feet through the stone to [[#R4k. The Ice Caves]]. 
 
 > [!info]+ **Ascending the Chimney**
-The walls beside the chimney, smoothed from years of erosion, are bereft of natural handholds. To climb the walls to the chimney’s entrance, a character must succeed on a DC 25 Strength (Athletics) check. 
+> The walls beside the chimney, smoothed from years of erosion, are bereft of natural handholds. To climb the walls to the chimney’s entrance, a character must succeed on a DC 25 Strength (Athletics) check.
 >
 > Once within the chimney, a character attempting to ascend or descend the chimney shaft without the aid of magic or equipment must make a DC 10 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the shaft, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the shaft.
 
