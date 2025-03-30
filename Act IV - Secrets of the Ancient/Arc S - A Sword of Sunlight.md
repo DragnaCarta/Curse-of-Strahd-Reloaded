@@ -490,7 +490,7 @@ Dorina’s **ghost** still haunts this room from the Ethereal Plane, and has the
 Once she emerges, Dorina immediately attempts to use her ***possession*** to possess a member of the party, preferring to target a player that has already noticed her. If her attempt fails, she sullenly drifts back into the floor, her teeth bared in a defiant snarl.
 
 > [!abstract]+ **Dorina’s Unfinished Business**
-If Dorina successfully possesses a character, she pretends to be that character but slips away at the first opportunity. If she does so successfully, or if confronted, she attempts to reach Khirad’s sarcophagus in <span class="citation">X33c. Ghastly Vault (p. 192)</span>. 
+> If Dorina successfully possesses a character, she pretends to be that character but slips away at the first opportunity. If she does so successfully, or if confronted, she attempts to reach Khirad’s sarcophagus in <span class="citation">X33c. Ghastly Vault (p. 192)</span>. 
 >
 > Unless prevented from doing so, Dorina (in the player’s body) then accepts the *dark gift of Khirad* and asks the vestige a single question: “How can Barovia be escaped?" A possessed player hears Khirad’s whispered reply: *When the stars align, and the veil grows thin, the door you seek shall be laid open.*
 >
@@ -518,7 +518,7 @@ This area is largely as described in <span class="citation">X31. Central Catacom
 </div>
 
 > [!info]+ **The Slaad**
-On the night before the players’ arrival at the Amber Temple, a **death slaad** named Nardag came upon a cloud of mist drifting through the plane of Limbo. Intrigued, and sensing the evil of the Dark Powers through the mist, the death slaad eagerly leapt into the mist, whereupon it was spirited away to the Amber Temple in Barovia, where the boundary between worlds was weakest.
+> On the night before the players’ arrival at the Amber Temple, a **death slaad** named Nardag came upon a cloud of mist drifting through the plane of Limbo. Intrigued, and sensing the evil of the Dark Powers through the mist, the death slaad eagerly leapt into the mist, whereupon it was spirited away to the Amber Temple in Barovia, where the boundary between worlds was weakest.
 >
 > After initially appearing in <span class="citation">X8. Upper East Hall (p. 185)</span>, Nardag sensed Neferon’s presence and immediately attacked. Ultimately, after fleeing Nardag’s attack, Neferon lured the slaad into the catacombs and sealed it there.
 >

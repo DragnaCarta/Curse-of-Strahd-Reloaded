@@ -1262,8 +1262,7 @@ This area is largely as described in <span class="citation">K67. Hall of Bones (
 
 For the next 1 minute, an additional **skeleton** crawls from each non-destroyed bone mound at initiative count 0 of each round. Each bone mound has AC 15, 10 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to bludgeoning damage.
 
-> [!lore]+ The Hall of Bones
-> 
+> [!lore]+ **The Hall of Bones**
 > Over a century ago, Volenta transformed the mess hall into an elaborate ossuary as an art piece signifying her devotion to Strahd.
 
 > [!abstract]+ **Storing the Skull**
