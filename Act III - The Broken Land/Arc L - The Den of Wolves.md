@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 6th-level characters.</div>
+<div class="subtitle"><em>An adventure for five 6th-level characters.</em></div>
 
 In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
 

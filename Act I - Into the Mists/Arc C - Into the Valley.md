@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 3rd-level characters.</div>
+<div class="subtitle"><em>An adventure for five 3rd-level characters.</em></div>
 
 In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
 

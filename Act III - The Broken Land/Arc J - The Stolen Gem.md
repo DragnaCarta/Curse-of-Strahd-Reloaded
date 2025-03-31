@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 5th-level characters.</div>
+<div class="subtitle"><em>An adventure for five 5th-level characters.</em></div>
 
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
 

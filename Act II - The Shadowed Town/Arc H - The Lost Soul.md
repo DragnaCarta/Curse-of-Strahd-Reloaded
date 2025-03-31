@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 5th-level characters.</div>
+<div class="subtitle"><em>An adventure for five 5th-level characters.</em></div>
 
 In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
 

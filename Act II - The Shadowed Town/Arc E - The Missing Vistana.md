@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 4th-level characters.</div>
+<div class="subtitle"><em>An adventure for five 4th-level characters.</em></div>
 
 In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster Rictavio, and the Baron's brutish enforcer, Izek Strazni.
 

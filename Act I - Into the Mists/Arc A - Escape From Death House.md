@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 2nd-level characters.</div>
+<div class="subtitle"><em>An adventure for five 2nd-level characters.</em></div>
 
 > [!tip]+ **A Taste of Horror**
 > The following pages contain a guide to the first two-thirds of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 

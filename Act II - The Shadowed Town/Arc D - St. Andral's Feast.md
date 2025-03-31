@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 4th-level characters.</div>
+<div class="subtitle"><em>An adventure for five 4th-level characters.</em></div>
 
 > [!info]+ **The New Arc D**
 > The prior Arc D, [[Arc D - The Tome of Strahd]], has been deprecated and merged with [[Arc H - The Lost Soul]]. This arc, formerly Arc E, has been accordingly re-lettered to accommodate its removal.

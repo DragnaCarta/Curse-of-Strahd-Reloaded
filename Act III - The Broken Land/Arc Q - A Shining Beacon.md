@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 7th-level characters.</div>
+<div class="subtitle"><em>An adventure for five 7th-level characters.</em></div>
 
 In this arc, upon returning from Castle Ravenloft in [[Arc P - Ravenloft Heist]], the players learn that the Abbot of the Abbey of St. Markovia plans to seize Baroness Anna Krezkova’s heart before nightfall. Meanwhile, the mutated werewolf Kiril Stoyanovich hunts the players down, even as Commander Vladimir Horngaard gathers his revenant knights to execute a warrant for their deaths. Can the players redeem the Abbot, overthrow Kiril, and light the beacon of Argynvostholt—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
 # Q1. Flight From Ravenloft

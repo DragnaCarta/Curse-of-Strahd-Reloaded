@@ -1,4 +1,4 @@
-<div class="subtitle">An adventure for five 3rd-level characters.</div>
+<div class="subtitle"><em>An adventure for five 3rd-level characters.</em></div>
 
 > [!warning]+ **Recent Update**
 > This arc was substantially revised on July 19, 2024. To access the deprecated version of this arc, visit [[Deprecated Material/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] in the Deprecated Materials appendix.
