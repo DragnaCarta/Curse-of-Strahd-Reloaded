@@ -7,7 +7,7 @@
     </ol>
 
 # Act I: Into the Mists
-_For 2nd to 3rd-level characters._
+<div class="subtitle">For 2nd to 3rd-level characters.</div>
 
 In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
 
@@ -31,7 +31,7 @@ Upon their arrival in Vallaki, the players can find shelter at the Blue Water In
 |   3   | C   | The players escort Ireena to Vallaki                               | 250   |
 
 # Act II: The Shadowed Town
-_For characters of 4th level and higher._
+<div class="subtitle">For characters of 4th level and higher.</div>
 
 In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has fallen to tension and conflict in the wake of Strahd's awakening.
 
@@ -55,7 +55,7 @@ Act II ends on the morning after the players' first full moon in Barovia, which 
 |   5   | H     | The players obtain the *Tome of Strahd*                  |       |
 
 # Act III: The Broken Land
-_For characters of 5th level and higher._
+<div class="subtitle">For characters of 5th level and higher.</div>
 
 In this act, the players receive a plea from Urwin Martikov to investigate the Wizard of Wines winery—and an invitation from Strahd to dine at Castle Ravenloft.
 
@@ -95,7 +95,7 @@ Act III ends when the players recruit the dusk elf Kasimir to journey to the Amb
 |       7        | Q   | The players light Argynvost's beacon                                                         | 3,000 |
 
 # Act IV: Secrets of the Ancient
-_For characters of 8th level and higher._
+<div class="subtitle">For characters of 8th level and higher.</div>
 
 Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - Trials of the Mountain]], seeking to test their ambition, cunning, power, and capacity for cruelty.
 
@@ -109,7 +109,7 @@ When the players have recovered the broken hilt of the *Sunsword*, they learn th
 
 In [[Arc V - The Ladies of the Fanes]], the players must use the three enchanted gems of the Wizard of Wines winery and three ancient artifacts retrieved from the Gulthias Tree of Yester Hill to reconsecrate the three Fanes, even as Strahd musters his forces to defeat them. Act IV ends when the players reconsecrate all three Fanes.
 # Act V: The Curse of Strahd
-_For characters of 9th level and higher._
+<div class="subtitle">For characters of 9th level and higher.</div>
 
 In this act, soon after the last Fane is restored, Strahd's masterstroke unfolds. By releasing the stored energy bound within the Heart of Sorrow, Strahd plunges Barovia into an eternal night—and turns the valley itself into desecrated ground. Meanwhile, the Whispering Wall—resonating with the energies of the Heart of Sorrow—relocates to the surface of Lake Zarovich, where its deadly tendrils threaten to extinguish all life in Vallaki in [[Arc W - Forgotten Dreams]].
 
