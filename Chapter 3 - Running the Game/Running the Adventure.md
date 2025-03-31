@@ -60,7 +60,7 @@ The contents of the Tome of Strahd are now as described in [[Arc H - The Lost So
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
 > [!item]+ **Holy Symbol of Ravenkind**
-> _Wondrous item, legendary (requires attunement by a creature of good alignment)_
+> <div class="subtitle"><em>Wondrous item, legendary (requires attunement by a creature of good alignment)</em></div>
 >
 > The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
 >
