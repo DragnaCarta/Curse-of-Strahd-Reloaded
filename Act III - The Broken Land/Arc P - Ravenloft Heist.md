@@ -1,4 +1,4 @@
-*An adventure for five 7th-level characters.*
+<div class="subtitle">An adventure for five 7th-level characters.</div>
 
 In this arc, while Strahd is away from the keep, the players must infiltrate Castle Ravenloft to recover several prisoners and precious objects, including the **werewolf** Emil Toranescu, Doru’s betrothed Gertruda, the skull of Argynvost, the *Icon of Dawn's Grace*, and the long-lost *spear of the Huntress*. To do so, they must bypass the castle guards, navigate Ravenloft’s twisting corridors, and defeat Strahd’s consorts, servants, and other minions.
 
@@ -253,9 +253,9 @@ This area is largely as described in <span class="citation">K8. Great Entry (p. 
 
 > [!combat]+ **Balancing the Entryway** 
 > This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of gargoyles to three. 
-> * **Four Players**. Reduce the number of gargoyles to three. 
-> * **Six Players**. Increase the number of gargoyles to five.
+> ***Three Players***. Reduce the number of gargoyles to three. 
+> ***Four Players***. Reduce the number of gargoyles to three. 
+> ***Six Players***. Increase the number of gargoyles to five.
 
 ***The First Visit.*** The first time the players enter this area, a *glyph of warding* hidden among the dust on the ceiling activates, casting a *major image* spell originating from the organ in the <span class="citation">K10. Dining Hall (p. 56)</span>. (The *major image* is the source of the “sad and majestic organ tones" described in <span class="citation">K8. Great Entry (p. 55)</span>.)
 
@@ -280,9 +280,9 @@ If no player rises to meet the bait, Ludmilla sneers at the players for believin
 
 > [!combat]+ **Balancing the Witch** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points per phase (for a total of 24% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> * **Three Players**. Reduce Ludmilla’s hit points to 58 in each phase, the damage of her Freezing Ray to 1d6 cold damage per ray, and the damage of her **Mage’s Reprisal** to 2d4 damage. In her second phase, remove the Necrotic damage from her **Claws** and **Mist Shards**. 
-> * **Four Players**. Reduce Ludmilla’s hit points to 70 in each phase and her **Freezing Ray** attack to only two rays. In her second phase, remove the Necrotic damage from her **Claws** and reduce her **Mist Shards'** damage to 1d4 + 3 slashing damage and 1d4 necrotic damage. 
-> * **Six Players**. Increase Ludmilla’s hit points to 94 in each phase and the number of rays to five (reduce the damage of each ray to 2d4 cold damage). In her second phase, increase her **Claws** and **Mist Shards**’ necrotic damage to 1d8.
+> ***Three Players***. Reduce Ludmilla’s hit points to 58 in each phase, the damage of her Freezing Ray to 1d6 cold damage per ray, and the damage of her **Mage’s Reprisal** to 2d4 damage. In her second phase, remove the Necrotic damage from her **Claws** and **Mist Shards**. 
+> ***Four Players***. Reduce Ludmilla’s hit points to 70 in each phase and her **Freezing Ray** attack to only two rays. In her second phase, remove the Necrotic damage from her **Claws** and reduce her **Mist Shards'** damage to 1d4 + 3 slashing damage and 1d4 necrotic damage. 
+> ***Six Players***. Increase Ludmilla’s hit points to 94 in each phase and the number of rays to five (reduce the damage of each ray to 2d4 cold damage). In her second phase, increase her **Claws** and **Mist Shards**’ necrotic damage to 1d8.
 
 In either case, on initiative count 20 of the first round of combat, the four **gargoyles** begin to stir, rolling initiative and joining the fray on their turns. Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual_, but increase each gargoyle’s hit points to 45 instead of 37.
 

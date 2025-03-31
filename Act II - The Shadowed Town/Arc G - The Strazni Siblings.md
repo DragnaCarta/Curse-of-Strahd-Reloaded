@@ -1,4 +1,4 @@
-_An adventure for five 4th-level characters._
+<div class="subtitle">An adventure for five 4th-level characters.</div>
 
 In this arc, shortly after seeing Ireena Kolyana, Izek Strazni realizes that she is—quite literally—the woman of his dreams. 
 

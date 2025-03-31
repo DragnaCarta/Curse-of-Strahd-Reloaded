@@ -1,4 +1,4 @@
-_An adventure for five 8th-level characters._
+<div class="subtitle">An adventure for five 8th-level characters.</div>
 
 In this arc, the players delve into the depths of the frozen Amber Temple in search of the long-lost hilt of the *Sunsword*: the one weapon that can help them defeat Strahd. But the Amber Temple is protected—by a scheming arcanaloth in disguise, a trio of maddened flameskulls, and a pair of deadly amber golems—and occupied by a host of other threats, from a recently arrived death slaad to the Dark Powers' first prisoner: the traitorous wizard Vilnius.
 
