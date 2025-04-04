@@ -1,3 +1,26 @@
+# Patch 2.0.11.3 (April 4, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that the siege of Barovia village has been for six days in Arc B
+* Clarified that players wake shortly before dawn in the Village of Barovia to ensure they can participate in Kolyan's funeral in Arc B
+* Aligned Gertruda's journey to be towards Vallaki, but intercepted by Strahd in Arc B
+* Changed the tarot reading to refer to Vampyr's sarcophagus in Arc C
+* Clarified when Victor gifts the Spirit Mirror in Arc H
+* Clarified that the Abbot is bringing forward Anna's deadline to one week in Arc I
+* Added further details to and removed ambiguities in Varushka's nightmare in Arc O
+* Refine and simplified the rooftop mechanic in Varushka's nightmare in Arc O
+* Clarified that Rahadin locks the door to the guest suite as a whole in Arc O
+* Clarified that Tasha Petrovna's holy symbol is worn by Father Lucien and not in her crypt in Arc P
+* Amended contradictions regarding Cyrus and his presence in Ravenloft in Arc P
+* Added information on how Icon of Dawn's Grace retains its magical abilities but loses sentience once the Abbot is redeemed in Arc Q
+* Amended lore contradictions in History of Barovia
+* Added information in Lore of Barovia, the Tarokka reading, and Act II summary stating that players cannot wander randomly and discover things
+* Updated the NPCs appendices with missing content for Old Bonegrinder 
+* Updated Amber Shards with locations of all mentioned shards
+* Added a Barovian relic sidebar for each location that a unique relic responds to a location.
+* Added an infobox detailing that if creative players bring a silverthorn collar to the anti-magic field of the tower, that it will nullify the magic.
+# Hotfix 2.0.11.2 (March 23, 2025)
+* Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
+>>>>>>> Stashed changes
 # Hotfix 2.0.11.1 (March 22, 2025)
 * Added *Indomitable* to Vladimir's statblock in Arc M
 * Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability in Arc J

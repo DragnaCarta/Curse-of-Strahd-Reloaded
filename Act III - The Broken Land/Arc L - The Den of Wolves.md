@@ -419,6 +419,9 @@ Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s 
 >
 > The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
 
+> [!info]+ **Collars and Anti-Magic**
+> The collars' enchantment becomes inactive within the tower's antimagic field, allowing them to be opened harmlessly by conventional means. Players with the creativity to ascertain this can receive Zuleika as an ally in [[Arc P - Ravenloft Heist]].
+
 > [!info]+ **The Chains**
 > The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in <span class="citation">Player's Handbook, p. 151)</span>, with an AC of 19. 
 

@@ -194,6 +194,7 @@ Whether Vargas is present or not, and whether he dies or flees, continue:^[Dialo
 <p>"When last we met, I informed you that I could be a gracious host—but a far less gracious enemy." His frown cuts the corners of his mouth like a knife, his dark brows furrowing his forehead into a deep, cold scowl. "It appears, however, that my words failed to take root. Allow me, then, to reintroduce myself.</p>
 <p>"I am Strahd—lord of Barovia, and master of Ravenloft." His claws tighten around the hilt of his sword, and his eyes burn like fiery coals. "You have stolen items that are <em>not</em> yours to possess. Though you shall wish otherwise, you now have my <em>full and complete attention.</em>"</p>
 </div>
+
 ### Strahd’s Challenge
 As the conversation unfolds, Strahd warns the players that they have "invaded his home, attacked his servants, and stolen his possessions," noting with a growl, that they "have spilled blood on the stones of Castle Ravenloft itself." "Tell me," he adds, his fist tightening around his longsword’s hilt, "whether I would not be justified in spilling blood today to right this wrong."
 
@@ -907,7 +908,7 @@ The players’ arrival at the gatehouse is largely as described in <span class="
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
 </div>
 
-In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypas the gatehouse by means of a *fly* spell.)
+In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a *fly* spell.)
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
@@ -919,6 +920,7 @@ No matter where the players choose to rest, the blizzard comes to an end shortly
 <p>Gradually, the howling wind fades. The torrent of snow, too, diminishes to mere flurries, then even those settle softly upon the landscape, forming a pristine, untouched expanse beneath the darkened sky above.</p>
 <p>Snow-covered trees stand still, their pale, white-laden boughs almost ethereal as they reflect a faint glimmer of moonlight. In the distance, the mountain’s slopes loom far above them, its tallest peaks vanishing into the low-lying clouds overhead. Though the bitter cold continues to gnaw through the layers of your clothing, a deep, unbroken silence hangs over the world, as though the mountain itself is holding its breath.</p>
 </div>
+
 ### Strahd’s Arrival
 One hour after the players have begun their long rest, Strahd again scries and visits them as described in [[#R3b. The Tyrant’s First Trial]].
 
@@ -1495,6 +1497,7 @@ This tunnel leads to [[#The Trash Heap]].
 <p>I know I’m breaking my promise, but I can’t ignore these visions any longer. If there is a way to bring Mother back, I must take it—no matter the risk.</p>
 <p>Deirdre</p>
 </div>
+
 ### The Eastern Nest
 When the players enter this chamber, read:
 
@@ -1603,7 +1606,9 @@ The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry ca
 <p>The rocky, frost-coated crack broadens into a long, rounded tunnel. Rippled, wave-like ice sheets cover the walls, forming a near-perfect circular passage through the mountain. The ice glimmers faintly, shimmering as if filled with thousands of distant stars.</p>
 <p>The tunnel continues long into the distance ahead, soon vanishing into darkness.</p>
 </div>
+
 ![[The-Cave-of-Daggers.png]]
+
 <span class="credit">"The Cave of Daggers" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 If the players follow the tunnel, read:
@@ -1683,7 +1688,7 @@ The den contains 3 pp, 107 gp, 389 sp, 780 cp, seven 10-gp azurites, three 50-gp
 >
 > <hr>
 > 
-> *Ahead, you see a pile of black rags strewn admist a snow bank.*
+> *Ahead, you see a pile of black rags strewn amidst a snow bank.*
 > 
 > <hr>
 >
@@ -1716,7 +1721,7 @@ The shadows are thirteen **forsaken warriors** (see below), and are placed as de
 ![[The Frozen Lake.png]]
 
 > [!info]+ **Slippery Ice**
-> A creature that crawls across slippery ice automatically succeeds on its saving throw against falling prone. 
+> A creature that crawls across is considered prone and does not need to make a saving throw to avoid falling. 
 >
 > To jump from a square covered in slippery ice, a creature must make a DC 10 Dexterity (Acrobatics) check. On a failure, the creature jumps only half the distance and lands prone. (A creature or object that lands on thin ice in this way is treated as though its weight is five times as heavy. A creature or object that breaks through thin ice generates a loud noise, as described in **icicle cascade** above.)
 
@@ -2104,6 +2109,7 @@ At nightfall, the Mountain Folk gather in Chief Diegia’s longhouse to celebrat
 <p>It’s not long before laughter and conversation fills the longhouse’s central hall, with well over a hundred Mountain Folk filling the tables around the hearth’s warm glow. The savory aroma of roasted meat mingles with the sweet scene of honeyed mead as villagers pass wooden platters piled high with food. Children dart between tables, their shrill laughter mingling with the melodies of panpipes, flutes, and pounding drums.</p>
 <p>Chief Diegia’s wooden throne is moved aside, making room for a long, low wooden table surrounded by a dozen woolen cushions. You find yourselves beckoned toward it, joining Diegia’s family as they take their places atop the dais overlooking the hall.</p>
 </div>
+
 ### The Keeper of Voices
 As the feast unfolds, Oroles stands from his seat at Diegia’s side, excuses himself, and vanishes past the heavy woolen curtain into the family’s private quarters. (If asked, Diegia or her family share only that Oroles—the tribe’s Keeper of Voices—is "preparing" for his part in the festivities.) A few minutes later, Oroles returns to the main hall. Read:
 
@@ -2350,8 +2356,3 @@ If Sangzor does not detect any intent to seek the vestiges' power in the players
 Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.
-
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for [[Arc S - A Sword of Sunlight]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).

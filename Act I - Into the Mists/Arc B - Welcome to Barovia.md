@@ -55,7 +55,7 @@ If the players continue to follow the footpath in the direction of the arrows, t
 
 The fog is part of the Mists that surround and entrap Barovia. If the players brought Dalvan's compass with them, the needle is now spinning wildly in circles.
 
-If the players follow the footpath through the fog, they emerge after 2d4 minutes in an unfamiliar portion of the Svalich Woods. Each time the players emerge from the wall of fog around Barovia, they must make a DC 5 Constitution saving throw or take 1 level of exhaustion, as the fog saps their energy and drains their life force. (The DC increases by 5 each time that the players pass through the fog again.)
+If the players follow the footpath through the fog, they emerge after 2d4 minutes in an unfamiliar portion of the Svalich Woods. Each time the players emerge from the wall of fog around Barovia, they must make a DC 5 Constitution saving throw or take 1 level of exhaustion, as the fog saps their energy and drains their life force. (The DC increases by 5 each time that the players pass through the fog again, and resets on a long rest.)
 
 Upon emerging from the fog, the players can see a fourth tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. In addition, the fourth tree appears to bear a carving and has an object protruding from its trunk. If the players inspect it, read:
 
@@ -199,10 +199,10 @@ As the players' conversations with [[Non-Player Characters#Ismark Kolyanovich|Is
 
 <div class="description">
 <p>The door to the tavern swings open once more, and a woman steps through, clad in a tattered and threadbare cloak. Her hair, tied into two loops that fall around her neck, is unkempt and tangled, and her wide eyes dart across the room with fearful energy.</p>
-<p>Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen Gertruda since last night, and Nori isn't in the stable. I think Gertruda's gone to the castle—alone."</p>
+<p>Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen Gertruda since last night, and Nori isn't in the stable. I think Gertruda's gone to Vallaki—alone."</p>
 </div>
 
-The tavern immediately falls silent, and Ismark's eyes crease with worry. He gives Mary his condolences, and promises that he will organize a search party to look for her. "If she didn’t make it to the castle, we'll find her—and bring her home safely."
+The tavern immediately falls silent, and Ismark's eyes crease with worry. He gives Mary his condolences, and promises that he will organize a search party to look for her. "If she didn’t make it to Vallaki, we'll find her—and bring her home safely."
 
 > [!abstract]+ **The Search Party**
 > If the players offer to assist the search party in locating Gertruda, Ismark thanks them for their generosity, but assures them that the hunters and trappers he plans to organize know the local roads and woods far better than they, and should be able to skirt alongside the edges of the undead horde without risking much trouble. "The more who accompany them, however," he says apologetically, "the more likely the horde notices their movements and attacks."
@@ -222,8 +222,8 @@ Unless the players intervene, the following sequence then unfolds:
 
 If the players ask, Mary can share the following information:
 
-* Gertruda is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, Gertruda has become fixated on the castle, believing that, if she could only journey to Castle Ravenloft and speak with the Devil, she could convince him to set Doru free from whatever prison he's been thrown in.
-* Mary has repeatedly forbidden Gertruda from traveling to the castle. With the advent of the siege, however, Gertruda has become stubbornly convinced that a diplomatic solution is the only way to end the village's suffering.
+* Gertruda is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, Gertruda has become fixated on the town of Vallaki, believing that if she could only journey to Vallaki and speak with the Burgomaster, she could convince him to help her set Doru free from whatever prison he's been thrown in.
+* Mary has repeatedly forbidden Gertruda from traveling away from the village. With the advent of the siege, however, Gertruda has become stubbornly convinced that a diplomatic solution is the only way to end the village's suffering.
 * Last night, Mary and Gertruda had a tumultuous argument that ended with both on poor terms. This morning, Mary woke to find their old horse, Nori, missing from her stall—and Gertruda nowhere to be found. (Mary believes Gertruda took Nori in an effort to outrun the zombie horde.)
 
 A few moments after Bildrath has left, if the players haven't already done so, Ismark turns to comfort Mary. "I promise you," he says, his voice breaking, "That I will do *everything* I can to see that Gertruda is brought home safely."
@@ -231,7 +231,9 @@ A few moments after Bildrath has left, if the players haven't already done so, I
 Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comforted her), and departs the tavern.
 
 > [!lore]+ **Where's Gertruda?**
-> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Castle Ravenloft the morning of the players' arrival, seeking to plead for Strahd’s mercy. When she arrived at the castle, a trembling Gertruda demanded Strahd make good on his obligations as Barovia's liege-lord, providing for the safety and repairs the village so desperately needed. Impressed by her audacity, Strahd invited her to Castle Ravenloft to discuss the matter further—and she has remained there ever since.
+> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to get aid from the Burgomaster. Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild.
+> Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
+> Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. 
 ### Ismark’s Request
 After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
 
@@ -537,7 +539,7 @@ If the players follow her, Muriel guides them west toward the town square, then 
 
 Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
 
-The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
+The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***virulent miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
   
 > [!combat]- **Balancing the Town Square** 
 > This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -760,7 +762,7 @@ If confronted, Ismark can reluctantly share the following information:
 
 When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
+The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
 
 When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
 
@@ -825,7 +827,7 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 >
 > Father Donavich was no supporter of Doru’s march on Castle Ravenloft. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
 >
-> Donavich’s holy symbol, however, did little to protect his son. When Strahd began his siege on the village of Barovia two weeks ago, his undead forces were not alone: Strahd also sent Doru, now a freshly turned **vampire spawn**, to terrorize the church and torment his father. Donavich barely managed to lure and trap Doru in the undercroft, where he remains imprisoned still.
+> Donavich’s holy symbol, however, did little to protect his son. When Strahd began his siege on the village of Barovia six nights ago, his undead forces were not alone: Strahd also sent Doru, now a freshly turned **vampire spawn**, to terrorize the church and torment his father. Donavich barely managed to lure and trap Doru in the undercroft, where he remains imprisoned still.
 >
 > Since Doru returned, Father Donavich has been unable to cast any spells and no longer feels the Morninglord’s presence when he prays. When Strahd sent Doru back to Barovia, he allowed Doru to continue wearing his father’s holy symbol as a cruel joke. As a result, Donavich wrongly believes that Doru’s undead nature has corrupted his symbol—and, therefore, his relationship with the Morninglord—and so prevented him from reaching the Morninglord’s divine grace.
 >
@@ -935,7 +937,7 @@ Doru can also share the following information with the players if asked:
 * Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
 * With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, Escher was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that Escher betrayed them.)
 * Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
-* Doru spent nearly three months at Castle Ravenloft, during which Strahd repeatedly forced him to drink the blood of his former companions. Two weeks ago, Strahd commanded Doru to return to the church and his father. 
+* Doru spent nearly three months at Castle Ravenloft, during which Strahd repeatedly forced him to drink the blood of his former companions. Six nights ago, Strahd commanded Doru to return to the church and his father. 
 * Doru can’t disobey Strahd’s direct orders, and can feel his presence at all times. His vampiric bloodthirst is a constant distraction, and it’s difficult to control his predatory urges and instincts. When he first returned to the church, he was almost grateful that his father had locked him in the undercroft, where he couldn’t do any harm.
 * Doru doesn’t know if his soul or body can be saved, but he’s kept his father’s holy symbol to remind him of his faith and family, and to steel his will against the addictions of his new form. If not for that, he suspects that he would have lost control days or even weeks ago. (Doru doesn’t know why Strahd allowed him to keep it, but suspects that Strahd viewed it as a form of ironic amusement.)
 

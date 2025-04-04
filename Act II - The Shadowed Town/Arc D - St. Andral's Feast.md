@@ -575,7 +575,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 180 (34d8 + 72)
+<strong>Hit Points</strong> 180 (24d8 + 72)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>

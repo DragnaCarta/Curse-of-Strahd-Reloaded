@@ -218,7 +218,9 @@ If asked why the Krezkovs appear to be afraid of him, the Abbot insists that the
 
 If further addressed, the Abbot looks briefly stricken and adds sadly, as he inspects a carved figurine of a wolf upon the mantelpiece, “It is true that many instruments of the gods have first rejected their calling. But is it not written that those who refuse to serve the divine become the tools of the divine, while those who serve the divine themselves become the divine?" He murmurs, mournfully, “The choice, I fear, is never an easy one."
 
-Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. “You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
+The Abbot turns toward the Krezkovs, his eyes falling on Anna. "I have sensed a great disturbance, and that Strahd—and Barovia with him—are now close to falling into the abyss. I am loath to go back on my word as a servant of the Morninglord, but Time has forced my hand. I shall return in a week, Anna." 
+
+Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. "You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
 
 <div class="description">
 <p>Through the front door of the cottage, beneath the fresh-falling snow, the young man’s silent silhouette stands wrought in a halo of dark moonlight. Then, within the blink of an eye, the man simply ceases to be; in his place, an eagle taller than a man stands upon the earth, its feathers blending seamlessly with the falling snowflakes. With a powerful flap of its wings, the creature ascends, soaring into the night sky until it vanishes into the depths of the Barovian darkness.</p>
@@ -230,7 +232,7 @@ Dmitri and Anna then collapse onto their knees, holding one another and crying q
 * The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Arc I - The Walls of Krezk]], Dmitri adds that, until recently, they feared him to be dead as well.)
 * The Krezkovs prayed to the Morninglord for guidance and deliverance, begging for mercy and salvation—and the Abbot answered.
 * The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **flesh golem** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
-* The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in Vallaki.)
+* The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline was set to expire two weeks and one day after the players’ first full moon in Vallaki, but has been brought forward to one week from now.)
 * Kala hasn’t been the same since her resurrection. Dmitri and Anna haven’t asked, but they’re terrified that she remembers the experience of dying—and that what she saw beyond the veil of mortality scarred her forever. The life and laughter have gone out of her, and she spends much of her time staring at the grave her parents once prepared for her.
 ### Kala’s Bedroom
 If the players enter this area, read:

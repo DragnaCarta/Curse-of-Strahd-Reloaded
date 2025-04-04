@@ -469,7 +469,7 @@ The journey from Vallaki to the Luna River Crossroads is one mile long and takes
 <p>Halfway across the bridge, you notice something odd: a small scrap of white material fluttering on the surface of the far side of the river, caught on a tree root a dozen yards downstream.</p>
 </div>
 
-If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.”
+If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (This is a clue left by Arabelle while travelling back to Vallaki with Van Richten.)
 ## E5b. Luna River Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
 
@@ -964,7 +964,7 @@ The plotline involving the signet ring has been added to provide Luvash with a r
 
 ***Dusk Elf Hovels.*** In order to discourage the players from exploring the Amber Temple too early (and because the players are strangers that he has only just met, with no evident qualifications that will help him achieve his goals), Kasimir Velikov no longer shares Patrina's dreams or his interest in the Amber Temple upon their first meeting. 
 
-Kasimir will later lead the players to the Amber Temple in [[Arc U - The Amber Temple]] after the players learn of his interest in the temple at the conclusion of [[Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
+Kasimir will later lead the players to the Amber Temple in [[Arc S - A Sword of Sunlight]] after the players learn of his interest in the temple at the conclusion of [[Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
 
 The symbols on the signet ring have been added to provide the players with the solution to the puzzle door at the entrance to Van Richten's Tower.
 

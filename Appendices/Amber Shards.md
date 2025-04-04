@@ -116,6 +116,8 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** Your eyes become starry voids. You have disadvantage on Wisdom (Perception) checks.
 ## Great Taar Haak, the Five-Headed Destroyer
+*Shard Location: Castle Ravenloft*
+
 ***Spell.*** _Earth Tremor (at 5th level)._
 
 ***Boon.*** You have advantage on Strength checks.

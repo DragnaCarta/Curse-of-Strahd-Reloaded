@@ -25,7 +25,7 @@ It is, of course, always possible for players to go "off the rails" and forge th
 In contrast to the original *Curse of Strahd* module, this guide offers a single, original adventure hook to guide the players into Barovia. In this hook, Death House serves as a portal to Strahd's domain: the players enter Death House in their own world, and—upon defeating or pacifying the cult—emerge into the land of Barovia. However, this hook can be implemented in two possible ways:
 
 * ***Lost in the Mists.*** In this version, the players are members of a mercenary adventuring party that has been hired to investigate a series of mysterious disappearances tied to a particular house (Death House). This hook focuses the players' attention solely on Strahd's tyranny and the Barovians who suffer under his rule, encouraging the players to immerse themselves in the campaign's lore and to develop unique relationships with its diverse cast of characters.
-* ***Barovian Relics.*** In this version, one or more players possess certain relics that originated from Barovia and are tied to their backstories.  When Death House manifests nearby, those relics are drawn to it, encouraging the players to enter and investigate. (Any players who do not wish to craft a backstory may instead choose to be a mercenary investigating recent disappearances, as in ***Lost in the Mists***.) This hook focuses the players' attentions on their own interests and personal connections to the land of Barovia, encouraging them to invest their attention in NPCs and locations tied to their unique relics.
+* ***Barovian Relics.*** In this version, one or more players possess certain unique relics that originated from Barovia and are tied to their backstories.  When Death House manifests nearby, those relics are drawn to it, encouraging the players to enter and investigate. (Any players who do not wish to craft a backstory may instead choose to be a mercenary investigating recent disappearances, as in ***Lost in the Mists***.) This hook focuses the players' attentions on their own interests and personal connections to the land of Barovia, encouraging them to invest their attention in NPCs and locations tied to their unique relics.
 
 In general, ***Lost in the Mists*** may be viewed as a "pure" version of *Curse of Strahd*, focusing its narrative on the isolation and alienation of Barovia. By contrast, ***Barovian Relics*** is best used by Dungeon Masters who are passionate about Barovia's gothic atmosphere and environment, but whose players require a personal connection to the campaign to be emotionally invested.
 
@@ -78,13 +78,13 @@ Strahd's enemy no longer possesses the ***Inspire*** action (**Strahd's Enemy**,
 ## The Card Reading
 Immediately before the scene in which the players meet Madam Eva, if you are using a physical Tarokka deck for the reading, choose which five cards Madam Eva will draw and stack them on top of the deck in the order described in <strong>Card Reading</strong> (p. 11).
 
-When choosing which card(s) to use for which part of the reading, select from the following lists.
+When choosing which card(s) to use for which part of the reading, select the following.
 ### The Tome of Strahd
 The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information about the gallows speaker.
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword
-Place the *Sunsword* in the sealed treasury of the Amber Temple (***Eight of Glyphs—Bishop***).
+Place the *Sunsword* in the Vampyr's sarcophagus in the Amber Temple (***Eight of Glyphs—Bishop***).
 ### Strahd's Enemy
 Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades***).
 ### Strahd's Location
