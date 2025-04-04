@@ -349,7 +349,7 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
-This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot isn’t rattling when the players first enter the room, and it has a lid atop it. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
 
 If a player approaches or crosses in front of the fireplace, read:
 
@@ -1085,7 +1085,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Vladimir makes two melee attacks. He can replace one of those attacks with a <strong><em>black flames</em></strong> attack.</p>
 <p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 3 (1d6) piercing damage, and the target must make a DC 18 Wisdom saving throw. On a failure, it has disadvantage on the first attack roll or ability check it makes before the end of its next turn.</p>
-<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) cold damage. (The flames can’t be doused by nonmagical means.)</p>
+<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) fire damage. (The flames can’t be doused by nonmagical means.)</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
 <p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>

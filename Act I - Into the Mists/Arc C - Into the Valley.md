@@ -189,7 +189,7 @@ During the conversation, at moments when it seems natural to do so, [[Strahd von
 
 * "Ismark Kolyanovich defied me by obstructing the justice I meted out unto his village. Why should I, as his lord, not punish him for his disloyalty?"
 * "I have claimed Ireena Kolyana, and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
-* "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, just as I disposed of him?" (Strahd's question is referring to Dr. Rudolph van Richten.)
+* "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, to prevent you from doing the same?" (Strahd's question is referring to Dr. Rudolph van Richten.)
 
 If the players buried Walter's bones and put the spirits of Death House to rest, Strahd poses an additional question:
 
@@ -228,7 +228,7 @@ Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, t
 
 The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers. 
 
-The **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
+The **greater strix** uses the statistics of a **manticore**, but is a Medium construct and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 
 ![[Greater Strix.png]]
 <span class="credit">"Greater Strix" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -628,7 +628,7 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
 <p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
 <p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
-<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. "What you seek lies in a prison of darkness, beyond a set of amber doors," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
+<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. ""What you seek lies in an amber prison where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
 <p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
 <p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
 <p>She flips the card.</p>
@@ -650,6 +650,11 @@ Madam Eva declines to return with the players, preferring instead to linger at t
 
 > [!lore]+ **Why Madam Eva Remains**
 > Adventurers who sought to kill Strahd are not the only ones buried at this cemetery. Madam Eva's mother, the Vistana with whom King Barov II had an affair, is buried in the woods a short distance away from the gallows. (It is common for Vistani to bury their dead at crossroads, believing that doing so frees the spirit to guide others who follow the paths they once traveled.)
+
+> [!info]+ **Wandering Players**
+>
+> Players won't be able to wander randomly and find things; unless they know exactly where they're going, it'll take them days or weeks to find anything. This is a campaign that involves searching for the clues needed upon finding the right triggers.
+
 
 **_Milestone_**. Receiving the Tarokka reading completes a story milestone. When the party departs the crossroads, award each player 500 XP.
 ## C4g. Departing Tser Pool
@@ -699,7 +704,7 @@ If one of the players has a passive Wisdom (Perception) score of 14 or higher, o
 
 <div class="description"><p>As your footsteps squelch into the old, muddy road, you glimpse a flicker of movement in the underwood: a flash of gray fur, amber eyes, and sharp, white teeth. Then, as soon as it appeared, it vanishes, skulking back into the shadows.</p></div>
 
-The movement belongs to a **wolf**, which swiftly retreats into the woods. Its four **wolf** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
+The movement belongs to a **wolf**, which swiftly retreats into the woods. Its five **wolf** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
 
 If the players continue, read:
 
@@ -709,21 +714,21 @@ If the players continue, read:
 If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
 
 <div class="description">
-<p>You see three gray-furred shadows dart through the underbrush ahead. Two more flicker at the edge of your vision, just behind you.</p>
+<p>You see three gray-furred shadows dart through the underbrush ahead. Three more flicker at the edge of your vision, just behind you.</p>
 </div>
 
 If one of the players has a passive Wisdom (Perception) score of 18 or higher, or if one of the players makes a successful DC 18 Wisdom (Perception) check, add:
 
 <div class="description">
-<p>A sixth lurks in the ravine nearly fifty feet below, keeping pace with your movements as it clings to the shadows of the crags.</p>
+<p>Two more lurk in the ravine nearly fifty feet below, keeping pace with your movements as they cling to the shadows of the crags.</p>
 </div>
 
-If the players pause, proceed, or attack, the five wolves in the woods strike. Read:
+If the players pause, proceed, or attack, the six wolves in the woods strike. Read:
 
 <div class="description">
-<p>Five snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
+<p>Six snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
 </div>
-
+![[wolf_ravine.jpg]]
 
 > [!combat]- **Balancing the Wolves** 
 > This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -736,11 +741,11 @@ Replace the wolves' ***bite*** attack with the following action options:
 * ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
 * ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
 
-In combat, the **wolves** target a single player at a time, using their ***pack tactics*** to gain advantage on attack rolls and their ***claws*** attacks to attempt to knock a player into the gully. 
+The **wolves** start on the mountain side, with the players between them and the ravine. In combat, the **wolves** target a single player at a time, using their ***pack tactics*** to gain advantage on attack rolls and do not use their ***maul*** attack, only using their ***claws*** attacks to attempt to knock a player into the gully. 
 
-A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludgeoning damage and falling prone. The sixth wolf uses its ***maul*** to attack any creature that falls into the ravine, then drags them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
+A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludgeoning damage and falling prone. The two wolves at the bottom use their ***maul*** to attack any creature that falls into the ravine, then drag them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
 
-Once a player falls into the ravine, the rest of the pack flees into the woods, then descends into the ravine by another path to assist the sixth wolf in pulling its prey away. The pack flees if four of the six wolves are killed.
+Once a player falls into the ravine, the rest of the pack flees into the woods, then descends into the ravine by another path to assist the sixth wolf in pulling its prey away. The pack flees if six of the eight wolves are killed.
 
 > [!info]+ **Descending Into the Ravine**
 > A player attempting to ascend or descend the edge of the ravine must make a DC 10 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the edge of the ravine, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the ravine.
