@@ -20,7 +20,6 @@
 * Added an infobox detailing that if creative players bring a silverthorn collar to the anti-magic field of the tower, that it will nullify the magic.
 # Hotfix 2.0.11.2 (March 23, 2025)
 * Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
->>>>>>> Stashed changes
 # Hotfix 2.0.11.1 (March 22, 2025)
 * Added *Indomitable* to Vladimir's statblock in Arc M
 * Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability in Arc J
