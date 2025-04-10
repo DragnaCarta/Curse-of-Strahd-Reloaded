@@ -59,15 +59,18 @@ The contents of the Tome of Strahd are now as described in [[Arc H - The Lost So
 ## The Holy Symbol of Ravenkind
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
-<div class="item">
-<h3>Holy Symbol of Ravenkind</h3>
-<div class="subtitle"><em>Wondrous item, legendary (requires attunement by a creature of good alignment)</em></div>
-<p>The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.</p>
-<p><strong><em>Dawn's Embrace.</em></strong> As a reaction, when a creature you can see within 60 feet of you would be reduced to 0 hit points, you can expend 1 charge to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.</p>
-<p><strong><em>Light of Hope.</em></strong> As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.</p>
-<p><strong><em>Sun’s Blessing.</em></strong> As an action, you can expend 3 charges to cause holy power to radiate from the symbol in a 30-foot radius for 1 minute. Nonhostile creatures in that radius deal an extra 1d4 radiant damage when they hit with a weapon attack.</p>
-<p>You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.</p>
-</div>
+> [!item]+ **Holy Symbol of Ravenkind**
+> <div class="subtitle"><em>Wondrous item, legendary (requires attunement by a creature of good alignment)</em></div>
+>
+> The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
+>
+> **_Dawn's Embrace._** As a reaction, when a creature you can see within 60 feet of you would be reduced to 0 hit points, you can expend 1 charge to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
+> 
+> **_Light of Hope._** As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
+> 
+> **_Sun’s Blessing._** As an action, you can expend 3 charges to cause holy power to radiate from the symbol in a 30-foot radius for 1 minute. Nonhostile creatures in that radius deal an extra 1d4 radiant damage when they hit with a weapon attack.
+> 
+> You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
 
 ## The Sunsword
 The *Sunsword* cannot be attuned when the players first obtain it. Instead, the players must submerge it in the blessed pool near the Shrine of the White Sun to restore its radiant blade. (The hilt retains its sentience and ability to communicate telepathically before its blade is restored.) For more information about this arc, see ***Arc V: The Sunsword*** below.
