@@ -628,7 +628,7 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
 <p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
 <p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
-<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. ""What you seek lies in an amber prison where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
+<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. "What you seek lies in an amber prison, where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
 <p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
 <p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
 <p>She flips the card.</p>
@@ -651,9 +651,9 @@ Madam Eva declines to return with the players, preferring instead to linger at t
 > [!lore]+ **Why Madam Eva Remains**
 > Adventurers who sought to kill Strahd are not the only ones buried at this cemetery. Madam Eva's mother, the Vistana with whom King Barov II had an affair, is buried in the woods a short distance away from the gallows. (It is common for Vistani to bury their dead at crossroads, believing that doing so frees the spirit to guide others who follow the paths they once traveled.)
 
-> [!info]+ **Wandering Players**
+> [!warning]+ **Wandering Players**
 >
-> Players won't be able to wander randomly and find things; unless they know exactly where they're going, it'll take them days or weeks to find anything. This is a campaign that involves searching for the clues needed upon finding the right triggers.
+> Exploration in this campaign is intentional. Players won’t find much by wandering aimlessly; without clear leads, meaningful discoveries such as the *Holy Symbol of Ravenkind* or Amber Temple can take days or even weeks. To progress, the players must uncover clues and recognize the signs that point the way.
 
 
 **_Milestone_**. Receiving the Tarokka reading completes a story milestone. When the party departs the crossroads, award each player 500 XP.
@@ -741,7 +741,7 @@ Replace the wolves' ***bite*** attack with the following action options:
 * ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
 * ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
 
-The **wolves** start on the mountain side, with the players between them and the ravine. In combat, the **wolves** target a single player at a time, using their ***pack tactics*** to gain advantage on attack rolls and do not use their ***maul*** attack, only using their ***claws*** attacks to attempt to knock a player into the gully. 
+The **wolves** start on the mountainside, with the players between them and the ravine. In combat, the **wolves** target a single player at a time with their ***claws*** attacks, using their ***pack tactics*** to gain advantage on attack rolls and hoping to knock that player into the gully.
 
 A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludgeoning damage and falling prone. The two wolves at the bottom use their ***maul*** to attack any creature that falls into the ravine, then drag them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
 

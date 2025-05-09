@@ -1,4 +1,4 @@
-# Patch 2.0.11.3 (April 4, 2025)
+# Patch 2.0.11.3 (May 9, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that the siege of Barovia village has been for six days in Arc B
 * Clarified that players wake shortly before dawn in the Village of Barovia to ensure they can participate in Kolyan's funeral in Arc B

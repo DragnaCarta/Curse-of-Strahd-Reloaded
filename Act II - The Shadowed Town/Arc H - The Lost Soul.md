@@ -1191,7 +1191,7 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 
 In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
 
-The following morning, Victor also sends the players the following message with the sending spell: “Come to my home. I have a gift for you.” Upon their arrival, he presents them with the spirit mirror from his workroom.
+The following morning, Victor also sends the players the following message with the sending spell: “Come to my home. I have a gift for you.” Upon their arrival, he presents them with the *spirit mirror* from his workroom.
 
 ***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 1,750 XP.
 

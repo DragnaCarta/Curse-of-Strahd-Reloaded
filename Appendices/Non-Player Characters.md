@@ -904,6 +904,8 @@
 
 ***Emotions.*** Cyrus most often feels curious, intrigued, determined, agitated, impatient, or skeptical.
 
+***Motivations.*** Cyrus wants to help Strahd restore Castle Ravenloft, believing that Strahd will furnish him with the knowledge required to restore his family to their original forms.
+
 ***Inspirations.*** When playing Cyrus, channel Ebenezar Scrooge (*A Christmas Carol*), Grandpa Simpson (*The Simpsons*), and Grand Maester Pycelle (*Game of Thrones*).
 
 **Character Information**
