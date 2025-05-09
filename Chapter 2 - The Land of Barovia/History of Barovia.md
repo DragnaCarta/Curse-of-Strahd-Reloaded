@@ -142,7 +142,7 @@ Strahd returned to Castle Ravenloft, mortal and unchanged. Troubled, yet fascina
 
 Strahd continued his studies of magic, learning at a far more rapid—and voracious—pace then any student Patrina had yet seen. Suspicious of his fellow dusk elf’s motives, however, Rahadin—now one of Strahd’s most trusted advisors—began to seek out women who could distract him from Patrina.
 
-Meanwhile, the construction of Castle Ravenloft continued unabated. As a token of his favor, Strahd led one of the mages—a brilliant architect named Khazan—to the Amber Temple itself, showing him the secrets of setting magic deep into quarried stone. There, Khazan finalized the design of the castle itself, as described in <span class="citation">X20. Architect's Room (p. 187)</span>.
+Meanwhile, the construction of Castle Ravenloft continued unabated. As a token of his favor, Strahd led one of the mages—a brilliant architect named Artimus—to the Amber Temple itself, showing him the secrets of setting magic deep into quarried stone. There, Khazan finalized the design of the castle itself, as described in <span class="citation">X20. Architect's Room (p. 187)</span>.
 
 Just over a year after construction had begun, Castle Ravenloft was finished. Strahd appointed Rahadin as the chamberlain of the keep, as described in <span class="citation">Rahadin (p. 236)</span>. He then summoned his mother, Queen Ravenovia, and his brother, Sergei—now a high priest in the Church of the Morninglord—to join him in Barovia. 
 
@@ -329,7 +329,7 @@ Together, they developed a spell that would preserve Sergei’s body for eternit
 
 Strahd learned also to imbue his armor with permanent spells and a sliver of his being, creating <span class="citation">Strahd’s Animated Armor (p. 227)</span>. Meanwhile, he delved deeper into the secrets of necromancy; as an amusement and a challenge, he created **Strahd zombies**—foul creatures both stronger and more horrible than the ordinary undead.
 
-But as time stood still for the immortals of Castle Ravenloft, its sands continued to flow for those in the valley beyond. The once-loyal retainers and vassals of the von Zarovich line began to pass into death—Khazan, the castle’s architect; General Grislek, Strahd's most trusted commander; Prefect Ciril Romulich, high priest of the Morninglord; and countless others. Strahd found each one when they died and sealed their corpses in places of honor in the catacombs beneath Ravenloft, as described in <span class="citation">K84. Catacombs (p. 85)</span>.
+But as time stood still for the immortals of Castle Ravenloft, its sands continued to flow for those in the valley beyond. The once-loyal retainers and vassals of the von Zarovich line began to pass into death—Artimus, the castle’s architect; General Grislek, Strahd's most trusted commander; Prefect Ciril Romulich, high priest of the Morninglord; and countless others. Strahd found each one when they died and sealed their corpses in places of honor in the catacombs beneath Ravenloft, as described in <span class="citation">K84. Catacombs (p. 85)</span>.
 
 One life yet eluded him, however: Leo Dilisnya, the traitor. Through his spies, though, Strahd soon discovered that Lovina Wachter had discovered Leo’s location. To avoid causing alarm, Strahd disguised himself as a human nobleman and journeyed to the Wachter manor in Vallaki. There, he introduced himself under the pseudonym of Vasili von Holtz, claiming to be an envoy from Ravenloft.
 

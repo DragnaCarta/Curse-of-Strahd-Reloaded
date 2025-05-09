@@ -1721,7 +1721,7 @@ The shadows are thirteen **forsaken warriors** (see below), and are placed as de
 ![[The Frozen Lake.png]]
 
 > [!info]+ **Slippery Ice**
-> A creature that crawls across is considered prone and does not need to make a saving throw to avoid falling. 
+> A creature that crawls across doesn't need to make a saving throw to avoid falling prone. 
 >
 > To jump from a square covered in slippery ice, a creature must make a DC 10 Dexterity (Acrobatics) check. On a failure, the creature jumps only half the distance and lands prone. (A creature or object that lands on thin ice in this way is treated as though its weight is five times as heavy. A creature or object that breaks through thin ice generates a loud noise, as described in **icicle cascade** above.)
 

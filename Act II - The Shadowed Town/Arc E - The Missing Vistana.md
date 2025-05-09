@@ -469,7 +469,7 @@ The journey from Vallaki to the Luna River Crossroads is one mile long and takes
 <p>Halfway across the bridge, you notice something odd: a small scrap of white material fluttering on the surface of the far side of the river, caught on a tree root a dozen yards downstream.</p>
 </div>
 
-If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (This is a clue left by Arabelle while travelling back to Vallaki with Van Richten.)
+If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (Arabelle left this clue while travelling to Vallaki with Van Richten.)
 ## E5b. Luna River Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
 

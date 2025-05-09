@@ -349,7 +349,7 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
-This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot isn’t rattling when the players first enter the room, and it has a lid atop it. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
 
 If a player approaches or crosses in front of the fireplace, read:
 

@@ -2015,8 +2015,3 @@ If the players lie to him a third time, “Heinrich" shakes his head sadly, noti
 >
 > If the players convince the flameskulls that Kasimir is Patrina’s heir, they cheerfully betray “Heinrich" and obey Kasimir as their new master. (Due to the enchantment animating them, the flameskulls can’t leave the temple.) However, if the flameskulls subsequently encounter Patrina’s spirit in [[#S6c. Amber Vault]], they turn on the players and serve Patrina’s commands faithfully.
 
-
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for Arc T - Dreams of Dawn, as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
