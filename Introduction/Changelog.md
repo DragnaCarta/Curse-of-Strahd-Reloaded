@@ -1,4 +1,4 @@
-# Patch 2.0.11.3 (May 9, 2025)
+# Patch 2.0.12.1 (May 10, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that the siege of Barovia village has been for six days in Arc B
 * Clarified that players wake shortly before dawn in the Village of Barovia to ensure they can participate in Kolyan's funeral in Arc B
@@ -18,6 +18,8 @@
 * Updated Amber Shards with locations of all mentioned shards
 * Added a Barovian relic sidebar for each location that a unique relic responds to a location.
 * Added an infobox detailing that if creative players bring a silverthorn collar to the anti-magic field of the tower, that it will nullify the magic.
+# Update 2.0.12 (May 8, 2025)
+* Added [[Arc T - The Three Fanes]]
 # Hotfix 2.0.11.2 (March 23, 2025)
 * Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
 # Hotfix 2.0.11.1 (March 22, 2025)
