@@ -304,7 +304,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <hr>
 <strong>Armor Class</strong> 15<br>
 <strong>Hit Points</strong> 120 (16d8 + 48)<br>
-<strong>Speed</strong> 30 ft., climb 20 ft.
+<strong>Speed</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
@@ -739,7 +739,7 @@ The vampire attacks if noticed, or if any player enters this area alone.
 ### Butler’s Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K66.</em></span>
 
-This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
+This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, the clutter in the room was not collected by Cyrus, and a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
 
 The vampire attacks if noticed, or if any player enters this area alone.
 # P6. King’s Apartments
@@ -1289,7 +1289,7 @@ The wooden spoon belongs to Cyrus Belview. If the players are visible to the zom
 <p>The figures swivel their heads and eyes toward you, but make no move to attack.</p>
 </div>
 
-Each alcove is occupied by four **zombies**, except for the back-left alcove. In each of the four central alcoves, one of the four zombies is a **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>) with the following modifications:
+Each alcove is occupied by four **zombies**, except for the back-left alcove. In the second and fourth rows, one of the four zombies in each alcove is a **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>) with the following modifications:
 
 * Increase each plague spreader's hit points to 130
 * Decrease the necrotic damage dealt by a plague spreader’s ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.
@@ -1452,12 +1452,29 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 ### North Tower Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. In addition, when the players arrive at this level, read:
+
+<div class="description">
+<p>The landing is flanked by spiral stone stairs, one vanishing into the tower’s peak above, the other descending into the darkness far below. Ten tarnished halberds hang from mounts above the stairs, their rusted steel glinting wickedly with each flash of lightning.</p>
+<p>The flickering red glow seems to emanate from a large, misshapen object hovering at the tower’s hollow center—and as you step foot upon the landing, the light suddenly flares to life. Floating ten feet above the landing is a ten-foot-diameter human heart forged of red crystal, its depths thrumming with a deep, scarlet light. A sliver of utter darkness, no more than a few inches long, swirls slowly within its depths.</p>
+</div>
+
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
+
+ > [!info]+ **The Sliver of Darkness**
+> The sliver of darkness is the vestige of the Devourer, the fourth sister of the three Ladies of the Fanes. Once known as the Dreamer, she grew envious of the love the First Folk bore for her sisters and forsook her place among them, becoming the Devourer. 
+>
+> The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at Yester Hill, but a god cannot fully die. Many years later, the wizards of the Amber Temple came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
+>
+> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in <span class="citation">X33d. Breached Vault (p. 192)</span> and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
+>
+> The Devourer is no willing participant in Strahd’s schemes. However, while entrapped in the Heart of Sorrow, she is powerless to resist his torments.
+
+
 ## P10g. Garrison, Sixth Floor
 ### General’s Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
@@ -1891,7 +1908,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 1 (p.
 
 Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, a player who picks up Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> does not hear a message.
+This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> is not present; instead, it is currently worn by Father Lucian in Vallaki.
 
 In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
 

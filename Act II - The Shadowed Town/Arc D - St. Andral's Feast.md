@@ -335,9 +335,9 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
 > [!combat]- **Balancing the First Bride**
-> Due to the phase mechanic and chokepoint, this is a series of three consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 72% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic and chokepoint, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 48% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Remove the vampire spawn. Volenta flees once her second phase is bloodied.
+> * ***Three Players.*** Remove the vampire spawn.
 > * ***Four Players.*** Decrease the number of vampire spawn to one. 
 > * ***Six Players.*** Increase the number of vampire spawn to three.
 
@@ -575,7 +575,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
 <br>
-<strong>Hit Points</strong> 180 (34d8 + 72)
+<strong>Hit Points</strong> 180 (24d8 + 72)
 <br>
 <strong>Speed</strong> 35 ft.
 <hr>

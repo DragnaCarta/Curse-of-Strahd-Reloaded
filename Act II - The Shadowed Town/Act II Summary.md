@@ -7,6 +7,7 @@ At St. Andral's Church, the players will be tasked with recovering the stolen bo
 Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine with her personally at her family estate, Wachterhaus, seeking to recruit them into a dangerous conspiracy in [[Arc F - Lady Wachter's Wish]]. Meanwhile, Izek Strazni prowls Vallaki's streets for his long-lost sister, Ireena, in [[Arc G - The Strazni Siblings]]. And following a close encounter with the spirit of Erasmus van Richten, the players will be tasked with obtaining a *heartstone* from the night hags of Old Bonegrinder—a mission that ultimately culminates in an ethereal combat with the vengeful ghost of Leo Dilisnya and the recovery of the *Tome of Strahd* in [[Arc H - The Lost Soul]].
 
 Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+
 # Milestones
 The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 

@@ -450,7 +450,7 @@ Unlike their mother, Bella and Offalia are easily distracted. They can be lured 
 
 If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
 
-If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offlia of the players' suspicious visit.
+If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offalia of the players' suspicious visit.
 
 If the players fail to leave, after a brief period of time (during which she reveals nothing of note to the players), Morgantha briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
 
@@ -1190,6 +1190,8 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 <span class="credit">"Stella Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
+
+The following morning, Victor also sends the players the following message with the sending spell: “Come to my home. I have a gift for you.” Upon their arrival, he presents them with the *spirit mirror* from his workroom.
 
 ***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 1,750 XP.
 
