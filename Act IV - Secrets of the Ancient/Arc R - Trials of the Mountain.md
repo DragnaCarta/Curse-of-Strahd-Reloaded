@@ -2326,7 +2326,7 @@ When the players are ready to depart, Diegia and her family wish them farewell. 
 ## R6a. Sangzor's Test
 Upon departing Soldav, Kasimir can guide the players to the hidden trail that leads from the plateau to the Amber Temple.
 
-This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, a half-miled down the path, they automatically notice Sangzor on a crag above them. 
+This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
 
 Modify Sangzor's stats as follows:
 
@@ -2350,8 +2350,3 @@ If Sangzor does not detect any intent to seek the vestiges' power in the players
 Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.
-
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for [[Arc S - A Sword of Sunlight]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
