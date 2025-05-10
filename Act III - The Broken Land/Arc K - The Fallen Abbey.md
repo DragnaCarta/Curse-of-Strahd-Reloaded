@@ -218,7 +218,7 @@ If asked why the Krezkovs appear to be afraid of him, the Abbot insists that the
 
 If further addressed, the Abbot looks briefly stricken and adds sadly, as he inspects a carved figurine of a wolf upon the mantelpiece, “It is true that many instruments of the gods have first rejected their calling. But is it not written that those who refuse to serve the divine become the tools of the divine, while those who serve the divine themselves become the divine?" He murmurs, mournfully, “The choice, I fear, is never an easy one."
 
-Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. “You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
+Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. "You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
 
 <div class="description">
 <p>Through the front door of the cottage, beneath the fresh-falling snow, the young man’s silent silhouette stands wrought in a halo of dark moonlight. Then, within the blink of an eye, the man simply ceases to be; in his place, an eagle taller than a man stands upon the earth, its feathers blending seamlessly with the falling snowflakes. With a powerful flap of its wings, the creature ascends, soaring into the night sky until it vanishes into the depths of the Barovian darkness.</p>

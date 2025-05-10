@@ -12,6 +12,7 @@ As described in <span class="citation">Mists of Ravenloft</span> and <span class
 Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
 # Geography
 The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
+
 # Weather
 Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
 # Calendar
