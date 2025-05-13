@@ -1914,6 +1914,25 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 > * **St. Markovia.** St. Markovia cannot possess a player unless first summoned by means of a seance, as in [[Arc K - The Fallen Abbey]]. (However, if the players failed to redeem the Abbot in [[Arc Q - A Shining Beacon]], the seance fails, and Markovia does not appear.) Once summoned, Markovia is honored by the players’ request, but expresses doubt as to her ability to oppose Strahd, given her defeat at his hands nearly four centuries ago. If reassured, Markovia agrees to inhabit the *Sunsword* and fight alongside them. (*Markovia has a resonance level of 3.*)
 > * **Sir Godfrey Gwilym.** Sir Godfrey’s spirit appears if called within the walls of Argynvostholt. He is honored to fight at the players’ side, and swiftly agrees to inhabit the *Sunsword*. (*Sir Godfrey has a resonance level of 3, or a resonance level of 4 if he has forged a strong bond of friendship with the wielder.*)
 > * **The Recently Deceased.** The players can summon the spirit of any character who has died in Barovia since their arrival by carrying out a seance, as described in [[Arc K - The Fallen Abbey]]. The seance must be carried out near either the character’s place of death or a place that held great meaning to them in life. Certain souls may require additional persuasion, at your discretion. (The spirits of characters who died before the players’ arrival have already been reincarnated, and cannot be summoned by means of a seance.)
+
+> [!info]+ **The Shining Sunlight**
+> The first time the players bind or infuse a soul into the *Sunsword*, read:
+> 
+> ---
+> 
+> The hilt warms in your hands, then turns hot, until it almost burns to hold—but no blisters or burns appear on your flesh. The shattered stump of its hilt flickers, then glimmers, then sears with light, until—slowly—a blade of pure, untainted *radiance* grows forth from the hilt.
+> 
+> The light is gold: a hot, bright gold that doesn't bear looking at, and scaling past it toward white, almost the color of the Sun in the daylit sky. No metal forms that blade; the light itself feels alive, awake, and aware, *looking* at you.^[Inspired by Diane Duane, *A Wizard Abroad*.]
+> 
+> The hilt trembles in your hands, emitting a low, steady hum that heightens in pitch to a sonorous, gleeful *song*. Then—the light withdraws. The burning heat cools. And silence falls—for a moment.
+> 
+> There is a sudden, resonant *burst* of light and song, as a *tower* of golden light bursts from the blade, filling the space all around you. It seeps through every hole and every crack, forming a pillar of radiance that splits the skies overhead. The dark clouds roil, the very heavens trembling beneath its touch. Your shadows stretch out away from it, as if attempting to flee its burning brilliance in vain.
+> 
+> And then—the pillar of radiance recedes. The burning fades to a faint, comforting warmth. The song falls to a faint hum, and then to silence—until all that remains is a blade of pure sunlight atop the sword's platinum hilt.
+> 
+> ---
+> 
+> The pillar of radiance is visible to all creatures in Barovia. Once the *Sunsword* is ignited, Strahd won't leave Castle Ravenloft unless the players are dead.
 # S7. Archmage’s Quarters
 ## S7a. Stair of Wisdom
 <span class="citation">This scene takes place in Chapter 13, Area X5b.</span>
