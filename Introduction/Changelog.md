@@ -1,3 +1,6 @@
+# Patch 2.0.12.2 (May 12, 2025)
+* Revised the Tyrant's final trail in [[Arc T - The Three Fanes]]
+* Added a sequence for igniting the *Sunsword* in [[Arc S - A Sword of Sunlight]]
 # Patch 2.0.12.1 (May 10, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that the siege of Barovia village has been for six days in Arc B

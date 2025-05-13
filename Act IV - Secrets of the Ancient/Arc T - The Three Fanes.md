@@ -461,6 +461,9 @@ Otherwise, if the players disregard their orders to stand down, the guards attac
 ### Wachterhaus
 If the players visit Wachterhaus, proceed to [[#T5. Dreams of Dawn]].
 ## T2c. The Tyrant’s Final Trial
+> [!warning]+ **Modified Scene**
+> This scene has been modified since its original publication. It now occurs only if the players have not yet ignited the *Sunsword* by their first night away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]]. (Strahd won't willingly leave Castle Ravenloft while the players have an ignited *Sunsword*.)
+
 The first night the players spend away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]], Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. 
 
 Upon locating them, he dismisses Beucephalus into the Ethereal Plane, then attempts to drive the players into the open or obtain an invitation into their resting place, as described in [[#Arc R - Trials of the Mountain#Strahd’s Greeting|The Tyrant’s First Trial]]. If he successfully does so, Strahd congratulates the players for avoiding him during their stay on Mt. Ghakis (e.g., due to Soldav’s protective enchantments and the roc’s protection). “Nevertheless," he says coldly, “such cowardice violated the rules of our game—and so I have come to collect your penalty."
