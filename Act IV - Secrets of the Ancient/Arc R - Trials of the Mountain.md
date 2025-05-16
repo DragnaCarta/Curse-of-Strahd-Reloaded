@@ -1802,6 +1802,9 @@ Pause for a moment to allow the players an opportunity to interject. If no playe
 A player who investigates the rectangular foundation of the main hall finds a crumbling hearth set into the sole remaining wall, as well as an assortment of collapsed timber beams rotted into long mounds, a number of rusted iron fittings and hinges, and an assortment of stones that have fallen from the wall where the snow and wind eroded the mortar connecting them.
 
 Investigation of the row of stonework reveals a few post holes where the stable’s main supports once stood. Nothing further remains of the storage shed.
+
+![[The-Twin-Falls_4k_NoGrid_40x50_82PPI_Frozen_Snow.jpg]]
+<span class="credit">"Twin Falls" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/901b225d88">here!</a></span>
 ### The Shrine
 When a player approaches the shrine, read:
 
