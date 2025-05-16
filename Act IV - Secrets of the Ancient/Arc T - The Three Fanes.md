@@ -1747,7 +1747,7 @@ Each sphere of light is a *boon of the Huntress.* There are enough boons for eac
 A player can claim their *boon of the Huntress* by grasping or touching it. If they do, read:
 
 <div class="description">
-<p>A small, black tattoo in # T5. A Light in the Darks head appears in the palm of your hand.</p>
+<p>A small, black tattoo in the shape of a wolf's head appears in the palm of your hand.</p>
 </div>
 
 > [!item]+ **Boon of the Huntress**
