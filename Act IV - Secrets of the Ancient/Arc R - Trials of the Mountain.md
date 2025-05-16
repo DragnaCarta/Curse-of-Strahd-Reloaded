@@ -268,7 +268,7 @@ If any of the players attack him or attempt to stop him from enacting his penalt
 Before departing, whether the players name sufficient penalties or not, Strahd informs them that they have "worn his patience thin." "I once found your boldness amusing," he adds, "but the thread of your lives grows thin." He informs the players that he will need new servants to replenish those he lost in the players’ raid; to this end, he shall visit them nightly to see which among them are worthy of a place in his court and which "are worthy only of a place among my legions—or the worms that writhe in the earth." His form then bursts into a swarm of thousands of bats, which ascend into the sky and fly for Castle Ravenloft to the east.
 
 > [!info]+ **The Tyrant’s Trials**
-> From this point on, until the end of [[Arc T - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc T - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
+> From this point on, until the end of [[Arc S - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc S - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
 # R3. Town of Vallaki
 ## R3a. Purchasing Cold-Weather Clothing
 The players can purchase cold-weather clothing from <span class="citation">N5. Arasek Stockyard (p. 115)</span> at a price of 10gp per set. If they do, Gunther Arasek asks curiously if the players are "planning a trip to Krezk," adding offhandedly that winter is "a month off yet." (Gunther is just curious, and is trying to make smalltalk. If told that the players expect to journey to Mt. Ghakis, he scoffs and warns them that "there’s nothing on those mountain slopes but barbarians, ice, and death.")
@@ -912,7 +912,7 @@ In addition, increase the number of petrified vrocks to four. (If present, Kasim
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
-The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T4. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
 ## R4f. The Tyrant’s Second Trial
 No matter where the players choose to rest, the blizzard comes to an end shortly after they begin their long rest. Read:
 
@@ -1354,7 +1354,7 @@ If the players enter the cave, read:
 > *Ragged, filthy robes cloak this creature’s hunched, skeletal frame. Its arms and legs are long, thin, and bony, ending in elongated, claw-like fingers and twisted, knobbly feet. Its head is a hollow, mask-like visage, its mouth a gaping black maw and its eyes a pair of voidlike sockets.*
 
 > [!info]+ **Disturbing the Bodaks**
-> If the players declare an intention to move quietly down the corridor and succeed on a DC 15 group Dexterity (Stealth) check, the two **bodaks** in [[#The Black Maze]] are dormant when the players first enter. If the players don’t declare such an intention, or if the players fail the check, the bodaks are active when the players first enter.
+> If the players declare an intention to move quietly down the corridor and succeed on a DC 15 group Dexterity (Stealth) check, the two **bodaks** are dormant when the players first enter. If the players don’t declare such an intention, or if the players fail the check, the bodaks are active when the players first enter.
 
 > [!info]+ **The Stalking Bodaks**
 > When dormant, the bodak that was once Cassius dwells in [[#The Western Nest]], while the bodak that was once Deirdre dwells in [[#The Room of Regret]].
