@@ -79,6 +79,9 @@ When the players enter the cottage’s front door, read:
 
 Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
 
+![[Anna_and_Dmitri_Krezkov_transparent.png]]
+<span class="credit">"Anna and Dmitri Krezkov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!profile]+ **Profile: Baroness Anna Krezkova**
 > **Roleplaying Information**
 > ***Resonance.*** Anna should inspire gratitude and comfort with her kindness and hospitality, mild irritation with her no-nonsense attitude, and (when the players learn of it) sympathy and endearment for her promise to the Abbot.
