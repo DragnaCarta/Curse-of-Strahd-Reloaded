@@ -1610,10 +1610,10 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 <p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
 <p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
 <p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong>Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
+<p><strong><em>Charm Bracelet.</em></strong> Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong>Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong>Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
+<p><strong><em>Hat of Disguise.</em></strong> Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
+<p><strong><em>Lucid Lens.</em></strong> Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
 <h3>Bonus Actions</h3>
 <p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
 <p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
