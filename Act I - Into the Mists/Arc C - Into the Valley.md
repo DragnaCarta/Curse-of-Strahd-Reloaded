@@ -116,7 +116,7 @@ Whether Ireena is with the party or not, add:
 >
 >  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
 >  
->  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fixate their gazes on the rude player. 
+>  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fix their gazes on the rude player. 
 >  
 >  The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
 >  
@@ -238,7 +238,7 @@ The greater strix is joined by two **swarms of lesser strix** (each using the st
 > [!combat]- **Balancing the Strix**
 > This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> * ***Three Players.*** Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (2d4) piercing damage if it has half its hit points remaining or fewer.
+> * ***Three Players.*** Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer.
 > * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
 > * ***Six Players.*** Increase the number of swarms of lesser strix to three.
 

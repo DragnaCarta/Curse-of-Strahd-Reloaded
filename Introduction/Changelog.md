@@ -1,3 +1,7 @@
+# Hotfix 2.0.12.3 (May 16, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Updated chapter name "Dreams of Dawn" to [[Arc T - The Three Fanes#T5. A Light in the Dark|T5. A Light in the Dark]]
+* Updated the *Indomitable* feature across all relevant statblocks
 # Patch 2.0.12.2 (May 12, 2025)
 * Revised the Tyrant's final trail in [[Arc T - The Three Fanes]]
 * Added a sequence for igniting the *Sunsword* in [[Arc S - A Sword of Sunlight]]

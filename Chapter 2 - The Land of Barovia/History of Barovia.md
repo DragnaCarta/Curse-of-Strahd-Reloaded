@@ -26,7 +26,7 @@ Though the First Folk were the first to claim the valley, they were far from the
 
 When the forces of evil sought to claim the vestiges’ power for their own, the wizards resolved to guard the Temple themselves, and built a road from the Temple through the mountains to import supplies. To protect it, they constructed the defenses described in <span class="citation">T1. Gatehouse Portcullis</span>, <span class="citation">T2. Demon Statues</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span> along the winding Tsolenka Pass. 
 
-However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The lone survivor—an archmage named Neferon—was transfigured to an immortal, monstrous form and settled in to guard his “hoard.”
+However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. One survivor—an archmage named Neferon—was transfigured to an immortal, monstrous form and settled in to guard his “hoard.”
 ## Fall of the First Folk
 The seven tribes of the First Folk kept largely apart from one another until, one day, a young, impulsive warrior named Kavan entered the Whispering Wall, eager to set foot within its forbidden mists. In the fog, Kavan saw greatness—*his* greatness—and emerged with a deep and terrible ambition.
 
