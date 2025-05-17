@@ -6,6 +6,6 @@ The players' only respite lies in the hidden Mountain Folk village of Soldav. Th
 
 In [[Arc S - A Sword of Sunlight]], the players delve into the darkness of the Amber Temple, seeking to resist its shadows and corruption long enough to obtain the hidden hilt of the *Sunsword*, which Patrina Velikovna sealed long ago within the amber sarcophagus of the Vampyr. Upon retrieving the hilt and defeating Patrina's wrathful spirit, the players must empower the broken sword by conjuring the spirit of Sergei von Zarovich from the mists.
 
-After learning how to contact the spirits of the Ladies Three from the ghost Exethanter, the players return to Soldav in [[Arc T - The Cavern of Lights]]. There, the spirits of the Weaver and Huntress can share that the three Fanes may be reconsecrated by obtaining the three enchanted gems of the Wizard of Wines winery and reigniting the magic that lies within. 
+After learning how to contact the spirits of the Ladies Three from the ghost Exethanter, the players return to Soldav in [[Arc T - The Three Fanes]]. There, the spirits of the Weaver and Huntress can share that the three Fanes may be reconsecrated by obtaining the three enchanted gems of the Wizard of Wines winery and reigniting the magic that lies within. 
 
 This act ends when the players descend Mt. Ghakis and return to the valley below.

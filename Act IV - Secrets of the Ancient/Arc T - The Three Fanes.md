@@ -32,7 +32,7 @@ The players can gain access to Soldav as described in [[Arc R - Trials of the Mo
 
 Como is glad to see the players, and anxiously asks for news of Diona and her companions. (Como, who had previously hoped to court Meda, is especially dismayed to hear of her fate.)
 
-Como is glad to lead the players to [[#T1b. The Shrine of the Rozana]] to speak with Elder Burebis regarding the *rite of channelled divinity*, or to lead them to [[Arc R - Trials of the Mountain#R5d. Chief’s Longhouse|R5d. Chief’s Longhouse]] if they wish to rest after their time at the Amber Temple. (When the players arrive at the longhouse, Oroles is stacking firewood near the hearth while Diegia is out settling a minor dispute regarding the ownership of a baby goat. Oroles is glad to hear of Diona’s good health, but mourns the fates of Meda and Duras. “They knew the risks," he says, “but our people are worse for their loss.")
+Como is glad to lead the players to [[#T1b. The Shrine of the Rozana]] to speak with Elder Burebis regarding the *rite of channelled divinity*, or to lead them to [[Arc R - Trials of the Mountain#R5d. Chief's Longhouse|R5d. Chief’s Longhouse]] if they wish to rest after their time at the Amber Temple. (When the players arrive at the longhouse, Oroles is stacking firewood near the hearth while Diegia is out settling a minor dispute regarding the ownership of a baby goat. Oroles is glad to hear of Diona’s good health, but mourns the fates of Meda and Duras. “They knew the risks," he says, “but our people are worse for their loss.")
 ## T1b. The Shrine of the Rozana
 When the players return to the Shrine of the Rozana, they find it largely as described in [[Arc R - Trials of the Mountain#R5f. The Shrine of the Rozana]|R5f. The Shrine of the Rozana]]. However, when the players first greet or look for Elder Burebis, read:
 
@@ -459,14 +459,14 @@ If the players attempt to openly free Blinsky or Bluto from the stocks, the guar
 
 Otherwise, if the players disregard their orders to stand down, the guards attack any character who attempts to free either man from the stocks, seeking to knock them unconscious and bring them to Wachterhaus for questioning. If one guard is knocked unconscious or killed, the surviving guard surrenders or flees, respectively.
 ### Wachterhaus
-If the players visit Wachterhaus, proceed to [[#T5. Dreams of Dawn]].
+If the players visit Wachterhaus, proceed to [[#T5. A Light in the Dark]].
 ## T2c. The Tyrant’s Final Trial
 > [!warning]+ **Modified Scene**
 > This scene has been modified since its original publication. It now occurs only if the players have not yet ignited the *Sunsword* by their first night away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]]. (Strahd won't willingly leave Castle Ravenloft while the players have an ignited *Sunsword*.)
 
 The first night the players spend away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]], Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. 
 
-Upon locating them, he dismisses Beucephalus into the Ethereal Plane, then attempts to drive the players into the open or obtain an invitation into their resting place, as described in [[#Arc R - Trials of the Mountain#Strahd’s Greeting|The Tyrant’s First Trial]]. If he successfully does so, Strahd congratulates the players for avoiding him during their stay on Mt. Ghakis (e.g., due to Soldav’s protective enchantments and the roc’s protection). “Nevertheless," he says coldly, “such cowardice violated the rules of our game—and so I have come to collect your penalty."
+Upon locating them, he dismisses Beucephalus into the Ethereal Plane, then attempts to drive the players into the open or obtain an invitation into their resting place, as described in [[Arc R - Trials of the Mountain#Strahd’s Greeting|The Tyrant’s First Trial]]. If he successfully does so, Strahd congratulates the players for avoiding him during their stay on Mt. Ghakis (e.g., due to Soldav’s protective enchantments and the roc’s protection). “Nevertheless," he says coldly, “such cowardice violated the rules of our game—and so I have come to collect your penalty."
 
 Strahd informs the players that, for each night they escaped his “game," he will claim one of them as a vampire spawn—tonight. (For example, if the players spent two nights in Soldav and were protected by the roc of Mt. Ghakis for an additional night, Strahd intends to claim three players as vampire spawn tonight.)
 
@@ -542,9 +542,9 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 > [!info]+ **The Hedge Maze**
 > The hedge maze has ten “rooms," as shown on the map above: 
 >
-> * [[#T3b. Town Green]], comprising the town green between <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) and <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages))
-> * [[#T3c. Northern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) 
-> * [[#T3d. Southern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages) 
+> * [[#T3d. Town Green]], comprising the town green between <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) and <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages))
+> * [[#T3b. Northern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) 
+> * [[#T3c. Southern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages) 
 > * [[#T3e. Churchyard]], comprising <span class="citation">U4. Churchyard (p. 164)</span>
 > * [[#T3f. Marina’s Monument]], comprising <span class="citation">U5. Marina’s Monument (p. 164)</span>
 > * [[#T3h. Goat Pen]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (goat pen only)
@@ -559,16 +559,16 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 
 > [!info]+ **Light in the Maze**
 > Except in [[#T3k. Baba Lysaga’s Hut]], no natural or artificial light illuminates the interior of the hedge maze, leaving all rooms in darkness unless illuminated by the players.
-## Tbc. Northern Cottages
+## T3b. Northern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
 Three ten-foot-wide passages lead from this chamber:
 
 * One to the northeast, which leads to [[#T3a. Berez Outskirts]]
-* One along the southeast wall, which leads to [[#T3b. Town Green]]
+* One along the southeast wall, which leads to [[#T3d. Town Green]]
 * One to the southwest, which leads to [[#T3e. Churchyard]]
 ## T3c. Southern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon’s Manor#The Witch’s Harvest|Arc M - The Dragon’s Manor]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
+This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 ## T3d. Town Green
 When the players enter this area, read:
 
@@ -578,7 +578,7 @@ When the players enter this area, read:
 
 This room is filled by a marsh of stagnant water two feet deep. The water is difficult terrain.
 
-Seven bloated, distended human corpses float in the darkened mire, with six spread in a circle around the edges of the room and a seventh placed in the room’s center. One corpse lies fifty feet from the corridor leading to [[#T3c. Northern Cottages]], while another lies fifty feet from the corridor leading to [[#T3d. Southern Cottages]]. If the players’ light source or darkvision illuminates one of these corpses, read:
+Seven bloated, distended human corpses float in the darkened mire, with six spread in a circle around the edges of the room and a seventh placed in the room’s center. One corpse lies fifty feet from the corridor leading to [[#T3b. Northern Cottages]], while another lies fifty feet from the corridor leading to [[#T3c. Southern Cottages]]. If the players’ light source or darkvision illuminates one of these corpses, read:
 
 <div class="description">
 <p>Fifty feet away, something floats in the fetid water.</p>
@@ -600,7 +600,7 @@ The sounds of combat awaken any other walking corpses within the room. Once awak
 
 Two ten-foot-wide passages lead from this chamber:
 
-* One to the northwest, which leads to [[#T3c. Northern Cottages]]
+* One to the northwest, which leads to [[#T3b. Northern Cottages]]
 * One to the southeast, which leads to [[#T3c. Southern Cottages]]
 ## T3e. Churchyard
 This area is largely as described in <span class="citation">U4. Churchyard</span>. However, add the following to the end of this area’s description:
@@ -615,7 +615,7 @@ If the wisps detect the players, they turn invisible using their ***invisibility
 
 Three ten-foot-wide passages lead from this chamber:
 
-* One to the north, which leads to [[#T3c. Northern Cottages]]
+* One to the north, which leads to [[#T3b. Northern Cottages]]
 * One to the south, which leads to [[#T3g. Manor Cellar]]
 * One to the southwest, which leads to [[#T3f. Marina’s Monument]]. (A faint golden glow emanates from this passage.)
 ## T3f. Marina’s Monument
@@ -719,7 +719,7 @@ If confronted or pressed, Sergei can reluctantly share the following additional 
 * If he has previously met Ireena Kolyana, he believes her to be the third incarnation of Tatyana’s spirit. (Sergei won’t admit this willingly, and will, at most, admit it by muted silence if the players suggest it, his eyes downcast).
 
 > [!info]+ **Ireena’s Response**
-> If informed that Sergei believes her to be Tatyana’s reincarnation, Ireena pales, her face growing stony. She then steps away from the party to wrestle with Sergei’s words. (If she still possesses it, she retrieves [[Arc B - Welcome to Barovia#B5j. Lugdana’s Knoll|Tatyana’s bracelet]] from her belongings and turns it over in her hands, staring silently at the inscription engraved inside it.)
+> If informed that Sergei believes her to be Tatyana’s reincarnation, Ireena pales, her face growing stony. She then steps away from the party to wrestle with Sergei’s words. (If she still possesses it, she retrieves [[Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Tatyana’s bracelet]] from her belongings and turns it over in her hands, staring silently at the inscription engraved inside it.)
 >
 > If approached, Ireena, who is grateful for any insights, reassurance, and guidance the players can provide, can share that she is struggling with the implications of Sergei’s tale. “If my soul is Tatyana’s," she whispers, fists clenched, “am I even *me*? Has my life just been a cosmic play—some paler imitation of a woman who came before me, who *meant* more than me? Has anything I’ve ever done even *meant* anything?"
 >
@@ -798,24 +798,24 @@ The three dolls, which were crafted and left here by Baba Lysaga, have the stati
 
 * Each carrionette has vulnerability to fire damage.
 * Each carrionette has +6 to Deception rolls.
-* A creature that fails its saving throw against a carrionette's ***silver needle*** attack isn’t cursed. Instead, that creature automatically suffers the effects of the carionette’s ***soul swap*** action without making an additional saving throw.
+* A creature that fails its saving throw against a carrionette's ***silver needle*** attack isn’t cursed. Instead, that creature automatically suffers the effects of the carrionette’s ***soul swap*** action without making an additional saving throw.
 * A creature affected by a carrionette's ***soul swap*** action doesn’t fall unconscious. Instead, both the carrionette and its target fall unconscious until the start of the carrionette's next turn. (While unconscious, a carrionette appears to be dead.) The carrionette then gains control of the target’s body, and the target gains control of the carrionette's body. (While in this state, the target can’t speak.)
 
 The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
 
-> [!info]+ **Roleplaying a Carionette**
-> If a carionnette successfully gains control of a player’s body, provide that player the following information:
+> [!info]+ **Roleplaying a Carrionette**
+> If a carrionnette successfully gains control of a player’s body, provide that player the following information:
 >
 > ---
 >
-> You have swapped souls with a carionnette. Your soul now resides in the carionnette’s body, and the carionnette’s soul resides in yours.
+> You have swapped souls with a carrionnette. Your soul now resides in the carrionnette’s body, and the carrionnette’s soul resides in yours.
 >
-> While your body is possessed, you should roleplay the carionnette’s soul as follows:
+> While your body is possessed, you should roleplay the carrionnette’s soul as follows:
 >
 > * You want to deceive your companions into believing that your soul hasn’t been swapped. 
 > * You can’t easily control your childlike behavior, such as giggles at inopportune moments, a deep fascination with interesting objects, and a simple, black-and-white “morality."
 > * If your deception fails, you attempt to flee. 
-> * If captured and interrogated, you claim that your ***soul swap*** is irreversible, and that no act or magic can restore the target’s soul to its body. (While doing so, you then glance nervously toward the carionnette’s physical body—and, if present, its silver needle.
+> * If captured and interrogated, you claim that your ***soul swap*** is irreversible, and that no act or magic can restore the target’s soul to its body. (While doing so, you then glance nervously toward the carrionnette’s physical body—and, if present, its silver needle.
 
 A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
 ## T3h. Goat Pen
@@ -823,7 +823,7 @@ This area is largely as described in <span class="citation">U2. Ulrich Mansion (
 
 Two ten-foot-wide passages lead from this chamber, whose walls are flush with the edges of the goat pen:
 
-* One to the east, which leads to [[#T3d. Southern Cottages]]
+* One to the east, which leads to [[#T3c. Southern Cottages]]
 * One to the southwest, which leads to [[#T3i. Garden]]
 ## T3i. Garden
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
@@ -1331,7 +1331,7 @@ If the players make themselves known, add:
 
 Arturi is deeply grateful for the players’ presence. He can share the following information:
 
-* Since he and the players first met in [[#C4c. Vistani Hospitality]], he has continued his efforts to search the valley for Dr. Rudolph van Richten, hoping that "the good doctor" may hold the secret to curing what ails him. (Arturi’s mouth twists as he says the phrase “the good doctor.")
+* Since he and the players first met in [[Arc C - Into the Valley#C4c. Vistani Hospitality|C4c. Vistani Hospitality]], he has continued his efforts to search the valley for Dr. Rudolph van Richten, hoping that "the good doctor" may hold the secret to curing what ails him. (Arturi’s mouth twists as he says the phrase “the good doctor.")
 * If asked, Arturi shares that his "ailment" is a curse: that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "Luvash and Arrigal have taken on a terrible danger in sheltering me," he says, wincing. “No matter the outcome of our meeting, I must be gone from their wagons before nightfall."
 * Arturi prefers not to share the cause of his "ailment" before meeting Dr. Van Richten. However, a player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that "a man once vowed that undead shall take me." Arturi chuckles weakly. "Although they have not yet succeeded, they have never failed to try." He then coughs, adding, "Please, I must see Dr. Van Richten. His life may be in urgent danger, as well as mine."
 
@@ -1610,10 +1610,10 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 <p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
 <p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
 <p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong>Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
+<p><strong><em>Charm Bracelet.</em></strong> Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong>Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong>Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
+<p><strong><em>Hat of Disguise.</em></strong> Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
+<p><strong><em>Lucid Lens.</em></strong> Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
 <h3>Bonus Actions</h3>
 <p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
 <p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
@@ -1747,7 +1747,7 @@ Each sphere of light is a *boon of the Huntress.* There are enough boons for eac
 A player can claim their *boon of the Huntress* by grasping or touching it. If they do, read:
 
 <div class="description">
-<p>A small, black tattoo in the shape of a wolf’s head appears in the palm of your hand.</p>
+<p>A small, black tattoo in the shape of a wolf's head appears in the palm of your hand.</p>
 </div>
 
 > [!item]+ **Boon of the Huntress**
@@ -1768,7 +1768,7 @@ A player can claim their *boon of the Huntress* by grasping or touching it. If t
 > The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional property: If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. In addition, the spear’s wielder can use a bonus action to cause emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While ignited in this way, the spear also gains the properties of a *mace of disruption*.
 
 ***Milestone.*** Reconsecrating the Forest Fane completes a story milestone. When the players claim the *boon of the Huntress*, award each player 5,500 XP.
-# T5. Dreams of Dawn
+# T5. A Light in the Dark
 > [!info]+ **Where’s Lucian?**
 > After arresting Father Lucian at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation">N4t. Cult Headquarters (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. The Ritual]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep Lucian alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
 
