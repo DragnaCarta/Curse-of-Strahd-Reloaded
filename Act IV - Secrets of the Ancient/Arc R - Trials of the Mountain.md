@@ -1490,7 +1490,7 @@ Otherwise, if the players entered it via [[#The Room of Regret]], add:
 
 This tunnel leads to [[#The Trash Heap]].
 
-***Treasure.*** A player who investigates the nest finds an old *adventurer’s pack* containing, in addition to its ordinary contents, 12 bloodstained platinum pieces and 56 gold pieces. The pack also contains an old, torn parchment letter. It reads:
+***Treasure.*** A player who investigates the nest finds an old *explorer’s pack* containing, in addition to its ordinary contents, 12 bloodstained platinum pieces and 56 gold pieces. The pack also contains an old, torn parchment letter. It reads:
 
 <div class="description">
 <p>Cassius,</p>
@@ -1549,6 +1549,7 @@ If a player enters this chamber, read:
 <p>The opening leads to a small stone cavern no more than twelve feet across and approximately ten feet high. Its walls, sheathed in ice, form a natural mirror, reflecting your blurry, fractured silhouette across every angle as you pass inside. Every sound here seems amplified, bouncing off the frozen surfaces with an eerie, echoing clarity.</p>
 <p>An enormous, lone icicle hangs from the center of the ceiling, easily three feet tall and ten inches wide at the base. A deep, pulsating red light flickers from something frozen inside of it.</p>
 </div>
+
 ![[Frozen-Vault.png]]
 <span class="credit">"The Frozen Vault" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
@@ -2006,7 +2007,7 @@ As the players enter Soldav, read:
 
 <div class="description">
 <p>The tunnel opens into a mountain crater perhaps a thousand feet across, its walls rising steeply around you like a giant bowl. Snow blankets the ground here in soft layers, broken by a rocky central avenue that splits off into dozens of smaller paths and trails crisscrossed by footprints and animal tracks.</p>
-<p>Nearly two-dozen wooden huts rise from the snow along the crater's edges, their pitched roofs heavy with frost. Elevated stone and wooden terraces, accessible by narrow ledges or wooden ladders, provide access to additional structures hewn from the stone of the crater itself. Other terraces, sown with soil and carefully cleared of any snow, host hardy crops and herbs that sprout defiantly from the frozen earth.</p>
+<p>Nearly two-dozen wooden huts rise from the snow along the crater's edges, their pitched roofs heavy with frost. Elevated stone and wooden terraces, accessible by narrow ledges or wooden ladders, provide access to additional structures hewn from the stone of the crater itself. Other terraces, their recently sown soil carefully cleared of snow, host hardy crops and herbs that sprout defiantly from the frozen earth.</p>
 <p>Across the crater, wooden palisades encircle small pens where handfuls of goats bleat softly. The rocky, muddy central "road" winds between them, ending at a larger longhouse built against the far side of the crater. Smoke curls lazily from its chimney, vanishing amidst a thick layer of white fog that covers the crater's top like a lid.</p>
 <p>The village hums with quiet activity—but at your approach, the rhythm of daily life slows, then falters. A young girl leading a pair of goats toward one of the pens freezes, clutching the animals' ropes with wide eyes, while a trio of men splitting logs lower their axes, murmuring to one another in hushed tones. A group of playing children atop a wooden terrace pause, then stare at you with rapt fascination, while an elderly man sharpening an iron blade stop his hut's wooden step spares only a quiet, wary scowl. Above you, a pair of adolescent sentries peer down curiously from a set of ramshackle wooden scaffolding, a shortbow slung loosely over each teen's shoulder.</p>
 </div>
@@ -2144,7 +2145,7 @@ Following the story, Oroles returns to Chief Diegia’s table, removing his head
 Oroles and Diegia can share the following information about Oroles’ story if asked:
 
 * Millenia ago, the Tauta were a group of nomadic tribes seeking sanctuary amidst a world torn by war and conflict. According to legend, the Ladies Three guided them to the valley—Girvisa, now called Barovia—where the Tauta found a home of peace and plenty.
-* According to the story, the valley held a hidden darkness: the Devourer , an entity of dark fog and endless hunger. Enraged by the arrival of the Tauta, the Devourer rose up and blotted out the skies, threatening to extinguish all light in the valley. Only the Ladies
+* According to the story, the valley held a hidden darkness: the Devourer , an entity of dark fog and endless hunger. Enraged by the arrival of the Tauta, the Devourer rose up and blotted out the skies, threatening to extinguish all light in the valley. Only the Ladies held the power to stop it; together, they rose up to destroy it, thereby returning life and light to the valley.
 * None among the Tauta fully know the Ladies’ true nature, be it fey, divine, primordial, or something else altogether. However, for as long as the Tauta have dwelled in the valley or amidst the surrounding mountains, they have placed their faith in the Ladies to guide them—"even now," Diegia says solemnly, "centuries after we have last heard their voices."
 * No one knows what the Devourer was, where it came from, or where its endless hunger came from. However, according to the legend, the Whispering Wall that has long towered above the west side of Yester Hill rose from—or is all that remains of—the Devourer’s corpse. (Oroles proceeds to ask, offhandedly, whether the players have seen Yester Hill and the Whispering Wall.)
 

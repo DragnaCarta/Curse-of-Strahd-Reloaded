@@ -162,7 +162,7 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 > [!lore]+ **The Pack's Dispensation**
 > Long ago, before he entered his most recent hibernation more than a century ago, Strahd granted Barovia's werewolf pack his standing permission to depart Barovia through the Mists freely. The pack retains this special dispensation today under Kiril's leadership.
 
-Once she has obtained any useful materials from her wagon, Ezmerelda advises the players that they will need to stake out the den until the pack has departed for the night, then move quickly to determine whether Ilya Krezkov is imprisoned inside. (If the players suggest a direct assault, Ezmerelda wryly advises them that challenging a pack of nearly a dozen werewolves and half again as many ordinary wolves would be a fool’s errand at best, and suicidal at worst.
+Once she has obtained any useful materials from her wagon, Ezmerelda advises the players that they will need to stake out the den until the pack has departed for the night, then move quickly to determine whether Ilya Krezkov is imprisoned inside. (If the players suggest a direct assault, Ezmerelda wryly advises them that challenging a pack of nearly a dozen werewolves and half again as many ordinary wolves would be a fool’s errand at best, and suicidal at worst.)
 # L3. Svalich Woods
 As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in the Svalich Wood to the west of Lake Baratok. Read:
 

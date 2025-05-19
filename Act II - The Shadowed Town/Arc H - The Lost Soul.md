@@ -567,7 +567,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
 <p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of <strong>The Nightmare Three</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form. Any spells requiring concentration end.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
@@ -1226,9 +1226,11 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
 <p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
 
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc T - The Amber Temple]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc S - A Sword of Sunlight]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
 
 Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
+
+***Milestone.*** Obtaining the *Tome of Strahd* completes a story milestone. When the players obtain the tome, award each player 750 XP.
 
 > [!abstract]+ **The Symbol**
 >

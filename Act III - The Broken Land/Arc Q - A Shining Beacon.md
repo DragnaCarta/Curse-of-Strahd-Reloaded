@@ -1001,7 +1001,7 @@ The first time the players enter the cemetery, if they’re not using stealth or
 <strong>Damage Resistances</strong> necrotic, psychic<br>
 <strong>Damage Immunities</strong> Poison<br>
 <strong>Condition Immunities</strong> Charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
 <strong>Languages</strong> Common, Draconic<br>
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
