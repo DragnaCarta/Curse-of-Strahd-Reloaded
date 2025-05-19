@@ -1677,7 +1677,7 @@ If asked, Patrina is glad to further boast of her plans:
 <p>Kasimir flinches—and then hesitates, his gaze not quite meeting yours.</p>
 </div>
 
-The players can try to discourage Kasimir from accepting Patrina’s offer. If they do, Patrina makes any or all of the following arguments, which the players may attempt to rebut. Each time the players dispute one of Patrina’s arguments or make an affirmative argument of their own, have one of the arguing players make a DC 17 Charisma (Persuasion) check contested by Patrina’s roll. The player makes the roll with advantage if their argument has a particularly strong logical or emotional appeal.
+The players can try to discourage Kasimir from accepting Patrina’s offer. If they do, Patrina makes any or all of the following arguments, which the players may attempt to rebut. Each time the players dispute one of Patrina’s arguments or make an affirmative argument of their own, have one of the arguing players make a DC 17 Charisma (Persuasion) check. The player makes the roll with advantage if their argument has a particularly strong logical or emotional appeal.
 
 Patrina might make one or more of the following arguments (in any order), moving to a new argument each time her previous argument succeeds or fails:
 
