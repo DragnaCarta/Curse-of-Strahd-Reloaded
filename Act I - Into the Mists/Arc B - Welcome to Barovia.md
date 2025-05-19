@@ -1,8 +1,5 @@
 *An adventure for five 3rd-level characters.*
 
-> [!warning]+ **Recent Update**
-> This arc was substantially revised on July 19, 2024. To access the deprecated version of this arc, visit [[Deprecated Material/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] in the Deprecated Materials appendix.
-
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When the players arrive at the barricades, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.
 
 At the Blood of the Vine Tavern, the players learn that the village has been under attack by Strahd’s undead horde each night for the past six nights—and that the horde is expected to return at dusk. In exchange for food, shelter, and information, Ismark asks the players to take up arms alongside the Barovians and prepare to defend the village’s fortifications against the onslaught of the dead.

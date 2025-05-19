@@ -1,3 +1,7 @@
+# Hotfix 2.0.12.4 (May 19, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that the coven's concentration spells stop when they change to phase 2 in [[Arc H - The Lost Soul]]
+* Added fire vulnerability to the **lesser strix** in line with the **greater strix** in [[Arc C - Into the Valley]]
 # Hotfix 2.0.12.3 (May 16, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Updated chapter name "Dreams of Dawn" to [[Arc T - The Three Fanes#T5. A Light in the Dark|T5. A Light in the Dark]]
