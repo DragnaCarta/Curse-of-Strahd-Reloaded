@@ -651,7 +651,7 @@ The journey from the crossroads to the castle gates is two and one-half miles lo
 
 The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
 
-Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by six **wights**, while six **vampire spawn** cling to the inner walls of the keep. If Volenta Popfsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
+Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popfsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
 
 The wights and vampires attack any players who enter the courtyard. In combat, the undead aim to knock all of the players unconscious, then bring their unconscious bodies to Strahd.
 ## U5b. Ascending the Keep
