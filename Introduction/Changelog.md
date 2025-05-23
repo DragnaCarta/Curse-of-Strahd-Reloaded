@@ -1,3 +1,6 @@
+# Update 2.1 (May 23, 2025)
+* Added [[Arc U - Dreams of Dawn]]
+* Removed Strahd's Castle Ravenloft lair actions
 # Hotfix 2.0.12.4 (May 19, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that the coven's concentration spells stop when they change to phase 2 in [[Arc H - The Lost Soul]]

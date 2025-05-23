@@ -2071,8 +2071,3 @@ A player can claim their *boon of the Seeker* by grasping or touching it. If the
 > A player who succeeds on a DC 10 Intelligence (Nature) check identifies the sapling as an ash tree.
 
 ***Milestone.*** Reconsecrating the Mountain Fane completes a story milestone. When the players claim the *boon of the Seeker*, award each player 5,500 XP.
-
-> [!tip] You've Reached the End of the Mists
-> You’ve reached the end of the current public release of the *Curse of Strahd: Reloaded* guide.
-> 
-> To get a sneak peek at drafts for ***Arc U - The Curse of Strahd***, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta)!
