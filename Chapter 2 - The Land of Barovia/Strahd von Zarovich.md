@@ -243,15 +243,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Misty Step.</em></strong> In response to taking damage, Strahd casts <em>misty step</em>.</p>
 <p><strong><em>Blindness/Deafness.</em></strong> In response to taking damage from a melee attack, Strahd casts <em>blindness/deafness</em> (DC 20) against the attacker. A creature that fails its saving throw against the spell takes an additional <span class="highlight">7 (2d6) necrotic damage</span>.</p>
 <h3>Lair Actions</h3>
-<p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p>
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Scatter.</em></strong> The air quivers around up to three creatures of Strahd's choice that he can see within <span class="highlight">60 feet</span>. Each creature must succeed on a <span class="highlight">DC 20 Wisdom saving throw</span> or be teleported to an unoccupied space on the ground or floor that Strahd can see within 60 feet of him.</p>
-<p><strong><em>Fiery Sphere.</em></strong> A <span class="highlight">10-foot diameter</span> sphere of fire appears in an unoccupied space of Strahd's choice within <span class="highlight">60 feet</span> that he can see until initiative count 20 on the following round. Any creature that starts its turn within <span class="highlight">5 feet</span> of the sphere must succeed on a <span class="highlight">DC 20 Dexterity saving throw</span> or take <span class="highlight">14 (4d6) fire damage</span>. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a <span class="highlight">30-foot radius</span> and dim light for an additional <span class="highlight">30 feet</span>.</p>
-<!-- Fane Lair Actions Section -->
-<h3>Lair Actions of the Fanes</h3>
-<p>While outdoors, if the players have not yet reconsecrated the Swamp Fane, Strahd can take lair actions as long as he isn't incapacitated.
-</p>
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
+<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Swamp Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p><strong><em>Control Water (requires Swamp Fane.)</em></strong> Strahd casts or uses <em>control water</em> without components or concentration.</p>
 <p><strong><em>Fog Cloud (requires Swamp Fane.)</em></strong> Strahd casts <em>fog cloud</em> at 5th level without components or concentration. While the fog remains, Strahd has blindsight out to its edges.</p>
 </div>
@@ -321,17 +313,9 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from a spell or attack, Strahd moves up to his speed toward the attacker and can make a <strong><em>longsword</em></strong> attack against them. This movement doesn’t trigger opportunity attacks.</p>
 <!-- Lair Actions Section -->
 <h3>Lair Actions</h3>
-<p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p>
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Ghostly Hands.</em></strong> All non-undead creatures in a <span class="highlight">10-foot</span> square starting from a point within <span class="highlight">60 feet </span>must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">restrained</span> by grasping ghostly hands until initiative count 20 on the following round.</p>
-<p><strong><em>Fog Bank.</em></strong> A <span class="highlight">40-foot radius</span> sphere of fog appears centered on a point within <span class="highlight">60 feet</span> of Strahd that he can see. The sphere spreads around corners, and its area is heavily obscured. It lasts until initiative count 20 on the following round or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. When the fog appears, Strahd can immediately take the <span class="highlight">Hide</span> action as a reaction and move up to his speed. While the fog remains, Strahd has blindsight out to its edges.</p>
-<!-- Fane Lair Actions Section -->
-<h3>Lair Actions of the Fanes</h3>
-<p>While outdoors, if the players have not yet reconsecrated the Forest Fane, Strahd can take lair actions as long as he isn't incapacitated.</p>
-<p> On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
+<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Swamp Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p><strong><em>Plant Growth (requires Forest Fane).</em></strong> Strahd casts <em>plant growth</em> without components or concentration.</p>
 <p><strong><em>Wrath of Nature (requires Forest Fane).</em></strong> Strahd casts <em>wrath of nature</em> without components or concentration. When he casts it in this way, Strahd can’t use the spell’s <strong><em>rocks</em></strong> effect.
-
 </div>
 
 >[!info]+ **Fog Bank**
@@ -356,14 +340,8 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong>Strahd can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Night’s Retreat.</em></strong> In response to taking damage, Strahd can fly up to his speed without provoking opportunity attacks. If one or more creatures have grappled Strahd, he breaks free of the grapples.</p> 
 <p><strong><em>Blood Frenzy.</em></strong> In response to taking damage, Strahd can move up to his speed toward the attacker and make an <strong><em>unarmed strike</em></strong> attack against it.</p> <!-- Lair Actions Section --> <h3>Lair Actions</h3> 
-<p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p> 
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options:</p> 
-<p><strong><em>Deluge of Blood.</em></strong> A wave of blood explodes outward from a point Strahd can see within <span class="highlight">60 feet</span>. Each creature within 10 feet of that point must make a DC 20 Strength saving throw. On a failure, a creature takes 7 (2d6) bludgeoning damage and is pushed 10 feet away from the point and knocked prone. The creature is also blinded until initiative count 20 on the next round.</p> 
-<p><strong><em>Wails of the Damned.</em></strong> Strahd summons an ethereal torrent of shrieking specters in a 5-foot radius centered on a point within 60 feet that he can see. Each creature in that area must make a DC 20 Wisdom saving throw or be frightened of Strahd until initiative count 20 on the next round. A creature frightened in this way is paralyzed.</p>
 <!-- Fane Lair Actions Section -->
-<h3>Lair Actions of the Fanes</h3>
-<p>While outdoors, if the players have not yet reconsecrated the Mountain Fane, Strahd can take lair actions as long as he isn't incapacitated.
-</p>
+<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Mountain Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p><strong><em>Change Weather (requires Mountain Fane).</em></strong> Strahd casts <em>control weather</em> as an action without concentration or components. When he does, he can change any number of weather conditions to any of the stages given.</p>
 <p> <strong><em>Call Lightning (requires Mountain Fane).</em></strong> Strahd casts or uses <em>call lightning</em> without components or concentration. Whenever he rolls lightning damage with this spell while outdoors in a storm, he deals maximum damage, instead of rolling.
