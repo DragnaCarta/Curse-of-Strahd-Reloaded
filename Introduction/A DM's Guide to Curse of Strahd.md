@@ -79,6 +79,10 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 > [!info]+ **Download this Guide**
 > Want to download *Reloaded* as an Obsidian Vault for use, editing, and review on your local device? You can download all files using the [Github Repository](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) .
 # Table of Contents
+> [!info]+ **A Living Guide**
+> Curse of Strahd: Reloaded is an ongoing project, and new updates to existing arcs are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).
+> 
+> Alternatively, if you'd like to read drafts, outlines, and notes for upcoming releases—such as the unreleased Epilogue, the optional downtime arc ***Arc N: Tales of Vallaki***, or substantial edits to existing arcs, you can do so by becoming a paid supporter of DragnaCarta's [Patreon](https://www.patreon.com/DragnaCarta). Doing so also allows you to join an exclusive Discord community of new and experienced DMs running Reloaded themselves, receive regular development blogs breaking down the design of Reloaded's arcs, and receive personal campaign advice and help from the author.
 ## Chapter 1 - Beginning the Campaign
 [[Session Zero]]. Setting expectations and clarifying player triggers.
 [[Character Creation]]. Developing character bonds, flaws, and motivations.
@@ -117,15 +121,8 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc R - Trials of the Mountain]]. The players ascend the treacherous Tsolenka Pass while surviving Strahd's predations.
 [[Arc S - A Sword of Sunlight]]. The players retrieve the broken *Sunsword* from the Amber Temple.
 [[Arc T - The Three Fanes]]. The players aid their Barovian friends in order to cleanse the land of Strahd's corruption.
-[[Arc U - The Curse of Strahd]]. Coming soon.
+[[Arc U - Dreams of Dawn]]. The players must defeat the vampire Strahd von Zarovich, once and for all.
 [[Epilogue]]. Coming soon.
-
-> [!tip]+ **Under Construction**
-> *Curse of Strahd: Reloaded* is an ongoing project. New releases, including additional arcs and edits to existing arcs, are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).
-> 
-> Alternatively, if you'd like to read drafts, outlines, and notes for upcoming releases, you can do so by becoming a paid supporter of DragnaCarta's [Patreon](https://www.patreon.com/DragnaCarta). Doing so also allows you to join an exclusive Discord community of new and experienced DMs running *Reloaded* themselves.
-> 
-> The guide is currently projected to be completed in the spring of 2025, with regular additions and revisions released approximately once per month. If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]]. If you'd like to provide suggestions, feedback, or critiques regarding the current version of the guide, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
 ## Appendices
 [[Non-Player Characters]]. A compendium of every major NPC in the adventure.
 [[Amber Shards]]. A compendium of every amber shard that appears in the adventure.
