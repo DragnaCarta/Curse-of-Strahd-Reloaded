@@ -680,7 +680,7 @@ If permitted, Sasha guides the players to Strahd by the following routes:
 > If the players attempt to reassure Sasha with the *Sunsword*, she shudders, her gaze lingering on it longingly before she squeezes her eyes shut. “It’s beautiful," she says dully, “but like all beautiful things in my Master’s domain, it will not survive this night. The true dawn will not come, and its like shall never be seen again."
 ## U5c. The Heart of Sorrow
 ### Approaching the Heart
-The Heart of Sorrow is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, the spiral staircase doesn’t shake as the players ascend the tower and no **vampire spawn** arrive if the players attack the Heart. In addition, revise this area’s description as follows:
+The Heart of Sorrow is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, the spiral staircase doesn’t shake as the players ascend the tower, the halberds don't animate if the players attack the Heart of Sorrow, and no **vampire spawn** arrive if the players attack the Heart. In addition, revise this area’s description as follows:
 
 <div class="description">
 <p>This tall, cold tower is bathed in a pulsing crimson light. Glowing red runes have been carved into every inch of the tower’s inner walls, which bear a faint crimson sheen.</p>
@@ -801,9 +801,6 @@ A player who inspects the castle’s surroundings from outside the tower can con
 > ---
 >
 > The crack vanishes entirely on initiative count 0.
-
-> [!info]+ **The Halberds**
-> When combat begins, if they haven’t already been destroyed, the ten **animated halberds** mounted along the walls of <span class="citation">K20. Heart of Sorrow (p. 59)</span> animate and attack.
 
 > [!info]+ **Unnatural Weather**
 > When the battle begins, Castle Ravenloft is pelted by light precipitation. When Strahd’s first phase is defeated, this increases to <span class="citation">heavy precipitation (Dungeon Master’s Guide, p. 110)</span>. When Strahd’s second phase is defeated, the precipitation continues, but rains blood instead of water.
