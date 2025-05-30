@@ -728,6 +728,7 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 <div class="description">
 <p>Six snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
 </div>
+
 ![[wolf_ravine.jpg]]
 
 > [!combat]- **Balancing the Wolves** 

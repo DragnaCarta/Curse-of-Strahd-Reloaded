@@ -1,3 +1,5 @@
+# Hotfix 2.1.0.1 (May 30, 2025)
+* Fixed ravine battlemap not rendering in [[Arc C - Into the Valley]]
 # Update 2.1 (May 23, 2025)
 * Added [[Arc U - Dreams of Dawn]]
 * Removed Strahd's Castle Ravenloft lair actions
