@@ -31,7 +31,7 @@ In general, ***Lost in the Mists*** may be viewed as a "pure" version of *Curse 
 
 See ***Arc A. Escape From Death House*** and **A1. Daggerford** for more information about how to run these hooks. If you choose to run ***Barovian Relics*** for one or more of your players, have each of those players choose a motivation from the ***Motivations*** section in **Chapter 1: Into the Mists** before beginning the campaign.
 # Strahd’s Spies
-One or more of Strahd's spies check in on the players once each day and once each night, as described in **Strahd's Spies** (p. 29). However, the nature of Strahd’s spies may vary with the players’ location and the time of day. Use the following table when planning an encounter with a spy:
+One or more of Strahd's spies check in on the players once each day and once each night, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#sidebarStrahdsSpies">Strahd's Spies</a> (p. 29)</span>. However, the nature of Strahd’s spies may vary with the players’ location and the time of day. Use the following table when planning an encounter with a spy:
 
 |      Location      |           Day Encounter            |           Night Encounter            |
 | :----------------: | :--------------------------------: | :----------------------------------: |
@@ -76,7 +76,7 @@ Note that the *Sunsword* is a sentient magic item; as described in **Conflict** 
 ## Strahd’s Enemy
 Strahd's enemy no longer possesses the ***Inspire*** action (**Strahd's Enemy**, p. 15). Instead, if she confronts the Dark Powers at Marina's Monument in Berez (see ***Arc X: Whispers of the Mists***), Ireena Kolyana gains this ability as a bonus action. See ***Arc B: Welcome to Barovia*** for more information about Ireena's statistics.
 ## The Card Reading
-Immediately before the scene in which the players meet Madam Eva, if you are using a physical Tarokka deck for the reading, choose which five cards Madam Eva will draw and stack them on top of the deck in the order described in <strong>Card Reading</strong> (p. 11).
+Immediately before the scene in which the players meet Madam Eva, if you are using a physical Tarokka deck for the reading, choose which five cards Madam Eva will draw and stack them on top of the deck in the order described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/into-the-mists#CardReading">Card Reading</a> (p. 11)</span>.
 
 When choosing which card(s) to use for which part of the reading, select the following.
 ### The Tome of Strahd

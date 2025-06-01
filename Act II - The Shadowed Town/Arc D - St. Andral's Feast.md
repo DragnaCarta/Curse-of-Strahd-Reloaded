@@ -18,7 +18,7 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
-The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
+The church is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch">N1. St. Andral's Church</a> (p. 97)</span>.
 
 The church's occupants follow the following schedule unless interrupted:
 
@@ -49,7 +49,7 @@ The church's occupants follow the following schedule unless interrupted:
 > [!lore]+ **The Stolen Bones**
 > Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
  >
-> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#BonesofStAndral">Bones of St. Andral</a> (p. 97)</span>.
 > 
 > When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
 > 
@@ -98,7 +98,7 @@ When the players first enter this area, read:
 <p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
 </div>
 
-The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
+The young man is Milivoj, who is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch">N1. St. Andral's Church</a> (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
 
 ![[Father Lucian Petrovich.png]]
 <span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -119,13 +119,13 @@ If the players agree not to spread his words beyond the church, Father Lucian so
 
 * The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
 * The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#BonesofStAndral">Bones of St. Andral</a> (p. 97)</span>.
 * To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
 * If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
 * Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
 * Father Lucian is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Lucian fears that the town is not as safe as it appears.
 
-Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
+Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#BonesofStAndral">Bones of St. Andral</a> (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
 
 If the players express an interest in doing so, Father Lucian is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
 
@@ -146,7 +146,7 @@ While accompanying the party, Father Lucian fights alongside them, but allows th
 
 The fresh boards and nails were delivered by Henrik. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
 
-The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
+The crypt is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#BonesofStAndral">Bones of St. Andral</a> (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
 
 <div class="description">
 <p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
@@ -224,9 +224,9 @@ If the players inform Milivoj that they want to speak with him about St. Andral�
 
 Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#BonesofStAndral">Bones of St. Andral</a> (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
+If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#BonesofStAndral">Bones of St. Andral</a> (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/old-bonegrinder#DreamPastries">Dream Pastries</a> (p. 125)</span>.)
 
 If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
 
@@ -247,7 +247,7 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 # D3. Arasek Stockyard
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+Arasek Stockyard is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard">N5. Arasek Stockyard</a> (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
@@ -257,10 +257,10 @@ If the players successfully break the door to the wagon or pick its padlock, the
 # D4. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
 
-The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
+The coffin maker's shop is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6CoffinMakersShop">N6. Coffin Maker's Shop</a> (p. 116)</span>. However, the crates in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6fVampireNest">N6f. Vampire Nest</a> (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6fVampireNest">N6f. Vampire Nest</a> (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
+> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K78BrazierRoom">K78. Brazier Room</a> (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6fVampireNest">N6f. Vampire Nest</a> (p. 118)</span> shortly thereafter.
 
 Henrik van der Voort, the coffin maker, follows the following schedule:
 
@@ -282,9 +282,9 @@ In either case, Henrik offers no resistance as soon as he sees that the players 
 Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
 
 > [!abstract]+ **Ambushing the Vampires**
-> Players who attempt to ambush the vampires in <span class="citation">N6f. Vampire Nest (p. 118)</span> before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
+> Players who attempt to ambush the vampires in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6fVampireNest">N6f. Vampire Nest</a> (p. 118)</span> before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
 ## D4b. Recovering the Bones
-The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
+The bones have been concealed as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6eHenriksBedroom">N6e. Henrik's Bedroom</a> (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
 * a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
 * a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
@@ -299,10 +299,10 @@ The hidden wire can be identified before the compartment is fully opened with a 
 Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
 > [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys">N7. Blinsky Toys</a> (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
 
 > [!abstract]+ **Disabling the Noisemaker**
-> If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
+> If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare">N8. Town Square</a> (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
 ## D4c. Volenta's Trap
 If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
 ![[Volenta Popofsky.png]]
@@ -342,7 +342,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 > * ***Six Players.*** Increase the number of vampire spawn to three.
 
 > [!warning]+ **Sunlight in Barovia**
-> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
+> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#SunlightinBarovia">Sunlight in Barovia</a> (p. 24)</span>.
 
 > [!warning]+ **Vampires Aren't Humanoid**
 > Remember that **vampire spawn**, including Volenta, have the **undead** type, rather than the **humanoid** type. As such, spells and effects that target only humanoids, such as _hold person_, or which can't affect undead, such as _command_, have no effect on Volenta and the vampires accompanying her.
@@ -502,7 +502,7 @@ Rahadin next rides to the Blue Water Inn or wherever else the players can be fou
 
 Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Lucian, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
 ## D6b. The Trial
-When the players arrive in the town square, which is largely as described in <span class="citation">N8. Town Square (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Lucian, who stands at the base of the platform.
+When the players arrive in the town square, which is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare">N8. Town Square</a> (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Lucian, who stands at the base of the platform.
 
 On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing seven younger siblings, described further in [[#D2. Milivoj’s House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
 

@@ -34,21 +34,21 @@ The envelope contains the following letter, with the blank filled with the name 
 <p>Lady Fiona Wachter</p>
 </div>
 
-If the players ask Urwin about Lady Wachter, he can share all of the information about her described in <span class="citation">Vallaki Lore (p. 96)</span>. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
+If the players ask Urwin about Lady Wachter, he can share all of the information about her described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#VallakiLore">Vallaki Lore</a> (p. 96)</span>. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is largely as described in <span class="citation">N4. Wachterhaus (p. 110)</span>, but with the following changes:
+Wachterhaus is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus">N4. Wachterhaus</a> (p. 110)</span>, but with the following changes:
 
-***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information.)
+***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4lUpstairsHall">N4l. Upstairs Hall</a> (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information.)
 
 Additionally, Stella's room is neither musty nor dark, and her bed is not fitted with leather straps. Instead, her room is well-appointed, including a woven lavender rug, a comfortable armchair with floral patterns, and a small bookcase with a collection of carved wooden cats atop it. (The cats were whittled by her older brother, Karl, as get-well gifts following Stella’s illness.)
 
-***Storage Room.*** The manuscript and treatise contained in the iron chest in <span class="citation">N4q. Storage Room (p. 114)</span> are now titled *Voices of the Mist* (a religious text written by Lady Fiona Wachter attesting that the worship of Ezra, goddess of the Mists, can bring peace, understanding, and solemnity), and *The Grimoire of Night's Whispers*, a ritual book and religious text to Mother Night written by the witch Baba Lysaga.
+***Storage Room.*** The manuscript and treatise contained in the iron chest in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4qStorageRoom">N4q. Storage Room</a> (p. 114)</span> are now titled *Voices of the Mist* (a religious text written by Lady Fiona Wachter attesting that the worship of Ezra, goddess of the Mists, can bring peace, understanding, and solemnity), and *The Grimoire of Night's Whispers*, a ritual book and religious text to Mother Night written by the witch Baba Lysaga.
 
-***Master Bedroom.*** Lady Wachter’s late husband, Nikolai, was buried in the cemetery after his death several years ago and is no longer in Lady Wachter’s bed in <span class="citation">N4o. Master Bedroom (p. 113)</span>.
+***Master Bedroom.*** Lady Wachter’s late husband, Nikolai, was buried in the cemetery after his death several years ago and is no longer in Lady Wachter’s bed in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4oMasterBedroom">N4o. Master Bedroom</a> (p. 113)</span>.
 
-Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 113)</span> also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though Lady Wachter doesn't know its significance.
+Additionally, the high shelf in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4oMasterBedroom">N4o. Master Bedroom</a> (p. 113)</span> also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though Lady Wachter doesn't know its significance.
 
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
 
@@ -57,19 +57,19 @@ Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 1
 * 2nd level (3 slots): *blindness/deafness, zone of truth, hold person*
 * 3rd level (2 slots): *animate dead, spirit guardians*
 ## F2a. Welcome to Wachterhaus
-As the players approach Wachterhaus, read the following description instead of the text in <span class="citation">N4. Wachterhaus (p. 110)</span>:
+As the players approach Wachterhaus, read the following description instead of the text in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus">N4. Wachterhaus</a> (p. 110)</span>:
 
 <div class="description">
 <p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
 </div>
 
-When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4aFrontDoorandVestibule">N4a. Front Door and Vestibule</a> (p. 110)</span>. 
 
-Haliq then leads the players into <span class="citation">N4b. Staircase (p. 110)</span>, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from <span class="citation">N4c. Kitchen (p. 112)</span>. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
+Haliq then leads the players into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4bStaircase">N4b. Staircase</a> (p. 110)</span>, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4cKitchen">N4c. Kitchen</a> (p. 112)</span>. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
 
-Haliq then guides the players through <span class="citation">N4j. Dining Room (p. 112)</span> and invites them to take seats in <span class="citation">N4i. Parlor (p. 112)</span>. After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
+Haliq then guides the players through <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4jDiningRoom">N4j. Dining Room</a> (p. 112)</span> and invites them to take seats in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4iParlor">N4i. Parlor</a> (p. 112)</span>. After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
 
-The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation">N4k. Den (p. 112)</span> or <span class="citation">N4h. Servants' Quarters (p. 112)</span>, they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation">N4i. Parlor (p. 112)</span>. 
+The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4kDen">N4k. Den</a> (p. 112)</span> or <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4hServantsQuarters">N4h. Servants' Quarters</a> (p. 112)</span>, they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4iParlor">N4i. Parlor</a> (p. 112)</span>. 
 ## F2b. Meet the Wachters
 Shortly after the players arrive in the parlor, they notice that a young woman wearing slippers and a white nightgown, approximately sixteen years of age, is standing in the open doorway leading back to the staircase and front entrance. The woman appears to be staring vacantly into space toward them, but neither moves nor makes eye contact—even if approached.
 
@@ -128,13 +128,13 @@ Lady Wachter may also respond to player questions as follows:
 > If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
 > 
 > * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside throughout the Svalich Wood."
-> * ***Argynvostholt.*** Lady Wachter shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
+> * ***Argynvostholt.*** Lady Wachter shares the information in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#VallakiLore">Vallaki Lore</a> (p. 96)</span>.
 > * ***The Amber Temple.*** Lady Wachter can share that she once heard of an "order of knights" inhabiting the abandoned manor to the west, which was said to guard a place called the "Amber Temple." (She learned of this from her mentor, the swamp witch Baba Lysaga, who she refers to only as "Lysa.") She knows little else, however.
 > * ***The Werewolf Pack.*** "An uncivilized assortment of bloodthirsty brutes. Their aggression has intensified as of late, I fear, but Vallaki's walls and silver have kept us safe." (Lady Wachter doesn't know where the pack's den lies, and doesn't know enough to speculate.)
 
 > [!lore]+ **Who is Lysa?**
 >
-> “Lysa’s” true identity is Baba Lysaga, the swamp-witch of <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in <span class="citation">K56. Cauldron</span> (p. 72) in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieved.
+> “Lysa’s” true identity is Baba Lysaga, the swamp-witch of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez">Chapter 10: The Ruins of Berez</a> (p. 161)</span>. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron">K56. Cauldron</a></span> (p. 72) in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieved.
 >
 > Upon learning of her family’s death, Fiona chose to return to Vallaki to claim her birthright. Baba Lysaga did not take the news well, and warned Fiona that her departure would be treated as a personal betrayal—and that she would be banished from Berez forevermore for her choice. Fiona returned to Vallaki nonetheless, taking the small grimoire that Baba Lysaga had given her as a memento of her studies.
 >
@@ -157,7 +157,7 @@ Should the players indicate an opposition to the Baron, Lady Wachter confesses t
 * Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
 * Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting monthly “festivals” that most have always considered to be dull affairs.
 * Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
-* Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation">N3m. Locked Closet (p. 107)</span>. Udo hasn’t been seen since.
+* Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#DonkeyHeadedCriminals">Donkey-Headed Criminals</a> (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset">N3m. Locked Closet</a> (p. 107)</span>. Udo hasn’t been seen since.
 * Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki—an enormous abuse of power that has caused significant and undeserved suffering.
 * Vargas’s will is enforced by his right-hand man, Izek Strazni, who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer. 
 
@@ -323,7 +323,7 @@ Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bo
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys">N7. Blinsky Toys</a> (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana. 
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -521,7 +521,7 @@ If the players return to Wachterhaus to obtain their promised compensation (if a
 
 All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek’s chronic mismanagement.
 
-If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to <span class="citation">N4p. Library (p. 113)</span>. There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
+If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary">N4p. Library</a> (p. 113)</span>. There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
 
 Lady Wachter can share the following information as she retrieves and leafs through the book:
 

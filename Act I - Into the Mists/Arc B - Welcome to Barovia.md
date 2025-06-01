@@ -15,17 +15,17 @@ The following morning, Ismark asks the players to help bring their father’s re
 
 The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
 
-This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
+This scene unfolds as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#AOldSvalichRoad">Old Svalich Road</a> (p. 33)</span>.
 # B2. Gates of Barovia
 <span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
 
-This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
+This scene unfolds as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#BGatesofBarovia">Gates of Barovia</a> (p. 34)</span>.
 
 The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
 # B3. Svalich Woods
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
 
-This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+This scene begins as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#CSvalichWoods">Svalich Woods</a> (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
 Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
 
@@ -69,7 +69,7 @@ If the players then leave Dalvan's corpse and return, they find that both his an
 > [!design]+ **Design Note: Dalvan’s Fate**
 > Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
+> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#SkeletalRider">Skeletal Rider</a> (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
 # B4. Barovian Overlook
 <span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
 
@@ -88,7 +88,7 @@ The journey from here to the outskirts of the village is two miles long and take
 > [!info]+ **The Fortified Village**
 > The village of Barovia has been heavily fortified to defend against Strahd’s nightly siege. Barricades composed of logs, planks, and broken furniture have been erected at every major entrance into the settlement, with additional obstructions raised in every alleyway or gap between the villagers’ homes. A trench has been dug around the village and planted with sharp stakes, and archers patrol the rooftops at all hours of day and night.
 ## B5a. The Barricade
-This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
+This scene largely unfolds as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#ApproachingtheVillage">Approaching the Village</a> (p. 41)</span>. However, modify the description as follows:
 
 <div class="description">
 <p>As the morning deepens, the overcast skies brightening to a dull, gloomy grey, the outskirts of the village come into clearer view. A wide dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, wet cobblestones.</p>
@@ -98,7 +98,7 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
+The man is Ismark Kolyanovich, who is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E2BloodoftheVineTavern">E2. Blood of the Vine Tavern</a> (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -133,7 +133,7 @@ After confirming that the barricade is nearly repaired, Ismark invites the playe
 If the players agree, Muriel follows them to the town square, staying aloft in the air overhead and watching with keen interest.
 
 > [!abstract]+ **The Raven**
-> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
+> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#BeliefsandSuperstitions">Beliefs and Superstitions</a> (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
 
 > [!design]+ **Design Note: Entering the Village**
 > This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
@@ -147,7 +147,7 @@ As the players and Ismark pass through the village streets, read:
 <p>Ismark guides you through a second, larger barricade, manned by grim-faced villagers wielding clubs and spears. Beyond it stands an old, chipped stone statue standing at the center of a small town square, depicting a man wearing leather armor and holding a sword. More than a dozen makeshift tents and campfires have been set up around it, hosting a haggard-looking host of young, old, and sickly-looking villagers.</p>
 </div>
 
-Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
+Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E2BloodoftheVineTavern">E2. Blood of the Vine Tavern</a> (p. 43)</span>.
 
 The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
 ![[Ismark the Great.png]]
@@ -157,7 +157,7 @@ If the players ask about the statue, Ismark can share the following information:
 * In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
 * Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father, Kolyan, gave him that name in the hopes that he would one day become a great warrior.
 ## B5c. The Blood of the Vine Tavern
-This area is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. However, instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. (Alenka, Mirabel, and Sorvia aren’t present in the tavern, having fled the village for Tser Pool the day before the siege began.)
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E2BloodoftheVineTavern">E2. Blood of the Vine Tavern</a> (p. 43)</span>. However, instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. (Alenka, Mirabel, and Sorvia aren’t present in the tavern, having fled the village for Tser Pool the day before the siege began.)
 
 After entering the tavern, Ismark pays Arik to fetch them drinks. As the players sit down with him, Ismark apologizes for the state of the village and asks how they’ve come to arrive in the valley. "You must have a thousand questions," he says sympathetically. "I'd be glad to answer as many as I can."
 
@@ -170,7 +170,7 @@ Ismark can share the following information:
 * Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
 * Many Barovians fear that the village is doomed. The undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#RoleplayingIsmark">Roleplaying Ismark</a> (p. 43)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#BarovianLore">Barovian Lore</a> (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
@@ -178,7 +178,7 @@ Shortly after Ismark begins answering the players' questions, read:
 <p>Something slams against a nearby table—and the sound draws your attention to a man sitting not far away, his clenched fist twitching against his table's wooden surface. He is squat, with greasy receding salt-and-pepper hair and a patched, well-worn coat. A scowl mars his face as he turns his dark eyes toward your group. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>," he rasps, eyes lingering upon each of you. "Best to seek better company, lest you wind up in the ground with the last fools that trusted him."</p>
 </div>
 
-The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
+The man is Bildrath Cantemir, the owner of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E1BildrathsMercantile">Bildrath's Mercantile</a> (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
 
 If asked about Bildrath's statement about "the last fools that trusted him," Ismark winces. "He's right to hate me," he says quietly. "I asked the other villagers to stay and defend our homes. I was arrogant and foolish—I didn't appreciate just how powerful the Devil and his creatures were." He closes his eyes. "Now dozens of my friends and neighbors are gone—and I'm still here."
 
@@ -234,11 +234,11 @@ Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comfor
 ### Ismark’s Request
 After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
 
-If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
+If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E4BurgomastersMansion">E4. Burgomaster’s Mansion</a> (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
 
 Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
 ## B5d. The Burgomaster’s Mansion
-This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E4BurgomastersMansion">Burgomaster’s Mansion</a> (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
 ### The Angry Mob
 When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
 
@@ -249,7 +249,7 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 <p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#RoleplayingIreena">Roleplaying Ireena</a> (p. 45)</span>.
 
 > [!profile]+ **Profile: Ireena Kolyana**
 >
@@ -318,7 +318,7 @@ If the players successfully disperse the mob, Kolyan and Ireena invite them into
 > [!design]- **Design Note: The Mob**
 > This scene has been added to communicate Ireena’s origins to the players, foreshadow Strahd’s interest in her, offer a dramatic question while the players visit the mansion, and endear Ireena and Kolyan to the players before Strahd’s arrival during the siege later that night.
 ### Within the Mansion
-This area is largely as described in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E4BurgomastersMansion">E4. Burgomaster’s Mansion</a> (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
 
 If the players assisted in dispersing the mob, Kolyan and Ireena welcome them warmly, especially if the players mention Ismark’s name. Whether or not the players mention that Ismark granted them room and board at the manor, Kolyan invites them to stay for lunch in gratitude for their aid in dealing with Alenka.
 #### Lunch with the Burgomaster
@@ -396,11 +396,11 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 > A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
 > [!abstract]+ **Visiting the Church**
-> Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
+> Players who insist upon visiting <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5Church">E5. Church</a> (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
 ## B5e. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
-Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E1BildrathsMercantile">Bildrath’s Mercantile</a> (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
 
 If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
 
@@ -409,7 +409,7 @@ During the players’ conversation with Bildrath, Parriwimple enters the room ca
 If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E1BildrathsMercantile">E1. Bildrath’s Mercantile</a> (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
 
 When the players first encounter Parriwimple, read:
 
@@ -759,13 +759,13 @@ If confronted, Ismark can reluctantly share the following information:
 
 When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
+The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E4BurgomastersMansion">E4. Burgomaster's Mansion</a> (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
 
 When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
 
 ***Escorting Ireena.*** Ismark first quietly notes that Ireena appears to have become a target for both the Devil and her fellow villagers, and that he no longer believes the village, which lies directly beneath the shadow of Castle Ravenloft, to be safe for her. 
 
-Ismark shares the information regarding his desire to bring her to Vallaki as described in <span class="citation">Roleplaying Ismark (p. 43)</span>, and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
+Ismark shares the information regarding his desire to bring her to Vallaki as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#RoleplayingIsmark">Roleplaying Ismark</a> (p. 43)</span>, and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
 
 > [!warning]+ **Clarifying Expectations**
 > 
@@ -807,7 +807,7 @@ Parriwimple, who is out for a walk ("It helps me think," he mumbles, if asked), 
 
 Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
 ### Inside the Church
-This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5Church">Church</a> (p. 45)</span>. However, modify the descriptive text for <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5aHall">E5a. Hall</a> (p. 45)</span> to remove Doru’s scream: 
 
 <div class="description">
 <p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
@@ -869,9 +869,9 @@ If the players inquire further, Donavich can share the following information:
 
 Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
 
-If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
+If the players agree, Donavich produces the key to the padlock in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5dTrapdoor">E5d. Trapdoor</a> (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
 ### Descent to the Undercroft
-The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
+The undercroft is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5gUndercroft">E5g. Undercroft</a> (p. 47)</span>. However, modify the last sentence of the description as follows: 
 
 <div class="description">
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
@@ -993,7 +993,7 @@ Otherwise, if the players spared Doru and relay his final message, read:
 
 Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
 
-The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
+The cemetery is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E6Cemetery">E6. Cemetery</a> (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
 
 Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
 
@@ -1094,7 +1094,7 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 ## B5k. Mad Mary’s Townhouse
 <span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
 
-There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
+There should be no reason for the players to visit <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E3MadMarysTownhouse">Mad Mary’s Townhouse</a> (p. 44)</span> in this revision. However, if they do, the following changes have been made:
 
 Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and Gertruda initially bonded as young girls over the loss of their parents—Ireena's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
 

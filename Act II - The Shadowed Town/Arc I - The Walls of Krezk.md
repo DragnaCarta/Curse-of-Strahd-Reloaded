@@ -15,21 +15,21 @@ As the players cross the bridge over the Luna River, read the following:
 <p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
 </div>
 
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
+The Luna River Crossroads are as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#PLunaRiverCrossroads">P. Luna River Crossroads</a> (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
 
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+As the players pass it, the path to Argynvostholt is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#ApproachingtheMansion">Approaching the Mansion</a> (p. 130)</span>. Read:
 
 <div class="description">
 <p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
 </div>
 
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower">Chapter 11: Van Richten’s Tower</a> (p. 167)</span>, not far from the path that leads to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/tsolenka-pass">Chapter 9: Tsolenka Pass</a> (p. 157)</span>. Read:
 
 <div class="description">
 <p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
 </div>
 
-The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+The Raven River Crossroads are largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RRavenRiverCrossroads">R. Raven River Crossroads</a> (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
 
 <div class="description">
 <p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
@@ -50,11 +50,11 @@ If asked, the revenant can also provide directions to the mansion of Argynvostho
 
 As the players depart, the revenant warns them that the werewolf pack of Mount Baratok has expanded its territory—and its ferocity—as of late, and advises them to be cautious as they travel the roads.
 
-The road to Krezk is as described in <span class="citation">S1. Road Junction (p. 143)</span>.
+The road to Krezk is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S1RoadJunction">S1. Road Junction</a> (p. 143)</span>.
 # I2. The Gates of Krezk
 <span class="citation"><em>This scene takes place in Chapter 8: Area S2.</em></span>
 
-The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
+The gates of Krezk are largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S2Gatehouse">S2. Gatehouse</a> (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
 
 > [!profile]+ **Profile: Baron Dmitri Krezkov**
 > **Roleplaying Information.**
@@ -116,7 +116,7 @@ If the players choose to investigate the slab, they find that it bears a carving
 The bird is a **greater strix**, and is leaving to alert Baba Lysaga that outsiders are approaching the swamp. If attacked, it attempts to gain elevation until it escapes the players’ range. As a sentry and scout, it has no desire to do battle.
 # I4. The Ruins of Berez
 ## I4a. Approaching the Ruins
-The players’ approach of Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise the descriptive text as follows:
+The players’ approach of Berez is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#ApproachingtheRuins">Approaching the Ruins</a> (p. 161)</span>. However, revise the descriptive text as follows:
 
 <div class="description">
 <p>The dirt and grass soon turn to marsh as the ground dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all, though the fog is much thinner on the far side of the river, where a dark ring of standing stones stands amidst a copse of gnarled trees covered in thick, bluish webs.</p>
@@ -125,7 +125,7 @@ The players’ approach of Berez is largely as described in <span class="citatio
 <p>Two old scarecrows lashed to wooden posts flank the trail here, their burlap faces seeming to leer into the mists behind you.</p>
 </div>
 
-The two **scarecrows** are as described in <span class="citation">Marsh Scarecrows (p. 162)</span>. If the **greater strix** successfully alerted Baba Lysaga to the players’ approach, add:
+The two **scarecrows** are as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#MarshScarecrows">Marsh Scarecrows</a> (p. 162)</span>. If the **greater strix** successfully alerted Baba Lysaga to the players’ approach, add:
 
 <div class="description">
 <p>A light flashes amid the fog beyond the scarecrows, a woman’s silhouette emerging from the swirling mist.</p>
@@ -154,11 +154,11 @@ Wensencia curtly informs the players that “Mother Lysaga” has summoned them 
 > One minute after the players enter the shroud of webs, their presence draws the attention of one **phase spider**, which uses its **ethereal jaunt** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round.
 
 > [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U2. Ulrich Mansion (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[#I4c. The Scrying Spell]] below.
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span>, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span>, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U4Churchyard">U4. Churchyard</a> (p. 164)</span>, and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U5MarinasMonument">U5. Marina's Monument</a> (p. 164)</span>. However, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[#I4c. The Scrying Spell]] below.
 ## I4b. Baba Lysaga’s Hut
 <span class="citation"><em>This scene takes place in Chapter 10: Area U3.</em></span>
 
-Baba Lysaga’s Hut is as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>. However, the sound of a soft lullaby can be heard emanating from the hut’s open doorframe, muffled by the sound of the ravens’ squawks. Additionally, if the **greater strix** warned Baba Lysaga of the players’ arrival, it is perched atop the hut, silently watching the players as they approach.
+Baba Lysaga’s Hut is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U3BabaLysagasHut">U3. Baba Lysaga’s Hut</a> (p. 163)</span>. However, the sound of a soft lullaby can be heard emanating from the hut’s open doorframe, muffled by the sound of the ravens’ squawks. Additionally, if the **greater strix** warned Baba Lysaga of the players’ arrival, it is perched atop the hut, silently watching the players as they approach.
 
 Upon arriving at the base of the stump on which the hut is perched, if Wensencia is present, she announces the players’ presence before turning to depart. (Note that, because the hut is built atop an enormous stump, the players must climb the roots of the stump to reach the hut’s entrance and front door.)
 
@@ -175,7 +175,7 @@ To earn the right to speak with her, Baba Lysaga ordains that one of the players
 
 Once the players have made the requested offering, Baba Lysaga is glad to do business with them. She is willing to accept Baron Krezkov’s gold bracelet as the payment for a single *scrying* spell. Should the players request it, she is also willing to accept an item of similar value to cast *scrying* a second time on a target of the players’ choice. 
 
-Upon accepting Baron Krezkov’s payment, Baba Lysaga directs the players to travel to the goat pen beside <span class="citation">U2. Ulrich Mansion (p. 162)</span> and fetch a single live **goat**. (Baba Lysaga needs the blood of the live goat to create a medium through which to perform her *scrying* ritual.) Though there is no gate in the fence of the goat pen, she informs the players that they can magically create one by speaking the passphrase: “Death to Ravenovia.”
+Upon accepting Baron Krezkov’s payment, Baba Lysaga directs the players to travel to the goat pen beside <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span> and fetch a single live **goat**. (Baba Lysaga needs the blood of the live goat to create a medium through which to perform her *scrying* ritual.) Though there is no gate in the fence of the goat pen, she informs the players that they can magically create one by speaking the passphrase: “Death to Ravenovia.”
 
 If asked about the strix, Lysaga gleefully explains that they are an artifact of her own creation—excellent for killing or capturing ravens, which she loathes.
 
@@ -185,7 +185,7 @@ If asked about Lady Fiona Wachter, Lysaga’s mood plummets, and she darkly warn
 >
 > If the players ask Baba Lysaga to cure their disease, she dismisses their request with a cackle, claiming that her price would be far too high for them to afford, and that they would not enjoy her remedy. She refuses to discuss the matter further, hinting only that “flesh must pay for the sanctity of flesh.”
 ## I4c. The Scrying Spell
-The goat pen is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, speaking the passphrase “Death to Ravenovia” while within 10 feet of the goat pen creates a gate in the wooden fence for one minute. The players can capture a goat by knocking one unconscious, by restraining or leading it with a rope, or by grappling it and pulling it directly to the hut. If conscious, a captured goat struggles and bleats pathetically while being led toward the hut.
+The goat pen is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span>. However, speaking the passphrase “Death to Ravenovia” while within 10 feet of the goat pen creates a gate in the wooden fence for one minute. The players can capture a goat by knocking one unconscious, by restraining or leading it with a rope, or by grappling it and pulling it directly to the hut. If conscious, a captured goat struggles and bleats pathetically while being led toward the hut.
 
 If the players successfully retrieve a goat for Baba Lysaga, she retrieves a rusted, blood-stained dagger from her wicker cabinet and directs the players to orient the goat such that its neck is above the bathtub. Read:
 
@@ -213,11 +213,11 @@ The players' return to Krezk is eight and three-quarter miles long and takes thr
 > [!info]+ **Forced March**
 > Remember that players who travel more than eight hours in one day risk exhaustion, as described in <span class="citation">Travel Pace (Player's Handbook, p. 181)</span>.
 
-Regardless of their destination, the players experience the <span class="citation">Lost Battlefield (p. 166)</span> event as they pass the point where the Luna River splits.
+Regardless of their destination, the players experience the <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#LostBattlefield">Lost Battlefield</a> (p. 166)</span> event as they pass the point where the Luna River splits.
 # I6. The Village of Krezk
 If the players return successfully to Krezk with information obtained from Baba Lysaga’s *scrying* spell and share it with Baron Krezkov, he gratefully grants them entry into the village.
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, with the following changes:
+The village of Krezk is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S3VillageofKrezk">S3. Village of Krezk</a> (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#KrezkLore">Krezk Lore</a> (p. 146)</span>, with the following changes:
 
 * The Krezkovs have had only two children, rather than four.
 * Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
@@ -227,14 +227,14 @@ If the players mention their interest in the Abbey of Saint Markovia, Baron Krez
 
 ***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
 ## I6a. The Blessed Pool
-This area is largely as described in <span class="citation">S4. Pool and Shrine (p. 146)</span>. However, add the following to the end of this area's description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S4PoolandShrine">S4. Pool and Shrine</a> (p. 146)</span>. However, add the following to the end of this area's description:
 
 <div class="description">
 <p>Small purple flowers dot the shores around the pool, their stalks swaying gently above the snow-covered grasses below.</p>
 <p>A handsome young man in a brown monk's robe kneels before one of the flowers, cupping its petals delicately in his hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck, and he gazes thoughtfully at the flower between his fingers.</p>
 </div>
 
-The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in <span class="citation">S13. Main Hall (p. 150)</span> and <span class="citation">The Abbot (p. 151)</span>.
+The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S13MainHall">S13. Main Hall</a> (p. 150)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#RoleplayingtheAbbot">The Abbot</a> (p. 151)</span>.
 
 
 ![[The Abbot.png]]

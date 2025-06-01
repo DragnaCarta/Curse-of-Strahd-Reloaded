@@ -12,7 +12,7 @@ Shortly after the players reconsecrate the final Fane in [[Arc T - The Three Fan
 * If the players are in Vallaki, they receive a personal invitation from Stella Wachter, who informs them that her mother has summoned them to Wachterhaus for an urgent meeting. (Stella doesn’t know what the meeting is about.)
 * If the players are in Krezk, they receive a parchment scroll sent via raven, which reads: “I must speak with you tonight. I await you at Wachterhaus. —Burgomistress Fiona Wachter."
 ## U1b. Wachterhaus
-When the players arrive at Wachterhaus, they are shown to <span class="citation">N3c. Dining Room (p. 106)</span> and <span class="citation">N3b Parlor (p. 106)</span>. There, they are met by Lady Fiona Wachter, Father Lucian Petrovich, Victor Vallakovich, and Urwin Martikov.
+When the players arrive at Wachterhaus, they are shown to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3cDiningRoom">N3c. Dining Room</a> (p. 106)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3bParlor">N3b Parlor (p. 106)</a></span>. There, they are met by Lady Fiona Wachter, Father Lucian Petrovich, Victor Vallakovich, and Urwin Martikov.
 
 Lady Wachter welcomes the players to Wachterhaus and thanks them for arriving on short notice. She then informs them of the purpose of the meeting: to determine whether and when Vallaki shall march on Castle Ravenloft and defeat Strahd von Zarovich—once and for all.
 
@@ -83,7 +83,7 @@ Continue:
 <p>You stand side-by-side along the eastern edge of the square, away from the crowd. You find that your clothes have changed, resembling a familiar uniform above a simple chain shirt. Each of you carries a spear in one hand and a shield in the other, with spears’ ends planted firmly upon the ground.</p>
 </div>
 
-The players immediately recognize the square as <span class="citation">N8. Town Square (p. 119)</span>. In addition, players who approach the figures on the platform or the statue on the fountain, who successfully guess their identifies, or who succeed on a DC 12 Wisdom (Perception) check can confirm the following:
+The players immediately recognize the square as <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare">N8. Town Square</a> (p. 119)</span>. In addition, players who approach the figures on the platform or the statue on the fountain, who successfully guess their identifies, or who succeed on a DC 12 Wisdom (Perception) check can confirm the following:
 
 * The men wearing priests’ robes are an older Father Lucian Petrovich and Yeska
 * The older man and matronly woman are an older Urwin Martikov and Danika Dorakova.
@@ -194,7 +194,7 @@ The players can uncover the following information by asking around the town squa
 >
 > If a player assures Victor that his words won’t be shared further and succeeds on a DC 15 Charisma (Persuasion) check, Victor reluctantly—and bitterly—shares that Stella invited him to join her on Lake Zarovich’s shore, as they had once often done together. “That was a long time ago," he says, quietly, “but she said that she would wait for me there." Victor refuses to elaborate further, and declines to accompany the players, preferring to return to his manor as swiftly as possible.
 ## U2c. Lake Zarovich
-Lake Zarovich is largely as described in <span class="citation">L. Lake Zarovich (p. 38)</span>. However, revise the second paragraph of this area’s description as follows:
+Lake Zarovich is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#LLakeZarovich">L. Lake Zarovich</a> (p. 38)</span>. However, revise the second paragraph of this area’s description as follows:
 
 <div class="description">
 <p>Pulled up along the south shore are four small rowboats. A gray-cloaked woman sits beside them, her long, brown tresses falling across her shoulders.</p>
@@ -293,8 +293,8 @@ Players who have previously seen the Whispering Wall in [[Arc J - The Stolen Gem
 
 Shortly after the players awaken, one of the following occurs, depending on where the players have rested:
 
-* **Blue Water Inn.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the inn’s doors, with three entering <span class="citation">N2c. Taproom (p. 100)</span> and three crashing through the door atop <span class="citation">N2b. Outside Staircase (p. 98)</span>.
-* **Wachterhaus.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the manor’s doors, with three entering <span class="citation">N4a. Front Door and Vestibule (p. 110)</span> and three entering <span class="citation">N4e. Back Vestibule (p. 112)</span>.
+* **Blue Water Inn.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the inn’s doors, with three entering <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom">N2c. Taproom</a> (p. 100)</span> and three crashing through the door atop <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2bOutsideStaircase">N2b. Outside Staircase</a> (p. 98)</span>.
+* **Wachterhaus.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the manor’s doors, with three entering <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4aFrontDoorandVestibule">N4a. Front Door and Vestibule</a> (p. 110)</span> and three entering <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4eBackVestibule">N4e. Back Vestibule</a> (p. 112)</span>.
 * **St. Andral’s Church.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the doors of a house across the street, spurring cries of terror and pleas for help from the family inside (two Vallakian **commoners** and two noncombatant children with 1 hit point each).
 
 Each zombie bears a glowing crimson symbol on its forehead: the raven-and-keep shield crest of Castle Ravenloft. Each zombie’s symbol and eyes glow with the same color as the pillar of bloody light that rises in the eastern mountains.
@@ -563,7 +563,7 @@ Before the players depart, Lady Wachter warns them that, while Vallaki’s immed
 > * Raisa & Radomi & Iskra, three **commoner** siblings in their late teens with sickly parents
 
 > [!info]+ **Gates and Walls**
-> Vallaki’s town walls are as described in <span class="citation">Approaching the Town (p. 95)</span>. Each gate is as described in <span class="citation">Town Gates (p. 95)</span>, and has AC 19 and 20 hit points.
+> Vallaki’s town walls are as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#ApproachingtheTown">Approaching the Town</a> (p. 95)</span>. Each gate is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#TownGates">Town Gates</a> (p. 95)</span>, and has AC 19 and 20 hit points.
 
 > [!info]+ **The Zombies’ Approach**
 > In combat, a thick shroud of mist surrounds the walls of eastern Vallaki at a distance of thirty feet. Creatures within this mist are heavily obscured, and can’t be seen until they emerge.
@@ -608,7 +608,7 @@ Shortly after the players reunite following [[#U3i. Lake Zarovich]] and [[#U3j. 
 > The players can recruit no allies other than Ireena Kolyana and Ezmerelda d’Avenir for their journey to Castle Ravenloft. All other characters, though grateful and honored for the invitation, insist on remaining behind to defend their homes, families, friends, and neighbors from the undead incursion. (As Victor Vallakovich says if asked—pale, but determined—“If we all went with you to Castle Ravenloft, who would be left to protect everyone else while you fight? Go—we’ll stay here to make sure everyone is still alive when you get back.")
 # U4. The Old Svalich Road
 ## U4a. Old Bonegrinder
-At the time Urwin first notifies the players of its existence, the eastern undead army is located at <span class="citation">I. Black Carriage (p. 37)</span>. If the players take a short rest before departing Vallaki, they and the undead army cross paths at or near <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>.
+At the time Urwin first notifies the players of its existence, the eastern undead army is located at <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#IBlackCarriage">I. Black Carriage</a> (p. 37)</span>. If the players take a short rest before departing Vallaki, they and the undead army cross paths at or near <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/old-bonegrinder">Chapter 6: Old Bonegrinder</a> (p. 125)</span>.
 The eastern army contains the following creatures:
 
 * Three thousand **zombies**
@@ -631,7 +631,7 @@ The players can attempt to sneak past the dire wolves by succeeding on a DC 16 D
 
 The wolves, like the zombies, attack only in self-defense, and cease their attacks if the players retreat. In combat, the wolves fight to knock the players unconscious, then bring their unconscious bodies to Castle Ravenloft.
 ## U4c. The Black Carriage
-As the players pass through the crossroads to Castle Ravenloft, the area is as described in <span class="citation">I. Black Carriage (p. 37)</span>, including Strahd’s black carriage.
+As the players pass through the crossroads to Castle Ravenloft, the area is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#IBlackCarriage">I. Black Carriage</a> (p. 37)</span>, including Strahd’s black carriage.
 
 Shortly after the players depart the crossroads, whether the players take the carriage or not, they are passed overhead by a small army of several dozen **swarms of ravens** sent by Muriel Vinshaw to reinforce Vallaki. Read:
 
@@ -649,7 +649,7 @@ The ravens don’t stop to interact with the players, and won’t be diverted fr
 ## U5a. The Castle Gates
 The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
 
-The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
+The gates of Ravenloft are as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#JGatesofRavenloft">J. Gates of Ravenloft</a> (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
 
 Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popfsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
 
@@ -672,15 +672,15 @@ Strahd has given Sasha the following strict orders, which she is powerless to di
 
 If permitted, Sasha guides the players to Strahd by the following routes:
 
-* If she meets the players at or near <span class="citation">K7. Entry (p. 54)</span>, Sasha leads them into <span class="citation">K8. Great Entry (p. 55)</span>, up <span class="citation">K19. Grand Landing (p. 58)</span> to <span class="citation">K25. Audience Hall (p. 61)</span>, through the secret door of <span class="citation">K26. Guards’ Post (p. 61)</span>, through the northern secret door at the foot of <span class="citation">K33. King’s Apartment Stair (p. 64)</span>, and onto the landing of <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
-* If she meets the players at or near <span class="citation">K23. Servants’ Entrance (p. 59)</span>, Sasha leads them into <span class="citation">K24. Servants’ Quarters (p. 61)</span>, up the stairs to <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, and through the secret door into <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
-* If she meets the players on <span class="citation">K46. Parapets (p. 68)</span>, Sasha leads them directly to <span class="citation">K20. Heart of Sorrow (p. 59)</span>
+* If she meets the players at or near <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K7Entry">K7. Entry</a> (p. 54)</span>, Sasha leads them into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K8GreatEntry">K8. Great Entry</a> (p. 55)</span>, up <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K19GrandLanding">K19. Grand Landing</a> (p. 58)</span> to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K25AudienceHall">K25. Audience Hall</a> (p. 61)</span>, through the secret door of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K26GuardsPost">K26. Guards’ Post</a> (p. 61)</span>, through the northern secret door at the foot of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K33KingsApartmentStair">K33. King’s Apartment Stair</a> (p. 64)</span>, and onto the landing of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span>.
+* If she meets the players at or near <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K23ServantsEntrance">K23. Servants’ Entrance</a> (p. 59)</span>, Sasha leads them into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K24ServantsQuarters">K24. Servants’ Quarters</a> (p. 61)</span>, up the stairs to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K34ServantsUpperFloor">K34. Servants’ Upper Floor</a> (p. 64)</span>, and through the secret door into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span>.
+* If she meets the players on <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K46Parapets">K46. Parapets</a> (p. 68)</span>, Sasha leads them directly to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span>
 
 > [!abstract]+ **Sasha and the *Sunsword***
 > If the players attempt to reassure Sasha with the *Sunsword*, she shudders, her gaze lingering on it longingly before she squeezes her eyes shut. “It’s beautiful," she says dully, “but like all beautiful things in my Master’s domain, it will not survive this night. The true dawn will not come, and its like shall never be seen again."
 ## U5c. The Heart of Sorrow
 ### Approaching the Heart
-The Heart of Sorrow is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, the spiral staircase doesn’t shake as the players ascend the tower, the halberds don't animate if the players attack the Heart of Sorrow, and no **vampire spawn** arrive if the players attack the Heart. In addition, revise this area’s description as follows:
+The Heart of Sorrow is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span>. However, the spiral staircase doesn’t shake as the players ascend the tower, the halberds don't animate if the players attack the Heart of Sorrow, and no **vampire spawn** arrive if the players attack the Heart. In addition, revise this area’s description as follows:
 
 <div class="description">
 <p>This tall, cold tower is bathed in a pulsing crimson light. Glowing red runes have been carved into every inch of the tower’s inner walls, which bear a faint crimson sheen.</p>
@@ -693,7 +693,7 @@ Players who inspect the dead horse can immediately recognize it as the remains o
 > [!warning]+ **No Dispelling**
 > As described in the description of *wall of force*, nothing can physically pass through the wall, it is immune to all damage, can’t be dispelled by *dispel magic*, and extends into the Ethereal Plane. As described in the description of *private sanctum*, nothing can teleport into or out of the warded area.
 
-When the players first enter this area, Strahd is in <span class="citation">K60. North Tower Peak (p. 74)</span>. If Sasha didn’t go to greet the players in [[#U5b. Ascending the Keep]], she is standing on the Heart of Sorrow’s fourth-floor landing, just below the stairs leading to the North Tower Peak, waiting for Strahd to return.
+When the players first enter this area, Strahd is in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K60NorthTowerPeak">K60. North Tower Peak</a> (p. 74)</span>. If Sasha didn’t go to greet the players in [[#U5b. Ascending the Keep]], she is standing on the Heart of Sorrow’s fourth-floor landing, just below the stairs leading to the North Tower Peak, waiting for Strahd to return.
 
 When the players arrive at the fourth-floor landing, read:
 
@@ -747,7 +747,7 @@ Combat with Strahd might begin in any one of the following ways:
 * If the players attack or invite him to do so, Strahd curls his left hand around the ruby at his neck. “Eager," he hisses, his eyes flashing. “Very well. Let us begin."
 * If Strahd tires of their conversation or finishes sharing his plan, his eyes flicker toward the unseen sky above, then back to the players. “I have waited nearly four hundred years for this moment," he says. “At last, I shall wait no longer."
 
-Before or as combat begins, Strahd commands Sasha to return with his crown to <span class="citation">K60. North Tower Peak (p. 74)</span> to await his summons. If given sufficient time, Strahd strokes her cheek gently, and says: “First of my wives—long have you waited for the day of my triumph. When you return, I shall have dispatched the ones you once thought saviors, and you shall look upon the first night of my everlasting reign."
+Before or as combat begins, Strahd commands Sasha to return with his crown to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K60NorthTowerPeak">K60. North Tower Peak</a> (p. 74)</span> to await his summons. If given sufficient time, Strahd strokes her cheek gently, and says: “First of my wives—long have you waited for the day of my triumph. When you return, I shall have dispatched the ones you once thought saviors, and you shall look upon the first night of my everlasting reign."
 ## U5d. The Final Battle
 ### The Battle Begins
 When the final battle begins, read:
@@ -805,7 +805,7 @@ A player who inspects the castle’s surroundings from outside the tower can con
 > [!info]+ **Unnatural Weather**
 > When the battle begins, Castle Ravenloft is pelted by light precipitation. When Strahd’s first phase is defeated, this increases to <span class="citation">heavy precipitation (Dungeon Master’s Guide, p. 110)</span>. When Strahd’s second phase is defeated, the precipitation continues, but rains blood instead of water.
 
-Strahd begins the battle in his Mage form. While in this phase, Strahd prefers to fight within <span class="citation">K20. Heart of Sorrow (p. 59)</span>, using his *misty step* spell to avoid the reach of melee combatants.
+Strahd begins the battle in his Mage form. While in this phase, Strahd prefers to fight within <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span>, using his *misty step* spell to avoid the reach of melee combatants.
 ### Visions of Death
 When Strahd’s Mage phase is reduced to 0 hit points, read the following, modifying the text as necessary to reflect each non-player character’s current status:
 
@@ -823,10 +823,10 @@ When Strahd’s Mage phase is reduced to 0 hit points, read the following, modif
 <p>“You wish to dance?" he says. “Then let us dance."</p>
 </div>
 
-In his Soldier phase, Strahd moves freely between <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K57. Tower Roof (p. 72)</span>, though he prefers to linger upon <span class="citation">K58. Bridge (p. 73)</span> and use his ***longsword*** and ***thunderous wave*** features to push players off of the bridge onto <span class="citation">K53. Rooftop (p. 71)</span>.
+In his Soldier phase, Strahd moves freely between <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K57TowerRoof">K57. Tower Roof</a> (p. 72)</span>, though he prefers to linger upon <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K58Bridge">K58. Bridge</a> (p. 73)</span> and use his ***longsword*** and ***thunderous wave*** features to push players off of the bridge onto <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop">K53. Rooftop</a> (p. 71)</span>.
 
 > [!info]+ **Ascending the Walls**
-> A character attempting to ascend or descend the exterior walls of <span class="citation">K20. Heart of Sorrow (p. 59)</span> or <span class="citation">K57. Tower Roof (p. 72)</span> must make a DC 17 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the wall, as desired. On a check result of 8-16, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone on the rooftop below.
+> A character attempting to ascend or descend the exterior walls of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span> or <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K57TowerRoof">K57. Tower Roof</a> (p. 72)</span> must make a DC 17 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the wall, as desired. On a check result of 8-16, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone on the rooftop below.
 
 ### Visions of Life
 When Strahd’s Soldier phase is reduced to 0 hit points, read the following, modifying the text as necessary to reflect each non-player character’s current status:
@@ -850,7 +850,7 @@ When Strahd’s Soldier phase is reduced to 0 hit points, read the following, mo
 <p>Strahd’s sneer has given way to a snarl, his face stony and cold. “This changes nothing," he whispers—and throws himself forward like a beast.</p>
 </div>
 
-In his Vampire phase, Strahd prefers to fight on and around <span class="citation">K57. Tower Roof (p. 72)</span>, using his ***night’s retreat*** to cling to its exterior walls before returning to the fray.
+In his Vampire phase, Strahd prefers to fight on and around <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K57TowerRoof">K57. Tower Roof</a> (p. 72)</span>, using his ***night’s retreat*** to cling to its exterior walls before returning to the fray.
 ## U5e. The Collapsing Castle
 When Strahd dies, read:
 
@@ -870,7 +870,7 @@ One round after Strahd dies, read:
 <p>And the castle is falling.</p>
 </div>
 
-If any players remain on <span class="citation">K57. Tower Roof (p. 72)</span> or <span class="citation">K58. Bridge (p. 73)</span>, add:
+If any players remain on <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K57TowerRoof">K57. Tower Roof</a> (p. 72)</span> or <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K58Bridge">K58. Bridge</a> (p. 73)</span>, add:
 
 <div class="description">
 <p>The sound of wings draws your eye to the east, where, in the distance, a black cloud steadily grows on the horizon. It’s only as it approaches that you realize that it’s a flock of hundreds of ravens—led by a single, blue-winged raven at their head.</p>
@@ -881,7 +881,7 @@ The blue-winged raven is Muriel Vinshaw, joined by twenty **swarms of ravens**.
 In the rounds after the castle begins to fall, the following events occur:
 
 * On initiative count 20 of the first round, the castle lurches again, forcing each creature standing upon it that isn’t anchored to a surface to succeed on a DC 15 Dexterity (Acrobatics) check or fall prone and slide 10 feet to the south. If a creature would fall off the edge of the keep in this way, it can catch itself by succeeding on a DC 10 Strength or Dexterity saving throw. On a failure, the creature is caught instead by Sasha Ivliskova, who sensed Strahd’s death and emerged to aid them.
-* On initiative count 20 of the second round, the castle plummets 10 feet, forcing each creature standing upon it that isn’t anchored to a surface to fall 10 feet, take 1d6 bludgeoning damage, and fall prone. If she hasn’t already emerged from <span class="citation">K60. North Tower Peak (p. 74)</span>, Sasha Ivliskova descends the wall into <span class="citation">K20. Heart of Sorrow (p. 59)</span> using her ***spider climb***, but cries out when she’s hit by and pinned to the fourth-floor landing beneath a large chunk of rubble. (The rubble has AC 17, 10 hit points, immunity to poison, psychic, necrotic, and piercing damage, and resistance to fire damage. A player can also lift the rubble by succeeding on a DC 18 Strength check.)
+* On initiative count 20 of the second round, the castle plummets 10 feet, forcing each creature standing upon it that isn’t anchored to a surface to fall 10 feet, take 1d6 bludgeoning damage, and fall prone. If she hasn’t already emerged from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K60NorthTowerPeak">K60. North Tower Peak</a> (p. 74)</span>, Sasha Ivliskova descends the wall into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span> using her ***spider climb***, but cries out when she’s hit by and pinned to the fourth-floor landing beneath a large chunk of rubble. (The rubble has AC 17, 10 hit points, immunity to poison, psychic, necrotic, and piercing damage, and resistance to fire damage. A player can also lift the rubble by succeeding on a DC 18 Strength check.)
 * On initiative count 20 of the third round, the castle, as well as any creatures standing upon it, fall 500 feet toward the Svalich Wood below.
 * On initiative count 20 of the fourth round, the castle, as well as any creatures standing upon it, fall 500 feet and crash in the Svalich Wood below. When this occurs, each creature still in or on the castle takes 242 (44d10) bludgeoning damage.
 

@@ -5,7 +5,7 @@ In this arc, the players delve into the depths of the frozen Amber Temple in sea
 As the players uncover the temple's ancient secrets, one question dominates their minds: Where did Patrina Velikovna, the dusk elf archmage and failed lich, hide the *Sunsword*'s hilt? Their search will take them to a group of meditating Mountain Folk, a maddened nothic, a table of wary spirits, and—eventually—the amber sarcophagus of the vestige of the Vampyr, where Strahd first accepted the dark gift of vampirism. But the *Sunsword*'s hilt, hidden in a secret demiplane within the Vampyr's prison, conceals a deadly secret: the disembodied spirit of Patrina Velikovna, who sought to use it as her phylactery. Can the players defeat Patrina and reignite the *Sunsword*—before Strahd's trials defeat them first?
 
 > [!lore]+ **Operations of the Amber Temple**
-> More than two thousand years ago, a secret society of good-aligned wizards built the Amber Temple as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The society, first founded by an **archmage** and three **mages**, eventually came to include twenty-four **apprentice wizards** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), whom the founders trained to expand and continue their work.
+> More than two thousand years ago, a secret society of good-aligned wizards built the Amber Temple as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple">Chapter 13: The Amber Temple</a> (p. 181)</span>. The society, first founded by an **archmage** and three **mages**, eventually came to include twenty-four **apprentice wizards** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), whom the founders trained to expand and continue their work.
 > 
 > In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7d. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#Amber Vault]].
 >
@@ -22,15 +22,15 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > As the third generation of temple wizards came into power, a number of rising members secretly rejected the second generation’s zealotry. Instead, their curiosity drove them to seek out knowledge of the beings they had long imprisoned, yet rarely seen. Study of the vestiges resumed sparingly, and in secret, with only a few members daring to take advantage of growing lapses in security. 
 >
-> One day, however, one of the senior **mages** of the temple—convinced that no harm could come from doing so, and driven mad by long-standing curiosity—disarmed the *arcane lock* protecting <span class="citation">X33a. Vault of Shalx (p. 191)</span> in the [[#Southeast Vaults]] and accepted the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala’s power, however, corrupted the mage, and he used the vestige’s dark gift to kill a rival **mage** soon thereafter.
+> One day, however, one of the senior **mages** of the temple—convinced that no harm could come from doing so, and driven mad by long-standing curiosity—disarmed the *arcane lock* protecting <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33aVaultofShalx">X33a. Vault of Shalx</a> (p. 191)</span> in the [[#Southeast Vaults]] and accepted the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala’s power, however, corrupted the mage, and he used the vestige’s dark gift to kill a rival **mage** soon thereafter.
 >
 > Although the perpetrator was caught and executed, the murder left the wizards of the Amber Temple insular and fearful. As the security wards continued to weaken, the vestiges reached out from their dreamless sleep within their sarcophagi and whispered to their captors in their sleep, driving them further into delusion and paranoia. 
 >
-> The leader of the society, an archmage named Exethanter, adopted a habit of drinking only out of an enchanted ewer, described further in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, Exethanter’s apprentice, a paranoid man named Vilnius, grew convinced that Exethanter conspired to kill him, and secretly switched out the ewer with a disguised one filled with poison. When drunk, the poison killed both Exethanter and several other mages and apprentices, whose restless spirits lingered as **wraiths** and **specters** in the [[#Dining Hall]].
+> The leader of the society, an archmage named Exethanter, adopted a habit of drinking only out of an enchanted ewer, described further in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X22NorthwestAnnex">X22. Northwest Annex</a> (p. 187)</span>. However, Exethanter’s apprentice, a paranoid man named Vilnius, grew convinced that Exethanter conspired to kill him, and secretly switched out the ewer with a disguised one filled with poison. When drunk, the poison killed both Exethanter and several other mages and apprentices, whose restless spirits lingered as **wraiths** and **specters** in the [[#Dining Hall]].
 >
 > The society fractured. Wizards barricaded themselves in their rooms, and battles erupted in the halls. Some looted the catacombs or treasuries, then fled. In the end, only one wizard remained: Vilnius. Driven mad by his paranoia, Vilnius became terrified that enemies lurked everywhere outside of the temple, and hid himself away in the [[#Lecture Hall]] until he starved to death. The Dark Powers—born from the vestiges’ dark miasma, the clash of powerful magics, and the psychic resonance of so many violent deaths—entrapped his soul there, taking sustenance from his terror and despair.
 >
-> Several years after the society fell apart, arcane thieves—tipped off by former members who had fled the chaos—attempted to raid the temple for magical relics and treasure. Although they dug a shaft into the <span class="citation">X33a. Vault of Shalx (p. 191)</span> in [[East Vaults]] and successfully broke into [[#S6a. West Treasury]], all but one were killed by the **amber golem** that dwelled in the latter; their souls, entrapped by the Dark Powers, became **poltergeists**. The sole survivor fled with a pouch full of amber shards, which soon spread through the valley below and the lands far beyond. 
+> Several years after the society fell apart, arcane thieves—tipped off by former members who had fled the chaos—attempted to raid the temple for magical relics and treasure. Although they dug a shaft into the <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33aVaultofShalx">X33a. Vault of Shalx</a> (p. 191)</span> in [[East Vaults]] and successfully broke into [[#S6a. West Treasury]], all but one were killed by the **amber golem** that dwelled in the latter; their souls, entrapped by the Dark Powers, became **poltergeists**. The sole survivor fled with a pouch full of amber shards, which soon spread through the valley below and the lands far beyond. 
 >
 > The temple, broken, shadowed, and hollow, slumbered forgotten in the mountains—until the dusk elf mage Patrina Velikovna stumbled upon the secret of its existence nearly two thousand years later. Escorted to the valley by a Vistani caravan after Strahd crushed the dusk elves’ rebellion, Patrina found her way to the temple, where she disarmed its arcane wards and sought the secrets that lay within. Disregarding the weaker vestiges that dwelled in the [[#East Vaults]] and [[#West Vaults]], it wasn’t long before Patrina uncovered her true prize: the ocean of arcane knowledge that dwelled in [[#S7b. Archmage’s Library]]—as well as the ghost of the **archmage** Exethanter who dwelled there.
 >
@@ -58,7 +58,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > [!info]+ **Following the Shards**
 > Each amber shard longs to return to the sarcophagus from whence it came. While within the Amber Temple, or while within 100 feet of the temple, an amber shard glows and gently pulls in the direction of its parent sarcophagus. Both effects end when the shard comes within 5 feet of its sarcophagus.
 >
-> If a player possessing a vestige’s amber shard approaches that vestige’s vault, the vestige whispers the password to its vault, as described in <span class="citation">X33. Amber Vaults (p. 191)</span>, into the player’s ear.
+> If a player possessing a vestige’s amber shard approaches that vestige’s vault, the vestige whispers the password to its vault, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33AmberVaults">X33. Amber Vaults</a> (p. 191)</span>, into the player’s ear.
 
 > [!info]+ **The Tyrant’s Third Trial**
 > Each night the players spent in or near the Amber Temple, Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. If his _scrying_ fails, he also personally visits the Amber Temple to determine whether the players are there.
@@ -130,7 +130,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > *The bones stir—and a figure bursts from the muck, its flesh sunken and gaunt, with pointed ears and deep, violet eyes. Its hands move to wrap around your neck—and you wake up.*
 ## S1a. Facade
-This area is largely as described in <span class="citation">X1. Temple Facade (p. 183)</span>. However, add the following sentence to the end of this area’s description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X1TempleFacade">X1. Temple Facade</a> (p. 183)</span>. However, add the following sentence to the end of this area’s description:
 
 <div class="description">
 <p>A thin blanket of mist drifts lazily from the archway, then splits, forming a low perimeter around the temple.</p>
@@ -147,9 +147,9 @@ As the players approach, Kasimir quietly reminds them of Patrina’s cryptic mes
 > Long before Strahd von Zarovich’s pact allowed the Dark Powers to spread their influence to the valley beyond, the Dark Powers kept Vilnius an immortal prisoner within the temple’s amber walls, locking away his soul—and that of every other spirit that dwelled there—as he spiraled further into madness, self-loathing, and hate. 
 
 > [!info]+ **Mists of the Amber Temple**
-> The mists that surround the Amber Temple possess none of the powers listed in <span class="citation">Mists of Ravenloft (p. 23)</span>. However, while the mists remain, Vilnius and incorporeal undead can’t leave the temple. (A **ghost** that possesses a victim ceases to be incorporeal while the possession remains.)
+> The mists that surround the Amber Temple possess none of the powers listed in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#MistsofRavenloft">Mists of Ravenloft</a> (p. 23)</span>. However, while the mists remain, Vilnius and incorporeal undead can’t leave the temple. (A **ghost** that possesses a victim ceases to be incorporeal while the possession remains.)
 ## S1b. Fissure
-This area is largely as described in <span class="citation">X1a. Narrow Fissure (p. 183)</span>. However, a player with a passive Wisdom (Perception) score of 13 or greater hears voices echoing from the far side of the fissure. A successful DC 15 Wisdom (Perception) check allows a player to discern the following conversation:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X1aNarrowFissure">X1a. Narrow Fissure</a> (p. 183)</span>. However, a player with a passive Wisdom (Perception) score of 13 or greater hears voices echoing from the far side of the fissure. A successful DC 15 Wisdom (Perception) check allows a player to discern the following conversation:
 
 * A male voice says: "Diona, you can't seriously want to go after them." (This is Coryllus, one of the three Mountain Folk who accompanied Chief Diegia’s daughter, Diona, to the Amber Temple.)
 * A female voice snaps back: "And what would we be if we abandoned them? They would go to any length to save us. We owe them nothing less." (This is Diona.)
@@ -159,28 +159,28 @@ If the players make their presence known, Diona demands that they identify thems
 > [!lore]+ **The Missing Mountain Folk**
 > Four days ago, Chief Diegia’s eldest child and heir, Diona, departed Soldav for the Amber Temple, where she would spend six days and six nights in contemplation, thereby proving her resilience, strength, and will to resist temptation as per Mountain Folk tradition. Three friends accompanied Diona to the Amber Temple: the **berserkers** Coryllus and Meda, and the **scout** Duras.
 >
-> When the companions arrived at the temple and passed through <span class="citation">X2. Entrance (p. 183)</span> into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, they were surprised to find the temple’s three **flameskulls**—long thought to be dormant—guarding the temple from incursion. The Mountain Folk split, with Meda fleeing in panic for <span class="citation">X6. Southeast Annex (p. 185)</span>, while the others took shelter in <span class="citation">X15. Southwest Annex (p. 186)</span>.
+> When the companions arrived at the temple and passed through <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X2Entrance">X2. Entrance</a> (p. 183)</span> into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>, they were surprised to find the temple’s three **flameskulls**—long thought to be dormant—guarding the temple from incursion. The Mountain Folk split, with Meda fleeing in panic for <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X6SoutheastAnnex">X6. Southeast Annex</a> (p. 185)</span>, while the others took shelter in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X15SouthwestAnnex">X15. Southwest Annex</a> (p. 186)</span>.
 >
-> Separated from her friends and pursued by the sadistic **flameskull** Gaspar (see [[#S2e. West Gallery]] for more information about Gaspar), Meda took shelter in the eastern <span class="citation">X3. Empty Barracks (p.183)</span>, where she found a secret door leading to <span class="citation">X2b. Guard Room (p. 183)</span>. There, she found the frozen corpse of a **Barovian witch** clutching an *amber shard of Khirad*. (See [[#East Guard Post]] for more information about this witch.) Entranced by the shard’s allure, Meda took it for herself, hiding it away within her cloak.
+> Separated from her friends and pursued by the sadistic **flameskull** Gaspar (see [[#S2e. West Gallery]] for more information about Gaspar), Meda took shelter in the eastern <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X3EmptyBarracks">X3. Empty Barracks</a> (p.183)</span>, where she found a secret door leading to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X2bGuardRoom">X2b. Guard Room</a> (p. 183)</span>. There, she found the frozen corpse of a **Barovian witch** clutching an *amber shard of Khirad*. (See [[#East Guard Post]] for more information about this witch.) Entranced by the shard’s allure, Meda took it for herself, hiding it away within her cloak.
 >
-> Soon after the flameskulls’ attack, the **arcanaloth** Neferon—disguised as the human wizard Heinrich Stolt—emerged and ordered the flameskulls to stand down. After hearing the Mountain Folks’ story, “Heinrich" solemnly informed them that <span class="citation">X5. Temple of Lost Secrets (p. 183)</span> was off-limits to them, but agreed to allow them to remain in <span class="citation">X15. Southwest Annex (p. 186)</span> in exchange for a “donation" of suitable power or value. (Diona made this tribute reluctantly, relinquishing her *stone of good luck*: an heirloom she had received from her father on her eighteenth birthday.)
+> Soon after the flameskulls’ attack, the **arcanaloth** Neferon—disguised as the human wizard Heinrich Stolt—emerged and ordered the flameskulls to stand down. After hearing the Mountain Folks’ story, “Heinrich" solemnly informed them that <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span> was off-limits to them, but agreed to allow them to remain in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X15SouthwestAnnex">X15. Southwest Annex</a> (p. 186)</span> in exchange for a “donation" of suitable power or value. (Diona made this tribute reluctantly, relinquishing her *stone of good luck*: an heirloom she had received from her father on her eighteenth birthday.)
 >
-> Each night since, as the Mountain Folk slept in <span class="citation">X15. Southwest Annex (p. 186)</span>, each suffered vivid, terrible nightmares as described in **Rests in the Amber Temple** above—but none more so than Meda. Through its shard, Khirad, the Star of Secrets spoke to her, showing her visions of the Grand Conjunction: of the veils between worlds torn asunder; a weapon born of a thousand shrieking souls; and the corpses of her friends and family, serving the Great Shadow—Strahd—in eternal undeath. Khirad promised Meda that it could show her a path to averting this terrible fate—if only she found her way to its sarcophagus and accepted its gift.
+> Each night since, as the Mountain Folk slept in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X15SouthwestAnnex">X15. Southwest Annex</a> (p. 186)</span>, each suffered vivid, terrible nightmares as described in **Rests in the Amber Temple** above—but none more so than Meda. Through its shard, Khirad, the Star of Secrets spoke to her, showing her visions of the Grand Conjunction: of the veils between worlds torn asunder; a weapon born of a thousand shrieking souls; and the corpses of her friends and family, serving the Great Shadow—Strahd—in eternal undeath. Khirad promised Meda that it could show her a path to averting this terrible fate—if only she found her way to its sarcophagus and accepted its gift.
 >
-> Last night, when Khirad’s dream ended, Meda awoke and crept quietly away toward <span class="citation">X4. Overlook (p. 183)</span>. Although Diona and Coryllus continued to slumber, Duras—who had found himself unable to sleep—saw Meda slip out and resolved to follow her. Meda made it as far as <span class="citation">X6. Southeast Annex (p. 185)</span> before Duras caught her, and an argument ensued. Terrified of the fate she had foreseen and of Duras’s threats to reveal her duplicity to the others, Meda pushed Duras in a sudden attempt to flee—and, in doing so, accidentally pushed him down the wide stone shaft to <span class="citation">X33a. Vault of Shalx (p. 191)</span>. The thirty-foot fall broke Duras’s neck, killing him instantly. 
+> Last night, when Khirad’s dream ended, Meda awoke and crept quietly away toward <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X4Overlook">X4. Overlook</a> (p. 183)</span>. Although Diona and Coryllus continued to slumber, Duras—who had found himself unable to sleep—saw Meda slip out and resolved to follow her. Meda made it as far as <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X6SoutheastAnnex">X6. Southeast Annex</a> (p. 185)</span> before Duras caught her, and an argument ensued. Terrified of the fate she had foreseen and of Duras’s threats to reveal her duplicity to the others, Meda pushed Duras in a sudden attempt to flee—and, in doing so, accidentally pushed him down the wide stone shaft to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33aVaultofShalx">X33a. Vault of Shalx</a> (p. 191)</span>. The thirty-foot fall broke Duras’s neck, killing him instantly. 
 >
-> Meda fled, passing through <span class="citation">X8. Upper East Hall (p. 185)</span> and <span class="citation">X12. East Shrine (p. 186)</span>, then descending <span class="citation">X14. North Staircase (p. 186)</span> to <span class="citation">X33c. Ghastly Vault (p. 192)</span>. There, she accepted Khirad’s dark gift, which transformed into a **nothic**.
+> Meda fled, passing through <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X8UpperEastHall">X8. Upper East Hall</a> (p. 185)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X12EastShrine">X12. East Shrine</a> (p. 186)</span>, then descending <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X14NorthStaircase">X14. North Staircase</a> (p. 186)</span> to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33cGhastlyVault">X33c. Ghastly Vault</a> (p. 192)</span>. There, she accepted Khirad’s dark gift, which transformed into a **nothic**.
 >
 > When Diona and Coryllus awoke, they found no signs of their missing friends. Both believe that Meda and Duras have been abducted—or worse. While Diona is determined to rescue them both, Coryllus (ever a grim pragmatist) believes that doing so is a foolhardy effort, and that the missing two are now likely dead.
 # S2. Temple Defenses
 > [!info]+ **The Arrow Slits**
-> A creature positioned behind an Amber Temple arrow slit (e.g., the **flameskulls** in <span class="citation">X17. Upper West Hall (p. 187)</span>) can only see in a 200-foot cone extending from that arrow slit. It can't see other creatures unless they’re illuminated or visible to its sight (e.g., darkvision or truesight).
+> A creature positioned behind an Amber Temple arrow slit (e.g., the **flameskulls** in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X17UpperWestHall">X17. Upper West Hall</a> (p. 187)</span>) can only see in a 200-foot cone extending from that arrow slit. It can't see other creatures unless they’re illuminated or visible to its sight (e.g., darkvision or truesight).
 >
 > A creature looking into an Amber Temple arrow slit from the outside can only see in a 5-foot line extending from that arrow slit.
 ## S2a. Entry Hall
 <span class="citation">This scene takes place in Chapter 13, Area X2.</span>
 
-This area is largely as described in <span class="citation">X2. Entrance (p. 183)</span>. If a player looks through either arrow slit, read:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X2Entrance">X2. Entrance</a> (p. 183)</span>. If a player looks through either arrow slit, read:
 
 <div class="description">
 <p>Through the narrow slit, you catch a small, narrow glimpse of a cold, still chamber.</p>
@@ -190,20 +190,20 @@ This area is largely as described in <span class="citation">X2. Entrance (p. 183
 <span class="citation">This scene takes place in Chapter 13, Area X4, X5, X5a, X11, and X23.</span>
 
 > [!warning]+ **Sight in the Temple**
-> The <span class="citation">X4. Overlook (p. 183)</span> is 50 feet from <span class="citation">X5d. Amber Reflections (p. 184)</span>, 100 feet from <span class="citation">X5a. God of Secrets (p. 184)</span>, and 110 feet from <span class="citation">X39. Plundered Treasury (p. 194)</span> and <span class="citation">X40 Sealed Treasury (p. 194)</span>. Players without sufficient darkvision or a sufficient light source can’t see them from <span class="citation">X4. Overlook (p. 183)</span>.
+> The <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X4Overlook">X4. Overlook</a> (p. 183)</span> is 50 feet from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5dAmberReflections">X5d. Amber Reflections</a> (p. 184)</span>, 100 feet from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span>, and 110 feet from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X39PlunderedTreasury">X39. Plundered Treasury</a> (p. 194)</span> and <span class="citation">X40 Sealed Treasury (p. 194)</span>. Players without sufficient darkvision or a sufficient light source can’t see them from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X4Overlook">X4. Overlook</a> (p. 183)</span>.
 ### Overlook
-This area is largely as described in <span class="citation">X4. Overlook (p. 183)</span>. However, add the following text to the end of this area’s description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X4Overlook">X4. Overlook</a> (p. 183)</span>. However, add the following text to the end of this area’s description:
 
 <div class="description">
 <p>A faint, fiery light flickers from a trio of arrow slits along the west wall.</p>
 </div>
 
-In addition, the first time the **arcanaloth** Neferon (described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>) notices the players, he casts *mind blank* on himself, then assumes the form of Heinrich Stolt as described in <span class="citation">X5a. God of Secrets (p. 184)</span>.
+In addition, the first time the **arcanaloth** Neferon (described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>) notices the players, he casts *mind blank* on himself, then assumes the form of Heinrich Stolt as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span>.
 
 > [!warning]+ **Neferon’s Senses**
 > Don’t forget that Neferon possesses truesight to a range of 120 feet. (See <span class="citation">Truesight (<em>Player’s Handbook</em>, p. 183 or <em>Player’s Handbook (2024)</em>, p. 377)</span> for more information about truesight.)
 #### Heinrich’s Greeting
-The first time the players make any move to depart <span class="citation">X4. Overlook (p. 183)</span> and pass further into the temple, such as by approaching the stairs descending to <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, the door to the western <span class="citation">X3. Empty Barracks (p. 183)</span>, or the double doors to <span class="citation">X6. Southeast Annex (p. 185)</span> or <span class="citation">X15. Southwest Annex (p. 186)</span>, Neferon casts *dimension door* to teleport into the western <span class="citation">X3. Empty Barracks (p. 183)</span> or <span class="citation">X6. Southwest Annex (p. 183)</span>, whichever is closer to the players. Immediately after he does, read:
+The first time the players make any move to depart <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X4Overlook">X4. Overlook</a> (p. 183)</span> and pass further into the temple, such as by approaching the stairs descending to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>, the door to the western <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X3EmptyBarracks">X3. Empty Barracks</a> (p. 183)</span>, or the double doors to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X6SoutheastAnnex">X6. Southeast Annex</a> (p. 185)</span> or <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X15SouthwestAnnex">X15. Southwest Annex</a> (p. 186)</span>, Neferon casts *dimension door* to teleport into the western <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X3EmptyBarracks">X3. Empty Barracks</a> (p. 183)</span> or <span class="citation">X6. Southwest Annex (p. 183)</span>, whichever is closer to the players. Immediately after he does, read:
 
 <div class="description">
 <p>You hear the sound of footsteps echoing across the frozen floor.</p>
@@ -237,12 +237,12 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 > [!abstract]+ **Heinrich’s Discipline**
 > If the players threaten "Heinrich" or refuse to answer his questions to his satisfaction, “Heinrich" stands up straighter, adjusts his glasses, and warns them grimly that, although he is "a peaceful man by nature," he "will not hesitate" to call upon the aid of his flameskull allies should the players attempt to deceive him or force their way into the Temple. "I assure you," he says with a dry smile, "I may be old, but I am far from incapable."
 > 
-> If the players attack "Heinrich" or disregard his warnings, "Heinrich" uses his fly speed to rise into the air, warns them that they "have made a terrible mistake," and retreats into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, using his ***teleport*** action to teleport into <span class="citation">X5a. God of Secrets (p. 184)</span> as soon as it comes within range. Neferon and the flameskulls in <span class="citation">X17. Upper West Hall (p. 187)</span> then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>.
+> If the players attack "Heinrich" or disregard his warnings, "Heinrich" uses his fly speed to rise into the air, warns them that they "have made a terrible mistake," and retreats into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>, using his ***teleport*** action to teleport into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span> as soon as it comes within range. Neferon and the flameskulls in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X17UpperWestHall">X17. Upper West Hall</a> (p. 187)</span> then attack as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>.
 
 > [!info]+ **Neferon’s Tactics**
-> In combat, Neferon begins by casting *chain lightning*, followed by *fireball*. If cornered or damaged, he casts *dimension door* to teleport to any of the following locations: <span class="citation">X13. East Archer Post (p. 186)</span>, <span class="citation">X25. West Archer Post (p. 188)</span>, or <span class="citation">X8. Upper East Hall (p. 185)</span>. He then uses the arrow slits there to continue the fight.
+> In combat, Neferon begins by casting *chain lightning*, followed by *fireball*. If cornered or damaged, he casts *dimension door* to teleport to any of the following locations: <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X13EastArcherPost">X13. East Archer Post</a> (p. 186)</span>, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X25WestArcherPost">X25. West Archer Post</a> (p. 188)</span>, or <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X8UpperEastHall">X8. Upper East Hall</a> (p. 185)</span>. He then uses the arrow slits there to continue the fight.
 >
-> Neferon doesn’t chase the players deeper into the temple, preferring to remain behind cover with a sightline to <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>. He knows they’ll have to return to <span class="citation">X5. Temple of Lost Secrets (p. 183)</span> in order to escape the temple.
+> Neferon doesn’t chase the players deeper into the temple, preferring to remain behind cover with a sightline to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>. He knows they’ll have to return to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span> in order to escape the temple.
 >
 > If possible, Neferon uses his fly speed to remain hovering in the air at all times, preferring to remain near the ceiling of his current room whenever possible.
 >
@@ -254,7 +254,7 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 
 * Ordinarily, the Amber Temple is isolated and quiet. However, last night, a creature arrived from another world by means of “some strange portal": a slaad, of the plane of Limbo. ("A death slaad, to be precise," “Heinrich" remarks grimly, pushing his spectacles up his nose—“one of the most dangerous members of slaadkind.")
 * Heinrich was, with some luck (and the use of an ancient *arcane lock* mechanism built by the temple’s original inhabitants), able to imprison the creature in the temple catacombs. However, he fears that the slaad may soon escape and wreak havoc across the temple—or the valley below. (A DC 21 Wisdom (Insight) check reveals that “Heinrich" is indeed concerned about the slaad—but doesn’t appear authentically concerned about the safety of the Barovian people.)
-* “Heinrich" is glad to allow the players to explore the temple if they descend into the catacombs and “remove" (i.e., kill) the death slaad for him. (The catacombs, he shares, lie beneath the overlook, at the southern end of <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>).
+* “Heinrich" is glad to allow the players to explore the temple if they descend into the catacombs and “remove" (i.e., kill) the death slaad for him. (The catacombs, he shares, lie beneath the overlook, at the southern end of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>).
 
 If the players refuse to carry out “Heinrich’s" task, he responds as described in **Heinrich’s Discipline** above. 
 
@@ -267,14 +267,14 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 > If the players ask “Heinrich" whether he will allow them to depart in peace, he promises that he “shall allow them to depart the temple with their belongings unmolested." If the players instead ask permission to keep any items they find, he smoothly promises to make “reasonable efforts" to negotiate the terms of any such exchange before they depart—"subject, of course, to reasonable disclosures of the item’s nature and value."
 
 > [!info]+ **Neferon's Eye**
-> Through the use of his truesight and *dimension door*, Neferon has deciphered the spellbooks held in <span class="citation">X30. Preserved Library (p. 189)</span>, and so replaced his *banishment* spell (which he has correctly deduced won’t work in Barovia—especially after it failed to banish the death slaad to its home plane of Limbo) with the *arcane eye* spell. 
+> Through the use of his truesight and *dimension door*, Neferon has deciphered the spellbooks held in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X30PreservedLibrary">X30. Preserved Library</a> (p. 189)</span>, and so replaced his *banishment* spell (which he has correctly deduced won’t work in Barovia—especially after it failed to banish the death slaad to its home plane of Limbo) with the *arcane eye* spell. 
 >
-> If he sees or hears the players enter <span class="citation">X15. Southwest Annex (p. 186)</span>, <span class="citation">X14. North Staircase (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Amber Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
+> If he sees or hears the players enter <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X15SouthwestAnnex">X15. Southwest Annex</a> (p. 186)</span>, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X14NorthStaircase">X14. North Staircase</a> (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Amber Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
 
 > [!lore]+ **Neferon's Arrival**
 > A native of the plane of Gehenna, home of the yugoloths, Neferon was whisked away to Barovia by the Mists ten days before the players’ arrival at the Amber Temple as he sought to travel from Gehenna to Avernus for a potential business deal. Irritated at the detour, but determined to seek opportunities in this new realm, Neferon swiftly moved to explore his surroundings, learn about its inhabitants, and loot any of its knowledge, riches, and magic for himself.
 >
-> Neferon navigated the Amber Temple with ease, mentally documenting each vestige, treasure, and relic he came across. With his *dimension door*, no door was locked to him; with his *truesight*, no book in <span class="citation">X30. Preserved Library (p. 189)</span> was blank to him. He chose to lair in in <span class="citation">X5a. God of Secrets (p. 184)</span>, recognizing its tactical advantages, and spent a full night casting a ritual that cloaked its head in magical darkness.
+> Neferon navigated the Amber Temple with ease, mentally documenting each vestige, treasure, and relic he came across. With his *dimension door*, no door was locked to him; with his *truesight*, no book in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X30PreservedLibrary">X30. Preserved Library</a> (p. 189)</span> was blank to him. He chose to lair in in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span>, recognizing its tactical advantages, and spent a full night casting a ritual that cloaked its head in magical darkness.
 > 
 > Although the **flameskulls** proved suspicious of his presence at first, Neferon used his silver tongue (and *detect thoughts* spell) to convince them that he was Patrina’s inheritor, sent to reclaim the temple in her name after centuries of abandonment. He informed them solemnly that she had passed away some years after befriending him, and presented a *minor illusion* copy of her “last will and testament," which stated:
 >
@@ -298,23 +298,23 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 >
 > As their conversation unfolded, however, Neferon soon realized that Strahd had no intention of remaining in Barovia. Ever one of the bolder members of his kind, Neferon offered his services as a diplomat and advisor—in exchange for dominion over the Amber Temple and “fair compensation." When Strahd, laughing, asked Neferon what use he might have for a diplomat, Neferon coolly noted Strahd’s history of conquest, the way the Mists had captured him while traveling between worlds, and the incredible arcane power he’d sensed flowing into the castle’s tallest tower. “The veils between worlds are growing thin," Neferon said carefully, adding: “Should you ever find yourself in a position to take advantage of such a thing, I do not doubt that your Grace may find himself in need of an agent to carry out his will, be it a diplomat, translator, or counselor." Impressed, but wary of Neferon’s insight, Strahd agreed to consider Neferon’s proposal, and Neferon returned to the Amber Temple, satisfied.
 >
-> Neferon, however, was not the only victim of the impending Grand Conjunction. That night, as Neferon rested within <span class="citation">X5a. God of Secrets (p. 184)</span>, the Mists spirited a **death slaad** from the plane of Limbo into <span class="citation">X8. Upper East Hall (p. 185)</span>. Although Neferon attempted to banish it from afar, the slaad’s blindsight and perceptive ears soon allowed it to detect his presence—whereupon its sadistic bloodlust drove it to attack.
+> Neferon, however, was not the only victim of the impending Grand Conjunction. That night, as Neferon rested within <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span>, the Mists spirited a **death slaad** from the plane of Limbo into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X8UpperEastHall">X8. Upper East Hall</a> (p. 185)</span>. Although Neferon attempted to banish it from afar, the slaad’s blindsight and perceptive ears soon allowed it to detect his presence—whereupon its sadistic bloodlust drove it to attack.
 >
 > Neferon fled, calling upon his new flameskull servants to defend him. However, he was dismayed to find their magic (as well as much of his own) did little to harm the slaad, whose wounds regenerated almost as quickly as they appeared. Thinking quickly, Neferon lured the slaad into [[#S3. Catacombs]], then used his ***teleport*** action to escape before sealing the slaad behind the ancient *arcane lock* enchanting the catacomb doors. Wary of the necromantic magic protecting the doors, the slaad withdrew to the catacombs and calmed its aggression—at least for a time.
 >
-> Neferon knows the catacomb doors won’t hold the slaad forever. Although he’s confident the creature hasn’t yet escaped, he knows the slaad’s *plane shift* might allow it to escape its prison and return to kill him. Although Neferon has begun reprogramming the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185(</span> to serve him, he has been unable to open the doors to <span class="citation">X40. Sealed Treasury (p. 194)</span> and thereby recruit the services of the **amber golem** that dwells therein. With each hour the slaad remains alive, Neferon fears he is running out of time.
+> Neferon knows the catacomb doors won’t hold the slaad forever. Although he’s confident the creature hasn’t yet escaped, he knows the slaad’s *plane shift* might allow it to escape its prison and return to kill him. Although Neferon has begun reprogramming the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185(</span> to serve him, he has been unable to open the doors to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X40SealedTreasury">X40. Sealed Treasury</a> (p. 194)</span> and thereby recruit the services of the **amber golem** that dwells therein. With each hour the slaad remains alive, Neferon fears he is running out of time.
 
 > [!abstract]+ **Neferon's Deals**
 > If the players ask, Neferon is glad to strike additional bargains with the players, including (but not limited to) the following.
 >
 > ***Temple Layout.*** Neferon can provide a simple map of the temple (excluding [[#S6. Temple Vaults]] and [[#S7. Archmage's Quarters]], which he pretends not to know of) in exchange for one **rare** magic item in the players' possession, or three useful secrets that they know about the land or people of Barovia.
 > 
-> ***Temple Inhabitants.*** Neferon can warn the players about the temple’s other inhabitants in exchange for one **rare** magic item in the players’ possession, or two useful secrets that they know about the land or people of Barovia. Specifically, Neferon can warn the players of the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185)</span>, the **poltergeists** in <span class="citation">X38. Haunted Room (p. 194)</span> and <span class="citation">X39. Plundered Treasury (p. 194)</span>, the spirits in [[#Dining Hall]], and the "dreary apparition" that dwells in <span class="citation">X9. Lecture Hall (p. 185)</span>. 
+> ***Temple Inhabitants.*** Neferon can warn the players about the temple’s other inhabitants in exchange for one **rare** magic item in the players’ possession, or two useful secrets that they know about the land or people of Barovia. Specifically, Neferon can warn the players of the **amber golem** in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X8UpperEastHall">X8. Upper East Hall</a> (p. 185)</span>, the **poltergeists** in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X38HauntedRoom">X38. Haunted Room</a> (p. 194)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X39PlunderedTreasury">X39. Plundered Treasury</a> (p. 194)</span>, the spirits in [[#Dining Hall]], and the "dreary apparition" that dwells in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X9LectureHall">X9. Lecture Hall</a> (p. 185)</span>. 
 >
 > (Neferon doesn't know of the true identities or intent of the **specters**, which sense his fiendish nature and refuse to interact with him. Although Neferon attempted to investigate Vilnius's presence, Vilnius shrieked in rage and terror at his presence and vanished into the shadows. Neferon has been unable to encounter Vilnius again, though he has sensed Vilnius's presence each time he has entered the lecture hall thereafter.)
 
 > [!lore]+ **Neferon’s Phylactery**
-> When he first arrived in Barovia, Neferon had little fear of the dangers this new land might pose him. (See ***Back to Gehenna*** in <span class="citation">Arcanaloth (<em>Monster Manual</em>, p. 313</span>) for more information about Arcanaloth immortality.) He was dismayed, however, to find that his arrival in Barovia had done something extraordinary: severed his “spirit" from his demonic flesh and deposited it within a phylactery, which appears as described in <span class="citation">X28. Hidden Phylactery (p. 189)</span>. (See **Fiendish Phylacteries** below for more information about Neferon’s phylactery.) Realizing the phylactery’s importance, Neferon hid it away within <span class="citation">X28. Hidden Phylactery (p. 189)</span>, where it currently remains.
+> When he first arrived in Barovia, Neferon had little fear of the dangers this new land might pose him. (See ***Back to Gehenna*** in <span class="citation">Arcanaloth (<em>Monster Manual</em>, p. 313</span>) for more information about Arcanaloth immortality.) He was dismayed, however, to find that his arrival in Barovia had done something extraordinary: severed his “spirit" from his demonic flesh and deposited it within a phylactery, which appears as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X28HiddenPhylactery">X28. Hidden Phylactery</a> (p. 189)</span>. (See **Fiendish Phylacteries** below for more information about Neferon’s phylactery.) Realizing the phylactery’s importance, Neferon hid it away within <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X28HiddenPhylactery">X28. Hidden Phylactery</a> (p. 189)</span>, where it currently remains.
 
 > [!info]+ **Fiendish Phylacteries**
 > When a fiend enters the Mists, the Dark Powers split its being in two, thereby creating a way for it to return from death without escaping the Mists.^[Teeuwynn Woodruff, *Van Richten’s Guide to Fiends*, pp. 76-77 (TSR Inc., 1995)] Although the fiend’s intellect and physiology remain with its body, the Dark Powers place its vital essence into a phylactery (see <span class="citation">Lich (<em>Monster Manual</em>, p. 202)</span>). When the fiend’s body is slain, its mind transfers to its phylactery, where it may remain indefinitely awaiting a new body. (Unlike a **lich**, a fiend destroyed in this way must possess a living victim, and can’t create a new body for itself.)
@@ -333,9 +333,9 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 ### Nave
 <span class="citation">This scene takes place in areas X5, X5a, and X5c.</span>
 
-This area is largely as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, <span class="citation">X5a. God of Secrets (p. 184)</span>, and <span class="citation">X5c. Locked Doors (p. 184)</span>. 
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span>, and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5cLockedDoors">X5c. Locked Doors</a> (p. 184)</span>. 
 ### Balconies
-This area is largely as described in <span class="citation">X11. Northeast Balcony (p. 186)</span>, and <span class="citation">X23. Northwest Balcony (p. 188)</span>. However, revise the last sentence of <span class="citation">X23. Northwest Balcony (p. 188)</span>'s description to read:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X11NortheastBalcony">X11. Northeast Balcony</a> (p. 186)</span>, and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X23NorthwestBalcony">X23. Northwest Balcony</a> (p. 188)</span>. However, revise the last sentence of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X23NorthwestBalcony">X23. Northwest Balcony</a> (p. 188)</span>'s description to read:
 
 <div class="description">
 <p>Nearly half of the balcony has fallen away, and the remainder sags toward the floor thirty feet below, with large cracks spiderwebbing across the joint where the balcony meets the northern wall.</p>
@@ -344,7 +344,7 @@ This area is largely as described in <span class="citation">X11. Northeast Balco
 ## S2c. West Garrison
 <span class="citation">This scene takes place in Chapter 13, Areas X2a and X3.</span>
 ### West Barracks
-This area is largely as described in <span class="citation">X3. Empty Barracks (p. 183)</span>. However, add the following text to the end of this area's description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X3EmptyBarracks">X3. Empty Barracks</a> (p. 183)</span>. However, add the following text to the end of this area's description:
 
 <div class="description">
 <p>Old carvings mark the walls in numerous places.</p>
@@ -359,7 +359,7 @@ A player who inspects the carvings finds the following messages engraved in the 
 * "Harkon ate my homework"
 * A clumsy array of arcane runes. (A DC 13 Intelligence (Arcana) check reveals that the runes appear to be a failed attempt to conjure an *unseen servant*, with a parameter changed to allow the servant to do the scriber's homework.)
 ### West Guard Post
-This area is largely as described in <span class="citation">X2a. Guard Room (p. 183)</span>. However, when a player enters this room, read:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X2aGuardRoom">X2a. Guard Room</a> (p. 183)</span>. However, when a player enters this room, read:
 
 <div class="description">
 <p>You find a cold, empty room. Two arrow slits are carved into the east wall. In the northeast corner, something glints beneath a thick layer of frost.</p>
@@ -369,7 +369,7 @@ The glinting object is an old, bloodstained crystal orb, worth 10 gp if cleaned.
 ## S2d. West Annex
 <span class="citation">This scene takes place in Chapter 13, Areas X15 and X16.</span>
 
-This area is largely as described in <span class="citation">X15. Southwest Annex (p. 186)</span>. However, no **dire wolf** or “bloodthirsty mountain folk" are present. Instead, add the following to the end of this area’s description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X15SouthwestAnnex">X15. Southwest Annex</a> (p. 186)</span>. However, no **dire wolf** or “bloodthirsty mountain folk" are present. Instead, add the following to the end of this area’s description:
 
 <div class="description">
 <p>A tall, broad-shouldered woman clad in wolfskin clutches a tall, single-bladed spear with a curved end, just beside a stocky man with thick, black stubble and a greataxe across his back. Dark bags hang under their bloodshot eyes.</p>
@@ -385,7 +385,7 @@ If reassured, Diona and Coryllus can share the following information if asked:
 
 * Four days ago, Diona traveled to the Temple alongside three of her most trusted friends: Coryllus (a **berserker**), Meda (a **berserker**), and Duras (a **scout**), to complete the *Rite of Resilience* and prove her worthiness to take her mother’s place as chief. (To complete the trial, Diona must endure six days of meditation and contemplation within the Amber Temple.)
 * Ordinarily, the rite takes place upon the central floor of the temple, within the [[#Nave]]. This time, however, the companions were surprised when the temple’s three **flameskulls** (whom the Mountain Folk call “spirits of fire") attacked them without warning. (The Mountain Folk and flameskulls struck a bargain centuries ago: In exchange for sharing stories with the bored and lonely flameskulls, Rite participants would be allowed to visit the central [[#Nave]], but could travel no further into the temple. Unbeknownst to the Mountain Folk, Neferon has since directed the flameskulls to revoke that bargain.)
-* Three of them—Diona, Coryllus, and Duras—escaped into <span class="citation">X15. Southwest Annex (p. 186)</span>, but Meda was separated in the chaos. Only the arrival of “Heinrich"—an elderly man who claimed to be a wizard and the caretaker of the Amber Temple—convinced the flameskulls to cease their attack and allow the Mountain Folk to reunite. 
+* Three of them—Diona, Coryllus, and Duras—escaped into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X15SouthwestAnnex">X15. Southwest Annex</a> (p. 186)</span>, but Meda was separated in the chaos. Only the arrival of “Heinrich"—an elderly man who claimed to be a wizard and the caretaker of the Amber Temple—convinced the flameskulls to cease their attack and allow the Mountain Folk to reunite. 
 * Heinrich, after hearing their story, agreed to allow them to carry out their Rite in the temple’s southwest annex, but declined to allow them to stay in the [[#Nave]]. In exchange for allowing them to remain, Heinrich demanded they donate an item of power or valuable secret as a tribute to the temple—a payment Diona made by relinquishing her *stone of good luck* (an heirloom she had received from her father).
 * Once the four reunited, Meda refused to speak of what she had seen in the deeper reaches of the temple. “That night, we all had nightmares," Diona says wearily, “but none worse than Meda," whose screams awoke the others twice that night.
 * This morning, Diona and Coryllus awoke to find Meda and Duras missing. Diona is determined to track them through the temple, while Coryllus is convinced that the two are “already as good as dead"—and that if he and Diona follow them, Heinrich and his flameskull cronies will see to it that they join Meda and Duras in death.
@@ -395,11 +395,11 @@ If the players seem inclined to do so, or if the players previously mentioned th
 > [!warning]+ **Don't Sleep Here**
 > If the players express an interest in resting within the Amber Temple, Diona and Coryllus warn them against it, sharing that "terrible visions and nightmares" torment and exhaust anyone who dares to do so. "We may need to remain here for the rite," Diona says, "but that doesn't mean you must as well."
 ### West Scroll Repository
-This area is largely as described in <span class="citation">X16. West Scroll Repository (p. 187)</span>. However, a search of the south wall reveals two spell scrolls: a *scroll of sending* and a *spell scroll of protection from energy*.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X16WestScrollRepository">X16. West Scroll Repository</a> (p. 187)</span>. However, a search of the south wall reveals two spell scrolls: a *scroll of sending* and a *spell scroll of protection from energy*.
 ## S2e. West Gallery
 <span class="citation">This scene takes place in Chapter 13, Area X17.</span>
 
-This area is largely as described in <span class="citation">X17. Upper West Hall (p. 187)</span>. However, remove the *staff of frost*.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X17UpperWestHall">X17. Upper West Hall</a> (p. 187)</span>. However, remove the *staff of frost*.
 
 > [!lore]+ **The Charred Corpse**
 > Jakarion was not Vilnius’s mentor, but a mage that came to the temple two years ago seeking the vestiges’ power.
@@ -430,7 +430,7 @@ If the players befriend them, the flameskulls are willing to share the following
 * In life, they were wizards, and members of a secret society. (The flameskulls can’t agree whether they were members of the same secret society, or three different societies, with each flameskull taking a different position each time the argument arises.)
 * They were animated and bound by Patrina Velikovna, a dusk elf archmage, over four centuries ago. Patrina commanded them to guard the temple from all intruders.
 * Although Patrina occasionally brought guests to the temple, the flameskulls haven’t received any invited guests in centuries. A player who succeeds on a DC 15 Charisma (Persuasion) check can convince the flameskulls to divulge the identities of Patrina’s guests: a man named Strahd, an architect named Artimus, and a wizard whose name began with a “K." (“Kazoo?" Gaspar suggests helpfully.) 
-* Petra is bitter that Patrina wouldn’t allow her to keep Strahd as a pet—"tall and handsome, he was, if a bit mature"—while Dominik resents that Artimus claimed <span class="citation">X20. Architect’s Room (p. 187)</span> as his “workshop." Gasper, meanwhile, remembers “Kazoo’s" visit with fondness, and cheerfully recounts the time he convinced the wizard to cast *immolation* on him. (“You should try it," Gasper says. "Very cozy.")
+* Petra is bitter that Patrina wouldn’t allow her to keep Strahd as a pet—"tall and handsome, he was, if a bit mature"—while Dominik resents that Artimus claimed <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X20ArchitectsRoom">X20. Architect’s Room</a> (p. 187)</span> as his “workshop." Gasper, meanwhile, remembers “Kazoo’s" visit with fondness, and cheerfully recounts the time he convinced the wizard to cast *immolation* on him. (“You should try it," Gasper says. "Very cozy.")
 * Several years after Patrina first raised them, she abruptly vanished. The flameskulls haven’t heard from her since. “Since then," Dominik says coldly, “we’ve had no visitors but thieves." (If confronted, Dominik reluctantly concedes that the Mountain Folk have visited the temple in peace before, but notes, with some wistfulness, that Heinrich—the flameskulls’ current master—revoked the terms of their bargain.)
 
 > [!abstract]+ **Loose Lips**
@@ -454,11 +454,11 @@ If the players befriend the flameskulls, a player who asks about the *Sunsword* 
 ## S2f. East Annex
 <span class="citation">This scene takes place in Chapter 13, Area X6.</span>
 
-This area is largely as described in <span class="citation">X6. Southeast Annex (p. 185)</span>. However, there are no flameskulls in <span class="citation">X33a. Vault of Shalx (p. 191)</span> below.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X6SoutheastAnnex">X6. Southeast Annex</a> (p. 185)</span>. However, there are no flameskulls in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33aVaultofShalx">X33a. Vault of Shalx</a> (p. 191)</span> below.
 ## S2g. East Gallery
 <span class="citation">This scene takes place in Chapter 13, Area X8.</span>
 
-This area is largely as described in <span class="citation">X8. Upper East Hall (p. 185)</span>. However, revise the third sentence to read:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X8UpperEastHall">X8. Upper East Hall</a> (p. 185)</span>. However, revise the third sentence to read:
 
 <div class="description">
 <p>A trio of arrow slits cut into the western wall, directly across from a wide door that stands closed to the east. A thin carpet of mist rolls across the floor from beneath it.</p>
@@ -467,13 +467,13 @@ This area is largely as described in <span class="citation">X8. Upper East Hall 
 A creature that passes through the mist feels as though it is being watched.
 
 > [!lore]+ **The Mist**
-> The mist that continuously flows from <span class="citation">X9. Lecture Hall (p. 185)</span> marks the lair of Vilnius, the Dark Powers’ first victim. As the mist flows forth from the temple via <span class="citation">X2. Entrance (p. 183)</span>, it becomes the circle of mist that traps souls within the Amber Temple’s walls.
+> The mist that continuously flows from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X9LectureHall">X9. Lecture Hall</a> (p. 185)</span> marks the lair of Vilnius, the Dark Powers’ first victim. As the mist flows forth from the temple via <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X2Entrance">X2. Entrance</a> (p. 183)</span>, it becomes the circle of mist that traps souls within the Amber Temple’s walls.
 ## S2h. East Garrison
 <span class="citation">This scene takes place in Chapter 13, Areas X2b and X3.</span>
 ### East Barracks
-This area is largely as described in <span class="citation">X3. Empty Barracks (p. 183)</span>. However, a player with a passive Wisdom (Perception) score of 12 or greater notices the faded outlines of an ancient magic circle carved into the floor at the room’s center. A player who succeeds on a DC 14 Intelligence (Arcana) check identifies it as a basic summoning circle, often used for conjuring familiars.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X3EmptyBarracks">X3. Empty Barracks</a> (p. 183)</span>. However, a player with a passive Wisdom (Perception) score of 12 or greater notices the faded outlines of an ancient magic circle carved into the floor at the room’s center. A player who succeeds on a DC 14 Intelligence (Arcana) check identifies it as a basic summoning circle, often used for conjuring familiars.
 ### East Guard Post
-This area is largely as described in <span class="citation">X2b. Guard Room (p. 183)</span>. However, revise the second sentence of this area's description to read:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X2bGuardRoom">X2b. Guard Room</a> (p. 183)</span>. However, revise the second sentence of this area's description to read:
 
 <div class="description">
 <p>Slumped in the northeast corner is a frozen, desiccated corpse wearing a black robe and pointed hat. Its right hand appears to be clutched around something at its neck.</p>
@@ -490,7 +490,7 @@ Dorina’s **ghost** still haunts this room from the Ethereal Plane, and has the
 Once she emerges, Dorina immediately attempts to use her ***possession*** to possess a member of the party, preferring to target a player that has already noticed her. If her attempt fails, she sullenly drifts back into the floor, her teeth bared in a defiant snarl.
 
 > [!abstract]+ **Dorina’s Unfinished Business**
-If Dorina successfully possesses a character, she pretends to be that character but slips away at the first opportunity. If she does so successfully, or if confronted, she attempts to reach Khirad’s sarcophagus in <span class="citation">X33c. Ghastly Vault (p. 192)</span>. 
+If Dorina successfully possesses a character, she pretends to be that character but slips away at the first opportunity. If she does so successfully, or if confronted, she attempts to reach Khirad’s sarcophagus in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33cGhastlyVault">X33c. Ghastly Vault</a> (p. 192)</span>. 
 >
 > Unless prevented from doing so, Dorina (in the player’s body) then accepts the *dark gift of Khirad* and asks the vestige a single question: “How can Barovia be escaped?" A possessed player hears Khirad’s whispered reply: *When the stars align, and the veil grows thin, the door you seek shall be laid open.*
 >
@@ -511,7 +511,7 @@ If the players offer to aid her in fulfilling her unfinished business and succee
 # S3. Catacombs
 <span class="citation">This scene takes place in Chapter 13, Areas X31, X31a, and X31b.</span>
 ## S3a. Central Catacombs
-This area is largely as described in <span class="citation">X31. Central Catacombs (p. 189)</span>. However, if the **death slaad** Nardag (currently located in [[#S3b. West Catacombs]]) hears the players enter, it uses its ***shapechange*** feature to assume the form of a young human woman and conceals its greatsword within one of the amber husks in the western catacomb alcoves. It then calls out to the players, hoping to lure them into a false sense of security. Read:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X31CentralCatacombs">X31. Central Catacombs</a> (p. 189)</span>. However, if the **death slaad** Nardag (currently located in [[#S3b. West Catacombs]]) hears the players enter, it uses its ***shapechange*** feature to assume the form of a young human woman and conceals its greatsword within one of the amber husks in the western catacomb alcoves. It then calls out to the players, hoping to lure them into a false sense of security. Read:
 
 <div class="description">
 <p>A trembling woman's voice calls out from the western corridor. "H-hello? Is someone there?"</p>
@@ -520,11 +520,11 @@ This area is largely as described in <span class="citation">X31. Central Catacom
 > [!info]+ **The Slaad**
 On the night before the players’ arrival at the Amber Temple, a **death slaad** named Nardag came upon a cloud of mist drifting through the plane of Limbo. Intrigued, and sensing the evil of the Dark Powers through the mist, the death slaad eagerly leapt into the mist, whereupon it was spirited away to the Amber Temple in Barovia, where the boundary between worlds was weakest.
 >
-> After initially appearing in <span class="citation">X8. Upper East Hall (p. 185)</span>, Nardag sensed Neferon’s presence and immediately attacked. Ultimately, after fleeing Nardag’s attack, Neferon lured the slaad into the catacombs and sealed it there.
+> After initially appearing in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X8UpperEastHall">X8. Upper East Hall</a> (p. 185)</span>, Nardag sensed Neferon’s presence and immediately attacked. Ultimately, after fleeing Nardag’s attack, Neferon lured the slaad into the catacombs and sealed it there.
 >
-> Nardag knows it can escape the catacombs by casting *plane shift* to enter the Ethereral Plane. It has decided to remain, however, for two reasons. First, it enjoys basking in the miasma that birthed the Dark Powers, which it has adopted as unholy “gods" of darkness and death. Second, when it arrived in Barovia, Nardag carried a **blue slaad tadpole**, which it has fed many of the cadavers resting in <span class="citation">X31b. East Catacombs (p. 191)</span>. The **blue slaad**, which Nardag has named “Bluetspur," grew rapidly to adulthood overnight, but obeys Nardag out of reverence for its greater strength.
+> Nardag knows it can escape the catacombs by casting *plane shift* to enter the Ethereral Plane. It has decided to remain, however, for two reasons. First, it enjoys basking in the miasma that birthed the Dark Powers, which it has adopted as unholy “gods" of darkness and death. Second, when it arrived in Barovia, Nardag carried a **blue slaad tadpole**, which it has fed many of the cadavers resting in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X31bEastCatacombs">X31b. East Catacombs</a> (p. 191)</span>. The **blue slaad**, which Nardag has named “Bluetspur," grew rapidly to adulthood overnight, but obeys Nardag out of reverence for its greater strength.
 ## S3b. West Catacombs
-This area is largely as described in <span class="citation">X31a. West Catacombs (p. 191)</span>. However, it is inhabited by Nardag, a **death slaad** that can speak Common. If Nardag is expecting the players, add the following to the end of this area’s description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X31aWestCatacombs">X31a. West Catacombs</a> (p. 191)</span>. However, it is inhabited by Nardag, a **death slaad** that can speak Common. If Nardag is expecting the players, add the following to the end of this area’s description:
 
 <div class="description">
 <p>A young woman with long, braided hair lies on the floor, her back propped up against the wall behind her. One of her legs is twisted at an odd angle, and her teeth are gritted in pain.</p>
@@ -555,7 +555,7 @@ When Nardag attacks, the **blue slaad** in [[#S3c. East Catacombs]] emerges and 
 > [!info]+ **Nardag’s Worship**
 > Nardag can sense the presence of the Dark Powers within the temple, and seeks to kill the players as offerings to them. As it fights, it gleefully asks the players whether they can “sense them—the powers of darkness that rule the twisting mists." If the players confuse the Dark Powers with the amber vestiges, Nardag angrily corrects them, snarling: “They are not as those weak, sniveling remnants. They are greater and above them. They suffuse each gulp of air you swallow; each thought that drips through your skulls. They are in your blood, in your veins, and in your hearts. They are Death incarnate—misery and pain and despair and *beauty*—and I will make you an offering to them!"
 ## S3c. East Catacombs
-This area is largely as described in <span class="citation">X31b. East Catacombs (p. 191)</span>. However, a **blue slaad** named Bluetspur stands on the eastern side of this chamber, disguised by Nardag's *major image* spell. While active, the *major image* disguises the blue slaad’s surroundings to appear as an empty corridor. 
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X31bEastCatacombs">X31b. East Catacombs</a> (p. 191)</span>. However, a **blue slaad** named Bluetspur stands on the eastern side of this chamber, disguised by Nardag's *major image* spell. While active, the *major image* disguises the blue slaad’s surroundings to appear as an empty corridor. 
 
 A player with a passive Intelligence (Investigation) score of 15 or greater who approaches the illusion notices that the corridor’s contents don’t seem to obey the ordinary laws of parallax motion (almost as though the corridor is not three-dimensional, but flat).
 
@@ -568,30 +568,30 @@ Bluetspur attacks any creature that passes through the illusion, perceives it, o
 ### Brewing Room
 <span class="citation">This scene takes place in Chapter 13, Area X19.</span>
 
-This area is as described in <span class="citation">X19. Potion Storage (p. 187)</span>.
+This area is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X19PotionStorage">X19. Potion Storage</a> (p. 187)</span>.
 ### Architect’s Room
 <span class="citation">This scene takes place in Chapter 13, Area X20.</span>
 
-This area is largely as described in <span class="citation">X20. Architect’s Room (p. 187)</span>. However, a player with a passive Wisdom (Perception) score of 10 or greater observes faint scuff marks along the bottom of the chest. (The marks were left by opening the chest’s false bottom.)
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X20ArchitectsRoom">X20. Architect’s Room</a> (p. 187)</span>. However, a player with a passive Wisdom (Perception) score of 10 or greater observes faint scuff marks along the bottom of the chest. (The marks were left by opening the chest’s false bottom.)
 
 In addition, replace the *tome of understanding* with a set of *eyes of minute seeing*, two old parchment scrolls, a moldy ink bottle, and three old quill pens.
 
 The first scroll contains a precise sketch of three amber sarcophagus, whose fronts are engraved with the following designs from left to right: (1) a gnarled tree encircled by a canal; (2) a tome upon a pedestal; and (3) an eye upon a hill. An arrow points to a circle around the leftmost sarcophagus (the one depicting the tree) from several lines of complex runes and arcane formulae. (A player who succeeds on a DC 18 Intelligence (Arcana) check identifies the runes and formulae as notes regarding some kind of conjuration magic—specifically, magic similar to the *demiplane* spell.) A scrawled note beneath the formulae reads: “Integrity parameter + duplication runes + inversion function = hidden physical demiplane within psychic manifestation. But who altered it, and why?"
 
-The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation">K60. North Tower Peak (p. 74)</span>, including <span class="citation">K20. Heart of Sorrow (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
+The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K60NorthTowerPeak">K60. North Tower Peak</a> (p. 74)</span>, including <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow">K20. Heart of Sorrow</a> (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
 
 > [!lore]+ **Khazan’s Notes**
-> In the years between Strahd’s fall and Khazan’s own death, Khazan returned to the Amber Temple multiple times to investigate the secrets of lichdom and delve deeper into the knowledge that dwelled there. It was on one such visit that Khazan detected the subtle magical energies emanating from the amber sarcophagus of the Vampyr in <span class="citation">X42. Amber Vault (p. 195)</span>. Further investigation revealed the sarcophagus bore a complex and powerful enchantment—one capable of duplicating a sealed vestige’s psychic “mindspace," stabilizing it as a physical demiplane, and hiding it away within the vestige’s psychic link. However, Khazan never learned of the enchantment’s maker (Patrina) or purpose (to hide the hilt of the broken *Brightblade*).
+> In the years between Strahd’s fall and Khazan’s own death, Khazan returned to the Amber Temple multiple times to investigate the secrets of lichdom and delve deeper into the knowledge that dwelled there. It was on one such visit that Khazan detected the subtle magical energies emanating from the amber sarcophagus of the Vampyr in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X42AmberVault">X42. Amber Vault</a> (p. 195)</span>. Further investigation revealed the sarcophagus bore a complex and powerful enchantment—one capable of duplicating a sealed vestige’s psychic “mindspace," stabilizing it as a physical demiplane, and hiding it away within the vestige’s psychic link. However, Khazan never learned of the enchantment’s maker (Patrina) or purpose (to hide the hilt of the broken *Brightblade*).
 >
 > As Strahd’s arcane advisor, Khazan also returned to Castle Ravenloft on multiple occasions to analyze the Heart of Sorrow, which had mysteriously manifested within the North Tower when the Mists first fell. Centuries later, when Strahd first learned of the Grand Conjunction, Strahd used Khazan’s notes as the basis for his ultimate scheme to channel the Fanes’ power into the Heart of Sorrow —and thereby escape from Barovia.
 ### West Temple Stair
 <span class="citation">This scene takes place in Chapter 13, Areas X18 and X21.</span>
 
-This area is as described in <span class="citation">X18. Hallway (p. 187)</span> and <span class="citation">X21. West Staircase (p. 187)</span>. 
+This area is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X18Hallway">X18. Hallway</a> (p. 187)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X21WestStaircase">X21. West Staircase</a> (p. 187)</span>. 
 ### Dining Hall
 <span class="citation">This scene takes place in Chapter 13, Area X22.</span>
 
-This area is largely as described in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, there are two ewers on the table: the green copper ewer described in <span class="citation">X22. Northwest Annex (p. 187)</span>, and an ordinary wooden pitcher. When the *programmed illusion* spell activates, the green copper ewer is disguised to resemble the wooden pitcher, and vice-versa.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X22NorthwestAnnex">X22. Northwest Annex</a> (p. 187)</span>. However, there are two ewers on the table: the green copper ewer described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X22NorthwestAnnex">X22. Northwest Annex</a> (p. 187)</span>, and an ordinary wooden pitcher. When the *programmed illusion* spell activates, the green copper ewer is disguised to resemble the wooden pitcher, and vice-versa.
 
 In addition, replace two of the **specters** with **wraiths**. The spirits don’t attack if the players pick up the ewer. Instead, after entering this room, a player with a passive Wisdom (Perception) score of 15 or greater feels a prickling on the back of their neck, and feels as though they are being watched. A player with a passive Wisdom (Perception) score of 20 or greater senses an ethereal presence in the room with them. A player who attempts to sense this presence’s disposition and succeeds on a DC 20 Wisdom (Insight) check receives a feeling of wariness and curiosity.
 
@@ -625,9 +625,9 @@ The spirits are willing to share the following information if asked:
 >
 > The players can calm the spirits by succeeding on a DC 15 Charisma (Persuasion or Deception) check, made with advantage if they reveal an amber shard and offer it to the spirits, and made with disadvantage if any player has reached Stage Three of an amber shard’s Amber Corruption. On a failure, the spirits warn the players that they cannot allow any who seek the vestiges’ power to depart their chamber alive, and attack.
 >
-> On initiative count 20 of the first round of combat, the doors leading from <span class="citation">X22. Northwest Annex (p. 187)</span> slam shut and magically lock, requiring a successful DC 20 Strength check to force open.
+> On initiative count 20 of the first round of combat, the doors leading from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X22NorthwestAnnex">X22. Northwest Annex</a> (p. 187)</span> slam shut and magically lock, requiring a successful DC 20 Strength check to force open.
 
-The spirits won’t share further information (e.g., the location of the *Sunsword*, or the password to open <span class="citation">X40. Sealed Treasury (p. 194)</span>) unless the players first destroy Vilnius’s spirit in <span class="citation">X9. Lecture Hall (p. 185)</span> and return with the amulet he wears, which is shaped like an upside-down “V." If the players agree to do so, the wraiths can share the following additional information:
+The spirits won’t share further information (e.g., the location of the *Sunsword*, or the password to open <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X40SealedTreasury">X40. Sealed Treasury</a> (p. 194)</span>) unless the players first destroy Vilnius’s spirit in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X9LectureHall">X9. Lecture Hall</a> (p. 185)</span> and return with the amulet he wears, which is shaped like an upside-down “V." If the players agree to do so, the wraiths can share the following additional information:
 
 * Vilnius is no ordinary spirit. He is semi-corporeal and, as far as the wraiths know, may never have truly died.
 * Vilnius’s soul anchors the mists that surround the temple. If the players destroy him, the mists should disappear, freeing the trapped souls.
@@ -637,18 +637,18 @@ The spirits won’t share further information (e.g., the location of the *Sunswo
 > [!info]+ **The Grateful Dead**
 > If the players return with Vilnius’s amulet, the spirits are willing to share the following additional information if asked:
 >
-> * The wall between <span class="citation">X39. Plundered Treasury (p. 194)</span> and <span class="citation">X40. Sealed Treasury (p. 194)</span> conceals a secret door, as described in <span class="citation">X5b. Secret Door (p. 184)</span>.
-> * The doors to <span class="citation">X40. Sealed Treasury (p. 194)</span> can be unlocked with a password, which is as described in <span class="citation">X40. Sealed Treasury (p. 194)</span>.
+> * The wall between <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X39PlunderedTreasury">X39. Plundered Treasury</a> (p. 194)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X40SealedTreasury">X40. Sealed Treasury</a> (p. 194)</span> conceals a secret door, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5bSecretDoor">X5b. Secret Door</a> (p. 184)</span>.
+> * The doors to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X40SealedTreasury">X40. Sealed Treasury</a> (p. 194)</span> can be unlocked with a password, which is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X40SealedTreasury">X40. Sealed Treasury</a> (p. 194)</span>.
 > * Nearly four centuries ago, the dusk elf Patrina Velikovna came to the temple seeking the tutelage of Exethanter’s spirit. However, she plotted against him in secret, and sealed his spirit away for as long as she lived. 
 > * Some years after claiming the temple as her own, Patrina brought other men to the temple, including a noble named Strahd von Zarovich, a powerful mage called Khazan, and an architect named Artimus.
-> * Patrina vanished a little over a year after Strahd’s first visit. However, a few days before she disappeared, one of the wraiths watched her place the platinum hilt of a shattered sword within the western sarcophagus of <span class="citation">X42. Amber Vault (p. 195)</span>. (“The amber rippled as though it were water," the wraith recalls, “and the hilt vanished within.")
+> * Patrina vanished a little over a year after Strahd’s first visit. However, a few days before she disappeared, one of the wraiths watched her place the platinum hilt of a shattered sword within the western sarcophagus of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X42AmberVault">X42. Amber Vault</a> (p. 195)</span>. (“The amber rippled as though it were water," the wraith recalls, “and the hilt vanished within.")
 
 > [!abstract]+ **An Icy Reception**
 > If the players return to this room bearing the *staff of frost* from the [[#Shrine of Temptation]], the spirits manifest and command them to return the staff to its “vault," where the “betrayer" (Vilnius) cannot reach it. If the players refuse, the spirits attack, as described above.
 ### Shrine of Temptation
 <span class="citation">This scene takes place in Chapter 13, Area X24.</span>
 
-This area is largely as described in <span class="citation">X24. West Shrine (p. 188)</span>. However, add the following to the end of this area's description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X24WestShrine">X24. West Shrine</a> (p. 188)</span>. However, add the following to the end of this area's description:
 
 <div class="description">
 <p>A tall, glittering staff shaped like a jagged icicle lies across the statue's arms.</p>
@@ -669,7 +669,7 @@ The first time a player picks up the *staff of frost*, if they did so at Vilnius
 ### West Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X36.</span>
 
-This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X36. Lower West Hall (p.194)</span>. However, if any player inspects their reflection, read:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5dAmberReflections">X5d. Amber Reflections</a> (p. 184)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X36LowerWestHall">X36. Lower West Hall</a> (p.194)</span>. However, if any player inspects their reflection, read:
 
 <div class="description">
 <p>For a brief instant, a silhouette flickers across the reflection, mere inches behind yours.</p>
@@ -694,11 +694,11 @@ The silhouette vanishes as quickly as it appeared.
 ### West Quarters
 <span class="citation">This scene takes place in Chapter 13, Areas X37 and X38.</span>
 
-This area is as described in <span class="citation">X37. Wizard’s Bedchamber (p. 194)</span> and <span class="citation">X38. Haunted Room (p. 194)</span>.
+This area is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X37WizardsBedchamber">X37. Wizard’s Bedchamber</a> (p. 194)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X38HauntedRoom">X38. Haunted Room</a> (p. 194)</span>.
 ### West Vaults
 
 > [!info]+ **The Amber Sarcophagi**
-> The amber sarcophagi throughout the Amber Temple are largely as described in <span class="citation">Amber Sarcophagi (p. 191)</span>. However, accepting a dark gift can’t change a creature’s alignment. In addition, only one creature can form a telepathic link with a particular vestige at a time.
+> The amber sarcophagi throughout the Amber Temple are largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#AmberSarcophagi">Amber Sarcophagi</a> (p. 191)</span>. However, accepting a dark gift can’t change a creature’s alignment. In addition, only one creature can form a telepathic link with a particular vestige at a time.
 
 > [!info]+ **Take One**
 > A player can’t accept more than one dark gift. Once a player accepts a vestige’s dark gift, all other vestiges within the temple refuse to offer them any additional dark gift, noting with distaste that their soul is “tainted" by another’s power.
@@ -708,7 +708,7 @@ This area is as described in <span class="citation">X37. Wizard’s Bedchamber (
 #### Breached Vault
 <span class="citation">This scene takes place in Chapter 13, Area X33d</span>
 
-This area is largely as described in <span class="citation">X33d. Breached Vault (p. 192)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, no **nothics** dwell in this chamber. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33dBreachedVault">X33d. Breached Vault</a> (p. 192)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#AmberSarcophagi">Amber Sarcophagi</a> (p. 191)</span>. However, no **nothics** dwell in this chamber. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
 
 > [!info]+ **West Sarcophagus (Tomb of Delban).** 
 > If a player touches this sarcophagus, read:
@@ -772,7 +772,7 @@ If the player passes through the amber archway or accepts Delban’s gift, the t
 #### Vault of Harkotha
 <span class="citation">This scene takes place in Chapter 13, Area X33e</span>
 
-This area is largely as described in <span class="citation">X33e. Vault of Harkotha (p. 193)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33eVaultofHarkotha">X33e. Vault of Harkotha</a> (p. 193)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#AmberSarcophagi">Amber Sarcophagi</a> (p. 191)</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
 
 > [!info]+ **North Sarcophagus (Tomb of Yrrga).** 
 > If a player touches this sarcophagus, read:
@@ -857,7 +857,7 @@ This area is largely as described in <span class="citation">X33e. Vault of Harko
 #### Vault of Thangob
 <span class="citation">This scene takes place in Chapter 13, Area X33f</span>
 
-This area is largely as described in <span class="citation">X33f. Vault of Thangob (p. 193)</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33fVaultofThangob">X33f. Vault of Thangob</a> (p. 193)</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
 
 > [!info]+ **West Sarcophagus (Norganas).**  
 > If a player touches this sarcophagus, read:  
@@ -942,7 +942,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 ### Lecture Hall
 <span class="citation">This scene takes place in Chapter 13, Area X9.</span>
 
-This area is largely as described in <span class="citation">X9. Lecture Hall (p. 185)</span>. However, modify the first sentence of this area's description to replace "brightly lit" with "dimly lit." In addition, add the following sentence to the end of this area's description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X9LectureHall">X9. Lecture Hall</a> (p. 185)</span>. However, modify the first sentence of this area's description to replace "brightly lit" with "dimly lit." In addition, add the following sentence to the end of this area's description:
 
 <div class="description">
 <p>A thick layer of mist rolls lazily across the floor of this chamber.</p>
@@ -961,9 +961,9 @@ A player with a passive Wisdom (Perception) score of 15 or greater notices that 
 >
 > That night, as Vilnius and several other mages dined with Exethanter, as was customary, Vilnius—a prodigy of illusion magic—subtly disguised Exethanter’s enchanted ewer as an ordinary pitcher, and instead filled the others’ cups with a disguised pitcher filled with poisoned wine. The other mages died gruesomely at the table; only Exethanter, sensing the danger, stumbled forth through the [[#Temple of Temptation]] toward his quarters, seeking an antidote—only to fall and leave his staff atop the statue there as he died. 
 >
-> As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **shield guardian**’s amulet, then hid himself away in <span class="citation">X9. Lecture Hall (p. 185)</span>.
+> As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **shield guardian**’s amulet, then hid himself away in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X9LectureHall">X9. Lecture Hall</a> (p. 185)</span>.
 > 
-> The Dark Powers were born from Vilnius’s treachery that night, rising from the dark miasma that filled the temple’s halls. Craving the nourishment of Vilnius’s maddened paranoia and fear, the Dark Powers used their new power to entrap him within <span class="citation">X9. Lecture Hall (p. 185)</span>; there, his body slowly wasted away over the centuries, until little but a shade remained. Vilnius became the Dark Powers’ first prisoners, and the Amber Temple their first prison.
+> The Dark Powers were born from Vilnius’s treachery that night, rising from the dark miasma that filled the temple’s halls. Craving the nourishment of Vilnius’s maddened paranoia and fear, the Dark Powers used their new power to entrap him within <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X9LectureHall">X9. Lecture Hall</a> (p. 185)</span>; there, his body slowly wasted away over the centuries, until little but a shade remained. Vilnius became the Dark Powers’ first prisoners, and the Amber Temple their first prison.
 > 
 > Since then, Vilnius has become something less than human — and something more. He believes himself to be alive, and fears the dead that dwell elsewhere in the temple. He dares not venture forth from the lecture hall, but believes—correctly—that if only he could return to the [[#Shrine of Temptation]] to claim his master's staff, he could walk freely from the temple without fear.
 
@@ -1112,7 +1112,7 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 ### Training Hall
 <span class="citation">This scene takes place in Chapter 13, Area X10.</span>
 
-This area is largely as described in <span class="citation">X10. Northeast Annex (p. 186)</span>. However, modify the **amber golem**’s statistics as follows:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X10NortheastAnnex">X10. Northeast Annex</a> (p. 186)</span>. However, modify the **amber golem**’s statistics as follows:
 
 * It has the AC and hit points of an **iron golem**, and has lost none of its hit points.
 * It has the Strength and ***slam*** attack of an **iron golem**.
@@ -1121,13 +1121,13 @@ This area is largely as described in <span class="citation">X10. Northeast Annex
 ### Shrine of Fear
 <span class="citation">This scene takes place in Chapter 13, Areas X12 and X13.</span>
 
-This area is largely as described in <span class="citation">X12. East Shrine (p. 186)</span> and <span class="citation">X13. East Archer Post (p. 186)</span>. However, a creature that approaches the shattered statue feels a sense of unease.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X12EastShrine">X12. East Shrine</a> (p. 186)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X13EastArcherPost">X13. East Archer Post</a> (p. 186)</span>. However, a creature that approaches the shattered statue feels a sense of unease.
 
 In addition, a player with a passive Wisdom (Perception or Survival) score of 15 or greater notices footprints in the frost that lead to the secret door. A player who succeeds on a DC 15 Wisdom (Survival) check discerns that the footprints are less than a day old. (The footprints were left by the Mountain Folk Meda.)
 ### East Temple Stair
 <span class="citation">This scene takes place in Chapter 13, Area X14.</span>
 
-This area is largely as described in <span class="citation">X14. North Staircase (p. 186)</span>. However, add the following to the end of this area’s description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X14NorthStaircase">X14. North Staircase</a> (p. 186)</span>. However, add the following to the end of this area’s description:
 
 <div class="description">
 <p>A trail of footprints breaks the frost and dust, descending into the darkness.</p>
@@ -1138,16 +1138,16 @@ A player who succeeds on a DC 15 Wisdom (Survival) check discerns that the footp
 ### East Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X32.</span>
 
-This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X32. Lower East Hall (p. 191)</span>. However, remove the **Barovian witches** from this area.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5dAmberReflections">X5d. Amber Reflections</a> (p. 184)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X32LowerEastHall">X32. Lower East Hall</a> (p. 191)</span>. However, remove the **Barovian witches** from this area.
 ### East Quarters
 <span class="citation">This scene takes place in Chapter 13, Areas X34 and X35.</span>
 
-This area is as described in <span class="citation">X34. Wizard’s Bedchamber (p. 194)</span> and <span class="citation">X35. Sleeping Guardian (p. 194)</span>.
+This area is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X34WizardsBedchamber">X34. Wizard’s Bedchamber</a> (p. 194)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X35SleepingGuardian">X35. Sleeping Guardian</a> (p. 194)</span>.
 ### Southeast Vaults
 #### Vault of Shalx
 <span class="citation">This scene takes place in Chapter 13, Area X33a</span>
 
-This area is largely as described in <span class="citation">X33a. Vault of Shalx (p. 193)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, remove the **flameskulls** from this area. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33aVaultofShalx">X33a. Vault of Shalx</a> (p. 193)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#AmberSarcophagi">Amber Sarcophagi</a> (p. 191)</span>. However, remove the **flameskulls** from this area. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
 
 > [!info]+ **West Sarcophagus (Tomb of Sykane)**  
 > If a player touches this sarcophagus, read:  
@@ -1232,7 +1232,7 @@ This area is largely as described in <span class="citation">X33a. Vault of Shalx
 #### Vault of Maverus
 <span class="citation">This scene takes place in Chapter 13, Area X33b</span>
 
-This area is largely as described in <span class="citation">X33b. Vault of Maverus</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33bVaultofMaverus">X33b. Vault of Maverus</a></span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
 
 > [!info]+ **North Sarcophagus (Tomb of Savnok).**  
 > If a player touches this sarcophagus, read:  
@@ -1315,7 +1315,7 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 ### Northeast Vault
 <span class="citation">This scene takes place in Chapter 13, Area X33c.</span>
 
-This area is largely as described in <span class="citation">X33c. Ghastly Vault (p. 192)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, remove the **ghasts** from this room, and modify the sarcophagi in this room (and their dark gifts) as described below. In addition, add the following to the end of this area’s description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33cGhastlyVault">X33c. Ghastly Vault</a> (p. 192)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#AmberSarcophagi">Amber Sarcophagi</a> (p. 191)</span>. However, remove the **ghasts** from this room, and modify the sarcophagi in this room (and their dark gifts) as described below. In addition, add the following to the end of this area’s description:
 
 <div class="description">
 <p>A lone, hunched creature sits in the middle of the room, a torn fur cloak draped across its shoulders.</p>
@@ -1331,7 +1331,7 @@ The creature, which once was the Mountain Folk Meda, is a **nothic**. When the p
 > [!lore]+ **The Nothic**
 > When the Mountain Folk Meda accepted the dark gift of Khirad, the Star of Secrets, her mind was overcome by the power of the knowledge he shared, twisting her body and mind into those of a nothic. In her current form, Meda has lost herself to madness, and no longer cares for anything but her own curiosity—as well as her mirth at her “revelations."
 
-Meda, who acts largely as described in <span class="citation">X33d. Breached Vault (p. 192)</span>, is glad to speak with the players, though her words are almost always cryptic, mad, and interspersed with frequent giggles. If asked, she can share the following information:
+Meda, who acts largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X33dBreachedVault">X33d. Breached Vault</a> (p. 192)</span>, is glad to speak with the players, though her words are almost always cryptic, mad, and interspersed with frequent giggles. If asked, she can share the following information:
 
 * She isn’t sure whether she’s Meda, but, after a moment of pondering, thinks it “sounds familiar." (“I have so many more interesting things to think about than *names,*" she adds, leering.)
 * She sought out the gift of the Star of Secrets to find “answers." (If asked why, she sweeps her claws out to the room around her and crows: “*This!* All of it—answers to it all." She shudders, adding: “And they were delicious."
@@ -1433,7 +1433,7 @@ This area is as described in <span class="citation">X39. Plundered Treasury (p. 
 ## S6b. East Treasury
 <span class="citation">This scene takes place in Chapter 13, Area X40.</span>
 
-This area is largely as described in <span class="citation">X40. Sealed Treasury (p. 194)</span>. However, revise this area’s description to read as follows:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X40SealedTreasury">X40. Sealed Treasury</a> (p. 194)</span>. However, revise this area’s description to read as follows:
 
  <div class="description">
 <p>Piles of amber are heaped against the west and east walls of this stone room. The southeast corner holds an additional pile: a mound of treasure.</p>
@@ -1445,7 +1445,7 @@ This area is largely as described in <span class="citation">X40. Sealed Treasury
 > [!lore]+ **The Treasury**
 > The wizards of the Amber Temple collected many tons of amber in their quest to seal away the vestiges of evil entities. They then melted the amber down and reforged it into amber sarcophagi, as well as the two **amber golems** built to guard the temple. The treasure here also served as the secret society’s treasury, funding expeditions and supplies, as well as stipends for members and remittances to their families.
 
-The southeast pile, marked **Pile 4** in <span class="citation">X40. Sealed Treasury (p. 194)</span>, contains only the following:
+The southeast pile, marked **Pile 4** in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X40SealedTreasury">X40. Sealed Treasury</a> (p. 194)</span>, contains only the following:
 
 * All cp and gemstones from Pile 1
 * All sp and the silvered rapier from Pile 2
@@ -1463,7 +1463,7 @@ In addition, the **amber golem** attacks any creature that disturbs any of the p
 ## S6c. Amber Vault
 <span class="citation">This scene takes place in Chapter 13, Areas X41 and X42.</span>
 
-This area is largely as described in <span class="citation">X41. Fissure (p. 195)</span> and <span class="citation">X42. Amber Vault (p. 195)</span>. However, there are no crates or **vampire spawn** in this chamber. In addition, modify the east and south sarcophagi as described below.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X41Fissure">X41. Fissure</a> (p. 195)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X42AmberVault">X42. Amber Vault</a> (p. 195)</span>. However, there are no crates or **vampire spawn** in this chamber. In addition, modify the east and south sarcophagi as described below.
 
 > [!info]+ **East Sarcophagus (Tomb of Zhudun)**
 > If a player touches this sarcophagus, read:
@@ -1551,7 +1551,7 @@ The vestige of the Vampyr can share the following information:
 If the player passes through the amber archway or accepts the Vampyr’s gift, the telepathic connection ends, and the player returns to their previous senses. 
 
 > [!info]+ **Accepting the Vampyr’s Gift**
-> The Vampyr’s dark gift is as described in <span class="citation">X42. Amber Vault (p. 195)</span>. However, a player that accepts the gift doesn’t gain an additional flaw.
+> The Vampyr’s dark gift is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X42AmberVault">X42. Amber Vault</a> (p. 195)</span>. However, a player that accepts the gift doesn’t gain an additional flaw.
 
 > [!info]+ **What the Vampyr Knows**
 > The vestige of the Vampyr recalls every creature it’s given its dark gift to, though it has no knowledge of the world beyond its sarcophagus or the existence of the inverted demiplane within its prison that contains the *Sunsword*.
@@ -1610,12 +1610,12 @@ If the player picks up or touches the blade, read:
 </div>
 
 > [!info]+ **Patrina's Phylactery**
-> The *Sunsword* is Patrina’s unfinished phylactery, and contains her disembodied soul. While Patrina’s soul resides within the *Sunsword’s* hilt, it has the properties described in <span class="citation">Sunsword (p. 223)</span>, with the following changes:
+> The *Sunsword* is Patrina’s unfinished phylactery, and contains her disembodied soul. While Patrina’s soul resides within the *Sunsword’s* hilt, it has the properties described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/appendix-c-treasures#Sunsword">Sunsword</a> (p. 223)</span>, with the following changes:
 >
 > * It can’t be attuned to, and its wielder can’t use it as a *sun blade*. 
 > * It is a neutral evil weapon with an Intelligence of 20, a Wisdom of 17, and a Charisma of 16.
 > * It has no sentience of its own, and derives its sentience from Patrina’s soul. (It otherwise has all of the *Sunsword*’s senses and abilities as a sentient magic item.)
-> * While inhabiting the *Sunsword*, Patrina pretends to have the personality described in <span class="citation">Sunsword (p. 223)</span> in order to convince the players to bring the sword out of Vampyr's sarcophagus.
+> * While inhabiting the *Sunsword*, Patrina pretends to have the personality described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/appendix-c-treasures#Sunsword">Sunsword</a> (p. 223)</span> in order to convince the players to bring the sword out of Vampyr's sarcophagus.
 
 If the player passes through the amber archway while carrying the *Sunsword*’s hilt, read:
 
@@ -1630,7 +1630,7 @@ If a player exits [[#The Vampyr’s Sarcophagus]] after obtaining the *Sunsword*
 <p>You watch as &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;’s hand sinks into the sarcophagus, the amber around it rippling like water. Then, slowly, as &#95;&#95;&#95;&#95;&#95;&#95;&#95;’s eyes open once more, their hand slowly withdraws from the amber’s surface—this time, with fingers wrapped around a platinum sword hilt.</p>
 </div>
 
-At a suitable moment after a player withdraws the *Sunsword* from the sarcophagus, but before they exit <span class="citation">X42. Amber Vault (p. 195)</span>, Patrina’s spirit manifests from the hilt. Read:
+At a suitable moment after a player withdraws the *Sunsword* from the sarcophagus, but before they exit <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X42AmberVault">X42. Amber Vault</a> (p. 195)</span>, Patrina’s spirit manifests from the hilt. Read:
 
 <div class="description">
 <p>The hilt stirs—at first twitching gently, then lurching violently. The sapphire at the center of its guard shimmers, then flares a deep, malevolent violet.</p>
@@ -1766,7 +1766,7 @@ Patrina then attacks.
 <p><strong><em>Dark Embodiment.</em></strong> When Patrina is reduced to <span class="highlight">0 hit points</span>, all amber sarcophagi within <span class="highlight">60 feet</span> of her extrude tendrils of shadowed mist, which she inhales. Her ethereal form then grows solid, forming pale, undead flesh and sunken amber eyes. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form. She can immediately use her <strong><em>soul weapon</em></strong> feature.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Patrina makes two attacks, only one of which can be an <strong><em>amber tentacle</em></strong> attack, and can use <strong><em>charm wielder</em></strong> once.</p>
-<p><strong><em>Amber Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target within 15 feet of one of the walls in <span class="citation">X42. Amber Vault</span>. <strong>Hit:</strong> <span class="highlight">19 (2d12 + 6) bludgeoning damage</span>, and the target must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">grappled</span> (escape DC 19) or <span class="highlight">pushed 10 feet away</span> (Patrina’s choice). If the target fails the save by <span class="highlight">10 or more</span>, it also <span class="highlight">falls prone</span>.</p>
+<p><strong><em>Amber Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target within 15 feet of one of the walls in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X42AmberVault">X42. Amber Vault</a></span>. <strong>Hit:</strong> <span class="highlight">19 (2d12 + 6) bludgeoning damage</span>, and the target must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">grappled</span> (escape DC 19) or <span class="highlight">pushed 10 feet away</span> (Patrina’s choice). If the target fails the save by <span class="highlight">10 or more</span>, it also <span class="highlight">falls prone</span>.</p>
 <p><strong><em>Corrupting Touch.</em></strong> <em>Melee Spell Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (4d6 + 2) necrotic damage.</p>
 <p><strong><em>Charm Wielder.</em></strong> Patrina forces the creature possessing the <em>Sunsword</em> to succeed on a <span class="highlight">DC 19 Charisma saving throw</span> or be <span class="highlight">charmed</span> by her for <span class="highlight">1 minute</span>. While charmed, the creature must try to follow Patrina’s commands. If the creature takes damage, it can repeat the saving throw, ending the effect on a success. The effect ends if the creature no longer possesses the <em>Sunsword</em>.</p>
 <h3>Bonus Actions</h3>
@@ -1878,7 +1878,7 @@ Once Patrina’s spirit is defeated, a player who inspects the *Sunsword* by cas
 > * Sentient magic items are capable of sensing their environments and communicating with others, as described in <span class="citation">Sentient Magic Items (p. 214)</span>.
 > * Sentient items have wills of their own, and may attempt to exert those wills upon their wielders in the event of conflict, as described in <span class="citation">Sentient Magic Items (p. 214)</span>.
 
-Without a ritual to bind a soul to the *Sunsword*, the players must find and convince a spirit to inhabit it. Once infused with a soul, the *Sunsword* is largely as described in <span class="citation">Sunsword (p. 223)</span>, with the following changes:
+Without a ritual to bind a soul to the *Sunsword*, the players must find and convince a spirit to inhabit it. Once infused with a soul, the *Sunsword* is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/appendix-c-treasures#Sunsword">Sunsword</a> (p. 223)</span>, with the following changes:
 
 * It has a **resonance level**, as described in **Resonance Level** below.
 * Its wielder gains a bonus to attack and damage rolls equal to its resonance level. (*This replaces its original +2 bonus.*)
@@ -1937,11 +1937,11 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 ## S7a. Stair of Wisdom
 <span class="citation">This scene takes place in Chapter 13, Area X5b.</span>
 
-This area is as described in <span class="citation">X5b. Secret Door (p. 184)</span>.
+This area is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5bSecretDoor">X5b. Secret Door</a> (p. 184)</span>.
 ## S7b. Archmage’s Library
 <span class="citation">This scene takes place in Chapter 13, Area X30.</span>.
 
-This area is largely as described in <span class="citation">X30. Preserved Library (p. 189)</span>. However, if the players enter this area after defeating the spirit of Patrina Velikovna, they encounter the spirit of the **archmage** Exethanter (see [[#Exethanter’s Hospitality]] below).
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X30PreservedLibrary">X30. Preserved Library</a> (p. 189)</span>. However, if the players enter this area after defeating the spirit of Patrina Velikovna, they encounter the spirit of the **archmage** Exethanter (see [[#Exethanter’s Hospitality]] below).
 ### Exethanter’s Hospitality
 When the players enter this area after defeating Patrina’s spirit, read the following text, or add it to the end of this area’s description:
 
@@ -1958,7 +1958,7 @@ This is the spirit of Exethanter, the former archmage of the Amber Temple. Exeth
 If the players approach Exethanter’s spirit or otherwise reveal themselves, he greets them with some surprise. He can share the following information if asked:
 
 * His name is Exethanter. In life, he was an archmage and leader of the Society of Amber, the secret society of mages that founded and guarded the Amber Temple. (Exethanter can further share all of the information described in **Operations of the Amber Temple** and **Downfall of the Temple** above.)
-* In its final years, the Amber Temple descended into chaos and paranoia. Exethanter attempted to continue his weekly dinners with apprentices and other mages, but even he couldn’t resist using one of the “odd relics he’d picked up over the years"—the enchanted ewer in <span class="citation">X22. Northwest Annex (p. 187)</span>—to cleanse his drinks of poison. (“In retrospect," he sniffs abashedly, “it astounds me how deeply the vestiges’ darkness had penetrated my mind." He massages his ghostly temples, chuckling tiredly. “It’s astounding how much clarity one’s mind can find after one has passed away."
+* In its final years, the Amber Temple descended into chaos and paranoia. Exethanter attempted to continue his weekly dinners with apprentices and other mages, but even he couldn’t resist using one of the “odd relics he’d picked up over the years"—the enchanted ewer in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X22NorthwestAnnex">X22. Northwest Annex</a> (p. 187)</span>—to cleanse his drinks of poison. (“In retrospect," he sniffs abashedly, “it astounds me how deeply the vestiges’ darkness had penetrated my mind." He massages his ghostly temples, chuckling tiredly. “It’s astounding how much clarity one’s mind can find after one has passed away."
 * He has no knowledge of “Heinrich Stolt," and has never heard of any such individual. 
 
 > [!abstract]+ **Exethanter’s Theory**
@@ -1979,17 +1979,17 @@ Exethanter thanks the players for freeing him from Patrina Velikovna’s binding
 
 If the players ask Exethanter about the *Tome of Strahd* or a ritual capable of manifesting the Ladies of the Fanes, Exethanter perks up, inquiring into the players’ knowledge and purposes. Once his curiosity is satisfied, Exethanter invites the players to discuss the matters further in his quarters. (If necessary, Exethanter notes that the ritual the players seek lies therein.)
 
-If the players agree to follow Exethanter to his quarters, he walks through the wall leading to <span class="citation">X29. Secret Room (p. 189)</span>, then, if the players don’t swiftly follow him through the secret door, returns to apologize to the players. (“When one is intangible for so long," Exethanter says, clearing his throat as his cheeks flush, “one tends to forget what necessities others of a, ah, more *tangible* persuasion may require.") 
+If the players agree to follow Exethanter to his quarters, he walks through the wall leading to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X29SecretRoom">X29. Secret Room</a> (p. 189)</span>, then, if the players don’t swiftly follow him through the secret door, returns to apologize to the players. (“When one is intangible for so long," Exethanter says, clearing his throat as his cheeks flush, “one tends to forget what necessities others of a, ah, more *tangible* persuasion may require.") 
 
-Exethanter then guides the players to the secret door that leads to <span class="citation">X29. Secret Room (p. 189)</span>, and the secret door therein that leads to <span class="citation">X27. Lich’s Lair (p. 188)</span>, apologizing for the “proliferation" of secret doors throughout the temple. (“It *was* built as a citadel, after all," he recalls thoughtfully, “designed to withstand any siege—while providing hidden, speedy transportation to its defenders.") 
+Exethanter then guides the players to the secret door that leads to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X29SecretRoom">X29. Secret Room</a> (p. 189)</span>, and the secret door therein that leads to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X27LichsLair">X27. Lich’s Lair</a> (p. 188)</span>, apologizing for the “proliferation" of secret doors throughout the temple. (“It *was* built as a citadel, after all," he recalls thoughtfully, “designed to withstand any siege—while providing hidden, speedy transportation to its defenders.") 
 
-As he and the players pass through <span class="citation">X29. Secret Room (p. 189)</span>, Exethanter points out the secret door that leads to <span class="citation">X28. Hidden Phylactery (p. 189)</span>, noting that the Society of Amber once used it to carry out the rituals that bound the vestiges to their amber sarcophagi. (If asked, Exethanter is glad to allow the players to explore it, though he insists that it is “merely an empty room.")
+As he and the players pass through <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X29SecretRoom">X29. Secret Room</a> (p. 189)</span>, Exethanter points out the secret door that leads to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X28HiddenPhylactery">X28. Hidden Phylactery</a> (p. 189)</span>, noting that the Society of Amber once used it to carry out the rituals that bound the vestiges to their amber sarcophagi. (If asked, Exethanter is glad to allow the players to explore it, though he insists that it is “merely an empty room.")
 ## S7c. Archmage’s Quarters
 <span class="citation">This scene takes place in Chapter 13, Areas X26 and X27.</span>
 
-This area is largely as described in <span class="citation">X26. Secret Alcove (p. 188)</span> and <span class="citation">X27. Lich’s Lair (p. 188)</span>. However, no **lich** dwells here. In addition, a crystal chime lies in the desk’s uppermost drawer. 
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X26SecretAlcove">X26. Secret Alcove</a> (p. 188)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X27LichsLair">X27. Lich’s Lair</a> (p. 188)</span>. However, no **lich** dwells here. In addition, a crystal chime lies in the desk’s uppermost drawer. 
 
-Players who read Exethanter’s spellbook find that, in addition to the spells described in <span class="citation">X27. Lich’s Lair (p. 188)</span>, it also contains instructions for enacting the *Rite of Conjured Divinity* (see below).
+Players who read Exethanter’s spellbook find that, in addition to the spells described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X27LichsLair">X27. Lich’s Lair</a> (p. 188)</span>, it also contains instructions for enacting the *Rite of Conjured Divinity* (see below).
 
 If the players arrive here in Exethanter’s company to discuss the *Tome of Strahd* or the Ladies of the Fanes, he responds as follows:
 
@@ -2005,12 +2005,12 @@ If the players arrive here in Exethanter’s company to discuss the *Tome of Str
 ## S7d. Ritual Chamber
 <span class="citation">This scene takes place in Chapter 13, Areas X28 and X29.</span>
 
-This area is largely as described in <span class="citation">X28. Hidden Phylactery (p. 189)</span> and <span class="citation">X29. Secret Room (p. 189)</span>. However, the phylactery belongs not to Exethanter, but the **arcanaloth** Neferon, as discussed in **Neferon's Phylactery** above. This phylactery, which has an AC of 20 and 20 hit points, can’t be damaged or destroyed except by radiant damage dealt by the *Sunsword* or a spell of 5th level or higher.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X28HiddenPhylactery">X28. Hidden Phylactery</a> (p. 189)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X29SecretRoom">X29. Secret Room</a> (p. 189)</span>. However, the phylactery belongs not to Exethanter, but the **arcanaloth** Neferon, as discussed in **Neferon's Phylactery** above. This phylactery, which has an AC of 20 and 20 hit points, can’t be damaged or destroyed except by radiant damage dealt by the *Sunsword* or a spell of 5th level or higher.
 
 > [!abstract]+ **Exethanter’s Inspection**
 > If shown Neferon’s phylactery, Exethanter is surprised to see it, and asks to inspect it. “It appears to be reminiscent of a lich’s phylactery," he observes, “though I do not detect Patrina’s handiwork upon it, nor sense her magic. Its essence is both old, and yet new, as though it was created only recently, but from an old, even ancient soul—one far older than I." (Exethanter apologizes for his inability to share anything further without at least several days of further study.)
 # S8. Departing the Temple
-Each time he observes the players move to depart the Amber Temple, Neferon—flanked by the three **flameskulls** from [[#S2e. West Gallery]]—confronts them as they pass through <span class="citation">X17. Upper West Hall (p. 187)</span>, <span class="citation">X8. Upper East Hall (p. 185)</span>, or <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>. (In the latter case, he confronts them while standing atop one of the black marble staircases leading to <span class="citation">X4. Overlook (p. 183)</span>.
+Each time he observes the players move to depart the Amber Temple, Neferon—flanked by the three **flameskulls** from [[#S2e. West Gallery]]—confronts them as they pass through <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X17UpperWestHall">X17. Upper West Hall</a> (p. 187)</span>, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X8UpperEastHall">X8. Upper East Hall</a> (p. 185)</span>, or <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>. (In the latter case, he confronts them while standing atop one of the black marble staircases leading to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X4Overlook">X4. Overlook</a> (p. 183)</span>.
 
 Neferon—as “Heinrich"—asks the players to identify any physical items they have removed from the temple. "After all," he says, "as this temple's caretaker, I am obliged to ensure that no artifacts are improperly removed from its ancient halls."
 
@@ -2020,13 +2020,13 @@ Neferon—as “Heinrich"—asks the players to identify any physical items they
 
 However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its radiant properties. "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
 
-If the players refuse to disclose an item’s value, or if negotiations break down, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as **Heinrich’s Discipline** and **Neferon’s Tactics** above.
+If the players refuse to disclose an item’s value, or if negotiations break down, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>, as well as **Heinrich’s Discipline** and **Neferon’s Tactics** above.
 
 ***Lying to Neferon.*** Players who lie to “Heinrich" can deceive him by succeeding on a DC 22 Charisma (Deception) check, failing automatically if “Heinrich" is already aware (e.g., through the use of his *arcane eye* spell) that the players possess one or more items that they have failed to disclose.
 
 If “Heinrich" determines the players are lying to him, he kindly asks whether they are “certain" they do not recall acquiring any items from the temple’s vaults or corridors, noting cordially that the Amber Temple “does not take kindly to thieves, be they willful or merely forgetful." If the players again lie to him, “Heinrich" innocently inquires about any items he is aware of by description, such as "a broken platinum sword hilt." 
 
-If the players lie to him a third time, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as **Heinrich’s Discipline** and **Neferon’s Tactics** above.
+If the players lie to him a third time, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5aGodofSecrets">X5a. God of Secrets</a> (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-amber-temple#X5TempleofLostSecrets">X5. Temple of Lost Secrets</a> (p. 183)</span>, as well as **Heinrich’s Discipline** and **Neferon’s Tactics** above.
 
 > [!abstract]+ **Neferon’s Resistance**
 > Neferon offers no resistance to players who credibly threaten to destroy his phylactery. In exchange for allowing them to depart in peace, however, he asks that the players leave the phylactery somewhere safe where he can subsequently retrieve it. 
