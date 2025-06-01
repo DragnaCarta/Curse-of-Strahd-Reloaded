@@ -4,7 +4,7 @@ In this arc, upon returning from Castle Ravenloft in [[Arc P - Ravenloft Heist]]
 # Q1. Flight From Ravenloft
 Depending on their means of escape, players who flee from Castle Ravenloft following [[Arc P - Ravenloft Heist]] can attempt to rest for the night in a number of different locations.
 ## Q1a. The Teleportation Brazier
-Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
+Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K78BrazierRoom">K78. Brazier Room</a> (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
 
 ***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
 
@@ -17,12 +17,12 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 
 ***Van Richten's Tower.*** If the players teleport to Van Richten's Tower, they can take shelter in the tower itself, or travel to the village of Krezk. The journey from the tower to Krezk is three-and-one-half miles long and takes one hour and ten minutes.
 
-***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
+***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span> or <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U4Churchyard">U4. Churchyard</a> (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
 
 > [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span>, <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U4Churchyard">U4. Churchyard</a> (p. 164)</span>, and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U5MarinasMonument">U5. Marina's Monument</a> (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
 
-If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
+If the players attempt to take shelter in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
 > [!combat]- **Balancing the Ruins of Berez**
  > Due to the wave mechanic, this combat encounter is a series of a consecutive **mild** combat encounter followed by a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 4% of their total maximum hit points and the second of which will consume approximately 29% of their total maximum hit points (for a total of 33% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
@@ -38,7 +38,7 @@ The players can also travel from Berez to the town of Vallaki, Van Richten's Tow
 * The journey from Berez to Lake Baratok is seven miles long and takes two hours and twenty minutes. 
 * The journey from Berez to Krezk is eight-and-three-quarter miles long and takes three hours.
 
-***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
+***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#StrahdZombies">Strahd Zombies</a> (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
 
 > [!combat]- **Balancing the Old Svalich Road**
 > This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
@@ -58,7 +58,7 @@ The players can also travel from the guard tower to the town of Vallaki, Van Ric
 * The journey from the tower to Lake Baratok is ten-and-one-half miles long and takes three hours and thirty minutes.
 * The journey from the tower to Vallaki is thirteen and one-quarter miles long and takes four hours and thirty minutes.
 ## Q1b. The Pillarstone
-Players who escape Castle Ravenloft by descending the southeastern cliff of the Pillarstone of Ravenloft land just north of the village of Barovia, a short distance from the northern edge of <span class="citation">E6. Cemetery (p. 48)</span>. They can find shelter in the village as described in [[#Q1a. The Teleportation Brazier]].
+Players who escape Castle Ravenloft by descending the southeastern cliff of the Pillarstone of Ravenloft land just north of the village of Barovia, a short distance from the northern edge of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E6Cemetery">E6. Cemetery</a> (p. 48)</span>. They can find shelter in the village as described in [[#Q1a. The Teleportation Brazier]].
 ## Q1c. The Drawbridge
 Players who escape Castle Ravenloft by crossing the western chasm can find shelter as follows:
 
@@ -79,7 +79,7 @@ At dawn on the first day after the players raid Castle Ravenloft, a snow-white f
 
 If the players aren't already in Krezk, Dmitri sets out for Vallaki accompanied by two Krezkian **guards**, hoping to find the players there.
 
-* If the players are traveling to Krezk from Berez, Tsolenka Pass, Van Richten's Tower, or a section of the Old Svalich Road west of Vallaki, they encounter Dmitri and his companions at <span class="citation">R. Raven River Crossroads (p. 40)</span>. 
+* If the players are traveling to Krezk from Berez, Tsolenka Pass, Van Richten's Tower, or a section of the Old Svalich Road west of Vallaki, they encounter Dmitri and his companions at <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RRavenRiverCrossroads">R. Raven River Crossroads</a> (p. 40)</span>. 
 * Otherwise, Dmitri and his companions arrive in Vallaki two hours after dawn, whereupon they leave a message with the guards at the western gate and travel to the Blue Water Inn, hoping to find the players there.
 
 If the players slept at the Krezkovs' cottage the night before, they are awoken by the sound of quiet sobs from the kitchen, where Anna attempts to reassure Dmitri that "everything will be alright," while a tearful Dmitri desperately vows that he "won't let anything happen" to her.
@@ -90,9 +90,9 @@ Regardless of where he encounters the players, an anxious Dmitri informs them th
 #### The Raven Guard
 If the players slept east of Vallaki after escaping Castle Ravenloft, such as in the village of Barovia or at the Tser Pool encampment, they awake to find four **swarms of ravens** standing watch from nearby rooftops or trees. The ravens, which have heard of the players' heroics from the Keepers of the Feather, accompany the players as an honor guard until they reach the town of Vallaki.
 #### The Wolves' Ambush
-One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation">Corpse (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire wolves, while the third resembles whichever player has displeased Strahd the most.
+One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#Corpse">Corpse</a> (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire wolves, while the third resembles whichever player has displeased Strahd the most.
 
-If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
+If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#DireWolves">Dire Wolves</a> (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#Scarecrows">Scarecrows</a> (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
 #### Arrival in Vallaki
 Upon the players' arrival at Vallaki, the guards at the gate inform them that Baron Dmitri Krezkov of Krezk is awaiting them at the Blue Water Inn. If they venture there, the players can find Baron Krezkov in the taproom, sitting anxiously at the bar with an untouched drink as Danika attempts to comfort him. The scene then unfolds as described in [[#Q2a. A Dark Omen]].
 ## Journey to Krezk
@@ -111,7 +111,7 @@ Anna and Dmitri, two **nobles** with Strength scores of 14 (+2) and wielding a *
 >
 > The players make the check with advantage if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate Ilya into killing Kala (Emil’s niece).
 ## Q3a. Return to the Abbey
-As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, the shard of divinity in the *Icon of Dawn’s Grace* speaks to them, asking:
+As the players ascend <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S5WindingRoad">S5. Winding Road</a> (p. 147)</span>, the shard of divinity in the *Icon of Dawn’s Grace* speaks to them, asking:
 
 * what became of the Abbey of St. Markovia following Markovia’s death at Castle Ravenloft
 * how the Abbot came to reside in Krezk at the Abbey
@@ -119,7 +119,7 @@ As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, t
 
 Regardless of the players’ answers, the shard warns them that the Abbot, like all creatures of celestial creation, is likely to be zealous, inflexible, and utterly devoted to his perceived cause. “Tread carefully, and ready your steel," the shard whispers telepathically. “For the Morninglord’s rays flare only brighter when they perceive darkness before them."
 ### The North Gate
-The players are met at <span class="citation">S6. North Gate (p. 147)</span> by Otto and Zygfrek Belview. If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Otto (excitedly) and Zygfrek (anxiously) ask the players whether they’ve seen Cyrus since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" Zygfrek whispers, her voice trembling.
+The players are met at <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S6NorthGate">S6. North Gate</a> (p. 147)</span> by Otto and Zygfrek Belview. If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Otto (excitedly) and Zygfrek (anxiously) ask the players whether they’ve seen Cyrus since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" Zygfrek whispers, her voice trembling.
 
 If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
 
@@ -127,13 +127,13 @@ The players can convince Otto and Zygfrek that they are telling the truth with a
 
 Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity. 
 ### The Courtyard
-Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
+Upon entering <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S12Courtyard">S12. Courtyard</a> (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S15Madhouse">S15. Madhouse</a> (p. 151)</span>, tending and ministering to Clovin’s family therein.
 
 If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
 
 If the players share the truth of Cyrus’s situation, Clovin’s face briefly falls, and then becomes cold and carefully composed. “I see," he notes, even as the infant head upon his shoulder begins to wail. 
 
-Regardless of his own disappointment, Clovin is determined to make good on his promise should the players bring news of Cyrus. If they do, before bringing them to the Abbot, he brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+Regardless of his own disappointment, Clovin is determined to make good on his promise should the players bring news of Cyrus. If they do, before bringing them to the Abbot, he brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S17LoftandBelfry">S17. Loft and Belfry</a> (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
 
 * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
 * A set of wings animates for 1 minute, rather than 1 hour
@@ -141,7 +141,7 @@ Regardless of his own disappointment, Clovin is determined to make good on his p
 * One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's giant eagle form, while the other resembles bat wings and bears long membranes of tanned animal hide.
 * A creature can attune itself to the wings in 1 minute.
 ## Q3b. Confronting the Abbot
-The players can find the Abbot in the Abbey’s asylum, which is largely as described in <span class="citation">S15. Madhouse (p. 151)</span>. However, the players overhear the following conversation as they approach and enter this area:
+The players can find the Abbot in the Abbey’s asylum, which is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S15Madhouse">S15. Madhouse</a> (p. 151)</span>. However, the players overhear the following conversation as they approach and enter this area:
 
 <div class="description">
 <p>A handsome young man in monk’s robes stands halfway down the hall, a prayer book tucked beneath one arm—the Abbot. Before him stands a dainty woman wearing a tattered gown, her head bowed in silent acquiescence—Vasilka. The flesh golem stands behind them, its grotesque form towering above them in the shadows.</p>
@@ -535,7 +535,7 @@ When the players first descend the switchback road and enter the village of Krez
 
 Players who spoke with St. Markovia in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]] recognize her voice.
 ### Markovia’s Gift
-If the players follow St. Markovia’s invitation to <span class="citation">S4. Pool and Shrine (p. 146)</span>, read:
+If the players follow St. Markovia’s invitation to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S4PoolandShrine">S4. Pool and Shrine</a> (p. 146)</span>, read:
 
 <div class="description">
 <p>As you reach the pool’s edge, an image appears in its sparkling blue waters: an older woman clad in a plain white robe, her wavy brown hair beginning to gray. Creases line the edges of her eyes, but age does not mar the kindness and compassion that dwells there.</p>
@@ -847,9 +847,9 @@ Emil is also happy to ask Zuleika to release the players from the *Oath of the N
 # Q6. Return to Argynvostholt
 
 > [!lore]+ **Vladimir’s Command**
-> When the players retrieve Argynvost’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the Ethereal Plane. After interrogating Sir Godfrey Gwilym and learning of the players’ intent to place the skull in Argynvost’s mausoleum, Vladimir relocates to <span class="citation">Q15. Cemetery (p. 134)</span>, where he waits for the players to return to Argynvostholt.
+> When the players retrieve Argynvost’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the Ethereal Plane. After interrogating Sir Godfrey Gwilym and learning of the players’ intent to place the skull in Argynvost’s mausoleum, Vladimir relocates to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q15Cemetery">Q15. Cemetery</a> (p. 134)</span>, where he waits for the players to return to Argynvostholt.
 ## Q6a. Return to the Foyer
-When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return. After the players escape Castle Ravenloft:
+When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q3DragonsFoyer">Q3. Dragon’s Foyer</a> (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return. After the players escape Castle Ravenloft:
 
 * If they return to Argynvostholt before noon, no revenants are present in the foyer.
 * If they return to Argynvostholt before dusk, one revenant is present in the foyer.
@@ -872,7 +872,7 @@ Read the following, modifying the text as needed depending on the number of reve
 
 The revenants then attack.
 
-In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Wisdom (Insight) check notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
+In combat, the revenants attack with their longswords as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q13ChapelofMorning">Q13. Chapel of Morning</a> (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Wisdom (Insight) check notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
 
 A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Dexterity saving throws with disadvantage, and grant advantage on any attacks made against them.
 
@@ -883,7 +883,7 @@ When the players defeat the last revenant, it warns them that Commander Horngaar
 
 
 ## Q6b. Return to the Cemetery
-When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
+When the players first return to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q15Cemetery">Q15. Cemetery</a> (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q16DragonsMausoleum">Q16. Dragon’s Mausoleum</a> (p. 134)</span> hanging open. 
 
 > [!abstract]+ **Teleporting Players**
 > When the players first return to the cemetery, Vladimir is waiting for them inside of Argynvost’s mausoleum. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
@@ -1071,7 +1071,7 @@ The players may then provide Vladimir with any good reason to accept Argynvost�
 </div>
 
 > [!info]+ **Vladimir’s Greatsword**
-> Players who later investigate Vladimir’s remains can recover his greatsword and holy symbol, which are as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+> Players who later investigate Vladimir’s remains can recover his greatsword and holy symbol, which are as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q36DragonsAudienceHall">Q36. Dragon’s Audience Hall</a> (p. 138)</span>.
 
 As Vladimir dies, any remaining **phantom warriors** haunting Argynvostholt or its cemetery dissolve into mist, and any character cursed by Vladimir’s ***oathbind*** feature is freed from its constraints. In addition, the spirits of any **revenants** of the Order of the Silver Dragon are freed from the corpses they inhabit, including Sir Godfrey Gwilym. Read:
 
@@ -1155,7 +1155,7 @@ Continue with the following, modifying the text as necessary to reflect each non
 <p>
 </div>
 
-All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
+All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#LightingtheBeacon">Lighting the Beacon</a> (p. 142)</span>.
 
 ***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
 # Q7. Return to the Werewolf Den
@@ -1163,11 +1163,11 @@ All creatures that oppose Strahd, including the players, then gain the effects o
 > [!abstract]+ **Fighting Kiril**
 > Players who aren’t hunted by Kiril in [[#Q5. Pack Attack]] can encounter him again in one of two ways:
 >
-> * If they arrive at the werewolf den during daylight hours, Kiril is asleep in <span class="citation">Z6. Kiril’s Cave (p. 204)</span> in his dire wolf form.
-> * If they arrive at the werewolf den during nighttime hours, Kiril and the pack are out hunting, but eventually return as described in <span class="citation">Leader of the Pack (p. 205)</span>.
+> * If they arrive at the werewolf den during daylight hours, Kiril is asleep in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/werewolf-den#Z6KirilsCave">Z6. Kiril’s Cave</a> (p. 204)</span> in his dire wolf form.
+> * If they arrive at the werewolf den during nighttime hours, Kiril and the pack are out hunting, but eventually return as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/werewolf-den#LeaderofthePack">Leader of the Pack</a> (p. 205)</span>.
 >
 > If a fight occurs in the den, Kiril prefers to lead it outside. The scene otherwise unfolds largely as described in [[#Q5. Pack Attack]].
 
 Once Kiril is defeated, the players can easily free Ilya and Zuleika from their *silverthorn collars* using the keys from the chain around Kiril’s neck.
 
-If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from Mother Night's shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>, the hoard also contains one diamond worth 300 gp.
+If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from Mother Night's shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/werewolf-den#Z7ShrineofMotherNight">Z7. Shrine of Mother Night</a> (p. 204)</span>, the hoard also contains one diamond worth 300 gp.

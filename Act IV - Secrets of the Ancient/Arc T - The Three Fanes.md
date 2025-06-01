@@ -9,7 +9,7 @@ For the reconsecrations to work, however, the players must first help Urwin and 
 >
 > * Arturi Radanavich will be removed from the campaign.
 > * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
-> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp">N9. Vistani Camp</a> (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
 > * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
 > * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
 > * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
@@ -196,14 +196,14 @@ The roc is willing to fly the players to any single location in Barovia except C
 > ***Vallaki to Berez.*** The journey from Vallaki to Berez is four and one-half miles long and takes one and one-half hours.
 
 > [!abstract]+ **Kasimir’s Departure**
-> When the players descend the mountain, Kasimir shares that he must return to the dusk elf encampment at <span class="citation">N9. Vistani Camp (p. 119)</span> to see that his people are protected. “When Patrina first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
+> When the players descend the mountain, Kasimir shares that he must return to the dusk elf encampment at <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp">N9. Vistani Camp</a> (p. 119)</span> to see that his people are protected. “When Patrina first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
 > 
 > Before Kasimir departs, he asks, thoughtfully: “The Vistani have a tradition—the blood rite, they call it—by which a man may become Vistani himself, though he was not born amongst their wagons. When we came to the valley, I shared the blood rite with the man who brought us here; I let Kasimir of Othrondil die, and was reborn as Kasimir Velikov, blood-brother of the Vistani." He pauses, then continues: “But Patrina could never let go of the past. While I sought to move forward, she could only ever look back. I can’t help but wonder, though—if she had completed the blood rite as I did, and so became Vistani, would she have fallen down the dark path she did?"
 > 
 > Kasimir is grateful for any thoughts and insights the players might share.
 
 > [!abstract]+ **Urwin’s Plea**
-> Following his family’s kidnapping at Baba Lysaga’s hands in [[#T3. The Witch of Berez]], Urwin Martikov sent raven messengers to the following locations to await the players’ return: the woods near <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>; the woods near <span class="citation">I. Black Carriage (p. 37)</span>; <span class="citation">P. Luna River Crossroads (p. 40)</span>; and <span class="citation">R. Raven River Crossroads (p. 40)</span>. Each messenger bears the following letter, which is tied to its leg in the form of a small parchment scroll:
+> Following his family’s kidnapping at Baba Lysaga’s hands in [[#T3. The Witch of Berez]], Urwin Martikov sent raven messengers to the following locations to await the players’ return: the woods near <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines">Chapter 12: The Wizard of Wines</a> (p. 173)</span>; the woods near <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#IBlackCarriage">I. Black Carriage</a> (p. 37)</span>; <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#PLunaRiverCrossroads">P. Luna River Crossroads</a> (p. 40)</span>; and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RRavenRiverCrossroads">R. Raven River Crossroads</a> (p. 40)</span>. Each messenger bears the following letter, which is tied to its leg in the form of a small parchment scroll:
 >
 > ---
 >
@@ -220,7 +220,7 @@ The roc is willing to fly the players to any single location in Barovia except C
 >
 > If the players ask for further information, Victor replies with the following additional *sending*: *Too much to share like this. Come to my family’s home. Don’t let the gate guards see you.*
 ## T2a. The Wizard of Wines
-If the players return to <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, read the following as they approach the winery:
+If the players return to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines">Chapter 12: The Wizard of Wines</a> (p. 173)</span>, read the following as they approach the winery:
 
 <div class="description">
 <p>Great holes mar the winery’s northern second-story wall, showing splintered, rubble-strewn rooms beyond. Below, several unfamiliar scarecrows stand silently amidst the vineyard, their painted gazes leering through the mist.</p>
@@ -234,11 +234,11 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 > Now, Baba Lysaga lurks in the depths of Berez, waiting for the players to come rescue their beloved feathered friends—and finally die at her hands.
 
 > [!abstract]+ **Investigating the Trail**
-> A player who succeeds on a DC 13 Wisdom (Survival) check identifies enormous gouges and trenches pockmarking the wet earth in a rough “trail." The trail, which was left by Baba Lysaga’s creeping hut, leads south through the Svalich Woods to Luna Lake, then north beneath Tsolenka Pass along the Luna River, until ending in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. If the players follow the trail, their journey to Berez is eight and one-half miles long and takes five and one-third hours.
+> A player who succeeds on a DC 13 Wisdom (Survival) check identifies enormous gouges and trenches pockmarking the wet earth in a rough “trail." The trail, which was left by Baba Lysaga’s creeping hut, leads south through the Svalich Woods to Luna Lake, then north beneath Tsolenka Pass along the Luna River, until ending in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez">Chapter 10: The Ruins of Berez</a> (p. 161)</span>. If the players follow the trail, their journey to Berez is eight and one-half miles long and takes five and one-third hours.
 
 A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
 
-If the players enter the winery, they find it empty. If they ascend to the second floor, they find that the wall between the two <span class="citation">W19. Sleeping Quarters (p. 179)</span> has been reduced to splinters and rubbles, and that the rooms’ shared southern wall has been marked with the following message, engraved in scorched, blackened wood: “*A Mother Never Forgets.*"
+If the players enter the winery, they find it empty. If they ascend to the second floor, they find that the wall between the two <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W19SleepingQuarters">W19. Sleeping Quarters</a> (p. 179)</span> has been reduced to splinters and rubbles, and that the rooms’ shared southern wall has been marked with the following message, engraved in scorched, blackened wood: “*A Mother Never Forgets.*"
 ## T2b. The Town of Vallaki
 ### Town Gates
 If the players return to Vallaki, they find each gate guarded by two **guards**, two **cultists** loyal to Lady Wachter, and one **cult fanatic**. Players who previously met the cult fanatics Andrej, Boris, and Miruna in [[Arc H - The Lost Soul]] recognize them at the western Sunset Gate, the Northern Zarovich Gate, and the Eastern Morning Gate, respectively.
@@ -248,14 +248,14 @@ If the players attempt to enter through the gates, the guards solemnly inform th
 If the players kill any guards or cultists, the guards and cultists fight to the death, attempting to kill the players in return. Otherwise, the guards and cultists use nonlethal tactics, surrendering if three or more guards and/or cultists are knocked unconscious.
 
 > [!abstract]+ **Breaking Into Vallaki**
-> Vallaki’s guard patrols are largely as described in <span class="citation">Town Gates (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
+> Vallaki’s guard patrols are largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#TownGates">Town Gates</a> (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
 
 > [!lore]+ **The Long Arm of Castle Ravenloft**
-> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
+> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K32MaidinHell">K32. Maid in Hell</a> (p. 64)</span>.
 >
 > Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">Nrq. Storage Room (p. 114)</span>. 
 >
-> That night, the emissary used a *potion of waking slumber, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
+> That night, the emissary used a *potion of waking slumber, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard">N5. Arasek Stockyard</a> (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6CoffinMakersShop">N6. Coffin Maker’s Shop</a> (p. 116)</span>.
 >
 > The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
 >
@@ -276,7 +276,7 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 >
 > Once activated, the beacon can’t be activated again until the next dawn.
 ### St. Andral’s Church
-If the players pass <span class="citation">N1. St. Andral’s Church (p. 97)</span> during the daytime, read:
+If the players pass <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch">N1. St. Andral’s Church</a> (p. 97)</span> during the daytime, read:
 
 <div class="description">
 <p>A dark-haired woman wearing a gray robe stands on the church steps, a small crowd encircling her from below. An unfamiliar poster has been posted on the church doors behind her.</p>
@@ -306,14 +306,14 @@ If the players make themselves known to him, Milivoj greets them with anxious gr
 
 Milivoj asks the players to convince Lady Wachter to free Father Lucian from imprisonment—and, he adds darkly, to free him themselves if she refuses. He is grateful for any aid the players are able to promise or offer.
 ### The Blue Water Inn
-If the players pass or approach <span class="citation">N2. Blue Water Inn (p. 98)</span>, they find the tavern evidently deserted. A large sign has been hammered into the front door, and reads: “CLOSED BY ORDER OF THE BURGOMISTRESS." (The door is unlocked.)
+If the players pass or approach <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn">N2. Blue Water Inn</a> (p. 98)</span>, they find the tavern evidently deserted. A large sign has been hammered into the front door, and reads: “CLOSED BY ORDER OF THE BURGOMISTRESS." (The door is unlocked.)
 
-If the players enter the inn during the day, they find <span class="citation">N2c. Taproom (p. 100)</span> and <span class="citation">N2e. Kitchen (p. 101)</span> empty, but hear Danika’s voice drifting across <span class="citation">N2j. Great Balcony (p. 102)</span>, originating from <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
+If the players enter the inn during the day, they find <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom">N2c. Taproom</a> (p. 100)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen">N2e. Kitchen</a> (p. 101)</span> empty, but hear Danika’s voice drifting across <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2jGreatBalcony">N2j. Great Balcony</a> (p. 102)</span>, originating from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom">N2o. Boys’ Bedroom</a> (p. 102)</span>.
 
-A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika saying: “—know you want to go outside, but I need you to stay out of trouble right now, and that means staying inside. Okay?" A moment later, Brom and Bray’s voices murmur something unintelligible, and Danika replies: “I knew I could count on you to understand. Now play quietly, okay?" She then exits <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
+A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika saying: “—know you want to go outside, but I need you to stay out of trouble right now, and that means staying inside. Okay?" A moment later, Brom and Bray’s voices murmur something unintelligible, and Danika replies: “I knew I could count on you to understand. Now play quietly, okay?" She then exits <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom">N2o. Boys’ Bedroom</a> (p. 102)</span>.
 
 > [!info]+ **Yeska’s Second Home**
-> If Milivoj is dead or imprisoned in Castle Ravenloft, Yeska is a guest at the Blue Water Inn, and has received a cot in <span class="citation">N2o. Boys’ Bedroom (p. 102)</span> while he waits and hopes for Father Lucian to be set free. If the players speak with him, he asks that they “bring Father Lucian back" while fighting back tears.
+> If Milivoj is dead or imprisoned in Castle Ravenloft, Yeska is a guest at the Blue Water Inn, and has received a cot in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom">N2o. Boys’ Bedroom</a> (p. 102)</span> while he waits and hopes for Father Lucian to be set free. If the players speak with him, he asks that they “bring Father Lucian back" while fighting back tears.
 
 ***Speaking to Danika.*** Danika is grateful to see the players, and insists on preparing them hot tea and reheated potato soup in the kitchen. Though she hopes to learn of the players’ recent exploits, she can also share the following information if asked:
 
@@ -326,17 +326,17 @@ A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika sayi
 Danika can also share concerning news regarding the Wizard of Wines winery:
 
 * Two nights ago, the witch of Berez, Baba Lysaga, attacked the Wizard of Wines atop a living hut, which shattered the winery’s upper walls in the dead of night.
-* Claudiu, Stefenia and Dag’s eldest teenage son, escaped alone, and is staying in <span class="citation">N2n. Private Guest Room (p. 102)</span>. The rest of the Martikov clan was captured and spirited away—presumably to Berez.
-* Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation">N2h. Ravens’ Loft (p. 101)</span>. If Izek Strazni previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation">N2q. Secret Attic (p. 103)</span>.)
+* Claudiu, Stefenia and Dag’s eldest teenage son, escaped alone, and is staying in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom">N2n. Private Guest Room</a> (p. 102)</span>. The rest of the Martikov clan was captured and spirited away—presumably to Berez.
+* Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft">N2h. Ravens’ Loft</a> (p. 101)</span>. If Izek Strazni previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic">N2q. Secret Attic</a> (p. 103)</span>.)
 * Urwin’s raven spies have been working to track the Martikovs into Berez. Urwin hopes to have more information when he returns in an hour.
 * Last night, Claudiu tried to sneak out of the Blue Water Inn to fly to Berez. Urwin stopped him, and brought him back to the inn. (Danika and Urwin agree that fifteen-year-old Claudiu is too young and inexperienced to be allowed to take field missions for the Keepers of the Feather, and that Baba Lysaga would surely capture or slaughter him if she found him there.)
 
 > [!abstract]+ **Where’s Muriel?**
 > If the players ask for the location of Muriel Vinshaw, Danika can share that Muriel has been dispatched to the eastern Svalich Wood on an assignment to recruit flocks of ravens to aid the Keepers of the Feather. “Urwin thinks a storm is coming," Danika says softly. “I don’t doubt that he’s right."
 
-***Speaking with Claudiu.*** If the players seek to speak with Claudiu, they can find him sitting on the bed in <span class="citation">N2n. Private Guest Room (p. 102)</span> and staring silently out the southern window. Claudiu, who is shocked and despondent following Baba Lysaga’s attack, can share the following information if asked:
+***Speaking with Claudiu.*** If the players seek to speak with Claudiu, they can find him sitting on the bed in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom">N2n. Private Guest Room</a> (p. 102)</span> and staring silently out the southern window. Claudiu, who is shocked and despondent following Baba Lysaga’s attack, can share the following information if asked:
 
-* Two nights ago, he and his brothers, Martin and Viggo, were asleep in their beds in <span class="citation">W19. Sleeping Quarters (p. 179)</span> at the Wizard of Wines winery, when a pair of enormous living tree roots broke through the wall and grabbed Martin and Viggo.
+* Two nights ago, he and his brothers, Martin and Viggo, were asleep in their beds in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W19SleepingQuarters">W19. Sleeping Quarters</a> (p. 179)</span> at the Wizard of Wines winery, when a pair of enormous living tree roots broke through the wall and grabbed Martin and Viggo.
 * When “Uncle Adrian," “Uncle Elvir," “Mom" (Stefania), “Dad" (Dag), and “Grandpa Davian" joined the fight, a pair of giant scarecrow-like birds—**strix**—filled them with silver needles, preventing them from transforming, while a marching platoon of **scarecrows** used their leering glares to paralyze them from below.
 * The roots belonged to an enormous living tree stump, upon which sat a run-down hut. The hut, the birds, and the scarecrows were commanded by a cackling old woman—the witch Baba Lysaga—who oversaw the fight from a flying giant’s skull that she rode through the air.
 * During the attack, Claudiu saw a familiar green light seeping from the hut’s doorway—a light he recognized as belonging to one of the Winery’s stolen enchanted gems. (If asked, Claudiu shares his belief that the stolen gem is hidden somewhere within the hut.)
@@ -345,12 +345,12 @@ Danika can also share concerning news regarding the Wizard of Wines winery:
 
 Claudiu demands that the players rescue his family—and, more quietly, asks that they take him with them when they do. “I ran away once," he says fiercely. “I can’t run away again." (If pressed, Claudiu reluctantly admits that he hasn’t been officially inducted into the Keepers of the Feather, that he’s only fifteen years old, and that although his father Dag has been training him in the use of a shortsword and crossbow, he’s yet to master either.)
 
-***Urwin’s Return.*** Urwin returns within an hour of the players’ arrival, entering through the small southern window in <span class="citation">N2q. Secret Attic (p. 103)</span> in raven form, then assuming human form and descending through <span class="citation">N2p. Master Bedroom (p. 103)</span> to <span class="citation">N2c. Taproom (p. 100)</span>.
+***Urwin’s Return.*** Urwin returns within an hour of the players’ arrival, entering through the small southern window in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic">N2q. Secret Attic</a> (p. 103)</span> in raven form, then assuming human form and descending through <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom">N2p. Master Bedroom</a> (p. 103)</span> to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom">N2c. Taproom</a> (p. 100)</span>.
 
 Urwin is grimly pleased to see the players, but clearly frustrated. He can share the following information if asked:
 
 * None of his ravens have been able to catch a glimpse of Berez, which has been swallowed up by an enormous hedge-like structure of vines and thorns hundreds of feet in height.
-* Dozens of swarms of bats have taken up residence in Arasek Stockyard, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats, which often visit Wachterhaus, are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through. (If asked, Urwin can share that the bats appear to sleep in the warehouse to the immediate left of <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.)
+* Dozens of swarms of bats have taken up residence in Arasek Stockyard, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats, which often visit Wachterhaus, are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through. (If asked, Urwin can share that the bats appear to sleep in the warehouse to the immediate left of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6CoffinMakersShop">N6. Coffin Maker’s Shop</a> (p. 116)</span>.)
 * However, last night, one of Urwin’s flocks caught a glimpse of a strange, cloaked individual exiting Wachterhaus from the rear entrance, then vanishing into the town’s alleyways. This individual didn’t match any known descriptions of the Wachter family or its servants, and Urwin isn’t certain who it could be. (Due to the bats’ presence, the ravens weren’t able to see whether the cloaked figure ever returned.)
 
 Urwin is upset at his family’s capture by Baba Lysaga, and frustrated with himself for his inability to help them from Vallaki. “A spymaster with no spies," he growls quietly. “I’m useless to them here—but what more can I do?"
@@ -358,7 +358,7 @@ Urwin is upset at his family’s capture by Baba Lysaga, and frustrated with him
 Urwin apologizes for asking the players to aid his familyonce again, but asks them to rescue them from Baba Lysaga’s clutches. If the players depart for Berez, proceed to [[#T3. The Witch of Berez]].
 
 > [!abstract]+ **Urwin Joins the Party**
-Urwin is surprised if the players invite him to travel to Berez with them, and asks to confer with Danika before doing so. Following a brief, private conversation, he agrees to join the players to rescue his family, then retrieves a shortsword, a heavy crossbow and bolts, and a set of studded leather armor from a chest beneath the bed in <span class="citation">N2p. Master Bedroom (p. 103)</span>.
+Urwin is surprised if the players invite him to travel to Berez with them, and asks to confer with Danika before doing so. Following a brief, private conversation, he agrees to join the players to rescue his family, then retrieves a shortsword, a heavy crossbow and bolts, and a set of studded leather armor from a chest beneath the bed in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom">N2p. Master Bedroom</a> (p. 103)</span>.
 
 
 <div class="statblock">
@@ -417,12 +417,12 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
 >
 > Urwin pleads with the players to share the gem’s location—and thief, if they know its identity. He is shocked to learn that the gem was hidden at the peak of Mt. Ghakis—but begins laughing with a deep, disbelieving chuckle upon learning that it was taken by the roc of Mt. Ghakis. “Madness," he croaks in bewildered delight, wiping a tear from his eye. “Everything else in the world has gone insane. Why not this?"
 ### Vallakovich Manor
-If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, Victor Vallakovich greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
+If the players visit <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3BurgomastersMansion">N3. Burgomaster’s Mansion</a> (p. 103)</span>, Victor Vallakovich greets them at the door and ushers them to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom">N3t. Victor’s Workroom</a> (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3lLibrary">N3l. Library</a> (p. 107)</span>, which he has adopted as his own study since his father’s death.)
 
 > [!abstract]+ **Vargas’s Death**
 > If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it. 
 >
-> Though Victor bore no great love for his father, and despised him in many respects, Vargas was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved Vargas, and did her best to love him as he grew ever-more despotic and permissive of Izek’s cruelty—has largely withdrawn to <span class="citation">N3p. Bridal Gown (p. 108)</span>, reflecting upon the man she married and the monster he became.
+> Though Victor bore no great love for his father, and despised him in many respects, Vargas was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved Vargas, and did her best to love him as he grew ever-more despotic and permissive of Izek’s cruelty—has largely withdrawn to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3pBridalGownandSpiritMirror">N3p. Bridal Gown</a> (p. 108)</span>, reflecting upon the man she married and the monster he became.
 
 Victor can share the following information with the players:
 
@@ -432,7 +432,7 @@ Victor can share the following information with the players:
 
 Victor is glad to join the players in their efforts to confront Lady Wachter and find Stella if invited.
 ### The Town Square
-If the players visit <span class="citation">N8. Town Square (p. 119)</span>, read:
+If the players visit <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare">N8. Town Square</a> (p. 119)</span>, read:
 
 <div class="description">
 <p>Proclamations are posted all around the town square. At the north end of the square, the row of stocks holds a reedy, balding man wearing a fisherman’s vest. Two guards holding spears stand beside the stocks.</p>
@@ -515,7 +515,7 @@ Exethanter, who is clearly horrified, agitated, and somewhat impressed by the au
 > The thirteen stars grow increasingly aligned each night, reaching perfect alignment on the third night following Exethanter’s message.
 # T3. The Witch of Berez
 ## T3a. Berez Outskirts
-The players’ approach to Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise this area’s description as follows:
+The players’ approach to Berez is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#ApproachingtheRuins">Approaching the Ruins</a> (p. 161)</span>. However, revise this area’s description as follows:
 
 <div class="description">
 <p>The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all.</p>
@@ -542,16 +542,16 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 > [!info]+ **The Hedge Maze**
 > The hedge maze has ten “rooms," as shown on the map above: 
 >
-> * [[#T3d. Town Green]], comprising the town green between <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) and <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages))
-> * [[#T3b. Northern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages) 
-> * [[#T3c. Southern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages) 
-> * [[#T3e. Churchyard]], comprising <span class="citation">U4. Churchyard (p. 164)</span>
-> * [[#T3f. Marina’s Monument]], comprising <span class="citation">U5. Marina’s Monument (p. 164)</span>
-> * [[#T3h. Goat Pen]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (goat pen only)
-> * [[#T3g. Manor Cellar]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (cellar only)
-> * [[#T3i. Garden]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (garden only)
-> * [[#T3j. Ulrich Manor]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (mansion only)
-> * [[#T3k. Baba Lysaga’s Hut]], comprising <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>
+> * [[#T3d. Town Green]], comprising the town green between <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span> (north cottages) and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span> (south cottages))
+> * [[#T3b. Northern Cottages]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span> (north cottages) 
+> * [[#T3c. Southern Cottages]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span> (south cottages) 
+> * [[#T3e. Churchyard]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U4Churchyard">U4. Churchyard</a> (p. 164)</span>
+> * [[#T3f. Marina’s Monument]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U5MarinasMonument">U5. Marina’s Monument</a> (p. 164)</span>
+> * [[#T3h. Goat Pen]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span> (goat pen only)
+> * [[#T3g. Manor Cellar]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span> (cellar only)
+> * [[#T3i. Garden]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span> (garden only)
+> * [[#T3j. Ulrich Manor]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span> (mansion only)
+> * [[#T3k. Baba Lysaga’s Hut]], comprising <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U3BabaLysagasHut">U3. Baba Lysaga’s Hut</a> (p. 163)</span>
 >
 > The hedge maze’s walls and ceilings are each one hundred feet thick, and each room is one hundred feet high. Each five-foot-square segment of a wall or ceiling has AC 15, 20 hit points, and immunity to poison and psychic damage.
 >
@@ -560,7 +560,7 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 > [!info]+ **Light in the Maze**
 > Except in [[#T3k. Baba Lysaga’s Hut]], no natural or artificial light illuminates the interior of the hedge maze, leaving all rooms in darkness unless illuminated by the players.
 ## T3b. Northern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -568,7 +568,7 @@ Three ten-foot-wide passages lead from this chamber:
 * One along the southeast wall, which leads to [[#T3d. Town Green]]
 * One to the southwest, which leads to [[#T3e. Churchyard]]
 ## T3c. Southern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U1AbandonedCottages">U1. Abandoned Cottages</a> (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 ## T3d. Town Green
 When the players enter this area, read:
 
@@ -603,7 +603,7 @@ Two ten-foot-wide passages lead from this chamber:
 * One to the northwest, which leads to [[#T3b. Northern Cottages]]
 * One to the southeast, which leads to [[#T3c. Southern Cottages]]
 ## T3e. Churchyard
-This area is largely as described in <span class="citation">U4. Churchyard</span>. However, add the following to the end of this area’s description:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U4Churchyard">U4. Churchyard</a></span>. However, add the following to the end of this area’s description:
 
 <div class="description">
 <p>Three flickering lights bob between the graves.</p>
@@ -619,7 +619,7 @@ Three ten-foot-wide passages lead from this chamber:
 * One to the south, which leads to [[#T3g. Manor Cellar]]
 * One to the southwest, which leads to [[#T3f. Marina’s Monument]]. (A faint golden glow emanates from this passage.)
 ## T3f. Marina’s Monument
-This area is largely as described in <span class="citation">U5. Marina’s Monument (p. 164)</span>. However, modify this area’s description as follows:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U5MarinasMonument">U5. Marina’s Monument</a> (p. 164)</span>. However, modify this area’s description as follows:
 
 <div class="description">
 <p>Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a stone monument.</p>
@@ -633,7 +633,7 @@ The golden figure is the spirit of Sergei von Zarovich (use the statistics of a 
 >
 > Sergei fears what Strahd has become—but, more importantly, loathes himself for his failure to see the darkness growing in Strahd’s heart, as well as his own failure to protect Tatyana from Strahd’s assault. He blames himself for Strahd’s fall from grace and for Tatyana’s death at Strahd’s hands; had he not taunted Strahd with their romance, or even departed his position as Moste High Priest of the Morninglord’s Church, Sergei believes, all this tragedy may have been avoided.
 >
-> When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Burgomaster Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
+> When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Burgomaster Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez">Chapter 10: The Ruins of Berez</a> (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
 >
 > Today, Sergei generally conceals himself near the border of the Deep Ethereal, so as to avoid the watchful eyes of Strahd’s **nightmare** and ghostly servants. However, he occasionally dares to visit Marina’s Monument, where he pays his respects to the woman he failed to save, and the woman his actions condemned. Sergei dreads the day that he might encounter Tatyana’s soul again—and hopes fervently that day will never come.
 ### Sergei’s Surprise
@@ -685,7 +685,7 @@ Upon returning to the Material Plane, Sergei is willing to share the following i
 * He is Sergei von Zarovich, the younger brother of Strahd von Zarovich.
 * The monument, which is called Marina’s Monument, was erected by Strahd three-and-a-half centuries ago, shortly after the destruction of Berez in a terrible flood. 
 * Strahd raised the monument to honor the memory of a woman named Marina Ulrich, the daughter of the local burgomaster. 
-* Marina was slain by her father, Burgomaster Lazlo Ulrich, and a priest of the Morninglord called Brother Grigor, as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
+* Marina was slain by her father, Burgomaster Lazlo Ulrich, and a priest of the Morninglord called Brother Grigor, as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez">Chapter 10: The Ruins of Berez</a> (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
 
 The players can convince Sergei to elaborate on his role in Marina’s death by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players point out that he clearly feels guilty for her death. The check succeeds automatically if Ireena assists the players in doing so. On a success, a miserable Sergei can share the following additional information:
 
@@ -705,7 +705,7 @@ If the players ask Sergei how he could have killed Marina “again," mention Tat
 * When their courtship began, Tatyana visited Sergei in Castle Ravenloft near-daily, often spending nights—if not weeks—in the castle’s bright halls. Each time she did, Strahd welcomed her fondly, and Tatyana came to greet him warmly as well. (“Each time he saw her, I recognized the lust in his eyes," Sergei confesses, “yet I denied it to myself, unwilling to accept the darkness I saw in his heart. My denial only grew, even as that lust grew to envy, nurturing the monster that stirred in his chest.")
 * Sergei’s dalliances with Tatyana soon began to impede his duties as Moste High Priest to the Morninglord’s church. Not long after, Strahd gave him an ultimatum: end his relationship with Tatyana, or abdicate his position as Moste High Priest. (“I imagine he expected me to choose the former," Sergei muses. “He had never known anything but duty, and the Morninglord’s church had always been mine. But I chose Tatyana—when she agreed to marry me, I forswore my vows, for no light of the Morninglord could shine brighter than hers.")
 * Preparations for the royal wedding proceeded furiously over the next several months—until, finally, on his wedding day, Sergei stood in his castle chambers and prepared himself to become a married man. When a knock came at the door, Sergei went to answer it—and Strahd fell upon him with a dagger, slitting Sergei’s throat and drinking his blood as he died. (“He whispered three words to me as I died," Sergei recalls: “*She. Is. Mine.*")
-* Sergei’s spirit, terrified for Tatyana’s safety, rose as a ghost soon thereafter—but arrived too late to stop Strahd from chasing her to <span class="citation">K6. Overlook (p. 54)</span>. There, Sergei watched with horror as Tatyana leapt from the balcony to escape Strahd’s bloody clutches—falling to her death in the mists far below. (“At each step," Sergei says hollowly, “I failed to save her. I failed to see the darkness growing in my brother’s soul. I failed to choose duty over love. I failed to stop my own death. And when she needed me most, I failed to save my beloved from hers.")
+* Sergei’s spirit, terrified for Tatyana’s safety, rose as a ghost soon thereafter—but arrived too late to stop Strahd from chasing her to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K6Overlook">K6. Overlook</a> (p. 54)</span>. There, Sergei watched with horror as Tatyana leapt from the balcony to escape Strahd’s bloody clutches—falling to her death in the mists far below. (“At each step," Sergei says hollowly, “I failed to save her. I failed to see the darkness growing in my brother’s soul. I failed to choose duty over love. I failed to stop my own death. And when she needed me most, I failed to save my beloved from hers.")
 
 If prompted to continue, Sergei can also share the following information:
 
@@ -819,14 +819,14 @@ The dolls attack if the players approach them or otherwise pass the midpoint of 
 
 A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
 ## T3h. Goat Pen
-This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
 Two ten-foot-wide passages lead from this chamber, whose walls are flush with the edges of the goat pen:
 
 * One to the east, which leads to [[#T3c. Southern Cottages]]
 * One to the southwest, which leads to [[#T3i. Garden]]
 ## T3i. Garden
-This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion">U2. Ulrich Mansion</a> (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -859,7 +859,7 @@ In addition, when the players first move across the mansion, the **ghost** of Bu
 >
 > To kill Marina, Lazlo first recruited Brother Grigor’s aid to drug her, using the poison _essence of ether_. Lazlo then slit Marina’s throat, draining the blood from her neck so that Strahd could no longer feed upon her. He disposed of her blood in the Luna River—the very river that drowned his village mere hours later.
 >
-> When Lazlo died as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, he did so with a single twisted regret: that he would never know whether Marina appreciated what he had done for her. Since then, his ghost has haunted the ruins of Ulrich Manor, hoping that her spirit will one day return and forgive him his crimes against her—for, as Lazlo fervently believes, his actions were for Marina’s own good. 
+> When Lazlo died as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez">Chapter 10: The Ruins of Berez</a> (p. 161)</span>, he did so with a single twisted regret: that he would never know whether Marina appreciated what he had done for her. Since then, his ghost has haunted the ruins of Ulrich Manor, hoping that her spirit will one day return and forgive him his crimes against her—for, as Lazlo fervently believes, his actions were for Marina’s own good. 
 
 > [!info]+ **What Lazlo Wants**
 > Lazlo wants most to resolve his unfinished business: to reunite with Marina and obtain her forgiveness. Baba Lysaga, hoping to use him as a weapon against the players, has told him that Marina’s soul dwells within Ireena Kolyana—and that only through Ireena’s death can Marina be reunited with him. 
@@ -902,7 +902,7 @@ Lazlo can share the following information with the players if asked:
 > * In his dreams, a man resembling Strahd von Zarovich visited him and warned him that the Count had preyed upon Marina in the night and drank her blood.
 > * The following day, after seeing the marks upon Marina’s neck with his own eyes, Lazlo considered taking her away from Berez—but when he saw Strahd and Marina’s images in a cloud of fog, he knew it to be a sign that wherever she might go, the Count would follow.
 > * Lazlo resolved to take Marina’s life himself, so that she would neither suffer nor lose her soul to damnation as Strahd’s vampiric thrall. He recruited the aid of Brother Grigor, a monk of the Morninglord, who brewed him a dose of _essence of ether_ and slipped it into Marina’s tea. (“When she fell asleep," Lazlo says, his hands curling into fists, “I did what had to be done.")
-> * That night, Strahd returned to Berez—then responded to Marina’s death as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (“I do not know how he commanded the river’s banks to rise," Lazlo rumbles. “But if he held such power over the land, I do not doubt that he could have done far worse to Marina, had I allowed him to.")
+> * That night, Strahd returned to Berez—then responded to Marina’s death as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez">Chapter 10: The Ruins of Berez</a> (p. 161)</span>. (“I do not know how he commanded the river’s banks to rise," Lazlo rumbles. “But if he held such power over the land, I do not doubt that he could have done far worse to Marina, had I allowed him to.")
 
 Lazlo will not allow the players to pass through the mansion unless they agree to leave Ireena with him, so that he may help her “escape her shell" and reunite with him. (If confronted, Lazlo freely admits that he intends to kill Ireena, who he insists is “only a vessel" for his daughter’s soul. “Do you not see?" he asks sadly, his eyes haunted and mad. “She withers and suffers within this false flesh. I freed her once—must I not free her again?")
 
@@ -928,7 +928,7 @@ The candelabra, bookstand, and stone bust each have the statistics of an **anima
 
 If the players continue to defy Lazlo, or attack him, he and the animated objects attack.
 ## T3k. Baba Lysaga’s Hut
-This area is largely as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>. However, if more than 10 minutes have passed since Baba Lysaga’s _programmed illusion_ activated in [[#T3a. Berez Outskirts]], revise this area’s description as follows:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U3BabaLysagasHut">U3. Baba Lysaga’s Hut</a> (p. 163)</span>. However, if more than 10 minutes have passed since Baba Lysaga’s _programmed illusion_ activated in [[#T3a. Berez Outskirts]], revise this area’s description as follows:
 
 <div class="description">
 <p>A small, grassy hill rises from the mire here. A ramshackle wooden hut rests on a stump atop the hill. The stump’s rotting roots thrust down toward the mire, like the legs of a gigantic spider.</p>
@@ -970,7 +970,7 @@ Each creature within the hut must immediately succeed on a DC 20 Dexterity savin
 Baba Lysaga then attacks.
 
 > [!info]+ **The Ravens**
-> Each cage is locked as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>, with the password: “Death to Ravenovia." In addition to the **swarms of ravens**, each cage contains the following prisoners:
+> Each cage is locked as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U3BabaLysagasHut">U3. Baba Lysaga’s Hut</a> (p. 163)</span>, with the password: “Death to Ravenovia." In addition to the **swarms of ravens**, each cage contains the following prisoners:
 >
 > * Left Cage: Adrian, Dag, Stefania, Davian, and Elvir Martikov (in raven form)
 > * Right Cage: Martin and Viggo Martikov (in raven form); Yolanda Martikov (polymorphed into a **raven**).
@@ -1026,7 +1026,7 @@ Baba Lysaga then attacks.
 <hr>
 <p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
 <p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
-<p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>.</p>
+<p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U3BabaLysagasHut">U3. Baba Lysaga’s Hut</a> (p. 163)</span>.</p>
 <p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Baba Lysaga uses Hair Blade twice, or uses Spellcasting to cast <em>acid splash</em> twice.</p>
@@ -1148,7 +1148,7 @@ Baba Lysaga then attacks.
 <hr>
 <p><strong><em>Immutable Form.</em></strong> The hut is immune to any spell or effect that would alter its form.</p>
 <p><strong><em>Siege Monster.</em></strong> The hut deals double damage to objects and structures.</p>
-<p><strong><em>Stolen Gem.</em></strong> The hut is animated by a magic gem shaped like a viridian pinecone embedded in the stump beneath its floorboards, held in place by a black root (AC 15, 10 hit points, vulnerability to fire damage, and immunity to poison and psychic damage). A player who removes the hut’s floorboards as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span> exposes the gem, and can remove the gem by destroying the root or succeeding on a DC 15 Strength check. The hut dies if the gem is removed.</p>
+<p><strong><em>Stolen Gem.</em></strong> The hut is animated by a magic gem shaped like a viridian pinecone embedded in the stump beneath its floorboards, held in place by a black root (AC 15, 10 hit points, vulnerability to fire damage, and immunity to poison and psychic damage). A player who removes the hut’s floorboards as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U3BabaLysagasHut">U3. Baba Lysaga’s Hut</a> (p. 163)</span> exposes the gem, and can remove the gem by destroying the root or succeeding on a DC 15 Strength check. The hut dies if the gem is removed.</p>
 <h3>Actions</h3>
 <p><strong><em>Root.</em></strong> Melee Weapon Attack: +12 to hit, reach 20 ft., one target. Hit: <span class="highlight">24 (3d10 + 8)</span> bludgeoning damage, and the target must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">knocked prone</span> or <span class="highlight">pushed up to 10 feet</span> away. If the save fails by 10 or more, the hut can <span class="highlight">grapple</span> the target instead of pushing it or knocking it prone (escape DC 20).</p>
 <p><strong><em>Throw.</em></strong> A creature grappled by the hut must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">thrown 60 feet</span> away. A creature thrown in this way falls twenty feet and lands <span class="highlight">prone</span>.</p>
@@ -1184,7 +1184,7 @@ The players can convince Davian and Urwin to reconcile as follows.
 * **Davian.** To convince Davian, the players must make a reasonable argument that (a) Urwin wasn’t to blame for the gem’s theft, or (b) their feud has hurt them and their family more than the gem’s theft itself. The players can automatically convince Davian that Urwin wasn’t to blame for the gem’s theft by showing him the Seeker’s ash-green gem from [[#T1d. The Roc’s Nest]], and explaining the Roc and Seeker’s roles in stealing it.
 * **Urwin.** To convince Urwin, the players must either (a) convince Davian to apologize to him for blaming him for the gem’s theft, or (b) make a reasonable argument that Davian is worth reconciling with.
 ## T3mj. The Swamp Fane
-As the players approach <span class="citation">U6. Standing Stones (p. 165)</span>, read:
+As the players approach <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U6StandingStones">U6. Standing Stones</a> (p. 165)</span>, read:
 
 <div class="description">
 <p>A circle of stout, smooth megaliths stands amidst thick mud at the center of a copse of gnarled trees not far from the river's edge. The trees and standing stones are choked with a thick shroud of bluish-white webs, whose thick cords seem to shimmer with an ethereal quality.</p>
@@ -1225,7 +1225,7 @@ A player can claim their *boon of the Weaver* by grasping or touching it. If the
 ***Milestone.*** Reconsecrating the Swamp Fane completes a story milestone. When the players claim the *boon of the Weaver*, award each player 5,500 XP.
 # T4. The Monster Hunter
 ## T4a. The Luna River Crossroads
-When the players first return to <span class="citation">P. Luna River Crossroads (p. 40)</span> after completing [[Arc S - A Sword of Sunlight]], read:
+When the players first return to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#PLunaRiverCrossroads">P. Luna River Crossroads</a> (p. 40)</span> after completing [[Arc S - A Sword of Sunlight]], read:
 
 <div class="description">
 <p>The southwestern bushes rustle, and a cloaked and hooded figure steps forth from the underbrush. They raise a hand, gesturing for you to approach.</p>
@@ -1236,9 +1236,9 @@ The cloaked figure is the Vistani **bandit** Alexei, sent by Luvash to bring the
 If the players follow him into the trees, they can discern his features: a young man with close-cropped, chestnut-brown hair and the barest beginnings of a beard growing across his cheeks. Players who previously encountered him in [[Arc E - The Missing Vistana]] recognize him as Alexei.
 
 > [!lore]+ **The Vistani Guest**
-> Two days ago, Strahd von Zarovich learned from a Vistani spy of the connection between Arturi Radanavich and Dr. Rudolph van Richten. Reasoning that Arturi’s unique curse may be connected to Van Richten—who Strahd hopes to use as a sacrifice in the Grand Conjunction’s ritual—Strahd “invited" Arturi to Castle Ravenloft, where he delivered him into the care of a platoon of surviving castle **wights**. Arturi was made a mandatory guest in <span class="citation">K32. Maid in Hell (p. 64)</span>, imprisoned so that Strahd could study his curse in greater detail.
+> Two days ago, Strahd von Zarovich learned from a Vistani spy of the connection between Arturi Radanavich and Dr. Rudolph van Richten. Reasoning that Arturi’s unique curse may be connected to Van Richten—who Strahd hopes to use as a sacrifice in the Grand Conjunction’s ritual—Strahd “invited" Arturi to Castle Ravenloft, where he delivered him into the care of a platoon of surviving castle **wights**. Arturi was made a mandatory guest in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K32MaidinHell">K32. Maid in Hell</a> (p. 64)</span>, imprisoned so that Strahd could study his curse in greater detail.
 >
-> Last night, Arturi staged a daring escape, barely escaping with his life through the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. Upon his arrival at <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, Arturi swiftly made his way to <span class="citation">N9. Vistani Camp (p. 119)</span>, where he sought refuge with the Vallakian Vistani. Since then, Luvash and Arrigal have concealed Arturi within <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, tended to his wounds, and sent covert messengers to <span class="citation">P. Luna River Crossroads (p. 40)</span> in the hopes of securing the players’ aid.
+> Last night, Arturi staged a daring escape, barely escaping with his life through the teleportation brazier in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K78BrazierRoom">K78. Brazier Room</a> (p. 82)</span>. Upon his arrival at <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower">Chapter 11: Van Richten’s Tower</a> (p. 167)</span>, Arturi swiftly made his way to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp">N9. Vistani Camp</a> (p. 119)</span>, where he sought refuge with the Vallakian Vistani. Since then, Luvash and Arrigal have concealed Arturi within <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon">N9i. Vistani Treasure Wagon</a> (p. 123)</span>, tended to his wounds, and sent covert messengers to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#PLunaRiverCrossroads">P. Luna River Crossroads</a> (p. 40)</span> in the hopes of securing the players’ aid.
 >
 > Arturi knows he can’t stay at the Vistani encampment past nightfall, knowing that his curse will inevitably lure a horde of undead to kill the innocents that dwell there. Arturi, however, fears that Strahd will soon use his *scrying* materials to track him down—and, using Arturi’s cursed connection to Van Richten, track down and capture the doctor as well. With Van Richten dead or turned, Arturi fears that there may be no way to lift his curse, leaving him hunted by undead for the remainder of his life.
 
@@ -1249,18 +1249,18 @@ Alexei, who refuses to lower his hood and constantly glances at his surroundings
 
 If the players ask Alexei the reason for his fear, he laughs nervously, then mumbles that he’s heard the “Lord of Castle Ravenloft" is hunting them, and that any who provide them shelter will suffer alongside them. (Alexei can confirm that this is why Luvash ordered him to deliver this message covertly.)
 
-If the players express an interest in meeting Luvash’s “guest," Alexei directs the players to speak with Luvash in <span class="citation">N9c. Vistani Tent (p. 121)</span>. 
+If the players express an interest in meeting Luvash’s “guest," Alexei directs the players to speak with Luvash in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9cVistaniTent">N9c. Vistani Tent</a> (p. 121)</span>. 
 
 Before departing, Alexei warns the players not to approach the Vistani camp openly, and to conceal their presence from any watchful spies. “I cannot return with you," he says, his voice trembling. “If our people are seen with you, it could mean calamity for us—or worse." Alexei then turns and vanishes into the Svalich Wood, making his way back to the Vistani camp by another way.
 ## T4b. The Vistani Encampment
-<span class="citation">N9. Vistani Camp (p. 199)</span> is largely as described in [[Arc E - The Missing Vistana]]. However, if the players approach openly or are otherwise recognized, read:
+<span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp">N9. Vistani Camp</a> (p. 199)</span> is largely as described in [[Arc E - The Missing Vistana]]. However, if the players approach openly or are otherwise recognized, read:
 
 <div class="description">
 <p>Each Vistani that sees your face flinches. Several faces watch fearfully from wagon windows, while parents usher their children away at your approach.</p>
 </div>
 
 ### Escher’s Inquiry
-When the players enter <span class="citation">N9c. Vistani Tent (p. 121)</span>, read:
+When the players enter <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9cVistaniTent">N9c. Vistani Tent</a> (p. 121)</span>, read:
 
 <div class="description">
 <p>A familiar broad-shouldered man with a thick beard and sideburns sits atop a tall wooden crate on the far side of the tent. His chin rests upon his fist, his thick brow furrowed, with a dark frown across his face. A slender man with a pointed goatee stands beside him, his face stony.</p>
@@ -1289,9 +1289,9 @@ If the players reveal their identities and confront him, Escher stumbles from th
 Escher fears Strahd more than he fears the players. If the players attempt to intimidate or attack him, Escher commands his two **vampire spawn** to attack, then retreats out of the players’ reach. If the players defeat his two vampire spawn, reduce him to 41 hit points or fewer, or ignite the *Sunsword*, Escher uses his ***shapechange*** to assume the form of a bat, then flees for Castle Ravenloft to the east. (If unable to do so because he’s in the sunlight created by the *Sunsword*, Escher flees first on foot instead, sobbing in terror and pain.)
 
 > [!abstract]+ **Hiding Arturi**
-> Players who depart the tent alone in search of Arturi can attempt to convince a nearby Vistani to show them Arturi’s hiding place by succeeding on a DC 12 Charisma (Persuasion) check. On a success, the Vistani silently points them toward <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>.
+> Players who depart the tent alone in search of Arturi can attempt to convince a nearby Vistani to show them Arturi’s hiding place by succeeding on a DC 12 Charisma (Persuasion) check. On a success, the Vistani silently points them toward <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon">N9i. Vistani Treasure Wagon</a> (p. 123)</span>.
 >
-> If the players enter <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, read:
+> If the players enter <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon">N9i. Vistani Treasure Wagon</a> (p. 123)</span>, read:
 >
 > ---
 >
@@ -1315,7 +1315,7 @@ Once Escher has been dispatched or driven away, or otherwise departed, Luvash an
 
 Luvash and Arrigal won’t share information regarding Arturi’s presence in the open. Instead, when the players have answered his questions to his satisfaction, Arrigal conceals himself beneath his hooded cloak and instructs the players to do the same, so that he may lead them to their “guest." “He has asked for you anxiously since he arrived," Arrigal says quietly. “I know not why the Count seeks him, but he seems to believe you may hold the key to his freedom."
 
-Arrigal guides the players to <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>. After carefully checking that he is not being watched, Arrigal carefully unlocks the door to the wagon and gestures for the players to enter. He then swiftly departs.
+Arrigal guides the players to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon">N9i. Vistani Treasure Wagon</a> (p. 123)</span>. After carefully checking that he is not being watched, Arrigal carefully unlocks the door to the wagon and gestures for the players to enter. He then swiftly departs.
 
 If the players enter the treasure wagon, read:
 
@@ -1713,7 +1713,7 @@ Van Richten is eternally grateful to the players for reuniting him and Erasmus, 
 > [!abstract]+ **Erasmus’s Unfinished Business**
 > If asked why his ghost persists, Erasmus shares that—beyond his entrapment in Barovia’s mists—he feels he cannot depart his father’s side until Van Richten has resolved his own unfinished business. “He has one more battle to fight," Erasmus says softly. “I need to be there by his side when he does."
 ## T4d. The Forest Fane
-The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. This area is largely as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/yester-hill#Y4GulthiasTree">Y4. Gulthias Tree</a> (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
 
 <div class="description">
 <p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. Each megalith bears a carving of a different animal. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
@@ -1770,29 +1770,29 @@ A player can claim their *boon of the Huntress* by grasping or touching it. If t
 ***Milestone.*** Reconsecrating the Forest Fane completes a story milestone. When the players claim the *boon of the Huntress*, award each player 5,500 XP.
 # T5. A Light in the Dark
 > [!info]+ **Where’s Lucian?**
-> After arresting Father Lucian at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation">N4t. Cult Headquarters (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. The Ritual]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep Lucian alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
+> After arresting Father Lucian at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4tCultHeadquarters">N4t. Cult Headquarters</a> (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. The Ritual]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep Lucian alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
 
 > [!info]+ **The Bats**
-> Strahd sent six **swarms of bats** to Wachterhaus to help his emissary corral Lady Wachter and instill fear into Vallaki’s people. Those bats sleep on the ceiling of the warehouse of <span class="citation">N5. Arasek Stockyard (p. 115)</span> during the day, and fill the skies over Vallaki at night.
+> Strahd sent six **swarms of bats** to Wachterhaus to help his emissary corral Lady Wachter and instill fear into Vallaki’s people. Those bats sleep on the ceiling of the warehouse of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard">N5. Arasek Stockyard</a> (p. 115)</span> during the day, and fill the skies over Vallaki at night.
 ## T5a. Lady Wachter’s Dilemma
 ### Arrival at Wachterhaus
-If the players visit Wachterhaus after completing [[Arc S - A Sword of Sunlight]], they are answered at the door by Haliq, Lady Wachter’s manservant. Haliq is joined by a pair of white cats from <span class="citation">N4p. Library (p. 113)</span>, who he hurriedly attempts to block from escaping through the front door. (The cats respond to Haliq and the players as described in <span class="citation">N4p. Library (p. 113)</span>.)
+If the players visit Wachterhaus after completing [[Arc S - A Sword of Sunlight]], they are answered at the door by Haliq, Lady Wachter’s manservant. Haliq is joined by a pair of white cats from <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary">N4p. Library</a> (p. 113)</span>, who he hurriedly attempts to block from escaping through the front door. (The cats respond to Haliq and the players as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary">N4p. Library</a> (p. 113)</span>.)
 
 > [!info]+ **The Cats**
-> Strahd’s emissary has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, forcing Lady Wachter to allow her eight cats free reign of Wachterhaus. As a result, much of Haliq’s time over the past few days has been dominated by preventing the cats from damaging furniture, escaping the house, or otherwise causing trouble, leaving him several scratches along his face and arms to show for it.
+> Strahd’s emissary has taken up residence in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary">N4p. Library</a> (p. 113)</span>, forcing Lady Wachter to allow her eight cats free reign of Wachterhaus. As a result, much of Haliq’s time over the past few days has been dominated by preventing the cats from damaging furniture, escaping the house, or otherwise causing trouble, leaving him several scratches along his face and arms to show for it.
 
 If he recognizes the players, Haliq is visibly uncomfortable at their presence and insists that Lady Wachter is unavailable. If asked the reason for his discomfort, Haliq merely claims that he has been “very busy" aiding Lady Wachter in her duties as Burgomaster, and that he has little time to entertain guests.
 
 The players can convince Haliq to allow them entry or share what he knows by succeeding on a DC 20 Charisma (Persuasion or Intimidation) check. On a failure, Haliq bids them “good day" and attempts to close the door on them. On a success, Haliq can share the following information in hushed, fearful tones if asked:
 
-* Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, with their coffin placed in <span class="citation">N4q. Storage Room (p. 114)</span>. (Haliq can share the emissary’s name if asked.)
+* Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary">N4p. Library</a> (p. 113)</span>, with their coffin placed in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4qStorageRoom">N4q. Storage Room</a> (p. 114)</span>. (Haliq can share the emissary’s name if asked.)
 * Shortly after the emissary’s arrival, Lady Wachter began issuing strange, severe edicts—including a prohibition on the players’ entry into Vallaki or Wachterhaus. Haliq doesn’t know why she’s done so, and Lady Wachter won’t tell him.
 * The night of the emissary’s arrival, Karl, Nikolai, and Stella disappeared from Wachterhaus. Lady Wachter won’t tell him where they’ve gone. 
 * Haliq has served Lady Wachter for the past seventeen years. “In that time," Haliq says mournfully, “I have come to know my lady well. Right now, I know that she is greatly distressed—yet she will not even confide in me."
 
-Once persuaded or intimidated, Haliq can lead the players to Lady Wachter in <span class="citation">N4k. Den (p. 112)</span>.
+Once persuaded or intimidated, Haliq can lead the players to Lady Wachter in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4kDen">N4k. Den</a> (p. 112)</span>.
 ### Meeting Lady Wachter
-When the players first enter Wachterhaus after completing [[Arc S - A Sword of Sunlight]], Lady Wachter is in <span class="citation">N4k. Den (p. 112)</span> communing with the goddess Ezra. If the players enter this area while Lady Wachter is communing, revise the final sentence of this area’s description to read as follows:
+When the players first enter Wachterhaus after completing [[Arc S - A Sword of Sunlight]], Lady Wachter is in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4kDen">N4k. Den</a> (p. 112)</span> communing with the goddess Ezra. If the players enter this area while Lady Wachter is communing, revise the final sentence of this area’s description to read as follows:
 
 <div class="description">
 <p>Across from the hearth, curtains have been drawn across this room’s tall, slender windows, plunging it into a quiet, shadowed darkness. Thirteen candles flicker in a line across the base of the cold hearth, which is filled not by flames, but a thick cloud of mist. The mist flows outward from the hearth, forming a shallow carpet of low, drifting grey that covers the floor around it.</p>
@@ -1819,7 +1819,7 @@ If Lady Wachter becomes aware of the players’ presence, she pales and coldly c
 The players can calm Lady Wachter by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they invoke their friendship with her, and succeeding automatically if they ignite the *Sunsword* or make any other reasonable argument. If calmed, or if the players confront her or ask where her children are, Lady Wachter can share or confirm the following information, respectively:
 
 * She was communing with Ezra, the Goddess of the Mists.
-* Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, with their coffin placed in <span class="citation">N4q. Storage Room (p. 114)</span>. (Lady Wachter can share the emissary’s name if asked.)
+* Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary">N4p. Library</a> (p. 113)</span>, with their coffin placed in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4qStorageRoom">N4q. Storage Room</a> (p. 114)</span>. (Lady Wachter can share the emissary’s name if asked.)
 * That night, Lady Wachter’s children vanished from Wachterhaus. When Lady Wachter confronted the emissary the following morning, the emissary informed her that her children were “in a safe place"—and would remain so during her “good behavior." 
 * Lady Wachter doesn’t know where her children have gone. Although she sent Ernst Larnak to investigate their disappearance as soon as Strahd’s emissary retired to her coffin, the emissary returned Ernst’s corpse to her the following morning—accompanied by Nikolai’s severed ear—and warned her against “meddling in Ravenloft’s affairs." 
 * Lady Wachter knows that her children are now hostages. Accordingly, each time the emissary has provided her a new edict to issue, Lady Wachter has done so obediently, fearful that disobedience will lead to her children’s deaths—or worse. (“He has my sons," Lady Wachter says, her voice cracking as she puts her head in her hands. “He has my *daughter*.")
@@ -1852,7 +1852,7 @@ The first time Lady Wachter sees the *Sunsword*, read:
 > * **The Morninglord.** Rays of sunlight, reminiscent of the dawn.
 > * **The Ladies Three.** A dire wolf, a giant spider, and a giant raven.
 ## T5b. Lady Wachter’s Vizier
-During daylight hours, Castle Ravenloft’s emissary sleeps in a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. During nighttime hours, the emissary murmurs directions and listens to reports from the six **swarms of bats** that haunt Vallaki’s nighttime skies.
+During daylight hours, Castle Ravenloft’s emissary sleeps in a coffin in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4qStorageRoom">N4q. Storage Room</a> (p. 114)</span>. During nighttime hours, the emissary murmurs directions and listens to reports from the six **swarms of bats** that haunt Vallaki’s nighttime skies.
 
 If confronted, Strahd’s emissary hisses that Lady Wachter and the players have made a “grave mistake," and attacks. If bloodied, or if caught in the light of the *Sunsword*, the emissary instead attempts to flee Wachterhaus for [[#T5c. Arasek Stockyard]].
 
@@ -1860,7 +1860,7 @@ If the players capture the emissary, they can convince her to share the hostages
 
 * Suspecting Lady Wachter’s sympathies might lie with the players, Strahd ordered the emissary to take command in Vallaki and “sow discord and fear" throughout the populace.
 * The emissary did so by taking Lady Wachter’s children hostage, whom she lured out of Wachterhaus using a potion brewed by the witch coven of Castle Ravenloft, which she fed to them while they slept.
-* Lady Wachter’s children are being kept in the back office of the warehouse at <span class="citation">N5. Arasek Stockyard (p. 115)</span>, guarded by two **vampire spawn** and Strahd’s six **swarms of bats**. (A player who succeeds on a DC 12 Wisdom (Insight) check discerns that this is a half-truth. If pressed, the emissary confesses that the warehouse is guarded by three **vampire spawn** and two sleepless **wights**.)
+* Lady Wachter’s children are being kept in the back office of the warehouse at <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard">N5. Arasek Stockyard</a> (p. 115)</span>, guarded by two **vampire spawn** and Strahd’s six **swarms of bats**. (A player who succeeds on a DC 12 Wisdom (Insight) check discerns that this is a half-truth. If pressed, the emissary confesses that the warehouse is guarded by three **vampire spawn** and two sleepless **wights**.)
 * The spawn have orders to kill Lady Wachter’s children if necessary to secure her compliance.
 
 If asked, the emissary denies trapping the warehouse. However, a player who succeeds on a DC 12 Wisdom (Insight) check discerns that this is a lie. If pressed, the emissary angrily confesses that the two doors into the warehouse have been trapped with bells, alerting the vampire spawn and wights when opened.
@@ -1870,7 +1870,7 @@ A player who succeeds on a DC 12 Wisdom (Insight) check discerns that the emissa
 * The vampire spawn and wights have dug pit traps just past both doors leading into the warehouse.
 * The warehouse office’s door is trapped with tripwires; if triggered, the tripwires activate snare traps tied to the warehouse’s central pulley mechanism.
 ## T5c. Arasek Stockyard
-This area is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. The stockyard’s warehouse, which is forty feet long, sixty feet wide, and twenty feet tall, stands directly to the left of <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>. It has the following features:
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard">N5. Arasek Stockyard</a> (p. 115)</span>. The stockyard’s warehouse, which is forty feet long, sixty feet wide, and twenty feet tall, stands directly to the left of <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6CoffinMakersShop">N6. Coffin Maker’s Shop</a> (p. 116)</span>. It has the following features:
 
 * **Front Doors.** A set of tall double wooden doors at the front. An iron chain (AC 19, 10 hit points, and immunity to poison, psychic, and piercing damage) is tied and padlocked around the doors from the inside. In addition, wires tied to either door are connected to bells on the left and right side of the doors, which ring if the doors are opened. (A successful DC 10 Intelligence (Investigation) check reveals the bells, which can be disabled with a successful DC 12 Dexterity (Thieves’ Tools) check.)
 * **Back Door.** A single wooden door at the back. The door is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open. In addition, a wire tied to the door is connected to a bell just above the doors, which rings if the door is opened. (A successful DC 10 Intelligence (Investigation) check reveals the bell, which can be disabled with a successful DC 12 Dexterity (Thieves’ Tools) check.)
@@ -1895,7 +1895,7 @@ The bats and vampires awaken if the bell traps ring, if combat erupts, or if the
 
 If reunited with her children, Lady Wachter is deeply grateful to the players, and vows to repeal every edict Strahd’s emissary made her sign. “Vallaki is forever in your debt," she says, bowing deeply before them.
 ## T5d. The Mountain Fane
-As the players approach <span class="citation">The Megaliths (p. 128)</span>, read:
+As the players approach <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/old-bonegrinder#TheMegaliths">The Megaliths</a> (p. 128)</span>, read:
 
 <div class="description">
 <p>A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.</p>

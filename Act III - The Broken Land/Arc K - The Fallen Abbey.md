@@ -25,7 +25,7 @@ The players’ first journey to Krezk is as described in [[Arc I - The Walls of 
 > 
 > ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
+The village of Krezk is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S3VillageofKrezk">S3. Village of Krezk</a> (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#KrezkLore">Krezk Lore</a> (p. 146)</span>, but with the following changes:
 
 * Dmitri's sole two children are the thirteen-year-old Ilya and the eight-year-old Kala. Ilya recently went missing after a werewolf attack.
 * The Abbot doesn't demand tribute in the form of wine. Additionally, while many believe the Abbot is Strahd or one of Strahd's servants, Dmitri's late grandfather once spoke of a time when the Abbot was kind and compassionate, and cared for the sick and suffering of Barovia. (Dmitri isn't sure whether he believes this or not.)
@@ -332,9 +332,9 @@ Dmitri apologizes to the players for concealing this information from them, and 
 > 
 > Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
 # K2. The Abbey of Saint Markovia
-The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
+The road to the Abbey of Saint Markovia is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S5WindingRoad">S5. Winding Road</a> (p. 147)</span>. 
 ## K2a. Entering the Abbey
-The gate to the Abbey and its occupants are as described in <span class="citation">S6. North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+The gate to the Abbey and its occupants are as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S6NorthGate">S6. North Gate</a> (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
 
 > [!profile]+ **Profile: Otto & Zygfrek**
 > ***Roleplaying Information***
@@ -361,14 +361,14 @@ If told that the players are seeking a Vistana who’s staying at the Abbey, Zyg
 > [!info]+ **Where's Ezmerelda?**
 > In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the second day after the players' first full moon in Vallaki.
 
-After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach <span class="citation">S10. Abbey Entrance (p. 148)</span>. 
+After passing through the north gate, the players pass <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S7Graveyard">S7. Graveyard</a> (p. 148)</span> and approach <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S10AbbeyEntrance">S10. Abbey Entrance</a> (p. 148)</span>. 
 
-If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
+If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S17LoftandBelfry">S17. Loft and Belfry</a> (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
 
-Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation">S12. Courtyard (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
+Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S12Courtyard">S12. Courtyard</a> (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
 
 > [!lore]+ **The Belviews' Perfection**
-> When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation">The Abbot (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
+> When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#RoleplayingtheAbbot">The Abbot</a> (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
 > 
 > The Abbot, though able to cure ordinary illness, could not heal them of this condition. Frustrated, desperate, and reluctantly encouraged by the Belviews’ pleas, the Abbot searched for other means of doing so.
 > 
@@ -391,7 +391,7 @@ If the players appear disturbed or amused by the Belviews’ condition, Clovin a
 
 If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
 ## K2b. Main Hall
-This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+This area is largely as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S13MainHall">S13. Main Hall</a> (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
 
 > [!profile]+ **Profile: The Abbot**
 > **Roleplaying Information**
@@ -445,7 +445,7 @@ Finally, the Abbot can also share the following information about Saint Markovia
 > [!lore]+ **Who is the Abbot?**
 > The Abbot—in truth a **deva** named Ithuriel—was once an angelic emissary of the Morninglord. It was he who chose Markovia to be the Morninglord’s prophet, and he who guided the oracle Tasha Petrovna to find and sanctify her, bestowing upon Markovia the holy relic that would one day become the *Icon of Dawn's Grace*—a mark of office that contained a spark of the Abbot’s pure divinity. (It was on this occasion that the Abbot—by chance—first encountered Strahd von Zarovich, then a commanding officer in King Barov’s army.)
 > 
-> The Abbot, who first arrived in Krezk as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span> and <span class="citation">The Abbot (p. 225)</span>, came to the Abbey in memory of Saint Markovia, hoping to honor and restore the legacy of the woman he had once elevated. 
+> The Abbot, who first arrived in Krezk as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk">Chapter 8: The Village of Krezk</a> (p. 143)</span> and <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#RoleplayingtheAbbot">The Abbot</a> (p. 225)</span>, came to the Abbey in memory of Saint Markovia, hoping to honor and restore the legacy of the woman he had once elevated. 
 > 
 > However, the Dark Powers have corrupted his soul, subtly binding and tainting the Abbot’s divinity with chains and shrouds of spiritual mist. It was the Belviews who, through the Dark Powers’ quiet machinations, forged the first link in that chain—and Strahd who helped the Abbot fall from grace completely.
 > 
@@ -479,7 +479,7 @@ If the players accept, the Abbot asks Vasilka to introduce herself, which she do
 
 Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
 
-At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard (described in <span class="citation">S12d. Tethering Posts, p. 150</span>), escapes her post. Read:
+At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard (described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S12dTetheringPosts">S12d. Tethering Posts</a>, p. 150</span>), escapes her post. Read:
 
 <div class="description">
 <p>The terrible splintering of wood suddenly splits the air, followed immediately by the sound of rattling chains, beating, leathery wings, and an unintelligible scream of triumph. A moment later, a wide-eyed Clovin Belview bursts through the doors, his chest heaving as the cherubic head upon his shoulder wails with distress. "Marzena has escaped," he pants.</p>
@@ -523,7 +523,7 @@ As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot ap
 * Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
 * All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
 ## K2c. The East Wing
-The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
+The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S14Foyer">S14. Foyer</a> (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
 
 <div class="description">
 <p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>
@@ -532,13 +532,13 @@ The Abbot guides the players to the doorway of the foyer of the East Wing, which
 
 The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
 
-The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
+The golem leads the players past <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S15Madhouse">S15. Madhouse</a> (p. 151)</span> and up the stairs to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S20UpstairsOffice">S20. Upstairs Office</a> (p. 154)</span>. It then opens the door leading to <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S18CurtainWall">S18. Curtain Wall</a> (p. 154)</span> and silently points toward <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S19Barracks">S19. Barracks</a> (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
 
 If a player proffers Vasilka’s garland necklace to the golem, it regards it with little comprehension. If asked to lower its neck for the player to place the necklace around it, the golem does so without protest. If the players provide the golem with the necklace to hold, it can be seen wearing the necklace when the players next return to it.
 
 The door to the barracks is slightly ajar, and the sound of scratching chalk can be heard from the other side. As the players move to knock or enter, they can hear the sound of chalk breaking, followed by a muffled curse immediately after. (If the players knock, an annoyed woman’s voice invites them to come in a moment later.)
 ### Meeting Ezmerelda
-The barracks are largely described as in <span class="citation">S19. Barracks (p. 154)</span>. However, add the following to the end of this area’s description:
+The barracks are largely described as in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S19Barracks">S19. Barracks</a> (p. 154)</span>. However, add the following to the end of this area’s description:
 
 <div class="description">
 <p>At the center of the chamber, a ten-foot-square section purged of mold stands in stark contrast to the surrounding rot. An unrolled bedroll rests within this small island of cleanliness, accompanied by a worn backpack and a trio of sheathed weapons lying nearby.</p>
@@ -699,7 +699,7 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
  (A player who inspects the room using the *spirit mirror* sees Saint Markovia standing over Ezmerelda’s shoulder, wearing the clean, white robes of a priest with a golden mace in the shape of a sunburst sheathed upon her back.)
 
 > [!info]+ **Seances with the Tarokka Deck**
-> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/appendix-e-the-tarokka-deck">Appendix E: The Tarokka Deck</a> (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
 > 
 > If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
 > 
@@ -753,7 +753,7 @@ Immediately after the spirit answers the players’ tenth question, the players 
 > * **Guidance and Advice**: Avoid using party NPCs to provide direct solutions to puzzles, challenges, or strategic decisions. Although a party NPC might provide quiet commentary where a matter pertains to their expertise, they should offer clear hints or guidance only when directly asked, and the scope of their help should be relatively restricted.
 
 > [!info]+ **The Artifact**
-> The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
+> The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs">K84. Catacombs</a> (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
 
 ***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,000 XP.
 ##### The Eavesdroppers
@@ -772,7 +772,7 @@ The Belviews ask the players to find and speak with Cyrus upon visiting Castle R
 If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
 
 > [!info]+ **Clovin's Treasure**
-> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation"><a href="https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S17LoftandBelfry">S17. Loft and Belfry</a> (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
 > 
 > * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
 > * A set of wings animates for 1 minute, rather than 1 hour
