@@ -775,7 +775,7 @@ When a creature other than a blight, a **druid naturalist**, or a **druid assail
 
 The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, and a pouch containing 75 gp.
 ## J3e. The Second Floor
-The second floor of the winery is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>, <span class="citation">W16. Loading Winch (p. 178)</span>, <span class="citation">W17. Master Bedroom (p. 178)</span>, <span class="citation">W18. Kitchen and Dining Room (p. 179)</span>, <span class="citation">W19. Sleeping Quarters (p. 179)</span>, and <span class="citation">W20, Printing Press (p. 179)</span>. 
+The second floor of the winery is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>, <span class="citation">W16. Loading Winch (p. 178)</span>, <span class="citation">W17. Master Bedroom (p. 178)</span>, <span class="citation">W18. Kitchen and Dining Room (p. 179)</span>, <span class="citation">W19. Sleeping Quarters (p. 179)</span>, and <span class="citation">W20. Printing Press (p. 179)</span>. 
 
 However, the door leading from the balcony of <span class="citation">W9. Fermentation Vats (p. 176)</span> to <span class="citation">W16. Loading Winch (p. 178)</span> is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
 
@@ -1088,7 +1088,7 @@ The final stretch of the trail that leads to Yester Hill is as described in <spa
 
 When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
 
-The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
+The players can climb the trail straight to <span class="citation">Y3. Druids' Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
 
 > [!info]+ **The Swarms of Ravens**
 > The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
@@ -1399,7 +1399,7 @@ If the players ask Muriel to curse them with wereraven lycanthropy, she laughs s
 > [!warning]+ **Player Dreams**
 > Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
 
-This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
+This area takes the place of <span class="citation">Y5. Wall of Fog (p. 200)</span>. When the players first arrive, read:
 
 <div class="description">
 <p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>

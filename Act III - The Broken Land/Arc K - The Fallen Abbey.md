@@ -334,7 +334,7 @@ Dmitri apologizes to the players for concealing this information from them, and 
 # K2. The Abbey of Saint Markovia
 The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
 ## K2a. Entering the Abbey
-The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+The gate to the Abbey and its occupants are as described in <span class="citation">S6. North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
 
 > [!profile]+ **Profile: Otto & Zygfrek**
 > ***Roleplaying Information***

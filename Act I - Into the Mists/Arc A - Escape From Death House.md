@@ -519,7 +519,7 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 ### Children’s Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
 
-This room is largely as described in **Children’s Room** (p. 215-16).
+This room is largely as described in <span class="citation">Children’s Room (p. 215-16)</span>.
 
 ![[Rose and Thorn.png]]
 <span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -616,7 +616,7 @@ As the players descend the stairs, read:
 ### Family Crypts
 <span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
 
-These rooms are largely as described in **Family Crypts** (p. 217-18). 
+These rooms are largely as described in <span class="citation">Family Crypts (p. 217-18)</span>. 
 
 As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
 

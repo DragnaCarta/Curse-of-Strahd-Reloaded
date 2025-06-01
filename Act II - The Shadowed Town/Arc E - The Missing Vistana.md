@@ -86,7 +86,7 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Dolls, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
@@ -922,7 +922,7 @@ Arrigal is ignorant of Strahd’s bounty on Arabelle and truthfully shares this 
 
 As the conversation unfolds, Arrigal makes clear his belief that Van Richten has kidnapped Arabelle for nefarious purposes. Although Arabelle protests Arrigal's accusations, Arrigal replies, "Hush, girl—it is clear this man has deceived you. I cannot speak to what nefarious plans he had for you, but he has clearly preyed upon your naivete. You will return to camp with me at once."
 
-If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in <span>V7. Tower, Fourth Floor (p. 171)</span>. He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
+If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in <span class="citation">V7. Tower, Fourth Floor (p. 171)</span>. He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
 
 > [!item]+ **Talisman of Echoes**
 >

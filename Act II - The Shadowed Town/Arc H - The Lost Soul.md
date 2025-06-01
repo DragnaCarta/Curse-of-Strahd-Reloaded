@@ -20,7 +20,7 @@ Should the players successfully obtain a heartstone through assault or negotiati
 
 > [!lore]+ **The Fate of Stella Wachter**
 >
-> Three years ago, Victor found a spellbook in his father’s library, as described in **N3t. Victor’s Workroom** (p. 109). It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
+> Three years ago, Victor found a spellbook in his father’s library, as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>. It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
 > 
 > Six months ago, Victor met Stella Wachter, the youngest child of Lady Fiona Wachter, while skipping stones by Lake Zarovich. Stella and Victor were surprised to find that they shared a mutual interest in magic, myths, and philosophy. Despite their parents’ clear disapproval, the two became fast friends.
 > 
@@ -420,7 +420,7 @@ Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded 
 ![[The Three Hags.png]]
 <span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 ### Distracting Morgantha
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 6: Area O1.</em></span>
 
 If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
 
@@ -446,7 +446,7 @@ A player can ease Morgantha's paranoia by sharing a story of a beautiful dream t
 
 Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
 ### Morgantha Gets Suspicious
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 6: Area O1.</em></span>
 
 If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
 
@@ -1206,7 +1206,7 @@ The following morning, Victor also sends the players the following message with 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
-The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
+The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>).
 
 The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
 ## H9a. Reading the Tome

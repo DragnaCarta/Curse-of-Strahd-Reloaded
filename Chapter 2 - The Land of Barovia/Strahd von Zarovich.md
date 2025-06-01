@@ -17,7 +17,7 @@ In this role, Strahd most often feels disappointed, scornful, satisfied, amused,
 
 The Tyrant never strikes first—but will dare defiant players to back their words with action. Should a player back down, Strahd mocks their resolve and capabilities. Any players who attack him, though, are met with a swift and ruthless response—though never a lethal one.
 ## The Monster 
-When he first learns that the players have restored the blade of the *Sunsword* in ***Arc V: The Sunsword***, Strahd abandons all pretense and becomes the Monster—a cold, unfeeling sociopath, described further in **Roleplaying Strahd** (p. 10). His goal—to achieve his goals, no matter the cost.
+When he first learns that the players have restored the blade of the *Sunsword* in ***Arc V: The Sunsword***, Strahd abandons all pretense and becomes the Monster—a cold, unfeeling sociopath, described further in <span class="citation">Roleplaying Strahd (p. 10)</span>. His goal—to achieve his goals, no matter the cost.
 
 As the Monster, Strahd should disgust the players with his complete indifference to life and death, inspire pity for his inability to feel happiness or love, and frustrate the players with his refusal to ever lose his cool.
 
