@@ -1,3 +1,5 @@
+# Hotfix 2.1.0.2 (June 12, 2025)
+* Changed Strahd's dying words in [[Arc U - Dreams of Dawn]]
 # Hotfix 2.1.0.1 (May 30, 2025)
 * Fixed ravine battlemap not rendering in [[Arc C - Into the Valley]]
 # Update 2.1 (May 23, 2025)
