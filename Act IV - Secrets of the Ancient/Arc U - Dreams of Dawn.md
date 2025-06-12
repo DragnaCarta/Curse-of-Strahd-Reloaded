@@ -855,8 +855,8 @@ In his Vampire phase, Strahd prefers to fight on and around <span class="citatio
 When Strahd dies, read:
 
 <div class="description">
-<p>Strahd stiffens, then staggers back. A shudder seems to go through him, followed by a flash of surprise. Surprise turns to rage, and the keep trembles with fury, shaking dust from the ceiling until—finally—Strahd’s burning hatred melts away, replaced at last with relief.</p>
-<p>"It is strange," he whispers, “how the nothingness seems to go on forever."</p>
+<p>Strahd stiffens, then staggers back. A shudder seems to go through him, followed by a flash of surprise. Surprise turns to rage, and the keep trembles with fury, shaking dust from the ceiling.</p>
+<p>"I am the Ancient," he gasps. "I am the Land. I am—"</p>
 <p>The dark orbs of his eyes wither and sink into his skull as his corpse deteriorates before you, his limbs, then his torso, crumbling to ash. In a matter of moments, only bones, dust, and noble garb remain.</p>
 <p>Strahd von Zarovich, the dark lord of Barovia, is dead and gone.</p>
 </div>
