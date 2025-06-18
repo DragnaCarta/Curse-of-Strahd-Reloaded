@@ -427,6 +427,9 @@ When the wolves are defeated, an archway of swirling mist appears before the pla
 ## U3h. The Lonely Maid
 When the players emerge from [[#U3g. Attack on the Swamp Fane]], read:
 
+## U3h. The Lonely Maid
+When the players emerge from [[#U2g. Attack on the Swamp Fane]], read:
+
 <div class="description">
 <p>You pass through the arch—and emerge into a woodland clearing beneath a starry, night-time sky. In the distance, tents of wood and animal hide encircle a roaring bonfire. The bonfire’s light illuminates dozens of men, women, and children who sing, dance, and laugh beneath it.</p>
 <p>Not far away, a young woman sits atop a boulder half-tucked into the woods. She hugs her legs to her chest, her chin resting upon her knees. Her gaze seems fixed on the fire in the distance.</p>
@@ -855,8 +858,9 @@ In his Vampire phase, Strahd prefers to fight on and around <span class="citatio
 When Strahd dies, read:
 
 <div class="description">
-<p>Strahd stiffens, then staggers back. A shudder seems to go through him, followed by a flash of surprise. Surprise turns to rage, and the keep trembles with fury, shaking dust from the ceiling until—finally—Strahd’s burning hatred melts away, replaced at last with relief.</p>
-<p>"It is strange," he whispers, “how the nothingness seems to go on forever."</p>
+<p>Strahd stiffens, then staggers back. A shudder seems to go through him, followed by a flash of surprise. Surprise turns to rage, and the keep trembles with fury, shaking dust from the ceiling.</p>
+<p>"I am the Ancient," he gasps. "I am the Land. I am—"</p>
+
 <p>The dark orbs of his eyes wither and sink into his skull as his corpse deteriorates before you, his limbs, then his torso, crumbling to ash. In a matter of moments, only bones, dust, and noble garb remain.</p>
 <p>Strahd von Zarovich, the dark lord of Barovia, is dead and gone.</p>
 </div>
