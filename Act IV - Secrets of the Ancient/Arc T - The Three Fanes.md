@@ -238,6 +238,13 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 
 A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
 
+> [!combat]+ **Balancing the Wizard of Wines** 
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of **scarecrows** to five.
+> - _**Four Players.**_ Reduce the number of **scarecrows** to six.
+> - _**Six Players.**_ Increase the number of **scarecrows** to eight.
+
 If the players enter the winery, they find it empty. If they ascend to the second floor, they find that the wall between the two <span class="citation">W19. Sleeping Quarters (p. 179)</span> has been reduced to splinters and rubbles, and that the rooms’ shared southern wall has been marked with the following message, engraved in scorched, blackened wood: “*A Mother Never Forgets.*"
 ## T2b. The Town of Vallaki
 ### Town Gates
@@ -562,6 +569,11 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 ## T3b. Northern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
+> [!combat]+ **Balancing the Northern Cottages** 
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 4% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of **greater strix** to one.
+
 Three ten-foot-wide passages lead from this chamber:
 
 * One to the northeast, which leads to [[#T3a. Berez Outskirts]]
@@ -569,6 +581,13 @@ Three ten-foot-wide passages lead from this chamber:
 * One to the southwest, which leads to [[#T3e. Churchyard]]
 ## T3c. Southern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
+
+> [!combat]+ **Balancing the Southern Cottages** 
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 8% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Remove the **hexwitches**.
+> - _**Four Players.**_ Reduce the number of **hexwitches** to one.
+> - _**Six Players.**_ Increase the number of **bogwitches** to three.
 ## T3d. Town Green
 When the players enter this area, read:
 
@@ -598,6 +617,13 @@ A walking corpse rises from the mire and attacks if touched, or if the players a
 
 The sounds of combat awaken any other walking corpses within the room. Once awakened, each walking corpse arises and lurches toward the players, converging on the players’ location by sound five rounds later. When they do, read the text described in <span class="citation">U5. Marina’s Monument, Fortunes of Ravenloft (p. 165)</span>.
 
+> [!combat]+ **Balancing the Town Green** 
+> Due to the phase mechanic, this is a series of a consecutive **mild** and **bruising** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of **walking corpses** to five.
+> - _**Four Players.**_ Reduce the number of **walking corpses** to six.
+> - _**Six Players.**_ Increase the number of **walking corpses** to eight.
+
 Two ten-foot-wide passages lead from this chamber:
 
 * One to the northwest, which leads to [[#T3b. Northern Cottages]]
@@ -612,6 +638,12 @@ This area is largely as described in <span class="citation">U4. Churchyard</span
 The three lights are **will-o’-wisps**. A player who scrutinizes the lights from a distance and succeeds on a DC 10 Wisdom (Perception) check discerns that the lights aren’t being carried, but are hovering in the air.
 
 If the wisps detect the players, they turn invisible using their ***invisibility*** feature, take the Hide action, and attack when the players seem most vulnerable (but before the players depart this area). The players can attempt to sneak past the wisps, succeeding with a successful group DC 13 Dexterity (Stealth) check.
+
+> [!combat]+ **Balancing the Churchyard** 
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of **will-o'-wisps** to two.,
+> - _**Six Players.**_ Increase the number of **will-o'-wisps** to four.
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -803,6 +835,12 @@ The three dolls, which were crafted and left here by Baba Lysaga, have the stati
 
 The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
 
+> [!combat]+ **Balancing the Manor's Cellar** 
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of **carrionettes** to two.
+> - _**Four Players.**_ Reduce the number of **carrionettes** to two.
+
 > [!info]+ **Roleplaying a Carrionette**
 > If a carrionnette successfully gains control of a player’s body, provide that player the following information:
 >
@@ -821,12 +859,26 @@ A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence 
 ## T3h. Goat Pen
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
+> [!combat]+ **Balancing the Goatpen** 
+> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of mutated **goats** to six.
+> - _**Four Players.**_ Reduce the number of mutated **goats** to seven.
+> - _**Six Players.**_ Increase the number of mutated **goats** to ten.
+
 Two ten-foot-wide passages lead from this chamber, whose walls are flush with the edges of the goat pen:
 
 * One to the east, which leads to [[#T3c. Southern Cottages]]
 * One to the southwest, which leads to [[#T3i. Garden]]
 ## T3i. Garden
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
+
+> [!combat]+ **Balancing the Garden** 
+> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 22% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of **scarecrows** to four. Reduce the number of **giant poisonous snakes** to three.
+> - _**Four Players.**_ Reduce the number of **scarecrows** to five. Reduce the number of **giant poisonous snakes** to three.
+> - _**Six Players.**_ Increase the number of **scarecrows** to seven.
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -924,7 +976,58 @@ If the players anger Lazlo or attempt to bypass him, read:
 <p>"I would not recommend that," he rumbles.</p>
 </div>
 
-The candelabra, bookstand, and stone bust each have the statistics of an **animated minor object**. The shards have the statistics of a **swarm of insects** (fly speed), but deal slashing damage rather than piercing damage, can use their actions to attack twice rather than once. The swords each have the statistics of an **animated flying sword**, but can use their actions to attack twice, rather than once.
+The candelabra, bookstand, and stone bust each have the statistics of an **animated minor object**. The shards have the statistics of a **swarm of insects** (fly speed), but deal slashing damage rather than piercing damage, can use their actions to attack twice rather than once. The swords each have the statistics of a **flying sword**, but can use their actions to attack twice, rather than once.
+
+<div class="statblock">
+<h2>Animated Minor Object</h2>
+<em>Small or medium construct, unaligned</em>
+<hr>
+<strong>Armor Class</strong> 15
+<br>
+<strong>Hit Points</strong> 10
+<br>
+<strong>Speed</strong> 0 ft., fly 30 ft. (hover)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10 (+0)</td>
+      <td>16 (+3)</td>
+      <td>10 (+0)</td>
+      <td>3 (-4)</td>
+      <td>3 (-4)</td>
+      <td>1 (-5)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Damage Immunities</strong> poison, psychic<br>
+<strong>Senses</strong> blindsight 30 ft., passive Perception 6<br>
+<strong>Languages</strong> —<br>
+<strong>Challenge</strong> 2<br>
+<strong> Proficiency Bonus</strong> +4
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
+<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, one target, reach 5 ft. <em>Hit:</em> 8 (1d10 + 3) bludgeoning damage and the target must succeed on a DC 14 Strength saving throw or fall prone.</p>
+</div>
+<br>
+
+> [!combat]+ **Balancing Ulrich Manor** 
+> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 31% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of **animated minor objects** to one.
+> - _**Four Players.**_ Reduce the number of **animated minor objects** to two.
+> - _**Six Players.**_ Increase the number of **animated minor objects** to four.
 
 If the players continue to defy Lazlo, or attack him, he and the animated objects attack.
 ## T3k. Baba Lysaga’s Hut
@@ -979,12 +1082,19 @@ Baba Lysaga then attacks.
 >
 > A single loop of *silverthorn chain* (see below) lashes the wereravens in the left cage to the bars of the cage, its thorned links impaling each raven’s torso. (Baba Lysaga healed the wounds to ensure the wereravens wouldn’t bleed out and die.)
 >
-> A player attempting to remove the chain from a wereravens’ chest without first severing it must succeed on a DC 20 Dexterity (Medicine) check. On a failure, the chain is pulled free, and the wereraven can regenerate again. On a failure, the chain is pulled free, but a silver thorn breaks off and is embedded in the wereraven’s flesh, reducing the wereraven to 0 hit points and disabling its regeneration. When reduced to 0 hit points in this way, a wereraven begins dying until it receives magical healing or a player succeeds on a DC 10 Dexterity (Medicine) check to remove the thorn, restoring its regeneration.
+> A player attempting to remove the chain from a wereravens’ chest without first severing it must succeed on a DC 20 Dexterity (Medicine) check. On a success, the chain is pulled free, and the wereraven can regenerate again. On a failure, the chain is pulled free, but a silver thorn breaks off and is embedded in the wereraven’s flesh, reducing the wereraven to 0 hit points and disabling its regeneration. When reduced to 0 hit points in this way, a wereraven begins dying until it receives magical healing or a player succeeds on a DC 10 Dexterity (Medicine) check to remove the thorn, restoring its regeneration.
 
 > [!info]+ **Silverthorn Chain**
 > A length of *silverthorn chain* is lined with tiny silver thorns. A lycanthrope touching *silverthorn chain* can’t regenerate or transform.
 >
 > A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
+
+> [!combat]+ **Balancing the Witch** 
+> Due to the phase mechanic, this is a series of consecutive **brutal** and **mild** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 72% of their total maximum hit points, then approximately 11% of their total maximum hit points (for a total of 83% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2.
+> - _**Four Players.**_ Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round.
+> - _**Six Players.**_ Increase **Baba Lysaga's** hit points to 151 in each phase. Increase her number of reactions in each phase to 6. Increase the **Creeping Hut's** hit points to 295. Increase its number of reactions to 4, but limit its ***root*** reaction to 3/round.
 
 <div class="statblock">
 <h2>Baba Lysaga, Witch Mother</h2>
@@ -1695,7 +1805,7 @@ If asked about his next intentions, Van Richtens considers the eastern mountains
 With Van Richten’s curse lifted, Erasmus van Richten’s ghost is finally able to cross over into the Material Plane. Shortly after the undead horde retreats, read:
 
 <div class="description">
-<p>A pale, silvery light fills the hollow. A wisp of perlescent mist shimmers through the air—then slowly takes the form of a ghostly young man no older than fourteen years of age, his unkempt hair drifting lazily amidst the gloom. His eyes fall on Van Richten, and he swallows, his hands fidgeting with the translucent buttons on his ghostly coat.</p>
+<p>A pale, silvery light fills the hollow. A wisp of pearlescent mist shimmers through the air—then slowly takes the form of a ghostly young man no older than fourteen years of age, his unkempt hair drifting lazily amidst the gloom. His eyes fall on Van Richten, and he swallows, his hands fidgeting with the translucent buttons on his ghostly coat.</p>
 <p>"Father?" he says, hesitantly.</p>
 </div>
 
@@ -1921,6 +2031,13 @@ If the players approach him or otherwise make themselves known, Rahadin stands a
 
 Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
 
+> [!combat]+ **Balancing Rahadin's Vengeance** 
+> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 51% of their total maximum hit points (for a total of 102% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3.
+> - _**Four Players.**_ Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack.
+> - _**Six Players.**_ Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks.
+
 <div class="statblock">
 <h2>Rahadin, Amber-Touched</h2>
 <em>Medium humanoid (elf), lawful evil</em>
@@ -2030,7 +2147,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
 <p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
-<p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the damage taken.</p>
+<p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all *amber shards* in a sixty-foot radius. Each creature in that area carrying an *amber shard* must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>

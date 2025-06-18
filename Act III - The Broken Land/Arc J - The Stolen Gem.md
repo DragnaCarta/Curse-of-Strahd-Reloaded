@@ -805,7 +805,7 @@ This area is largely as described in <span class="citation">W16. Loading Winch (
 
 The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named Lorghoth the Decayer. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
 
-* ***Legendary Resistance (1/day).*** If Lorghoth would fail a saving throw, he can choose to succeed instead.
+* ***Indomitable.*** <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Lorghoth can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.).
 * ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
 * ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points) and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
@@ -1375,7 +1375,7 @@ If the ritual is permanently disrupted (see **The Ritual Begins** above) or if t
 
 In the round following the ritual's disruption, the following events occur:
 
-* On initiative count 20, the statue collapses. When this occurs, player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
+* On initiative count 20, the statue collapses. When this occurs, any player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
 * On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.
 * On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a DC 17 Constitution saving throw, taking 56 (16d6) lightning damage on a failure or half as much on a success.
 
