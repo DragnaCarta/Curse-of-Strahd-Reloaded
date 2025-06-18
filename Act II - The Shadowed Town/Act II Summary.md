@@ -151,7 +151,7 @@ The players bring Ireena to St. Andral's Church, where Father Petrovich delivers
 
 After accepting the signet ring from Kasimir Velikov, the players visit the Baron's mansion to research its origins. There, Baron Vallakovich agrees to allow them access to his library in exchange for their investigation into a series of paranormal events that have lately plagued the mansion. 
 
-As the players investigate the attic, they meet Victor Vallakovich and the spirit of Stella Wachter, beginning ***Arc I: The Lost Soul.*** The players decide to bargain with the **night hag** coven, rather than fighting the hags, and agree to set off toward Old Bonegrinder after rescuing Arabelle and retrieving St. Andral's bones.
+As the players investigate the attic, they meet Victor Vallakovich and the spirit of Stella Wachter, beginning [[Arc H - The Lost Soul]]. The players decide to bargain with the **night hag** coven, rather than fighting the hags, and agree to set off toward Old Bonegrinder after rescuing Arabelle and retrieving St. Andral's bones.
 
 Late that afternoon, the players travel to Szoldar and Yevgeni's dressing shack, where they recruit Szoldar as a guide to Lake Baratok in [[Arc E - The Missing Vistana]]. When they return to the Blue Water Inn, they find that Izek Strazni has ransacked it in search for Ireena.
 ### Neyavr 4
