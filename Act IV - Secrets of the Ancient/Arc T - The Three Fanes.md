@@ -642,7 +642,7 @@ If the wisps detect the players, they turn invisible using their ***invisibility
 > [!combat]+ **Balancing the Churchyard** 
 > This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> - _**Three Players.**_ Reduce the number of **will-o'-wisps** to two.,
+> - _**Three Players.**_ Reduce the number of **will-o'-wisps** to two.
 > - _**Six Players.**_ Increase the number of **will-o'-wisps** to four.
 
 Three ten-foot-wide passages lead from this chamber:

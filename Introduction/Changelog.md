@@ -1,3 +1,21 @@
+# Patch 2.1.0.3 (June 18, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified fog and vision limitations in the siege in [[Arc B - Welcome to Barovia]]
+* Changed Parriwimple's statblock to that of a berserker with a spear in [[Arc B - Welcome to Barovia]]
+* Added a light crossbow to Ireena's equipment in [[Arc B - Welcome to Barovia]]
+* Ensured parity between stats and balancing of Izek in [[Arc F - Lady Wachter's Wish]] and [[Arc G - The Strazni Siblings]]
+* Removed the refugees' coldness to Ireena and Ismark in [[Arc H - The Lost Soul]], on account of their father being alive at time of the refugees leaving
+* Ensured parity of the Order of the Silver Dragon's oath across [[Arc M - The Dragon's Manor]]
+* Added a short scene with disinterested wolves in [[Arc O - Dinner with the Devil]] to show that Strahd is honoring his word
+* Updated reconsecration information for the *Spear of the Huntress* in [[Arc P - Ravenloft Heist]]
+* Added clarifying information on where in the mausoleum the black flames erupt in [[Arc Q - A Shining Beacon]]
+* Added balancing encounters in [[Arc R - Trials of the Mountain]]
+* Added balancing encounters in [[Arc S - A Sword of Sunlight]]
+* Added roleplaying guidance for those possessed by Dorina in [[Arc S - A Sword of Sunlight]]
+* Added balancing encounters in [[Arc T - The Three Fanes]]
+* Added stat block for Animated Minor Object in [[Arc T - The Three Fanes]]
+* Updated amber shard locations in [[Amber Shards]]
+
 # Hotfix 2.1.0.2 (June 12, 2025)
 * Changed Strahd's dying words in [[Arc U - Dreams of Dawn]]
 # Hotfix 2.1.0.1 (May 30, 2025)
