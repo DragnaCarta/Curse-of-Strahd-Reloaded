@@ -1063,7 +1063,7 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 > This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 23% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the **shield guardian's** AC to 15. Reduce its hit points to 93, its Strength to 16, its Dexterity to 4, and its Constitution to 16. Reduce its proficiency bonus to +2. Reduce its ***fist*** attack to +5 to hit and 1d6 + 3 bludgeoning damage.,
-> - _**Four Players.**_ Reduce the **shield guardian's** hit points to 123.,
+> - _**Four Players.**_ Reduce the **shield guardian's** hit points to 123.
 > - _**Six Players.**_ Increase the **shield guardian's** AC to 18. Increase its hit points to 161 and its Dexterity to 10. Increase its proficiency bonus to +4. Increase its ***fist*** attack to +8 to hit.
 
 <div class="statblock">
