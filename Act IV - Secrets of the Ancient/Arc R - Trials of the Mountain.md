@@ -842,9 +842,9 @@ In combat, the spear-wielding maidens and their mounts target the toughest or he
 > [!combat]+ **Balancing the Monument** 
 > This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 53% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 >
-> - _**Three Players.**_ Reduce the number of normal **snow maidens** to eight. Reduce the number of **perytons** and spear-wielding **snow maidens** to two each.
-> - _**Four Players.**_ Reduce the number of normal **snow maidens** to six.
-> - _**Six Players.**_ Reduce number of normal **snow maidens** to eight. Increase the number of **perytons** and spear-wielding **snow maidens** to four each.
+> - _**Three Players.**_ Reduce the number of **snow maidens** to eight. Reduce the number of **perytons** and spear-wielding **snow maidens** to two each.
+> - _**Four Players.**_ Reduce the number of **snow maidens** to six.
+> - _**Six Players.**_ Reduce number of **snow maidens** to eight. Increase the number of **perytons** and spear-wielding **snow maidens** to four each.
 
 > [!abstract]+ **The Roc’s Blessing**
 > On initiative count 20 of the second round of combat, if the players repaired the monument’s wings (e.g., through the use of a *mending* spell) or otherwise paid homage to it, a player with a passive Wisdom (Perception) score of 13 or greater notices the statue’s eyes glimmer a cold, cerulean blue. The players then gain the benefits of a *wind wall* spell, placed in such a way as to obstruct or injure the greatest number of snow maidens possible. 
@@ -914,9 +914,9 @@ In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in 
 > [!combat]+ **Balancing the Blizzard** 
 > This combat encounter is a **brutal** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 75% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 >
-> - _**Three Players.**_ Reduce the number of normal **winter wolves** to five.
-> - _**Four Players.**_ Reduce the number of normal **winter wolves** to six.
-> - _**Six Players.**_ Increase the number of normal **winter wolves** to eight.
+> - _**Three Players.**_ Reduce the number of **winter wolves** to five.
+> - _**Four Players.**_ Reduce the number of **winter wolves** to six.
+> - _**Six Players.**_ Increase the number of **winter wolves** to eight.
 
 > [!info]+ **Short Rests in the Blizzard**
 > Players seeking to take a short rest after the wolf attack can still seek out cover from the storm for the duration, as described in [[#Seeking Shelter]] above. However, players who roll a result of 20 or higher on the Wisdom (Survival) check to find shelter don’t find the Mountain Folk cave.
