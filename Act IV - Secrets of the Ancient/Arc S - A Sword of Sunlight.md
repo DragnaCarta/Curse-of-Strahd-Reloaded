@@ -87,7 +87,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > Strahd then turns to the players. “You seem to have made interesting allies indeed," he remarks. “Do not mistake this inconvenience for might—but I presume you know that you cannot stay atop this mountain forever." He smiles coldly, and, for a moment, his crimson eyes seem to glow in the darkness. “Such a shame it would be, of course, if your friends at lower altitudes required your assistance, and you were not there to aid them."
 >
-> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Ladies of the Fanes]] for more information about Strahd’s further machinations.)
+> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Three Fanes]] for more information about Strahd’s further machinations.)
 >
 > Once Strahd departs, the roc can confirm the following information using nods and shakes of its head (though it won’t volunteer information the players don’t already know or suspect):
 >
@@ -269,7 +269,7 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 > [!info]+ **Neferon's Eye**
 > Through the use of his truesight and *dimension door*, Neferon has deciphered the spellbooks held in <span class="citation">X30. Preserved Library (p. 189)</span>, and so replaced his *banishment* spell (which he has correctly deduced won’t work in Barovia—especially after it failed to banish the death slaad to its home plane of Limbo) with the *arcane eye* spell. 
 >
-> If he sees or hears the players enter <span class="citation">X15. Southwest Annex (p. 186)</span>, <span class="citation">X14. North Staircase (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Amber Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
+> If he sees or hears the players enter <span class="citation">X15. Southwest Annex (p. 186)</span>, <span class="citation">X14. North Staircase (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Temple Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
 
 > [!lore]+ **Neferon's Arrival**
 > A native of the plane of Gehenna, home of the yugoloths, Neferon was whisked away to Barovia by the Mists ten days before the players’ arrival at the Amber Temple as he sought to travel from Gehenna to Avernus for a potential business deal. Irritated at the detour, but determined to seek opportunities in this new realm, Neferon swiftly moved to explore his surroundings, learn about its inhabitants, and loot any of its knowledge, riches, and magic for himself.
@@ -307,7 +307,7 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 > [!abstract]+ **Neferon's Deals**
 > If the players ask, Neferon is glad to strike additional bargains with the players, including (but not limited to) the following.
 >
-> ***Temple Layout.*** Neferon can provide a simple map of the temple (excluding [[#S6. Temple Vaults]] and [[#S7. Archmage's Quarters]], which he pretends not to know of) in exchange for one **rare** magic item in the players' possession, or three useful secrets that they know about the land or people of Barovia.
+> ***Temple Layout.*** Neferon can provide a simple map of the temple (excluding [[#S6. Temple Vaults]] and [[#S7. Archmage’s Quarters]], which he pretends not to know of) in exchange for one **rare** magic item in the players' possession, or three useful secrets that they know about the land or people of Barovia.
 > 
 > ***Temple Inhabitants.*** Neferon can warn the players about the temple’s other inhabitants in exchange for one **rare** magic item in the players’ possession, or two useful secrets that they know about the land or people of Barovia. Specifically, Neferon can warn the players of the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185)</span>, the **poltergeists** in <span class="citation">X38. Haunted Room (p. 194)</span> and <span class="citation">X39. Plundered Treasury (p. 194)</span>, the spirits in [[#Dining Hall]], and the "dreary apparition" that dwells in <span class="citation">X9. Lecture Hall (p. 185)</span>. 
 >
@@ -489,6 +489,18 @@ Dorina’s **ghost** still haunts this room from the Ethereal Plane, and has the
 
 Once she emerges, Dorina immediately attempts to use her ***possession*** to possess a member of the party, preferring to target a player that has already noticed her. If her attempt fails, she sullenly drifts back into the floor, her teeth bared in a defiant snarl.
 
+> [!info]+ **Roleplaying Dorina**
+> If Dorina successfully gains control of a player’s body, provide that player the following information: 
+> 
+> ---
+>  
+> You have been possessed by Dorina's ghost. While your body is possessed, you should roleplay as follows: 
+> * You want to deceive your companions into believing that you have not been possessed. 
+> * You want to slip away unseen, to head further into the Temple via the upper east hall. 
+> * You are ill-tempered, with a distaste for the Mountain Folk of Soldav. 
+> * You have a visceral aversion to the cold. If your deception fails, you attempt to flee.
+   
+
 > [!abstract]+ **Dorina’s Unfinished Business**
 If Dorina successfully possesses a character, she pretends to be that character but slips away at the first opportunity. If she does so successfully, or if confronted, she attempts to reach Khirad’s sarcophagus in <span class="citation">X33c. Ghastly Vault (p. 192)</span>. 
 >
@@ -561,8 +573,15 @@ A player with a passive Intelligence (Investigation) score of 15 or greater who 
 
 Bluetspur attacks any creature that passes through the illusion, perceives it, or attacks it. If it attacks, the **death slaad** Nardag in [[#S3b. West Catacombs]] removes its disguise and joins it in battle. Both slaad fight to the death.
 
-> [!info]+ **Curing Chaos Phase**
-> The players can cure the **blue slaad's** ***chaos phase*** disease by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
+> [!combat]+ **Balancing the East Catacombs** 
+> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Change Nardag to a **green slaad**.
+> - _**Four Players.**_ Change Bluetspur to a **red slaad**, except that its ***claw*** attack inflicts a **blue slaad's** Chaos Phage instead of a **red slaad's** egg.
+> - _**Six Players.**_ Change Bluetspur to a **gray slaad**.
+
+> [!info]+ **Curing Chaos Phage**
+> The players can cure the **blue slaad's** ***chaos phage*** disease by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
 # S4. Western Temple
 ## S4a. Western Temple, Main Floor
 ### Brewing Room
@@ -959,7 +978,7 @@ A player with a passive Wisdom (Perception) score of 15 or greater notices that 
 > 
 > When Helwa murdered a fellow mage, Vilnius took it as confirmation that the other wizards could not be trusted. The vestiges’ whispers only drove him deeper into madness and paranoia, accentuating his suspicions. When, following a sharp and heated argument, Exethanter coldly remarked that he had “perhaps made a mistake in plucking Vilnius from the streets," Vilnius concluded that Exethanter meant to dispose of and replace him.
 >
-> That night, as Vilnius and several other mages dined with Exethanter, as was customary, Vilnius—a prodigy of illusion magic—subtly disguised Exethanter’s enchanted ewer as an ordinary pitcher, and instead filled the others’ cups with a disguised pitcher filled with poisoned wine. The other mages died gruesomely at the table; only Exethanter, sensing the danger, stumbled forth through the [[#Temple of Temptation]] toward his quarters, seeking an antidote—only to fall and leave his staff atop the statue there as he died. 
+> That night, as Vilnius and several other mages dined with Exethanter, as was customary, Vilnius—a prodigy of illusion magic—subtly disguised Exethanter’s enchanted ewer as an ordinary pitcher, and instead filled the others’ cups with a disguised pitcher filled with poisoned wine. The other mages died gruesomely at the table; only Exethanter, sensing the danger, stumbled forth through the [[#Shrine of Temptation]] toward his quarters, seeking an antidote—only to fall and leave his staff atop the statue there as he died. 
 >
 > As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **shield guardian**’s amulet, then hid himself away in <span class="citation">X9. Lecture Hall (p. 185)</span>.
 > 
@@ -1040,6 +1059,13 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 >
 > *"Break them," Vilnius rasps.*
 
+> [!combat]+ **Balancing the Lecture Hall** 
+> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 23% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the **shield guardian's** AC to 15. Reduce its hit points to 93, its Strength to 16, its Dexterity to 4, and its Constitution to 16. Reduce its proficiency bonus to +2. Reduce its ***fist*** attack to +5 to hit and 1d6 + 3 bludgeoning damage.,
+> - _**Four Players.**_ Reduce the **shield guardian's** hit points to 123.
+> - _**Six Players.**_ Increase the **shield guardian's** AC to 18. Increase its hit points to 161 and its Dexterity to 10. Increase its proficiency bonus to +4. Increase its ***fist*** attack to +8 to hit.
+
 <div class="statblock">
 <h2>Vilnius, First Prisoner</h2>
 <em>Medium undead, neutral evil</em>
@@ -1118,6 +1144,14 @@ This area is largely as described in <span class="citation">X10. Northeast Annex
 * It has the Strength and ***slam*** attack of an **iron golem**.
 * When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
+
+> [!combat]+ **Balancing the Training Hall** 
+> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
+> - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
+> - _**Six Players.**_ Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage.
+
 ### Shrine of Fear
 <span class="citation">This scene takes place in Chapter 13, Areas X12 and X13.</span>
 
@@ -1429,7 +1463,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 ## S6a. West Treasury
 <span class="citation">This scene takes place in Chapter 13, Area X39.</span>
 
-This area is as described in <span class="citation">X39. Plundered Treasury (p. 194</span>. 
+This area is as described in <span class="citation">X39. Plundered Treasury (p. 194</span>.) 
 ## S6b. East Treasury
 <span class="citation">This scene takes place in Chapter 13, Area X40.</span>
 
@@ -1460,6 +1494,13 @@ In addition, the **amber golem** attacks any creature that disturbs any of the p
 * It has the Strength and ***slam*** attack of an **iron golem**.
 * When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
+
+> [!combat]+ **Balancing the Treasury** 
+> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
+> - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
+> - _**Six Players.**_ Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage.
 ## S6c. Amber Vault
 <span class="citation">This scene takes place in Chapter 13, Areas X41 and X42.</span>
 
@@ -1711,6 +1752,13 @@ Otherwise, if the players accumulate three failures before three successes, Kasi
 
 Patrina then attacks.
 
+> [!combat]+ **Balancing the Lich** 
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will each consume approximately 40% of their total maximum hit points (for a total of 80% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 198. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 68 and the damage of their ***slam*** attack to 13 (3d4 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.
+> - _**Four Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.
+> - _**Six Players.**_ Increase Patrina's hit points in her first phase to 320 and in her second phase to 294. Increase the hit points of **amber constructs** to 101 and the damage of their ***slam*** attack to 24 (4d8 + 6) bludgeoning damage. In Patrina's second phase, increase her ***multiattack*** to five attacks with her ***shadowblade***.
+
 <div class="statblock">
 <h2>Patrina, Vengeful Wraith</h2>
 <em>Medium undead, neutral evil</em>
@@ -1773,8 +1821,8 @@ Patrina then attacks.
 <p><strong><em>Animate Golems (1/Day).</em></strong> Patrina summons shards of amber from X40, Sealed Treasury, and shapes them into two <strong>amber constructs</strong>. An amber construct acts on Patrina’s initiative, but takes its turn immediately after hers.</p>
 <p><strong><em>Conjure Sarcophagi.</em></strong> Hollow amber sarcophagi spring into existence around each creature of Patrina’s choice within <span class="highlight">5 feet</span> of Patrina or a point she can see within <span class="highlight">30 feet</span>. Each creature must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or be entrapped within its sarcophagus. Each sarcophagus has <span class="highlight">AC 15</span>, <span class="highlight">15 hit points</span>, and immunity to poison and psychic damage.</p>
 <h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If Patrina would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Patrina can take up to three reactions per round, but only one per turn. If Patrina would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot of 1st level or higher and add the spell slot’s level to the level of the spell it cast. If the result is <span class="highlight">4 or more</span>, the creature can make a <span class="highlight">DC 19 saving throw</span> using its spellcasting ability, gaining a bonus to its saving throw equal to the result. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
 <p><strong><em>Ghostly Walk.</em></strong> <strong>Trigger:</strong> A creature Patrina can see within <span class="highlight">60 feet</span> of her ends its turn. <strong>Effect:</strong> Patrina moves up to her speed toward or away from that creature without provoking opportunity attacks.</p>
 <p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
@@ -1849,8 +1897,8 @@ Patrina then attacks.
 <p><strong><em>Crackling Doom.</em></strong> Crackling bolts of lightning arc from Patrina's fingertips in a <span class="highlight">30-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">14 (4d6) lightning damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it is <span class="highlight">slowed</span> until the start of Patrina’s next turn. (A slowed creature must spend <span class="highlight">1 extra foot of movement for every foot it moves</span> using its speed, attack rolls against it have <span class="highlight">advantage</span>, and it has <span class="highlight">disadvantage</span> on Dexterity saving throws.)</p>
 <p><strong><em>Negative Energy Burst.</em></strong> Negative energy ripples out in a <span class="highlight">5-foot-radius sphere</span> from Patrina or a point she can see within <span class="highlight">90 feet</span>. Each creature in that area must make a <span class="highlight">DC 19 Constitution saving throw</span>, taking <span class="highlight">14 (4d6) necrotic damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it also <span class="highlight">falls prone</span>.</p>
 <h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If Patrina would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Patrina can take up to three reactions per round, but only one per turn. If Patrina would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry (1/Round).</em></strong> <em>Trigger:</em> Patrina is hit by a melee or ranged attack while holding the <em>Sunsword</em>. <em>Effect:</em> Patrina adds <span class="highlight">+6</span> to her Armor Class against that attack, possibly causing it to miss.</p>
 <p><strong><em>Vile Teleport (1/Round).</em></strong> <em>Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
 <p><strong><em>Fell Rebuke.</em></strong> <em>Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
