@@ -125,7 +125,7 @@ If the players aid them in securing entry to Vallaki, Doru and Donavich are deep
 ## O3b. The Rider’s Guidance
 The journey from Vallaki to <span class="citation">I. Black Carriage (p. 37)</span> is eight and one-quarter miles long and takes two hours and forty-five minutes.
 
-As the players reach the stretch of road nearing Old Bonegrinder, a wolf pack will emerge. True to Strahd's word, they will show no aggression. Read:
+As the players reach the stretch of road nearing Old Bonegrinder, a wolf pack emerges from the woods. True to Strahd's word, they show no aggression. Read:
 
 <div class="description">
 <p>The sound of howling ahead draws your attention. Further up the road, a pack of wolves emerges from the mist, their eyes gleaming. They pause, sniffing the air, noticing your presence on the path. Disinterested, they turn their heads away, before slinking nonchalantly into the forest.</p>
