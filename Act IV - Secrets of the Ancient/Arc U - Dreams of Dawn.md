@@ -304,22 +304,22 @@ The following events may occur in any order and at any time shortly after the pl
 * ***The Wall’s Pain.*** To the east, in the mountains where Castle Ravenloft lies, a pulse of crimson light briefly fills the skies—and the winged shadow within the Whispering Wall writhes, a deep, angry rumble echoing through the earth. The wall then moves several dozen feet forward.
 * ***The Dreamer’s Remannts.*** As the players exit onto the streets or look toward the Whispering Wall, if they are in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the twilight crest from [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows a brilliant purple and emits a high-pitched, keening hum. The light and hum increase in intensity if brought closer to the Whispering Wall.
 * ***Urwin’s Warning.*** After conferring with his raven spies, a pale-faced Urwin Martikov confirms to the players that the Whispering Wall fills the entire sky, from Mount Baratok to Mount Ghakis, appears to have swallowed up the entire western half of the valley, including Krezk, the Wizard of Wines, and the western edge of Vallaki. He also shares that the wall is expanding eastward rapidly, and that the entirety of Vallaki may be swallowed up in less than an hour. He further shares that strange winged apparitions have been seen emerging from the wall and dragging Vallakians into it. (If asked, Urwin confirms that the winged apparitions resemble butterflies or moths, though he’s startled at how the players made such a guess.)
-* ***Fiona’s Plea.*** Lady Fiona Wachter, flanked by two **cult fanatics** and four **guards** covered in blood and gore, approaches the players with a bloodstained *mace* in hand. She informs the players that the dead have risen from the cemetery of St. Andral’s Church; while they have been largely cleared from the eastern half of the town, many more may still linger to the west. She also shares that a vast host of undead has been spotted approaching the town from the east, led by a pale, white-fleshed undead that emits great clouds of reddish smoke, and will arrive within a quarter-hour. Lady Wachter then kneels before the players, begs them to help defend her town, and informs them that all of Vallaki’s resources are at their disposal. If any of the players accept, Lady Wachter accompanies them to [[#U2i. The Mourning Gate]].
+* ***Fiona’s Plea.*** Lady Fiona Wachter, flanked by two **cult fanatics** and four **guards** covered in blood and gore, approaches the players with a bloodstained *mace* in hand. She informs the players that the dead have risen from the cemetery of St. Andral’s Church; while they have been largely cleared from the eastern half of the town, many more may still linger to the west. She also shares that a vast host of undead has been spotted approaching the town from the east, led by a pale, white-fleshed undead that emits great clouds of reddish smoke, and will arrive within a quarter-hour. Lady Wachter then kneels before the players, begs them to help defend her town, and informs them that all of Vallaki’s resources are at their disposal. If any of the players accept, Lady Wachter accompanies them to [[#U3j. The Morning Gate]].
 * ***Night Everlasting.*** Any Vallakian can inform the players that, although morning should have come by now, the Moon remains high in the sky, and no daylight has appeared over the horizon.
 
 > [!info]+ **Running This Sequence**
 > Most groups of players will split the party to address the simultaneous threats of the Whispering Wall and undead horde. If they do, run these sequences in the following order:
 >
-> * First, run both fights in [[#U2b. Vallaki Streets]] simultaneously.
-> * Second, run [[#Arrival at the Gate]], followed by [[#U2c. The Wall]]
-> * Third, run [[#Organizing the Defense]], followed by [[U2d. The Nightmares]]
-> * Fourth, run [[#The Zarovich Gate]], followed by [[#U2e. Descent of the Devourer]] and [[#U2f. Fall of the Devourer]]. Allow the players in the Whispering Wall to control any NPCs in [[#The Zarovich Gate]], but require them to obey the commands of any player characters present.
-> * Fifth, run [[#The Southern Wall]], followed by [[#U2g. Attack on the Swamp Fane]]. Allow the players in the Whispering Wall to control any NPCs at the Southern Wall, and vice-versa, but require them to obey the commands of any player characters present.
-> * Sixth, run [[#The Morning Gate]], followed by [[#U2h. The Lonely Maid]] and [[#U2i. Lake Zarovich]]. Allow the players in the Whispering Wall to control any NPCs at the Morning Gate, but require them to obey the commands of any player characters present.
+> * First, run both fights in [[#U3b. Vallaki Streets]] simultaneously.
+> * Second, run [[#Arrival at the Gate]], followed by [[#U3c. The Wall]]
+> * Third, run [[#Organizing the Defense]], followed by [[#U3d. The Nightmares]]
+> * Fourth, run [[#The Zarovich Gate]], followed by [[#U3e. Descent of the Mists]] and [[#U3f. Fall of the Devourer]]. Allow the players in the Whispering Wall to control any NPCs in [[#The Zarovich Gate]], but require them to obey the commands of any player characters present.
+> * Fifth, run [[#The Southern Wall]], followed by [[#U3g. Attack on the Swamp Fane]]. Allow the players in the Whispering Wall to control any NPCs at the Southern Wall, and vice-versa, but require them to obey the commands of any player characters present.
+> * Sixth, run [[#The Morning Gate]], followed by [[#U3h. The Lonely Maid]] and [[#U3i. Lake Zarovich]]. Allow the players in the Whispering Wall to control any NPCs at the Morning Gate, but require them to obey the commands of any player characters present.
 >
 > If the players fail to send a player character to defend the Zarovich Gate, Morning Gate, or Southern Wall, a party NPC companion (such as Ezmerelda or Ireena) or friendly NPC (such as Lady Wachter) leads that location’s defense instead. If this occurs, you can have one of the players control that location’s commander, or use challengerated.com to estimate that location’s losses. (In the latter case, cut the Vallakians’ losses by half to account for the protections offered by the town walls.)
 ## U3b. Vallaki Streets
-As they travel to [[#U2c. The Wall]] or [[#U2i. The Mourning Gate]], the players face the following encounters:
+As they travel to [[#U3c. The Wall]] or [[#U3j. The Morning Gate]], the players face the following encounters:
 
 * **The Wall.** While traveling to the Whispering Wall, the players are attacked by three **winged harbingers** (use the statistics below) and six **zombies**. In battle, one **winged harbinger** and two **zombies** prefer to fight one another, rather than the players.
 * **The Gate.** While travelling to the Morning Gate, the players are attacked by six **zombies**.
@@ -406,7 +406,7 @@ Zia is deeply grateful to the players for rescuing her, though her hands are nea
 
 When the Devourer is defeated, an archway of swirling mist appears before the players, pointing west—toward the place where the storm cloud fell. If the players pass through it, they emerge into [[#U3g. Attack on the Swamp Fane]].
 ## U3g. Attack on the Swamp Fane
-When the players emerge from [[#U3e. Descent of the Devourer]], read:
+When the players emerge from [[#U3f. Fall of the Devourer]], read:
 
 <div class="description">
 <p>You pass through the arch—and emerge onto the edge of a quiet swamp. Nearby, a sluggish river drifts lazily through the earth, with small, verdant islands blooming with life thrusting forth from the mire.</p>
@@ -423,7 +423,10 @@ The three individuals are Tauta **druids** of the Weaver named Calabaeus, Acmoni
 
 Shortly after the players hear the howls, four **winter wolves** leap forth from the clouds of mist and attack.
 
-When the wolves are defeated, an archway of swirling mist appears before the players, pointing west. If the players pass through it, they emerge into [[#U3g. The Lonely Maid]].
+When the wolves are defeated, an archway of swirling mist appears before the players, pointing west. If the players pass through it, they emerge into [[#U3h. The Lonely Maid]].
+## U3h. The Lonely Maid
+When the players emerge from [[#U3g. Attack on the Swamp Fane]], read:
+
 ## U3h. The Lonely Maid
 When the players emerge from [[#U2g. Attack on the Swamp Fane]], read:
 
@@ -453,7 +456,7 @@ At a suitable point in the conversation, read:
 
 If the players provide the Dreamer comfort and reassurance, an archway of swirling mist appears nearby, pointing north. If the players pass through it, they emerge into [[#U3i. Lake Zarovich]].
 ## U3i. Lake Zarovich
-When the players emerge from [[#U3g. The Lonely Maid]], read:
+When the players emerge from [[#U3h. The Lonely Maid]], read:
 
 <div class="description">
 <p>You pass through the arch—and emerge at the mouth of a familiar river, where the waters of a dark mountain lake flow southward into dark woods. A small, crudely built shack stands tucked away near the water’s edge, its timbers worn and weathered with age. Not far away lies an old stone slab, resting on a cracked, mossy stone circle beneath a light dusting of snow. The area lies encircled by a cylinder of shadowed fog, which stretches a quarter-mile in width. In the skies overhead, thirteen stars stand in perfect alignment amidst an array of impossible heavens.</p>
@@ -763,7 +766,7 @@ When the final battle begins, read:
 A player who inspects the castle’s surroundings from outside the tower can confirm that the castle has split from the Pillarstone of Ravenloft and is rising into the air.
 
 > [!info]+ **Strahd’s Statistics**
-> See [[Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strad’s statistics and tactic in battle.
+> See [[Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strahd’s statistics and tactics in battle.
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow can’t be moved and is immune to all damage while Strahd lives. It’s held aloft by the will of Strahd, and isn’t affected by *dispel magic* or similar magic. In addition, it has the following properties while channeling its stores of power:
@@ -857,6 +860,7 @@ When Strahd dies, read:
 <div class="description">
 <p>Strahd stiffens, then staggers back. A shudder seems to go through him, followed by a flash of surprise. Surprise turns to rage, and the keep trembles with fury, shaking dust from the ceiling.</p>
 <p>"I am the Ancient," he gasps. "I am the Land. I am—"</p>
+
 <p>The dark orbs of his eyes wither and sink into his skull as his corpse deteriorates before you, his limbs, then his torso, crumbling to ash. In a matter of moments, only bones, dust, and noble garb remain.</p>
 <p>Strahd von Zarovich, the dark lord of Barovia, is dead and gone.</p>
 </div>

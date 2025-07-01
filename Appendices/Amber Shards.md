@@ -7,6 +7,10 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 > * during [[Character Creation]]
 > * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
 > * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
+> * following Scorilo if he loses the boasting match in [[Arc R - Trials of the Mountain]] (see [[#Zrin-Hala, the Howling Storm]])
+> * after defeating the bodaks in [[Arc R - Trials of the Mountain]] (see [[#Sykane, the Soul Hungerer]])
+> * within the [[Arc R - Trials of the Mountain#The Cave of Daggers|Cave of Daggers]] (see [[#Yog the Invincible]])
+> * from the **nothic** Meda in [[Arc S - A Sword of Sunlight]] (see [[#Khirad, the Star of Secrets]])
 > 
 > You should not, however, add additional shards for the players to obtain.
 
@@ -48,12 +52,16 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** Your body is covered in boils and pustules. Other creatures have disadvantage on Wisdom (Medicine) checks made to stabilize you.
 ## Zrin-Hala, the Howling Storm
+*Shard Location: Soldav*
+
 ***Spell.*** _Lightning Bolt._
 
 ***Boon.*** When you make a critical hit, you can force the target to succeed on a constitution saving throw or be paralyzed until the start of your next turn.
 
 ***Condition.*** One side of your face sags and loses all feeling. You have disadvantage on Charisma (Persuasion) checks.
 ## Sykane, the Soul Hungerer
+*Shard Location: Tsolenka Pass*
+
 ***Spell.*** _Spirit Guardians (Necrotic)._
 
 ***Boon.*** You make death saving throws with advantage, and have advantage made on Wisdom (Medicine) checks made to stabilize other creatures.
@@ -78,8 +86,6 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** You gain an extra finger on each hand. You have disadvantage on Constitution saving throws against poison, spells, and magical effects.
 ## Drizlash, the Nine-Eyed Spider
-*Shard Location: The Amber Temple*
-
 ***Spell.*** _Web._
 
 ***Boon.*** You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -104,6 +110,8 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** Your skin turns ice-blue and brittle. You have disadvantage on Strength checks.
 ## Khirad, the Star of Secrets
+*Shard Location: The Amber Temple*
+
 ***Spell.*** _Phantasmal Killer._
 
 ***Boon.*** You have advantage on Intelligence checks.
