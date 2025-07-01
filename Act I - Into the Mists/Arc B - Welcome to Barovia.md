@@ -409,7 +409,7 @@ During the players’ conversation with Bildrath, Parriwimple enters the room ca
 If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Parriwimple has the statistics of a **berserker** with a spear (+5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.) instead of a greataxe. Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
 
 When the players first encounter Parriwimple, read:
 
@@ -459,7 +459,7 @@ Dusk falls soon after the players complete their preparations. Read:
 If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
 
 > [!info]+ **A Moonless Night**
-> At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick cloud cover obscures the moonlight, preventing defenders without darkvision from seeing any approaching creatures in the darkness.
+> At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick fog rolls in with the undead up to the area of illumination, preventing defenders with darkvision from seeing any approaching creatures early.
 
 > [!abstract]+ **Holding the Line**
 > If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
@@ -467,7 +467,7 @@ If he is present, Bildrath’s face grows grim, and he grips his crossbow tightl
 > [!info]+ **Undead Fortitude**
 > Revise each **zombie** and **zombie plague spreader’s** ***undead fortitude*** feature to read as follows:
 >
-> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, or if the damage taken is 15 or more.
+> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining. 
 
   
 > [!combat]- **Balancing the Siege** 
@@ -640,8 +640,8 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
 <p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
 <p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
@@ -701,8 +701,8 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
 </div>
@@ -742,7 +742,7 @@ The players can eavesdrop on this conversation with a successful DC 13 Dexterity
 <p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
 <p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village this morning. Alone."</p>
 <p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
-<p>"Her mother thinks she went to the castle—probably to seek clemency for the village from the Devil," Ismark murmurs.</p>
+<p>"Her mother thinks she went to Vallaki—she was convinced that help from Vallaki is the only way to end our suffering," Ismark murmurs.</p>
 <p>There's a long, suffering silence. Then—</p>
 <p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
 <p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
@@ -1077,7 +1077,7 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 
 > [!info]+ **Ireena Joins the Party**
 >
-> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.** She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
+> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble**, and carries a light crossbow (+3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage). She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
 >
 > Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Investigation, Medicine, Perception, and Stealth, and proficiency in Dexterity saving throws. When she first joins the party at 3rd level, she has 25 (5d8) hit points.
 >

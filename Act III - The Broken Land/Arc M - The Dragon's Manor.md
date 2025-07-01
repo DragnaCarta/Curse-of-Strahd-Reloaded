@@ -487,7 +487,7 @@ This area is largely as described in <span class="citation">Q11. Wine Storage (p
 
 A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigation) check determines that it appears to have originated from the northeastern barrel.
 
-The northeastern barrel appears to be empty. However, a player who uses the crowbar or another tool to open the barrel finds a small pouch crafted of chainmail sitting inside. The pouch contains two silver rings. Each ring is a plain silver band with the words “From this to the end of days" engraved around the inside of the ring.
+The northeastern barrel appears to be empty. However, a player who uses the crowbar or another tool to open the barrel finds a small pouch crafted of chainmail sitting inside. The pouch contains two silver rings. Each ring is a plain silver band with the words “From this until the end of days" engraved around the inside of the ring.
 
 > [!lore]+ **The Rings**
 > The two rings are wedding rings, and belonged to Vladimir Horngaard and Sir Godfrey Gwilym. Vladimir and Godfrey hid these rings here on the night before their deaths, unwilling to allow Strahd to loot them and vowing to return to retrieve them if victorious. However, undeath has robbed both men of their memory of the rings, as well as the love they shared in life. 
@@ -660,7 +660,7 @@ The inscription is written in elegant calligraphy and interwoven with aged, intr
 <div class="description">
 <p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
 <p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this to the end of days.</p>
+<p>So do I swear in the name of the Silver Dragon, from this until the end of days.</p>
 </div>
 
 #### Vladimir’s Bedroom
@@ -732,7 +732,7 @@ The tablet, which bears a copy of the oath of the Order of the Silver Dragon, re
 <div class="description">
 <p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
 <p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this to the end of days.</p>
+<p>So do I swear in the name of the Silver Dragon, from this until the end of days.</p>
 </div>
 
 When a player inspects the banner, read:
@@ -1028,8 +1028,8 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
 <p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
 <h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
 <p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
 <p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an attack against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
@@ -1089,8 +1089,8 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
 <p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
 <h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
 <p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>

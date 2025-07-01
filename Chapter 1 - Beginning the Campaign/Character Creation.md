@@ -197,7 +197,7 @@ Unbeknownst to the player, the *amber shard* was formerly a part of a dark vesti
 
 The player who possesses the *amber shard* should have strong, vivid reasons to want to unlock its secrets and the magic that it possesses.
 
-***Developments.*** In **Act I, Arc A: Escape From Death House**, the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In *Act V, Arc U*, Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
+***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in [[Amber Shards]] offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
 ## Redemption—The Angel's Feather
@@ -248,7 +248,7 @@ Unbeknownst to the player, the tooth once belonged to a wolfir—a **werewolf** 
 
 The player who possesses the *wolf's tooth* should have strong, vivid reasons to believe that the tooth is the key to curing a particular wound, malady, or curse that ails them.
 
-***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in **Act V, Arc W: The Ladies of the Fanes**, the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in **Act V, Arc W: The Ladies of the Fanes**, the tooth lengthens and glows with moonlight as it did upon sensing Death House.
+***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Arc T - The Three Fanes]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
 ## Duty—The Raven's Feather
 ![[Raven's Feather.png]]
 A player seeking **duty** begins the campaign with a *raven's feather*, a small, black feather with soft, downy barbs. When held aloft before a storm, the feather seems to gently tremble, exuding the scent of cold rain and damp earth.
@@ -259,7 +259,7 @@ The player who possesses the *raven's feather* should have strong, vivid reasons
 
 ***Developments.*** If the player shows the *raven's feather* to Madam Eva in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], she inspects it reverently and returns it to the player, claiming mysteriously that she once knew the bird that shed it.  If the player shows the feather to Urwin Martikov, Danika Dorakova, Muriel Vinshaw, or any other member of the Keepers of the Feather, that member grows warmer and friendlier toward that player. 
 
-When the player first enters the circle of standing stones at the Mountain Fane in **Act V, Arc W: The Ladies of the Fanes**, the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
+When the player first enters the circle of standing stones at the Mountain Fane in [[Arc T - The Three Fanes]], the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
 ## Power—The Crumpled Page
 ![[Crumpled Page.png]]
 A player seeking **power** begins the campaign with the *crumpled page*, an old, yellowed page that was torn from its book long ago. The page is written in strange and cryptic arcane runes; those few runes that can be decoded speak of a path that leads to immortality and untold power.
@@ -268,7 +268,7 @@ Unbeknownst to the player, the page was taken from the library of Exethanter, a 
 
 The player who possesses the *crumpled page* should have strong, vivid reasons to want to find and claim the power that the page promises.
 
-***Developments.*** When the player first approaches Exethanter's library in **Act V, Arc U: The Amber Temple**, the ink glows with amber light as it did upon sensing Death House, and the runes reshape themselves into a map of Exethanter's chambers and nearby access points. If the player shows the page to Exethanter after restoring his memories in the same arc, Exethanter grows warmer and friendlier toward that player.
+***Developments.*** When the player first approaches Exethanter's library in [[Arc S - A Sword of Sunlight]], the ink glows with amber light as it did upon sensing Death House, and the runes reshape themselves into a map of Exethanter's chambers and nearby access points. If the player shows the page to Exethanter after restoring his memories in the same arc, Exethanter grows warmer and friendlier toward that player.
 ## Ambition—The Tattered Banner
 ![[Tattered Banner.png]]
 A player seeking **ambition** begins the campaign with the *tattered banner*, an old, ragged red banner bearing the heraldry of a raven in front of a shield. The raven's wings are spread wide, and the shield has the image of a castle's keep engraved into its top. Sometimes, when a Lawful-aligned creature holds the banner, a crimson light seems to glimmer from the peak of the castle's keep, and the sound of soldiers marching can be distantly heard.
@@ -279,7 +279,7 @@ The player who possesses the *tattered banner* should have strong, vivid reasons
 
 ***Developments.*** When the player first experiences the haunted battlefield north of Berez in [[Arc I - The Walls of Krezk]], the banner flaps in the wind, which echoes with the sound of war-drums. 
 
-If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Arc E - The Missing Vistana]] or **Act V, Arc U: The Amber Temple**, its appearance is met with revulsion and bitter disgust. 
+If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Arc E - The Missing Vistana]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
 
 If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of Castle Ravenloft.
 ## Faith—The Sunrise Medallion
@@ -299,9 +299,9 @@ Unbeknownst to the player, the crest once belonged to a spiritual leader among t
 
 The player who possesses the *stone crest* should have strong, vivid reasons to believe that the symbols upon it represent a primal or divine power of harmony and nature, and that the crest can aid them in restoring the sanctity of wild places.
 
-***Developments.*** When the player first approaches the exterior of Soldav in **Act V, Arc W: The Ladies of the Fanes**, the *stone crest* hums and releases a scent of pine needles and earth soil as it did upon sensing Death House, both of which grow stronger as the player approaches the Shrine of the Rozana in Soldav. 
+***Developments.*** When the player first approaches the exterior of Soldav in [[Arc R - Trials of the Mountain]], the *stone crest* hums and releases a scent of pine needles and earth soil as it did upon sensing Death House, both of which grow stronger as the player approaches the Shrine of the Rozana in Soldav. 
 
-If the player shows the *stone crest* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in **Act V, Arc W: The Ladies of the Fanes**, the crest is recognized as an artifact and symbol of the Ladies of the Fanes. 
+If the player shows the *stone crest* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the crest is recognized as an artifact and symbol of the Ladies of the Fanes. 
 ## Justice—The Broken Blade
 ![[Broken Blade.png]]
 A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.

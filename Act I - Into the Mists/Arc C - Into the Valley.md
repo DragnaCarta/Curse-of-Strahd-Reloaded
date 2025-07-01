@@ -57,6 +57,11 @@ The five figures are **zombies**. They also match the descriptions of the Lanste
 
 The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
 
+> [!info]+ **Undead Fortitude**
+> Revise each **zombie** ***undead fortitude*** feature to read as follows:
+>
+> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining. 
+
 If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
 # C2. River Ivlis Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
@@ -970,13 +975,13 @@ Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition,
 <p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
 <p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
 <p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
+<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
 </div>
 
 
-In combat, the **wolves** work together, using their ***Claws*** to knock characters prone, then using their ***Maul*** to grapple prone targets. Once the wolves have dragged a grappled character away from the party, the **werewolves** shift their attention to target them with its ***bite***. The first character targeted in this way notices that the werewolves are slightly larger than the other two and have intelligent, disturbingly human eyes.
+In combat, the **wolves** work together, using their ***Claws*** to knock characters prone, then using their ***Maul*** to grapple prone targets. Once the wolves have dragged a grappled character away from the party, the **werewolves** shift their attention to target them with its ***bite***. The first character targeted in this way notices that the werewolves are slightly larger than the other three and have intelligent, disturbingly human eyes.
 
 A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after. 
 

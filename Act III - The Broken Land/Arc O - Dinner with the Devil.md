@@ -125,6 +125,11 @@ If the players aid them in securing entry to Vallaki, Doru and Donavich are deep
 ## O3b. The Rider’s Guidance
 The journey from Vallaki to <span class="citation">I. Black Carriage (p. 37)</span> is eight and one-quarter miles long and takes two hours and forty-five minutes.
 
+As the players reach the stretch of road nearing Old Bonegrinder, a wolf pack emerges from the woods. True to Strahd's word, they show no aggression. Read:
+
+<div class="description">
+<p>The sound of howling ahead draws your attention. Further up the road, a pack of wolves emerges from the mist, their eyes gleaming. They pause, sniffing the air, noticing your presence on the path. Disinterested, they turn their heads away, before slinking nonchalantly into the forest.</p>
+
 Approximately one-quarter mile and five minutes before the players reach the western <span class="citation">B. Gates of Barovia (p. 33)</span>, if they didn’t kill the <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley]], they encounter it once again. Read:
 
 <div class="description">
@@ -188,6 +193,7 @@ The object in the nest is a small, old wooden box with a tarnished silver latch 
 > [!lore]+ **Katarina’s Legacy**
 > Katarina—Madam Eva’s alter ego—and her fellow servant Varushka often came to this outcropping together on free days when they served together in Castle Ravenloft. When she fled Strahd’s rampage on the day of his transformation into a vampire, Katarina came to this location first, hoping in vain that Varushka would meet her. It was here that Katarina first made her pact with the Seeker to become Madam Eva in exchange for an opportunity to one day put Strahd to rest and restore the sun to Barovia once more.
 ## O3c. The Black Carriage
+
 After passing through the western <span class="citation">B. Gates of Barovia (p. 33)</span>, the players arrive at the crossroads leading to Castle Ravenloft. Strahd’s black carriage is now present, and is as described in <span class="citation">I. Black Carriage (p. 37)</span>.
 
 As the players approach or move to pass the carriage, they notice a small parchment scroll tied to the inside handle of the carriage door. The scroll, which is tied with a blood-red ribbon and sealed with the familiar wax sigil of Castle Ravenloft, is written in Strahd’s handwriting and reads as follows:
@@ -1260,7 +1266,7 @@ At the time the players first arrive, this chamber is currently inhabited by a m
 </div>
 
 > [!info]+ **Memory of Strahd**
-> This memory of Strahd has the statistics described in <span class="citation">Strahd von Zarovich (p. 240)</span>, but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions and isn’t incapacitated, he loses one reaction instead.) He also gains the following reactions:
+> This memory of Strahd has the statistics described in <span class="citation">Strahd von Zarovich (p. 240)</span>, but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions, he loses one reaction instead.) He also gains the following reactions:
 >
 > * ***Move.*** In response to taking damage from a ranged spell or ability, Strahd moves up to his speed without provoking opportunity attacks toward the attacker.
 > * ***Unarmed Strike.*** In response to a character within 5 feet hitting or missing him with an attack, Strahd makes one ***unarmed strike***.
@@ -1407,7 +1413,7 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <p><strong><em>Papercut.</em></strong> Varushka tears the pages from the books in the Lounge and creates a whirlwind of slicing paper centered on a point she can see within 30 feet. Each creature in a 5-foot-radius, 15-foot-tall cylinder centered on that point must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) slashing damage.</p>
 <p><strong><em>Horrific Visage (1/day).</em></strong> Each non-undead creature within 60 feet of Varushka that can see her must succeed on a DC 15 Wisdom saving throw or be frightened until the start of Varushka’s next turn. If a target’s save fails by 5 or more, the target is also turned while frightened in this way. (A turned creature must take the Dash action and move away from the source of its fear by the safest available route on each of its turns, unless there is nowhere to move.)</p>
 <h3>Reactions</h3>
-<p>Varushka can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
+<p>Varushka can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
 <p><strong><em>Swap.</em></strong> In response to being targeted by an attack or spell, or by being placed in a spell’s area of effect, Varushka forces a creature she can see within 30 feet other than the attacker or caster to make a DC 15 Charisma saving throw. On a failure, she and the target switch places, and the target suffers the effects of the attack or spell instead.</p>
 <p><strong><em>Adhere.</em></strong> In response to being missed by a melee attack, Varushka forces the creature to make a DC 15 Strength saving throw. On a failure, the weapon or limb used in the attack is adhered to a nearby surface until the start of Varushka’s next turn.</p>
 <p><strong><em>Erupt (1/day).</em></strong> In response to being reduced to 0 hit points, Varushka forces each creature within 30 feet to succeed on a DC 15 Strength saving throw or take 11 (2d10) force damage and be pushed 20 feet away. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved and falls prone.</p>
@@ -1554,7 +1560,7 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <p><strong><em>Vampiric Mist.</em></strong> Tendrils of blood-red mist extrude from Varushka, touching each creature within 5 feet of her. A target must succeed on a DC 15 Constitution saving throw or take 9 (2d8) necrotic damage and have disadvantage on the next saving throw it makes before the start of Varushka’s next turn. Varushka regains hit points equal to half the damage taken (rounded up), and the target’s hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</p>
 <p><strong><em>Dark Whispers.</em></strong> Dissonant, mournful whispers fill the air around Varushka, forcing each creature within 30 feet to succeed on a DC 15 Wisdom saving throw or take 3 (1d6) psychic damage and gain disadvantage on the first attack roll or saving throw it makes before the start of Varushka’s next turn.</p>
 <h3>Reactions</h3>
-<p>Varushka can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
+<p>Varushka can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
 <p><strong><em>Misty Step.</em></strong> In response to taking damage, Varushka teleports up to 30 feet to an unoccupied space. She can then immediately make a <strong><em>life drain</em></strong> attack against a creature within reach.
 <p><strong><em>Calming Whispers.</em></strong> In response to a creature that she can see within 10 feet targeting her with an attack or spell, Varushka forces that creature to succeed on a DC 15 Wisdom saving throw. On a failure, the creature takes 5 (2d4) psychic damage and gains one level of exhaustion for the next minute. If the creature wasn’t already exhausted, it can repeat the saving throw at the end of each of its turns except this one, decreasing its exhaustion by one level on a success.
 </div>
