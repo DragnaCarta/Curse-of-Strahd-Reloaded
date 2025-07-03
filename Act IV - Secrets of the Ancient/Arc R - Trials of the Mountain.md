@@ -1341,7 +1341,7 @@ During the chase, the players’ NPC companions act as follows, modifying their 
 * **Ezmerelda.** Ezmerelda takes the Dash action each turn. If she runs out of Dashes, she casts *zephyr strike* as a bonus action, then uses her action to attack the "air" in front of her in order to increase her movement speed.
 * **Kasimir.** Kasimir casts _misty step_ as a bonus action each turn.
 
-If the players outrun the avalanche or escape it by magical means (e.g., flight), continue to [[#R5. Soldav]]. If the players sought refuge in the cave, continue to [[#R4k. The Ice Caves]].
+If the players outrun the avalanche or escape it by magical means (e.g., flight), continue to [[#R5. Soldav]]. If the players sought refuge in the cave, continue to [[#R4j. The Bodaks’ Lair]].
 
 > [!abstract]+ **Caught in the Avalanche**
 > If any players were caught in the avalanche and fell from the cliff to the precipice below, their bodies lie buried beneath 14 (4d6) feet of snow and debris. While buried in this way, a creature is blinded, restrained, deafened, and can’t breathe. (See <span class="citation">Suffocating (<em>Player’s Handbook</em>, p. 183)</span>.
@@ -1366,8 +1366,8 @@ If the players enter the cave, read:
 <p>The cave entrance leads to a small, rocky chamber no more than twenty feet across. A narrow natural corridor splits from the chamber’s right side, bending further into the depths of the mountain before winding out of sight.</p>
 </div>
 
-![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
-<span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
+![[Bodak_Lair_Labeled.jpg]]
+<span class="credit">"Bodak Lair" by DM Andy Maps. High resolution and unlabelled versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
 
 > [!lore]+ **The Bodaks**
 > Several decades ago, two siblings bearing amber shards named Cassius and Deirdre found their way through the Mists into Barovia. Their shards led them to the Amber Temple, where they accepted the dark gift of the vestige Sykane, the Soul Hungerer in order to resurrect their mother. Both succumbed to Sykane’s corruption, however, transforming into dark, twisted husks with the statistics of **bodaks** before they could escape the mountain or Mists. 
