@@ -1,4 +1,4 @@
-# Hotfix 2.1.0.4 (July 3, 2025)
+# Hotfix 2.1.0.4 (July 6, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Added an image of Argynvost's Ghost to [[Arc Q - A Shining Beacon]]
 * Added an updated, labelled image of Bodak's Lair to [[Arc R - Trials of the Mountain]]
