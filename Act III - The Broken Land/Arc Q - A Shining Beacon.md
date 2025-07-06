@@ -1047,6 +1047,9 @@ When a player first places Argynvost’s skull on an alcove in the mausoleum, re
 <p>Claws emerge first, then a serpentine torso half as long as the manor is tall, curving into a long, elegant neck crowned by a noble, horned head. Mighty wings extend from strong, stalwart shoulders, their ghostly scales shimmering with an ethereal silver light as they fill the sky above.</p>
 </div>
 
+![[Argynvost_transparent.png]]
+<span class="credit">"Argynvost's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 As Argynvost’s spirit appears, any phantom warriors fall to their knees and bow their heads before him. If still alive, Vladimir ceases his assault, dropping his greatsword to the ground as he stares upward in disbelief. Read:
 
 <div class="description">
