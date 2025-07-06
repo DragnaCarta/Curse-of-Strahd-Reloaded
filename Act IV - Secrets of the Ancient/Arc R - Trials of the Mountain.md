@@ -1366,8 +1366,10 @@ If the players enter the cave, read:
 <p>The cave entrance leads to a small, rocky chamber no more than twenty feet across. A narrow natural corridor splits from the chamber’s right side, bending further into the depths of the mountain before winding out of sight.</p>
 </div>
 
+![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+
 ![[Bodak_Lair_Labeled.jpg]]
-<span class="credit">"Bodak Lair" by DM Andy Maps. High resolution and unlabelled versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
+<span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
 
 > [!lore]+ **The Bodaks**
 > Several decades ago, two siblings bearing amber shards named Cassius and Deirdre found their way through the Mists into Barovia. Their shards led them to the Amber Temple, where they accepted the dark gift of the vestige Sykane, the Soul Hungerer in order to resurrect their mother. Both succumbed to Sykane’s corruption, however, transforming into dark, twisted husks with the statistics of **bodaks** before they could escape the mountain or Mists. 
