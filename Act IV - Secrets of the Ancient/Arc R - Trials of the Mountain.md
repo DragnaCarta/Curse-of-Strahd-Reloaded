@@ -1341,7 +1341,7 @@ During the chase, the players’ NPC companions act as follows, modifying their 
 * **Ezmerelda.** Ezmerelda takes the Dash action each turn. If she runs out of Dashes, she casts *zephyr strike* as a bonus action, then uses her action to attack the "air" in front of her in order to increase her movement speed.
 * **Kasimir.** Kasimir casts _misty step_ as a bonus action each turn.
 
-If the players outrun the avalanche or escape it by magical means (e.g., flight), continue to [[#R5. Soldav]]. If the players sought refuge in the cave, continue to [[#R4k. The Ice Caves]].
+If the players outrun the avalanche or escape it by magical means (e.g., flight), continue to [[#R5. Soldav]]. If the players sought refuge in the cave, continue to [[#R4j. The Bodaks’ Lair]].
 
 > [!abstract]+ **Caught in the Avalanche**
 > If any players were caught in the avalanche and fell from the cliff to the precipice below, their bodies lie buried beneath 14 (4d6) feet of snow and debris. While buried in this way, a creature is blinded, restrained, deafened, and can’t breathe. (See <span class="citation">Suffocating (<em>Player’s Handbook</em>, p. 183)</span>.
@@ -1367,6 +1367,8 @@ If the players enter the cave, read:
 </div>
 
 ![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+
+![[Bodak_Lair_Labeled.jpg]]
 <span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
 
 > [!lore]+ **The Bodaks**
