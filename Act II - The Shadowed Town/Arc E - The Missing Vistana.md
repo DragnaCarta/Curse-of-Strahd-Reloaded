@@ -373,6 +373,11 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 
 Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
+> [!Warning]+ Counterspell 2024
+> 
+> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
+
+
 Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
@@ -620,7 +625,7 @@ The scaffolding is as described in <span class="citation">V3. Rickety Scaffoldin
 <strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
 <strong>Languages</strong> Terran<br>
 <strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Proficiency Bonus</strong> +2<br>
 <hr>
 <p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
 <p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
@@ -743,7 +748,7 @@ Use the statblock below for the **werewolves**, rather than the one in the *Mons
 <strong>Senses</strong> darkvision, passive Perception 14<br>
 <strong>Languages</strong> Common (can't speak in wolf form)<br>
 <strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Proficiency Bonus</strong> +2<br>
 <hr>
 <p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
