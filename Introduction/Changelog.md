@@ -1,3 +1,19 @@
+# Patch 2.1.0.5 (July 22, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Added ***Close Quarters Fighter*** to all bosses, removing their disadvantage from ranged attacks whilst in melee
+* Added *abjure spell* to Victor's spellbook, an alternative to a 5th-level *counterspell* for those using 2024 rules.
+* Added a verbal component to Ezmerelda's *runeguard stone* in [[Arc K - The Fallen Abbey]]
+* Added Henrik to the castle cells in [[Arc P - Ravenloft Heist]], if he was imprisoned in Arc D
+* Added a zombie operating the rack in [[Arc P - Ravenloft Heist]]
+* Amended or removed various skill checks concerning the Abbot in [[Arc Q - A Shining Beacon]] to allow for justifiable social solutions to not get stuck behind a poor roll
+* Added reminders in arcs R and S for DMs to add the effects of *Beacon of Protection* to allies as well as PCs once the beacon is lit in [[Arc Q - A Shining Beacon]]
+* Clarified Godfrey's resonance level in [[Arc S - A Sword of Sunlight]]
+* Removed the outdated text regarding a lit *Sunsword* in the [[Arc T - The Three Fanes#T2c. The Tyrant’s Final Trial|Tyrant's Final Trial]]
+* Added further information on mechanics and roleplay advice for the carrionettes in [[Arc T - The Three Fanes]]
+* Ensured parity across descriptions of the *Spear of the Huntress* in [[Arc T - The Three Fanes]]
+* Added balancing information for combat in [[Arc U - Dreams of Dawn]]
+* Added a [[Bestiary]] for monster statblocks from throughout the guide
+* Added statblocks for various NPCs into [[Non-Player Characters]] 
 # Hotfix 2.1.0.4 (July 6, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Added an image of Argynvost's Ghost to [[Arc Q - A Shining Beacon]]

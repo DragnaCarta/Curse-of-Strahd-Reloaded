@@ -5,6 +5,9 @@ In this arc, after learning that the dusk elf Kasimir Velikov knows the location
 The players’ sole respite arrives in the form of Soldav, the hidden refuge of the Mountain Folk. There, the players learn that Strahd has desecrated the three Fanes of the valley—the Forest Fane of Yester Hill, the Swamp Fane in Berez, and the Mountain Fane near Old Bonegrinder—and, in doing so, claimed their power as his own.
 
 Should the players survive the final leg of their journey, they emerge before the great facade of the Amber Temple. Each night as they rest, however, Strahd pays them a personal visit, hoping to drain a victim’s blood and bring them closer to the abyss of vampirism. Can the players stop Strahd’s dark plans—or will one of them find themselves eternally chained to the grave?
+
+> [!warning]+ **Beacon of Protection**
+> Don’t forget: whilst Argynvost’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
 # R1. Recruiting Kasimir
 Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
@@ -676,9 +679,6 @@ In combat, the druids and berserkers act as follows:
 <strong>Armor Class</strong> 16 (natural armor)<br>
 <strong>Hit Points</strong> 120 (16d10 + 32)<br>
 <strong>Speed</strong> 30 ft.<br>
-<strong>Senses</strong> blindsight 300 ft. (blind beyond this radius), passive Perception 13<br>
-<strong>Challenge</strong> 5<br>
-<strong>Proficiency Bonus</strong> +3
 <hr>
 <table class="ability-table">
   <thead>
@@ -707,12 +707,13 @@ In combat, the druids and berserkers act as follows:
 <strong>Skills</strong> Perception +8, Nature +4<br>
 <strong>Senses</strong> blindsight 300 ft. (blind beyond this radius), passive Perception 13<br>
 <strong>Languages</strong> understands Common but can't speak, telepathic within 60 ft.<br>
+<strong>Challenge</strong> 5<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The triad casts <em>thorn whip</em> or <em>produce flame</em> twice.</p>
-<p><strong><em>Thorn Whip.</em></strong> The triad casts <em>thorn whip</em>, dealing 10 (3d6) piercing damage on a hit.</p>
-<p><strong><em>Produce Flame.</em></strong> The triad casts <em>produce flame</em>, dealing 13 (3d8) fire damage on a hit.</p>
+<p><strong><em>Thorn Whip.</em></strong> The triad casts <em>thorn whip</em> (+8 to hit), dealing 10 (3d6) piercing damage on a hit.</p>
+<p><strong><em>Produce Flame.</em></strong> The triad casts <em>produce flame</em> (+8 to hit), dealing 13 (3d8) fire damage on a hit.</p>
 <p><strong><em>Thunderwave.</em></strong> The triad casts <em>thunderwave</em> (DC 16) in a 20-foot cube. A creature that fails its saving throw takes 18 (4d8) thunder damage instead.</p>
 <p><strong><em>Blight (3/day).</em></strong> The triad casts <em>blight</em> (DC 16).</p>
 <p><strong><em>Wall of Fire (1/day, requires concentration).</em></strong> The triad casts <em>wall of fire</em> (DC 16).</p>

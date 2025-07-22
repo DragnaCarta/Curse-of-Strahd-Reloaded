@@ -362,7 +362,7 @@ To sneak through this area without disturbing the wolves, the players must succe
 <strong>Senses</strong> darkvision 60 ft., passive Perception 16<br>
 <strong>Languages</strong> Common (can't speak in wolf form)<br>
 <strong>Challenge</strong> 7, or 6 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +3<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
 <p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
