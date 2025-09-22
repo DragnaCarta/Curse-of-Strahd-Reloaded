@@ -345,7 +345,6 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Blood Frenzy.</em></strong> In response to taking damage, Strahd can move up to his speed toward the attacker and make an <strong><em>unarmed strike</em></strong> attack against it.</p> <!-- Lair Actions Section --> <h3>Lair Actions</h3> 
 <!-- Fane Lair Actions Section -->
 <p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Mountain Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p><strong><em>Change Weather (requires Mountain Fane).</em></strong> Strahd casts <em>control weather</em> as an action without concentration or components. When he does, he can change any number of weather conditions to any of the stages given.</p>
 <p> <strong><em>Call Lightning (requires Mountain Fane).</em></strong> Strahd casts or uses <em>call lightning</em> without components or concentration. Whenever he rolls lightning damage with this spell while outdoors in a storm, he deals maximum damage, instead of rolling.
 </div>

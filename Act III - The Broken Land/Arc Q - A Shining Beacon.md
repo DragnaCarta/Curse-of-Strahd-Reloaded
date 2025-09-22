@@ -40,14 +40,6 @@ The players can also travel from Berez to the town of Vallaki, Van Richten's Tow
 
 ***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
 
-> [!combat]- **Balancing the Old Svalich Road**
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
-> * Four Players. Reduce the number of scarecrows to one.
-> * Six Players. Increase the number of scarecrows to three.
-
-
 ***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
 
 ***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the east side of the portcullis.
@@ -93,6 +85,14 @@ If the players slept east of Vallaki after escaping Castle Ravenloft, such as in
 One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation">Corpse (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire wolves, while the third resembles whichever player has displeased Strahd the most.
 
 If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
+
+> [!combat]- **Balancing the Old Svalich Road**
+> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
+> * Four Players. Reduce the number of scarecrows to one.
+> * Six Players. Increase the number of scarecrows to three.
+
 #### Arrival in Vallaki
 Upon the players' arrival at Vallaki, the guards at the gate inform them that Baron Dmitri Krezkov of Krezk is awaiting them at the Blue Water Inn. If they venture there, the players can find Baron Krezkov in the taproom, sitting anxiously at the bar with an untouched drink as Danika attempts to comfort him. The scene then unfolds as described in [[#Q2a. A Dark Omen]].
 ## Journey to Krezk
@@ -1051,6 +1051,7 @@ When a player first places Argynvost’s skull on an alcove in the mausoleum, re
 </div>
 
 ![[Argynvost_transparent.png]]
+
 <span class="credit">"Argynvost's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 As Argynvost’s spirit appears, any phantom warriors fall to their knees and bow their heads before him. If still alive, Vladimir ceases his assault, dropping his greatsword to the ground as he stares upward in disbelief. Read:

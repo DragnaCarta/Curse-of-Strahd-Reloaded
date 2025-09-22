@@ -1475,7 +1475,7 @@ The players should have no reason to visit the grove of the Gulthias Tree at thi
 
 These megaliths demarcate the boundaries of the Forest Fane: the shrine to the Huntress of the Ladies Three.
 
-A large, cavernous hollow at the base of the Gulthias tree conceals a five-foot diameter stone of smooth, black onyx half-buried amidst the tree’s roots. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
+A character who inspects the eight carved megaliths finds the following animals’ images carved into their stone surfaces, moving clockwise from the north: bear, owl, goat, wolf, hawk, elk, panther, and raven.
 
 One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
 # J7. Return to the Winery

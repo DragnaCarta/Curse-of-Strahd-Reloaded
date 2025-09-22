@@ -1043,7 +1043,7 @@ Strahd’s eyebrows lift slightly, and he asks: "Do we have an understanding?"
 If the players subsequently exit the cave, he notes his "delight" that they have "seen sense." Proceed to [[#Strahd’s Questions]].
 
 > [!abstract]+ **The Collapsing Ice**
-> If the plates decline to invite Strahd inside, read:
+> If the players decline to invite Strahd inside, read:
 > 
 > <hr>
 >
@@ -1303,7 +1303,7 @@ Have the players roll initiative. Set the players’ starting location as follow
 * For each round that the players have walked toward the cave, they begin fifteen feet closer to the cave. (For example, if the players began walking upon hearing the crack, they begin eighty-five feet from the cave.)
 * For each round that the players have run toward the cave, they begin thirty feet closer to the cave. (For example, if the players began running upon hearing the crack, they begin seventy feet from the cave.)
 
-A player who succeeds on a DC 10 Intelligence (Perception) check predicts that the avalanche will likely impact a section of the road from three hundred feet behind them to two hundred feet ahead of them. A player who succeeds on a DC 10 Intelligence (Survival) check predicts that, due to the angle of the mountain above them, the cave is likely to provide a safe refuge from the avalanche’s path—though it’s likely that the avalanche will block off this entrance to the cave once it’s impacted.
+A player who succeeds on a DC 10 Intelligence (Investigation) check predicts that the avalanche will likely impact a section of the road from three hundred feet behind them to two hundred feet ahead of them. A player who succeeds on a DC 10 Intelligence (Survival) check predicts that, due to the angle of the mountain above them, the cave is likely to provide a safe refuge from the avalanche’s path—though it’s likely that the avalanche will block off this entrance to the cave once it’s impacted.
 
 > [!info]+ **Escaping the Avalanche**
 > Due to the width and placement of the avalanche, it can’t be escaped by fleeing in the direction the players came. To avoid it, the players must either seek refuge in the cave, outrun the avalanche, or escape the avalanche by magical means (e.g., flight).
@@ -1754,7 +1754,7 @@ If a player has a passive Wisdom (Perception) score of 15 or greater, add:
 <p>You catch a glimpse of several still, dark shadows beneath the ice of the frozen lake’s surface.</p>
 </div>
 
-The shadows are thirteen **forsaken warriors** (see below), and are placed as depicted in the map below, with orange representing solid earth, blue representing slippery ice, white representing thin ice, and green stars representing **forsaken warriors** beneath the ice:
+The shadows are thirteen **forsaken soldiers** (see below), and are placed as depicted in the map below, with orange representing solid earth, blue representing slippery ice, white representing thin ice, and green stars representing **forsaken soldiers** beneath the ice:
 
 ![[The Frozen Lake.png]]
 
@@ -1848,7 +1848,7 @@ When a player approaches the shrine, read:
 
 <div class="description">
 <p>Across the frozen stream, between and beneath the sources of the frozen waterfalls far above, this small, stone shrine appears to have been carved from the edge of the mountain face itself. Twin sets of stairs ascend to either side of a pentagonal platform, which bears a triangular altar that points southward, into the heart of the mountain itself.</p>
-<p>Along the top left and top right faces of the platform, a pair of smooth, seven-foot stone panels rises above the altar below. On the left panel, facing northeast, the proud sigil of the Morninglord’s sunburst stands carved into the stonework. On the right panel, facing northwest, is engraved a three-pointed star encircled by a series of nine smaller carvings.</p>
+<p>Along the top left and top right faces of the platform, a pair of smooth, seven-foot stone panels rises above the altar below. On the right panel, facing northeast, the proud sigil of the Morninglord’s sunburst stands carved into the stonework. On the left panel, facing northwest, is engraved a three-pointed star encircled by a series of nine smaller carvings.</p>
 <p>A set of footprints crosses the stream here, climbs the platform’s right stairs, then descends its left stairs, continuing through the snow beneath the left-side waterfall.</p>
 </div>
 
@@ -1918,7 +1918,7 @@ An elder shoosuva has the same statistics as an ordinary **shoosuva** (<span cla
 * It has a speed of 50 feet.
 * It has a Strength score of 20 and a Constitution score of 19.
 * Its has +10 to hit, and the DC of its tail stinger is 17.
-* The damage of its ***bite*** increases to 31 (4d12 + 4) and the damage of its tail stinger increases to 16 (2d10 + 5) piercing damage plus 14 (4d6) poison damage.
+* The damage of its ***bite*** increases to 31 (4d12 + 5) and the damage of its tail stinger increases to 16 (2d10 + 5) piercing damage plus 14 (4d6) poison damage.
 * The reach of its ***bite*** increases to 10 feet, and the reach of its ***tail stinger*** increases to 20 feet.
 * It gains the following additional action: ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one creature. *Hit:* 14 (2d8 + 5) slashing damage and the target must succeed on a DC 18 Strength saving throw or be knocked 5 feet away and fall prone.
 * It gains the following additional action: ***Fetid Cloud (1/day).*** The shoosuva exhales a cloud of foul-smelling yellow smoke in a twenty-foot cone. Each creature within that cone must succeed on a DC 17 Constitution saving throw or be poisoned until the end of the shoosuva’s next turn. While poisoned in this way, a creature is also blinded.
@@ -1998,7 +1998,7 @@ When the players enter the secret tunnel behind the frozen waterfall, read:
 As soon as Scorilo is able to, he attempts to pin the most threatening-looking player against one of the walls using the shaft of his spear. Have Scorilo attempt to grapple that player. Whether the grapple succeeds or fails, Scorilo snarls: "Why have you come here? Speak!"
 
 > [!abstract]+ **Como the Peacemaker**
-> if the players show any interest in attacking, the **berserkers** and **scouts** brandish and ready their weapons. Before any hostilities can break out, however, Como steps between any hostile parties and insists that he’s sure that they can "work out an understanding," adding that "any enemy of the Amber-Cursed is a friend of ours."
+> If the players show any interest in attacking, the **berserkers** and **scouts** brandish and ready their weapons. Before any hostilities can break out, however, Como steps between any hostile parties and insists that he’s sure that they can "work out an understanding," adding that "any enemy of the Amber-Cursed is a friend of ours."
 
 Whether the players answer Scorilo’s question or not, Scorilo growls: "The skies whisper ill omens, and you come waltzing in like lambs to slaughter—lambs with daggers, perhaps. Perhaps we should interrogate you properly, seize your weapons, and toss you back out for the mountain to deal with." 
 

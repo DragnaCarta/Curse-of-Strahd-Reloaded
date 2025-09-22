@@ -691,7 +691,7 @@ The first time a player picks up the *staff of frost*, if they did so at Vilnius
 ### West Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X36.</span>
 
-This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X36. Lower West Hall (p.194)</span>. However, if any player inspects their reflection, read:
+This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X36. Lower West Hall (p.194)</span>. However, remove the **death slaad**, and if any player inspects their reflection, read:
 
 <div class="description">
 <p>For a brief instant, a silhouette flickers across the reflection, mere inches behind yours.</p>
