@@ -1,4 +1,4 @@
-# Patch 2.1.0.5 (July 22, 2025)
+# Patch 2.1.0.5 (September 22, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Added ***Close Quarters Fighter*** to all bosses, removing their disadvantage from ranged attacks whilst in melee
 * Added *abjure spell* to Victor's spellbook, an alternative to a 5th-level *counterspell* for those using 2024 rules.
