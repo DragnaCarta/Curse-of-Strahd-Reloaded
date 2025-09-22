@@ -258,11 +258,11 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > Vallaki’s guard patrols are largely as described in <span class="citation">Town Gates (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
 
 > [!lore]+ **The Long Arm of Castle Ravenloft**
-> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
+> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky, Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
 >
-> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">Nrq. Storage Room (p. 114)</span>. 
+> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. 
 >
-> That night, the emissary used a *potion of waking slumber, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
+> That night, the emissary used a *potion of waking slumber*, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
 >
 > The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
 >
@@ -416,7 +416,6 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
     <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
     <h3>Bonus Actions</h3>
     <p><strong><em>Shapechange.</em></strong> Urwin polymorphs into a raven-humanoid hybrid or into a raven, or back into his human form. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts back to his human form if he dies.</p>
-    <h3>Reactions</h3>
 </div>
 
 > [!abstract]+ **The Third Gem**
@@ -586,6 +585,13 @@ This area is largely as described in <span class="citation">U1. Abandoned Cottag
 > - _**Three Players.**_ Remove the **hexwitches**.
 > - _**Four Players.**_ Reduce the number of **hexwitches** to one.
 > - _**Six Players.**_ Increase the number of **bogwitches** to three.
+
+Three ten-foot-wide passages lead from this chamber:
+
+* One to the northwest, which leads to [[#T3d. Town Green]]
+* One to the north, which leads to [[#T3a. Berez Outskirts]]
+* One to the southwest, which leads to [[#T3h. Goat Pen]]
+
 ## T3d. Town Green
 When the players enter this area, read:
 
@@ -1391,7 +1397,7 @@ The two pale figures are **vampire spawn**. Escher is a **vampire spawn** with t
 
 If the players don’t intervene or call attention to themselves, the conversation continues as follows:
 
-* Escher continues, speaking to Luvash: “As I’m sure you are away, his Grace can be a powerful friend—and an even more dangerous enemy. Should you hear word of him, Ravenloft would be in your debt. The activities of such a traitor can be dangerous, and my Lord wishes to see this man swiftly returned to custody, lest his dark nature endanger more of Barovia. I am sure you understand."
+* Escher continues, speaking to Luvash: “As I’m sure you are aware, his Grace can be a powerful friend—and an even more dangerous enemy. Should you hear word of him, Ravenloft would be in your debt. The activities of such a traitor can be dangerous, and my Lord wishes to see this man swiftly returned to custody, lest his dark nature endanger more of Barovia. I am sure you understand."
 * Luvash considers Escher’s words, then nods. “We are grateful for Count von Zarovich’s trust in our people. I assure you that I will look into this matter."
 * Escher smiles thinly. “You may be able to look into it sooner than you might think?" (Luvash raises an eyebrow, and Escher continues.) “We have a report," Escher says softly, “that a cloaked individual was recently seen entering one of your wagons." He pauses. “It is, unfortunately, all too common for our friends to undertake dangerous activities under our noses. Should you cooperate fully in this investigation, I assure you that you will be rewarded, and no harm will come to you or your community." 
 
@@ -1784,6 +1790,7 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 <h3>Reactions</h3>
 <p><strong><em>Parry.</em></strong> When Arturi is hit by a melee attack while wielding a weapon, he adds 2 to his AC against that attack, potentially causing it to miss.</p>
 </div>
+
 ### After the Storm
 At initiative count 0 of the tenth round of combat, read:
 
@@ -1872,7 +1879,7 @@ A player can claim their *boon of the Huntress* by grasping or touching it. If t
 >
 > ---
 >
-> Green flames burst across the spear’s shaft and blade, though the wood and stone remain untouched. The crystals across the cavern hum in warm recognition, and the air fills with a sense of fierce, triumphant joy. Slowly, the flames recede, then eventually vanish—but the spear remains warm to the touch.
+> Green flames burst across the spear’s shaft and blade, though the wood and stone remain untouched. The megaliths hum in warm recognition, and the air fills with a sense of fierce, triumphant joy. Slowly, the flames recede, then eventually vanish—but the spear remains warm to the touch.
 >
 > ---
 >

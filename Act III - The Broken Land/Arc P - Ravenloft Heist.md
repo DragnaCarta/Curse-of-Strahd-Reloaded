@@ -43,7 +43,7 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > 
 > > <span class="credit">"Van Richten's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
-> > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controlls the bridge."
+> > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controls the bridge."
 > > <span class="citation">K2. Center Court Gate (p. 54)</span>. “There are two side courtyards—one north, one south. The north was obstructed by a heavy, old portcullis, which I only barely managed to lift. I presume the south was as well."
 > > <span class="citation">K3. Servants’ Courtyard (p. 54)</span>. “The servants’ courtyard, I presume, complete with a servants’ entrance. The door sticks, so be careful should you need to flee through it in a hurry."
 > > <span class="citation">K4. Carriage House (p. 54)</span>. “I presume it holds Strahd’s carriage."
