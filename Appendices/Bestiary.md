@@ -1,6 +1,7 @@
 
 ### Animated Major Object
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Animated Major Object</h2>
@@ -47,6 +48,7 @@
 
 ### Animated Minor Object
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Animated Minor Object</h2>
@@ -93,6 +95,7 @@
 
 ### Castle Gargoyle
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Gargoyle</h2>
@@ -149,6 +152,7 @@
 
 ### Druid Assailant
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
     <h2>Druid Assailant</h2>
@@ -206,6 +210,7 @@
 
 ### Druid Naturalist
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
     <h2>Druid Naturalist</h2>
@@ -262,6 +267,7 @@
 
 ### Elder Twig Blight
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
     <h2>Elder Twig Blight</h2>
@@ -313,6 +319,7 @@
 
 ### Gargoyle
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Gargoyle</h2>
@@ -369,6 +376,7 @@
 
 ### Plague of Rats
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Plague of Rats</h2>
@@ -420,6 +428,7 @@
 
 ### Rootspike Triad
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Rootspike Triad</h2>
@@ -472,6 +481,7 @@
 
 ### Swarm of Twig Blights
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
     <h2>Swarm of Twig Blights</h2>
@@ -522,6 +532,7 @@
 
 ### Werewolf
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Werewolf</h2>
@@ -577,6 +588,7 @@
 
 ### Werewolf Brawler
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Werewolf Brawler</h2>
@@ -636,6 +648,7 @@
 
 ### Wight Commander
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Wight Commander</h2>
@@ -691,6 +704,7 @@
 
 ### Zombie
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
   <h2>Zombie</h2>
@@ -735,6 +749,7 @@
 
 ### Zombie Plague Spreader
 
+<div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
   <h2>Zombie, Plague Spreader</h2>
