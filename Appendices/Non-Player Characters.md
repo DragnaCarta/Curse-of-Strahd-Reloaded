@@ -190,8 +190,9 @@
 <strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency</strong> +3<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -310,8 +311,9 @@
 <strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency</strong> +3<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -511,6 +513,7 @@
 <strong>Challenge</strong> 8<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Ludmilla doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Devil’s Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>
 <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
@@ -574,6 +577,7 @@
 <strong>Challenge</strong> 8 (3,900 XP)<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Ludmilla doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -652,6 +656,7 @@
 <strong>Challenge</strong> 7 (2,900 XP)<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Anastrasya doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -779,6 +784,8 @@
 
 ***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikov, who was killed by her brother Kasimir).
 
+### Pre-Corruption
+
 <div class="statblock">
 <h2>Rahadin, Castle Chamberlain</h2>
 <em>Medium humanoid (elf), lawful evil</em>
@@ -817,8 +824,9 @@
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 14<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Proficiency Bonus</strong> +5<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
 <p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
@@ -834,7 +842,7 @@
 <p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
 <p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
@@ -881,7 +889,7 @@
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Proficiency Bonus</strong> +5<br>
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
@@ -895,11 +903,134 @@
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
 <p><strong><em>Amulet of Ravenloft (1/day, Castle Ravenloft only).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
+</div>
+
+### Post-Corruption
+<div class="statblock">
+<h2>Rahadin, Amber-Touched</h2>
+<em>Medium humanoid (elf), lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 18 (studded leather)
+<br>
+<strong>Hit Points</strong> 180 (24d8 + 72)
+<br>
+<strong>Speed</strong> 35 ft., fly 35 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14 (+2)</td>
+      <td>22 (+6)</td>
+      <td>17 (+3)</td>
+      <td>15 (+2)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +12, Wis +9<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Resistances</strong> bludgeoning, piercing, and slashing damage
+<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 19<br>
+<strong>Proficiency Bonus</strong> +6<br>
+<hr>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
+<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
+<h3>Reactions</h3>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Rahadin is hit by a melee or ranged attack, fails a Dexterity saving throw, or takes damage from <em>magic missile</em>. <strong>Effect:</strong> Rahadin adds +6 to his Armor Class against that attack or to the result of his saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> <strong>Trigger:</strong> An enemy misses Rahadin with a melee attack. <strong>Effect:</strong> Rahadin moves up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+</div>
+
+<div class="statblock">
+<h2>Rahadin, the Corrupted</h2>
+<em>Medium humanoid (elf), lawful evil</em>
+<hr>
+<strong>Armor Class</strong> 18 (studded leather)
+<br>
+<strong>Hit Points</strong> 225 (30d8 + 90)
+<br>
+<strong>Speed</strong> 35 ft., fly 60 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18 (+4)</td>
+      <td>22 (+6)</td>
+      <td>17 (+3)</td>
+      <td>15 (+2)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +12, Wis +9<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Resistances</strong> bludgeoning, cold, fire, lightning, piercing, and slashing damage
+<strong>Immunities</strong> poison, charmed, frightened, poisoned
+<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 19<br>
+<strong>Proficiency Bonus</strong> +6<br>
+<hr>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Magic Resistance.</em></strong> Rahadin has advantage on saving throws against spells and other magical effects.</p>
+<p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede Rahadin’s darkvision.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
+<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
+<p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
+<p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
+<p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
+<h3>Reactions</h3>
+<p>Rahadin can take up to five reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Claws.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 5 feet of Rahadin. <strong>Effect:</strong> Rahadin attacks that creature with his claws.</p>
+<p><strong><em>Rampage.</em></strong> <strong>Trigger:</strong> Rahadin reduces a creature to 0 hit points with a melee attack. <strong>Effect:</strong> Rahadin can move up to half his speed and make one attack.</p></strong>
 </div>
 
 ## Cyrus Belview
@@ -934,6 +1065,125 @@
 ***Morale.*** If attacked, or if Doru were threatened, Gertruda would immediately grab the nearest weapon and attempt to defend herself and her loved ones.
 
 ***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of Ireena Kolyana.
+
+## Varushka
+
+<div class="statblock">
+<h2>Varushka, Nightmare Maid</h2>
+<em>Medium undead, chaotic evil</em>
+<hr>
+<strong>Armor Class</strong> 13
+<br>
+<strong>Hit Points</strong> 157 (21d8 + 63)
+<br>
+<strong>Speed</strong> 0 ft., fly 60 ft. (hover)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6 (-2)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>12 (+1)</td>
+      <td>14 (+2)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Wis +6<br>
+<strong>Damage Immunities</strong> poison<br>
+<strong>Condition Immunities</strong> charmed, grappled, exhaustion, paralyzed, petrified, poisoned, restrained<br>
+<strong>Senses</strong> Darkvision 60 ft.<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 8<br>
+<strong>Proficiency Bonus</strong> +4<br>
+<hr>
+<p><strong><em>Incorporeal Movement.</em></strong> Varushka can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
+<p><strong><em>Overwhelming Despair.</em></strong> When Varushka drops to 0 hit points, her sclera darken and a shroud of swirling mist and whispering shadows surrounds her. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Varushka uses <strong><em>warp flesh</em></strong> twice. She can replace one or both with <strong><em>animate minor object.</em></strong></p>
+<p><strong><em>Animate Minor Object.</em></strong> Varushka animates an undamaged Small or Medium object she can see within 30 feet for 1 minute or until the object is destroyed. The object becomes an <strong>animated minor object</strong> (see below). It acts on Varushka’s initiative, but takes its turn immediately after hers</p>
+<p><strong><em>Animate Major Object (1/day).</em></strong> Varushka animates an undamaged Large object she can see within 30 feet for 1 minute or until the object is destroyed. The object becomes an <strong>animated major object</strong> (see below). It acts on Varushka’s initiative, but takes its turn immediately after hers.</p>
+<p><strong><em>Warp Flesh.</em></strong> Varushka forces one creature she can see within 30 feet to make a DC 15 Charisma saving throw. On a failure, the target takes 12 (2d8 + 3) necrotic damage and Varushka can cause its arms or legs to warp grotesquely until the start of her next turn. (A creature with warped arms can’t crawl, makes weapon attacks with disadvantage, and must succeed on a DC 15 Constitution saving throw each time it attempts to cast a spell with somatic components or lose the spell. A creature with warped legs falls prone.)</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Stonemelt.</em></strong> Varushka turns the floor around her within 5 feet into quicksand (Dungeon Master’s Guide, p. 110) for 1 minute. A 5-foot square area turned into quicksand in this way immediately ceases to be quicksand if no creature is sunk into it.</p>
+<p><strong><em>Papercut.</em></strong> Varushka tears the pages from the books in the Lounge and creates a whirlwind of slicing paper centered on a point she can see within 30 feet. Each creature in a 5-foot-radius, 15-foot-tall cylinder centered on that point must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) slashing damage.</p>
+<p><strong><em>Horrific Visage (1/day).</em></strong> Each non-undead creature within 60 feet of Varushka that can see her must succeed on a DC 15 Wisdom saving throw or be frightened until the start of Varushka’s next turn. If a target’s save fails by 5 or more, the target is also turned while frightened in this way. (A turned creature must take the Dash action and move away from the source of its fear by the safest available route on each of its turns, unless there is nowhere to move.)</p>
+<h3>Reactions</h3>
+<p>Varushka can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Varushka can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Swap.</em></strong> In response to being targeted by an attack or spell, or by being placed in a spell’s area of effect, Varushka forces a creature she can see within 30 feet other than the attacker or caster to make a DC 15 Charisma saving throw. On a failure, she and the target switch places, and the target suffers the effects of the attack or spell instead.</p>
+<p><strong><em>Adhere.</em></strong> In response to being missed by a melee attack, Varushka forces the creature to make a DC 15 Strength saving throw. On a failure, the weapon or limb used in the attack is adhered to a nearby surface until the start of Varushka’s next turn.</p>
+<p><strong><em>Erupt (1/day).</em></strong> In response to being reduced to 0 hit points, Varushka forces each creature within 30 feet to succeed on a DC 15 Strength saving throw or take 11 (2d10) force damage and be pushed 20 feet away. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved and falls prone.</p>
+</div>
+
+<div class="statblock">
+<h2>Varushka, Soul of Despair</h2>
+<em>Medium undead, chaotic evil</em>
+<hr>
+<strong>Armor Class</strong> 13
+<br>
+<strong>Hit Points</strong> 157 (21d8 + 63)
+<br>
+<strong>Speed</strong> 0 ft., fly 60 ft. (hover)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6 (-2)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>12 (+1)</td>
+      <td>14 (+2)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Wis +6<br>
+<strong>Damage Immunities</strong> poison<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, paralyzed, petrified, poisoned<br>
+<strong>Senses</strong> Darkvision 60 ft.<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 10<br>
+<strong>Proficiency Bonus.</strong> +4<br>
+<hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Varushka doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Incorporeal Movement.</em></strong> Varushka can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Varushka makes two attacks with her <strong><em>life drain</em></strong> and/or <strong><em>mist garrote</em></strong> attacks.</p>
+<p><strong><em>Life Drain.</em></strong>  <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one creature. <em>Hit:</em> 10 (2d6 + 3) necrotic damage and Varushka forces the target to make a DC 15 Constitution saving throw. On a failure, the target falls prone and its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
+<p><strong><em>Mist Garrotte.</em></strong>  <em>Ranged Weapon Attack:</em> +7 to hit, range 30 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage and the target must succeed on a DC 15 Constitution saving throw or rise vertically 10 feet and remain suspended there until the start of Varushka’s next turn. While suspended, the target’s speed is 0 and it can’t speak or cast a spell that includes a verbal component.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Vampiric Mist.</em></strong> Tendrils of blood-red mist extrude from Varushka, touching each creature within 5 feet of her. A target must succeed on a DC 15 Constitution saving throw or take 9 (2d8) necrotic damage and have disadvantage on the next saving throw it makes before the start of Varushka’s next turn. Varushka regains hit points equal to half the damage taken (rounded up), and the target’s hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</p>
+<p><strong><em>Dark Whispers.</em></strong> Dissonant, mournful whispers fill the air around Varushka, forcing each creature within 30 feet to succeed on a DC 15 Wisdom saving throw or take 3 (1d6) psychic damage and gain disadvantage on the first attack roll or saving throw it makes before the start of Varushka’s next turn.</p>
+<h3>Reactions</h3>
+<p>Varushka can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Varushka can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Misty Step.</em></strong> In response to taking damage, Varushka teleports up to 30 feet to an unoccupied space. She can then immediately make a <strong><em>life drain</em></strong> attack against a creature within reach.
+<p><strong><em>Calming Whispers.</em></strong> In response to a creature that she can see within 10 feet targeting her with an attack or spell, Varushka forces that creature to succeed on a DC 15 Wisdom saving throw. On a failure, the creature takes 5 (2d4) psychic damage and gains one level of exhaustion for the next minute. If the creature wasn’t already exhausted, it can repeat the saving throw at the end of each of its turns except this one, decreasing its exhaustion by one level on a success.
+</div>
 
 # Old Bonegrinder
 
@@ -996,6 +1246,7 @@
 <strong>Proficiency Bonus.</strong> +5<br>
 <hr>
 <p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
+<p><strong><em>Close Quarters Fighter.</em></strong> The coven doesn't have disadvantage on their ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
 <p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
@@ -1107,6 +1358,58 @@
 ***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
 
 ***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of Davian Martikov, and the beloved older brother of Adrian, Elvir, and Stefnia Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the Keepers of the Feather.
+
+<div class="statblock">
+    <h2>Urwin Martikov</h2>
+    <em>Medium humanoid (human, shapechanger), lawful good</em>
+    <hr>
+    <strong>Armor Class</strong> 15 (studded leather armor) (16 with <strong><em>Beacon of Protection</strong></em>)
+    <br>
+    <strong>Hit Points</strong> 63 (14d8)
+    <br>
+    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <hr>
+    <table class="ability-table">
+        <thead>
+            <tr>
+                <th>STR</th>
+                <th>DEX</th>
+                <th>CON</th>
+                <th>INT</th>
+                <th>WIS</th>
+                <th>CHA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10 (+0)</td>
+                <td>16 (+3)</td>
+                <td>11 (+0)</td>
+                <td>13 (+1)</td>
+                <td>15 (+2)</td>
+                <td>14 (+2)</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <strong>Skills</strong> Insight +4, Perception +6<br>
+    <strong>Senses</strong> passive Perception 16<br>
+    <strong>Languages</strong> Common (can't speak in raven form)<br>
+    <strong>Challenge Rating</strong> 2<br>
+    <strong>Proficiency Bonus</strong> +2
+    <hr>
+    <p><strong><em>Regeneration.</em></strong> Urwin regains 10 hit points at the start of his turn if he hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since his last turn. He dies only if he starts his turn with 0 hit points and doesn't regenerate.</p>
+    <p><strong><em>Mimic.</em></strong> Urwin can mimic simple sounds he has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
+    <h3>Actions</h3>
+    <p><strong><em>Multiattack.</em></strong> Urwin makes two weapon attacks, one of which can be with his heavy crossbow.</p>
+    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+    <p><strong><em>Heavy Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 100/400 ft., one target. <em>Hit:</em> 8 (1d10 + 3) piercing damage.</p>
+    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
+    <h3>Bonus Actions</h3>
+    <p><strong><em>Shapechange.</em></strong> Urwin polymorphs into a raven-humanoid hybrid or into a raven, or back into his human form. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts back to his human form if he dies.</p>
+    <h3>Reactions</h3>
+</div>
+
 #### Danika Dorakova
 **Roleplaying Information**
 ***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
@@ -1394,7 +1697,9 @@
 <strong>Senses</strong> passive Perception 12<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Izek doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
@@ -1404,7 +1709,7 @@
 <p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
 <p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
 <h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If Izek would lose his reactions, he loses one reaction instead.</p>
+<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
@@ -1451,6 +1756,7 @@
 <strong>Senses</strong> passive Perception 12<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 6 or 5 if poisoned<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
@@ -1461,7 +1767,7 @@
 <p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
 <p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
 <h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If Izek would lose his reactions, he loses one reaction instead.</p>
+<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
 <p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
@@ -1578,6 +1884,129 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 ***Morale.*** In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
 
 ***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of Baron Vargas Vallakovich.
+
+### Gallows Speaker
+
+<div class="statblock">
+<h2>Speaker of the Gallows</h2>
+<em>Medium undead, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 13
+<br>
+<strong>Hit Points</strong> 157 (35d8)
+<br>
+<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8 (-1)</td>
+      <td>16 (+3)</td>
+      <td>10 (+0)</td>
+      <td>10 (+0)</td>
+      <td>12 (+1)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
+<strong>Skills</strong> Perception +5<br>
+<strong>Damage Immunities</strong> necrotic, poison<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
+<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
+<strong>Languages</strong> Abyssal, Common<br>
+<strong>Challenge</strong> CR 11<br>
+<strong>Proficiency Bonus</strong> +4<br>
+<hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> The gallows speaker doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
+<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
+<p><strong><em>Foretelling Touch.</em></strong> <em>Melee Spell Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</p>
+<p><strong><em>Will-o'-Wisp.</em></strong> <em>Ranged Spell Attack:</em> +8 to hit, range 30 ft., one creature. <em>Hit:</em> 13 (3d8) necrotic damage.</p>
+<p><strong><em>Deathly Visions.</em></strong> The gallows speaker forces a creature that it can see within 30 feet to make a DC 16 Wisdom saving throw, flooding its mind with terrifying images of its own violent death. On a failure, that creature is paralyzed until the start of the gallows speaker’s next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
+<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
+<h3>Reactions</h3>
+<p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
+<p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
+</div>
+<br>
+<div class="statblock">
+<h2>Ba’al Verzi Avenger</h2>
+<em>Medium undead, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 13
+<br>
+<strong>Hit Points</strong> 157 (35d8)
+<br>
+<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8 (-1)</td>
+      <td>16 (+3)</td>
+      <td>10 (+0)</td>
+      <td>10 (+0)</td>
+      <td>12 (+1)</td>
+      <td>18 (+4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
+<strong>Skills</strong> Perception +5<br>
+<strong>Damage Immunities</strong> necrotic, poison<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
+<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
+<strong>Languages</strong> Abyssal, Common<br>
+<strong>Challenge</strong> CR 11<br>
+<strong>Proficiency Bonus</strong> +4<br>
+<hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> The gallows speaker doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
+<p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
+<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it. The gallows speaker doesn't gain disadvantage on an attack roll made with this attack due to being within 5 feet of a hostile creature.</p>
+<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
+<h3>Reactions</h3>
+<p>The avenger can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
+<p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
+<p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
+</div>
+
 # Village of Krezk
 ## Baron Dmitri Krezkov
 **Roleplaying Information.**
@@ -1735,6 +2164,7 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Ithuriel doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Innate Spellcasting.</em></strong> Ithuriel's spellcasting ability is Charisma (spell save DC 19). He can innately cast the following spells, requiring only verbal components:<br>
 At will: detect evil and good<br>
 1/day each: commune, raise dead</p>
@@ -1751,7 +2181,7 @@ At will: detect evil and good<br>
 <p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>
 <p><strong><em>Sacred Radiance (1/day).</em></strong> Ithuriel's form bursts with divine light. Each creature that can see him within 20 feet must succeed on a DC 18 Constitution saving throw or take 14 (4d6) radiant damage. A creature that fails the saving throw by 5 or more is also blinded until the start of Ithuriel's next turn. A creature that fails the saving throw by 10 or more is also charmed by Ithuriel until the start of his next turn. While charmed in this way, the creature must fall prone to grovel before Ithuriel at the start of its turn, then immediately end its turn.</p>
 <h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions, he loses one reaction instead.</p>
+<p>Ithuriel can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Punish.</em></strong> In response to an enemy hitting or missing him with a melee attack, Ithuriel makes a <strong><em>palm</em></strong> attack against it. 
 <p><strong><em>Descend.</em></strong> In response to hitting an enemy with a Palm attack or Punish reaction, if Ithuriel has grappled that enemy and is at least 40 feet in the air, he can then move up to his speed toward the ground without provoking opportunity attacks and force the target to make a DC 17 Strength saving throw. On a failure, the target falls prone, it takes 3 (1d6) bludgeoning damage per 10 feet fallen, and Ithuriel can use up to his remaining movement, if any, to push it in a straight line in any direction while grinding it against the earth, dealing an additional 2 (1d4) bludgeoning damage per 10 feet moved along the ground. (This movement doesn't provoke opportunity attacks.)</p>
@@ -1802,6 +2232,7 @@ At will: detect evil and good<br>
 <strong>Challenge</strong> 16<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Ithuriel doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
@@ -1813,7 +2244,7 @@ At will: detect evil and good<br>
 <p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
 <p><strong><em>Eclipse Beam (Recharge 5-6).</em></strong> Ithuriel exhales a burst of brilliant radiance and shadowy mirk in a 30-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 9 (2d8) radiant damage plus 9 (2d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions, he loses one reaction instead.</p>
+<p>Ithuriel can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Tail.</em></strong> In response to being missed or hit by a melee attack, Ithuriel makes the following attack against the attacker: <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage and the target must make a DC 19 Strength saving throw. On a failure, Ithuriel can either knock it prone or push it up to 5 feet away (Ithuriel's choice). </p>
 <p><strong><em>Wings (1/round).</em></strong> In response to a creature he can see completing a spell, making an attack, or moving to a space within 60 feet of him, Ithuriel beats his wings, forcing each creature within 5 feet of him to succeed on a DC 19 Strength saving throw or be pushed 5 feet away and knocked prone. Ithuriel can then fly up to his speed toward the original creature without triggering opportunity attacks.</p>
@@ -1887,6 +2318,7 @@ When roleplaying the Martikov family, keep the following information in mind:
 
 ## Kiril Stoyanovich
 
+
 <div class="statblock">
 <h2>Kiril, Werewolf Alpha</h2>
 <em>Large Monstrosity (Shapechanger), Chaotic Evil</em>
@@ -1924,10 +2356,10 @@ When roleplaying the Martikov family, keep the following information in mind:
 <strong>Senses</strong> passive Perception 14<br>
 <strong>Languages</strong> Common (can’t speak in dire wolf form)<br>
 <strong>Challenge</strong> 18, or 16 without his regeneration<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Proficiency Bonus</strong> +5<br>
 <hr>
 <strong>
-<p>strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn
+<p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
 <h3>Actions</h3>
@@ -1940,7 +2372,7 @@ When roleplaying the Martikov family, keep the following information in mind:
 <p><strong><em>Savage Frenzy.</em></strong> Kiril leaps up to his speed without triggering opportunity attacks. Each creature within 5 feet of him must then make a DC 17 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.
 <p><strong><em>Shapechange.</em></strong> Kiril polymorphs into his human form or into a dire wolf, or back into his true form (a wolf-humanoid hybrid). His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his human form if he dies.</p>
 <h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions, he loses one reaction instead.</p>
+<p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Pounce.</em></strong>  In response to a creature moving within 30 feet, Kiril moves up to his speed toward it without triggering opportunity attacks.</p>
 <p><strong><em>Claw.</em></strong> In response to being missed by an attack made by a creature within 5 feet, Kiril attacks that creature with his claws.</p>
@@ -1985,7 +2417,7 @@ When roleplaying the Martikov family, keep the following information in mind:
 <strong>Senses</strong> passive Perception 14<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 18, or 16 without his regeneration<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Proficiency Bonus</strong> +5<br>
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
@@ -1999,7 +2431,7 @@ When roleplaying the Martikov family, keep the following information in mind:
 <p><strong><em>Nightmare Howl.</em></strong> Each creature within 60 feet of Kiril that can hear him must succeed on a DC 17 Wisdom saving throw. On a failure, a creature takes 5 (2d4) psychic damage and is frightened until the start of Kiril's next turn. If a target's saving throw is successful, the target can’t be frightened by Kiril's Nightmare Howl for the next 24 hours.</p>
 <p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions, he loses one reaction instead.</p>
+<p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 18 Strength saving throw or fall prone.</p>
 <p><strong><em>Rend.</em></strong> In response to a creature moving within his reach, Kiril attacks it with his claws. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
@@ -2121,7 +2553,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
 <strong>Languages</strong> Common, Draconic<br>
 <strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5
+<strong>Proficiency Bonus</strong> +5
 <hr>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
@@ -2135,7 +2567,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
 <p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
 <h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions, he loses one reaction instead.</p>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
 <p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
@@ -2151,7 +2583,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <strong>Hit Points</strong> 228 (24d8 + 120)<br>
 <strong>Speed</strong> 30 ft.<br>
 <strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Proficiency Bonus</strong> +5<br>
 <hr>
 <table class="ability-table">
   <thead>
@@ -2179,13 +2611,14 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
 <strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
 <strong>Damage Resistances</strong> necrotic, psychic<br>
-<strong>Damage Immunities</strong> Poison<br>
-<strong>Condition Immunities</strong> Charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
+<strong>Damage Immunities</strong> poison<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
 <strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
 <strong>Languages</strong> Common, Draconic<br>
 <strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5
+<strong>Proficiency Bonus</strong> +5
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Vladimir doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
 <p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
 <p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
@@ -2198,9 +2631,399 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
 <p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
 <h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions, he loses one reaction instead.</p>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
 <p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
+</div>
+
+# Amber Temple
+
+## Vilnius
+
+<div class="statblock">
+<h2>Vilnius, First Prisoner</h2>
+<em>Medium undead, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 12  
+<br>
+<strong>Hit Points</strong> 105 (14d8 + 42)  
+<br>
+<strong>Speed</strong> 30 ft.  
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6 (-2)</td>
+      <td>18 (+4)</td>
+      <td>16 (+3)</td>
+      <td>18 (+4)</td>
+      <td>14 (+2)</td>
+      <td>14 (+2)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Skills</strong> Arcana +8, Stealth +8  
+<br>
+<strong>Damage Vulnerabilities</strong> radiant  
+<br>
+<strong>Damage Resistances</strong> acid, cold, fire, lightning, thunder  
+<br>
+<strong>Damage Immunities</strong> necrotic, poison  
+<br>
+<strong>Condition Immunities</strong> exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
+<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
+<br>
+<strong>Languages</strong> Common, Abyssal  
+<br>
+<strong>Challenge</strong> 9 (5,000 XP)  
+<strong>Proficiency Bonus</strong> +4  <br>
+<hr>
+<p><strong><em>Amorphous.</em></strong> Vilnius can move through a space as narrow as 1 inch without expending extra movement to do so.</p>
+<p><strong><em>Illusionist Prodigy.</em></strong> Vilnius can concentrate on up to five spells at a time, provided all spells are of the illusion school. If he would lose concentration on one, he loses concentration on all of them.</p>
+<p><strong><em>Shadowed Restoration.</em></strong> If killed, Vilnius reforms in 24 hours if Jakarion is still alive, reviving with all his hit points. His new body appears in an unoccupied space within the Lecture Hall.</p>
+<p><strong><em>Find Familiar.</em></strong> Vilnius can cast <em>find familiar</em> as a ritual without components.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Vilnius makes two attacks with his dagger and casts *major image* or *phantasmal force* twice.</p>
+<p><strong><em>Dagger.</em></strong> Melee or Ranged Weapon Attack: <span class="highlight">+8 to hit</span>, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> <span class="highlight">6 (1d4 + 4)</span> piercing damage plus <span class="highlight">21 (6d6) necrotic damage</span>, and the target must succeed on a <span class="highlight">DC 16 Constitution saving throw</span> or be <span class="highlight">poisoned</span> until the end of its next turn.</p>
+<p><strong><em>Phantasmal Force.</em></strong> Vilnius casts <em>phantasmal force</em>. A creature that fails its saving throw against the spell can repeat the saving throw at the end of each of its turns.</p>
+<p><strong><em>Major Image.</em></strong> Vilnius casts <em>major image</em>.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Blur.</em></strong> Vilnius casts <em>blur</em>.</p>
+<p><strong><em>Mirror Image.</em></strong> Vilnius casts <em>mirror image</em>. The spell lasts for 1 minute or until Vilnius loses his concentration.</p>
+<h3>Reactions</h3>
+<p><strong><em>Illusionist’s Trick.</em></strong> <em>Trigger:</em> A creature attacks or casts a spell targeting Vilnius, one of his allies, or an illusion resembling them. <em>Response:</em> If the target is an illusion identical to one of Vilnius’s allies, or an ally identical to one of his illusions, the two swap places, as though teleported by a <em>misty step</em> spell.</p>
+<p><strong><em>Horrifying Visage (1/Day).</em></strong> <em>Trigger:</em> Vilnius takes damage from a creature he can see. <em>Effect:</em> Each non-undead creature of Vilnius’s choice within <span class="highlight">30 feet</span> must make a <span class="highlight">DC 16 Wisdom saving throw</span> or be <span class="highlight">frightened</span> for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
+</div>
+
+## Patrina
+
+<div class="statblock">
+<h2>Patrina, Vengeful Wraith</h2>
+<em>Medium undead, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 13  
+<br>
+<strong>Hit Points</strong> 285 (38d8 + 48)  
+<br>
+<strong>Speed</strong> 5 ft., fly 60 ft. (hover)  
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6 (-2)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>21 (+5)</td>
+      <td>14 (+2)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Con +9, Int +11, Wis +8, Cha +9  
+<br>
+<strong>Skills</strong> Arcana +17, History +11, Insight +8, Perception +8  
+<br>
+<strong>Damage Resistances</strong> acid; cold; fire; bludgeoning, piercing, and slashing from nonmagical weapons  
+<br>
+<strong>Damage Immunities</strong> necrotic, poison  
+<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
+<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 18  
+<br>
+<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
+<br>
+<strong>Challenge</strong> 18 (20,000 XP)  
+<strong>Proficiency Bonus</strong> +6  
+<hr>
+<p><strong><em>Incorporeal Movement.</em></strong> Patrina can move through other creatures and objects as if they were difficult terrain. She takes <span class="highlight">5 (1d10) force damage</span> if she ends her turn inside an object.</p>
+<p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, Patrina has <span class="highlight">disadvantage</span> on ability checks and attack rolls.</p>
+<p><strong><em>Dark Embodiment.</em></strong> When Patrina is reduced to <span class="highlight">0 hit points</span>, all amber sarcophagi within <span class="highlight">60 feet</span> of her extrude tendrils of shadowed mist, which she inhales. Her ethereal form then grows solid, forming pale, undead flesh and sunken amber eyes. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form. She can immediately use her <strong><em>soul weapon</em></strong> feature.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Patrina makes two attacks, only one of which can be an <strong><em>amber tentacle</em></strong> attack, and can use <strong><em>charm wielder</em></strong> once.</p>
+<p><strong><em>Amber Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target within 15 feet of one of the walls in <span class="citation">X42. Amber Vault</span>. <strong>Hit:</strong> <span class="highlight">19 (2d12 + 6) bludgeoning damage</span>, and the target must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">grappled</span> (escape DC 19) or <span class="highlight">pushed 10 feet away</span> (Patrina’s choice). If the target fails the save by <span class="highlight">10 or more</span>, it also <span class="highlight">falls prone</span>.</p>
+<p><strong><em>Corrupting Touch.</em></strong> <em>Melee Spell Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (4d6 + 2) necrotic damage.</p>
+<p><strong><em>Charm Wielder.</em></strong> Patrina forces the creature possessing the <em>Sunsword</em> to succeed on a <span class="highlight">DC 19 Charisma saving throw</span> or be <span class="highlight">charmed</span> by her for <span class="highlight">1 minute</span>. While charmed, the creature must try to follow Patrina’s commands. If the creature takes damage, it can repeat the saving throw, ending the effect on a success. The effect ends if the creature no longer possesses the <em>Sunsword</em>.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Animate Golems (1/Day).</em></strong> Patrina summons shards of amber from X40, Sealed Treasury, and shapes them into two <strong>amber constructs</strong>. An amber construct acts on Patrina’s initiative, but takes its turn immediately after hers.</p>
+<p><strong><em>Conjure Sarcophagi.</em></strong> Hollow amber sarcophagi spring into existence around each creature of Patrina’s choice within <span class="highlight">5 feet</span> of Patrina or a point she can see within <span class="highlight">30 feet</span>. Each creature must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or be entrapped within its sarcophagus. Each sarcophagus has <span class="highlight">AC 15</span>, <span class="highlight">15 hit points</span>, and immunity to poison and psychic damage.</p>
+<h3>Reactions</h3>
+<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot of 1st level or higher and add the spell slot’s level to the level of the spell it cast. If the result is <span class="highlight">4 or more</span>, the creature can make a <span class="highlight">DC 19 saving throw</span> using its spellcasting ability, gaining a bonus to its saving throw equal to the result. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
+<p><strong><em>Ghostly Walk.</em></strong> <strong>Trigger:</strong> A creature Patrina can see within <span class="highlight">60 feet</span> of her ends its turn. <strong>Effect:</strong> Patrina moves up to her speed toward or away from that creature without provoking opportunity attacks.</p>
+<p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
+</div>
+
+
+<div class="statblock">
+<h2>Patrina, Half-Lich</h2>
+<em>Medium undead, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 20  
+<br>
+<strong>Hit Points</strong> 262 (35d8 + 105)  
+<br>
+<strong>Speed</strong> 30 ft.  
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11 (+0)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>21 (+5)</td>
+      <td>14 (+2)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Dex +10, Con +10, Int +12, Wis +9  
+<br>
+<strong>Skills</strong> Arcana +19, History +12, Insight +9  
+<br>
+<strong>Damage Resistances</strong> cold, lightning  
+<br>
+<strong>Damage Immunities</strong> necrotic, poison  
+<br>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned  
+<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
+<br>
+<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
+<br>
+<strong>Challenge</strong> 18 (20,000 XP)  
+<strong>Proficiency Bonus</strong> +6  
+<hr>
+<p><strong><em>Soul Weapon.</em></strong> If Patrina isn’t holding the <em>Sunsword</em> at the start of her turn, it magically appears in her empty hand as her <strong><em>Shadowblade</em></strong>, a blade of pure darkness springing from the hilt.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Patrina makes four attacks with her <strong><em>shadowblade</em></strong>. She can replace up to one of those attacks with her <strong><em>life drain</em></strong>.</p>
+<p><strong><em>Shadowblade.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">12 (2d8 + 3) necrotic damage</span>.</p>
+<p><strong><em>Life Drain.</em></strong> <em>Melee Spell Attack:</em> +12 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">8 (2d4 + 3) necrotic damage</span>. If the target is a creature, its hit point maximum decreases by an amount equal to the damage taken, and Patrina regains hit points equal to the damage dealt.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Crackling Doom.</em></strong> Crackling bolts of lightning arc from Patrina's fingertips in a <span class="highlight">30-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">14 (4d6) lightning damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it is <span class="highlight">slowed</span> until the start of Patrina’s next turn. (A slowed creature must spend <span class="highlight">1 extra foot of movement for every foot it moves</span> using its speed, attack rolls against it have <span class="highlight">advantage</span>, and it has <span class="highlight">disadvantage</span> on Dexterity saving throws.)</p>
+<p><strong><em>Negative Energy Burst.</em></strong> Negative energy ripples out in a <span class="highlight">5-foot-radius sphere</span> from Patrina or a point she can see within <span class="highlight">90 feet</span>. Each creature in that area must make a <span class="highlight">DC 19 Constitution saving throw</span>, taking <span class="highlight">14 (4d6) necrotic damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it also <span class="highlight">falls prone</span>.</p>
+<h3>Reactions</h3>
+<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Parry (1/Round).</em></strong> <em>Trigger:</em> Patrina is hit by a melee or ranged attack while holding the <em>Sunsword</em>. <em>Effect:</em> Patrina adds <span class="highlight">+6</span> to her Armor Class against that attack, possibly causing it to miss.</p>
+<p><strong><em>Vile Teleport (1/Round).</em></strong> <em>Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
+<p><strong><em>Fell Rebuke.</em></strong> <em>Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
+</div>
+
+# Berez
+
+## Baba Lysaga
+
+<div class="statblock">
+<h2>Baba Lysaga, Witch Mother</h2>
+<em>Medium humanoid (human, shapechanger), chaotic evil</em>
+<hr>
+<strong>Armor Class</strong> 15 (natural armor)<br>
+<strong>Hit Points</strong> 135 (18d8 + 54)<br>
+<strong>Speed</strong> 30 ft., fly 30 ft. (while in her flying skull)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18 (+4)</td>
+      <td>10 (+0)</td>
+      <td>16 (+3)</td>
+      <td>20 (+5)</td>
+      <td>17 (+3)</td>
+      <td>13 (+1)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Con +7, Wis +7<br>
+<strong>Skills</strong> Arcana +13, Religion +13<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
+<strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
+<strong>Challenge</strong> 10<br>
+<strong>Proficiency Bonus</strong> +4
+<hr>
+<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
+<p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
+<p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>.</p>
+<p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Baba Lysaga uses Hair Blade twice, or uses Spellcasting to cast <em>acid splash</em> twice.</p>
+<p><strong><em>Hair Blades.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: <span class="highlight">9 (1d8 + 5)</span> slashing plus <span class="highlight">4 (1d8)</span> poison damage, and the target must succeed on a <span class="highlight">DC 17 Constitution saving throw</span> or be <span class="highlight">poisoned</span> for 1 minute or until it receives magical healing. A creature poisoned in this way must make a <span class="highlight">DC 17 Constitution saving throw</span> at the end of each of its turns. Each time it fails, it becomes <span class="highlight">slowed</span> if it is currently poisoned, or becomes <span class="highlight">paralyzed</span> if it is currently slowed. Each time it succeeds, it becomes slowed if it is currently paralyzed, becomes poisoned if it is currently slowed, or is no longer poisoned if it is currently poisoned. If the creature rolls a natural 20, it’s no longer poisoned.</p>
+<p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):<br>
+<em>At will</em>: acid splash (3d6 damage), mage hand, detect magic, magic missile (level 2 version), sleep (level 2 version), lightning bolt<br>
+<em>3/day each</em>: Evard’s black tentacles, polymorph<br>
+<em>1/day each</em>: scrying, programmed illusion, mirage arcane</p>
+<p><strong><em>Devouring Flies.</em></strong> Swarming flies fill a <span class="highlight">10-foot-radius</span> sphere centered on a point Baba Lysaga can see within 60 feet. Each creature within the sphere must make a DC 17 Constitution saving throw, taking <span class="highlight">11 (2d10)</span> piercing damage on a failed save or half as much damage on a successful one. Whether a creature succeeds or fails its Constitution saving throw, any spells of 3rd level or lower on that creature end. If a creature is concentrating on a spell that would be dispelled in this way, it can use its reaction to spend a spell slot of 1st level or higher. If it does, the spell doesn’t end.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Swarm.</em></strong> Baba Lysaga magically polymorphs into a <strong>swarm of insects</strong> (flies), flies up to 30 ft., then resumes her true form. Anything she is wearing or carrying transforms with her. While transformed, melee weapon attacks against her have <span class="highlight">disadvantage</span>.</p>
+<h3>Reactions</h3>
+<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
+<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by a melee attack roll. <strong>Effect:</strong> Baba Lysaga’s bladed hair braids attempt to block the attack, forcing the attacker to reroll the attack. (The attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use her Hair Blades against the attacker. This reaction has no effect if the first attack was a critical hit.</p>
+<p><strong><em>Swarm.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn or Baba Lysaga takes damage from falling. <strong>Effect:</strong> Baba Lysaga uses her Swarm. If she would take damage from her fall, she takes no damage instead.</p>
+<p><strong><em>Hair Blades.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn after attacking Baba Lysaga with a melee attack. <strong>Effect:</strong> Baba Lysaga uses her Hair Blades against that creature.</p>
+<p><strong><em>Insect Shield (1/round).</em></strong> <strong>Trigger:</strong> Baba Lysaga takes damage from a spell shaped in a cone or line, or from a ranged spell attack roll. <strong>Effect:</strong> Baba Lysaga forces the spell’s caster to make a <span class="highlight">DC 17</span> saving throw using their spellcasting ability. On a failure, Baba Lysaga takes no damage from that spell this turn.</p>
+<p><strong><em>Lightning Bolt (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Spellcasting to cast <em>lightning bolt</em>.</p>
+</div>
+
+<div class="statblock">
+<h2>Baba Lysaga, Of the Swamp</h2>
+<em>Large humanoid (human, shapechanger), chaotic evil</em>
+<hr>
+<strong>Armor Class</strong> 15 (natural armor)<br>
+<strong>Hit Points</strong> 135 (18d8 + 54)<br>
+<strong>Speed</strong> 30 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18 (+4)</td>
+      <td>10 (+0)</td>
+      <td>16 (+3)</td>
+      <td>20 (+5)</td>
+      <td>17 (+3)</td>
+      <td>13 (+1)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Con +7, Wis +7<br>
+<strong>Skills</strong> Arcana +13, Religion +13<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
+<strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
+<strong>Challenge</strong> 10<br>
+<strong>Proficiency Bonus</strong> +4
+<hr>
+<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
+<p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
+<h3>Actions</h3>
+<p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit with spell attacks):<br>
+<em>At will</em>: acid splash (3d6 damage), control water<br>
+<em>1/day each</em>: giant insect (centipede), wall of thorns</p>
+<p><strong><em>Grasping Vine.</em></strong> Baba Lysaga casts or attacks with <em>grasping vine</em>, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit). When cast in this way, she must use an action to repeat the attack on her later turns.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Swampwalk.</em></strong> If Baba Lysaga is in Berez, she submerges herself in the water or earth beneath her, then exits from a 5-foot-square patch of water or earth within 30 feet.</p>
+<h3>Reactions</h3>
+<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
+<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by an attack roll. <strong>Effect:</strong> Baba Lysaga casts and attempts to parry the attack with <em>grasping vine</em>, forcing the attacker to reroll the attack. (She can’t attack with the vine this turn, and the attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use the grasping vine to attack the attacker. This reaction has no effect if the first attack was a critical hit.</p>
+<p><strong><em>Swampwalk (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Swampwalk.</p>
+<p><strong><em>Grasping Vine.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Grasping Vine against that creature.</p>
+</div>
+
+> [!info]+ **Grasping Vine**
+> Baba Lysaga’s *grasping vine* spell uses the base statistics provided in the 2024 Player’s Handbook, rather than those provided in the 2014 *Player’s Handbook*.
+
+## Creeping Hut
+
+<div class="statblock">
+<h2>Creeping Hut</h2>
+<em>Gargantuan construct, unaligned</em>
+<hr>
+<strong>Armor Class</strong> 16 (natural armor)<br>
+<strong>Hit Points</strong> 263 (17d20 + 85)<br>
+<strong>Speed</strong> 30 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>26 (+8)</td>
+      <td>7 (−2)</td>
+      <td>20 (+5)</td>
+      <td>1 (−5)</td>
+      <td>3 (−4)</td>
+      <td>3 (−4)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Saving Throws</strong> Str +12<br>
+<strong>Damage Resistances</strong> bludgeoning, cold, piercing<br>
+<strong>Damage Immunities</strong> poison, psychic<br>
+<strong>Condition Immunities</strong> blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone<br>
+<strong>Senses</strong> blindsight 120 ft. (blind beyond this radius), passive Perception 6<br>
+<strong>Languages</strong> —<br>
+<strong>Challenge</strong> 15 (8,400 XP)<br>
+<strong>Proficiency Bonus</strong> +4
+<hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> The hut doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Immutable Form.</em></strong> The hut is immune to any spell or effect that would alter its form.</p>
+<p><strong><em>Siege Monster.</em></strong> The hut deals double damage to objects and structures.</p>
+<p><strong><em>Stolen Gem.</em></strong> The hut is animated by a magic gem shaped like a viridian pinecone embedded in the stump beneath its floorboards, held in place by a black root (AC 15, 10 hit points, vulnerability to fire damage, and immunity to poison and psychic damage). A player who removes the hut’s floorboards as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span> exposes the gem, and can remove the gem by destroying the root or succeeding on a DC 15 Strength check. The hut dies if the gem is removed.</p>
+<h3>Actions</h3>
+<p><strong><em>Root.</em></strong> Melee Weapon Attack: +12 to hit, reach 20 ft., one target. Hit: <span class="highlight">24 (3d10 + 8)</span> bludgeoning damage, and the target must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">knocked prone</span> or <span class="highlight">pushed up to 10 feet</span> away. If the save fails by 10 or more, the hut can <span class="highlight">grapple</span> the target instead of pushing it or knocking it prone (escape DC 20).</p>
+<p><strong><em>Throw.</em></strong> A creature grappled by the hut must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">thrown 60 feet</span> away. A creature thrown in this way falls twenty feet and lands <span class="highlight">prone</span>.</p>
+<p><strong><em>Rock.</em></strong> Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: <span class="highlight">21 (3d8 + 8)</span> bludgeoning damage.</p>
+<h3>Reactions</h3>
+<p>The hut can take up to <strong>three reactions per round</strong>, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The hut can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Root.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 20 feet of the hut. <strong>Effect:</strong> The hut attacks that creature with its Root.</p>
+<p><strong><em>Bite.</em></strong> <strong>Trigger:</strong> A creature attempts to retrieve the gem from the hut’s stump. <strong>Effect:</strong> The hut attempts to bite the creature’s arm or body with its floorboards, forcing that creature to succeed on a DC 20 Dexterity saving throw or take 9 (2d8) piercing damage and be grappled (escape DC 20). While grappled in this way, a creature has disadvantage on checks made to retrieve the gem.</p>
 </div>

@@ -5,6 +5,9 @@ In this arc, after learning that the dusk elf Kasimir Velikov knows the location
 The players’ sole respite arrives in the form of Soldav, the hidden refuge of the Mountain Folk. There, the players learn that Strahd has desecrated the three Fanes of the valley—the Forest Fane of Yester Hill, the Swamp Fane in Berez, and the Mountain Fane near Old Bonegrinder—and, in doing so, claimed their power as his own.
 
 Should the players survive the final leg of their journey, they emerge before the great facade of the Amber Temple. Each night as they rest, however, Strahd pays them a personal visit, hoping to drain a victim’s blood and bring them closer to the abyss of vampirism. Can the players stop Strahd’s dark plans—or will one of them find themselves eternally chained to the grave?
+
+> [!warning]+ **Beacon of Protection**
+> Don’t forget: whilst Argynvost’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
 # R1. Recruiting Kasimir
 Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
@@ -676,9 +679,6 @@ In combat, the druids and berserkers act as follows:
 <strong>Armor Class</strong> 16 (natural armor)<br>
 <strong>Hit Points</strong> 120 (16d10 + 32)<br>
 <strong>Speed</strong> 30 ft.<br>
-<strong>Senses</strong> blindsight 300 ft. (blind beyond this radius), passive Perception 13<br>
-<strong>Challenge</strong> 5<br>
-<strong>Proficiency Bonus</strong> +3
 <hr>
 <table class="ability-table">
   <thead>
@@ -707,12 +707,13 @@ In combat, the druids and berserkers act as follows:
 <strong>Skills</strong> Perception +8, Nature +4<br>
 <strong>Senses</strong> blindsight 300 ft. (blind beyond this radius), passive Perception 13<br>
 <strong>Languages</strong> understands Common but can't speak, telepathic within 60 ft.<br>
+<strong>Challenge</strong> 5<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The triad casts <em>thorn whip</em> or <em>produce flame</em> twice.</p>
-<p><strong><em>Thorn Whip.</em></strong> The triad casts <em>thorn whip</em>, dealing 10 (3d6) piercing damage on a hit.</p>
-<p><strong><em>Produce Flame.</em></strong> The triad casts <em>produce flame</em>, dealing 13 (3d8) fire damage on a hit.</p>
+<p><strong><em>Thorn Whip.</em></strong> The triad casts <em>thorn whip</em> (+8 to hit), dealing 10 (3d6) piercing damage on a hit.</p>
+<p><strong><em>Produce Flame.</em></strong> The triad casts <em>produce flame</em> (+8 to hit), dealing 13 (3d8) fire damage on a hit.</p>
 <p><strong><em>Thunderwave.</em></strong> The triad casts <em>thunderwave</em> (DC 16) in a 20-foot cube. A creature that fails its saving throw takes 18 (4d8) thunder damage instead.</p>
 <p><strong><em>Blight (3/day).</em></strong> The triad casts <em>blight</em> (DC 16).</p>
 <p><strong><em>Wall of Fire (1/day, requires concentration).</em></strong> The triad casts <em>wall of fire</em> (DC 16).</p>
@@ -1042,7 +1043,7 @@ Strahd’s eyebrows lift slightly, and he asks: "Do we have an understanding?"
 If the players subsequently exit the cave, he notes his "delight" that they have "seen sense." Proceed to [[#Strahd’s Questions]].
 
 > [!abstract]+ **The Collapsing Ice**
-> If the plates decline to invite Strahd inside, read:
+> If the players decline to invite Strahd inside, read:
 > 
 > <hr>
 >
@@ -1302,7 +1303,7 @@ Have the players roll initiative. Set the players’ starting location as follow
 * For each round that the players have walked toward the cave, they begin fifteen feet closer to the cave. (For example, if the players began walking upon hearing the crack, they begin eighty-five feet from the cave.)
 * For each round that the players have run toward the cave, they begin thirty feet closer to the cave. (For example, if the players began running upon hearing the crack, they begin seventy feet from the cave.)
 
-A player who succeeds on a DC 10 Intelligence (Perception) check predicts that the avalanche will likely impact a section of the road from three hundred feet behind them to two hundred feet ahead of them. A player who succeeds on a DC 10 Intelligence (Survival) check predicts that, due to the angle of the mountain above them, the cave is likely to provide a safe refuge from the avalanche’s path—though it’s likely that the avalanche will block off this entrance to the cave once it’s impacted.
+A player who succeeds on a DC 10 Intelligence (Investigation) check predicts that the avalanche will likely impact a section of the road from three hundred feet behind them to two hundred feet ahead of them. A player who succeeds on a DC 10 Intelligence (Survival) check predicts that, due to the angle of the mountain above them, the cave is likely to provide a safe refuge from the avalanche’s path—though it’s likely that the avalanche will block off this entrance to the cave once it’s impacted.
 
 > [!info]+ **Escaping the Avalanche**
 > Due to the width and placement of the avalanche, it can’t be escaped by fleeing in the direction the players came. To avoid it, the players must either seek refuge in the cave, outrun the avalanche, or escape the avalanche by magical means (e.g., flight).
@@ -1753,7 +1754,7 @@ If a player has a passive Wisdom (Perception) score of 15 or greater, add:
 <p>You catch a glimpse of several still, dark shadows beneath the ice of the frozen lake’s surface.</p>
 </div>
 
-The shadows are thirteen **forsaken warriors** (see below), and are placed as depicted in the map below, with orange representing solid earth, blue representing slippery ice, white representing thin ice, and green stars representing **forsaken warriors** beneath the ice:
+The shadows are thirteen **forsaken soldiers** (see below), and are placed as depicted in the map below, with orange representing solid earth, blue representing slippery ice, white representing thin ice, and green stars representing **forsaken soldiers** beneath the ice:
 
 ![[The Frozen Lake.png]]
 
@@ -1847,7 +1848,7 @@ When a player approaches the shrine, read:
 
 <div class="description">
 <p>Across the frozen stream, between and beneath the sources of the frozen waterfalls far above, this small, stone shrine appears to have been carved from the edge of the mountain face itself. Twin sets of stairs ascend to either side of a pentagonal platform, which bears a triangular altar that points southward, into the heart of the mountain itself.</p>
-<p>Along the top left and top right faces of the platform, a pair of smooth, seven-foot stone panels rises above the altar below. On the left panel, facing northeast, the proud sigil of the Morninglord’s sunburst stands carved into the stonework. On the right panel, facing northwest, is engraved a three-pointed star encircled by a series of nine smaller carvings.</p>
+<p>Along the top left and top right faces of the platform, a pair of smooth, seven-foot stone panels rises above the altar below. On the right panel, facing northeast, the proud sigil of the Morninglord’s sunburst stands carved into the stonework. On the left panel, facing northwest, is engraved a three-pointed star encircled by a series of nine smaller carvings.</p>
 <p>A set of footprints crosses the stream here, climbs the platform’s right stairs, then descends its left stairs, continuing through the snow beneath the left-side waterfall.</p>
 </div>
 
@@ -1917,7 +1918,7 @@ An elder shoosuva has the same statistics as an ordinary **shoosuva** (<span cla
 * It has a speed of 50 feet.
 * It has a Strength score of 20 and a Constitution score of 19.
 * Its has +10 to hit, and the DC of its tail stinger is 17.
-* The damage of its ***bite*** increases to 31 (4d12 + 4) and the damage of its tail stinger increases to 16 (2d10 + 5) piercing damage plus 14 (4d6) poison damage.
+* The damage of its ***bite*** increases to 31 (4d12 + 5) and the damage of its tail stinger increases to 16 (2d10 + 5) piercing damage plus 14 (4d6) poison damage.
 * The reach of its ***bite*** increases to 10 feet, and the reach of its ***tail stinger*** increases to 20 feet.
 * It gains the following additional action: ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one creature. *Hit:* 14 (2d8 + 5) slashing damage and the target must succeed on a DC 18 Strength saving throw or be knocked 5 feet away and fall prone.
 * It gains the following additional action: ***Fetid Cloud (1/day).*** The shoosuva exhales a cloud of foul-smelling yellow smoke in a twenty-foot cone. Each creature within that cone must succeed on a DC 17 Constitution saving throw or be poisoned until the end of the shoosuva’s next turn. While poisoned in this way, a creature is also blinded.
@@ -1997,7 +1998,7 @@ When the players enter the secret tunnel behind the frozen waterfall, read:
 As soon as Scorilo is able to, he attempts to pin the most threatening-looking player against one of the walls using the shaft of his spear. Have Scorilo attempt to grapple that player. Whether the grapple succeeds or fails, Scorilo snarls: "Why have you come here? Speak!"
 
 > [!abstract]+ **Como the Peacemaker**
-> if the players show any interest in attacking, the **berserkers** and **scouts** brandish and ready their weapons. Before any hostilities can break out, however, Como steps between any hostile parties and insists that he’s sure that they can "work out an understanding," adding that "any enemy of the Amber-Cursed is a friend of ours."
+> If the players show any interest in attacking, the **berserkers** and **scouts** brandish and ready their weapons. Before any hostilities can break out, however, Como steps between any hostile parties and insists that he’s sure that they can "work out an understanding," adding that "any enemy of the Amber-Cursed is a friend of ours."
 
 Whether the players answer Scorilo’s question or not, Scorilo growls: "The skies whisper ill omens, and you come waltzing in like lambs to slaughter—lambs with daggers, perhaps. Perhaps we should interrogate you properly, seize your weapons, and toss you back out for the mountain to deal with." 
 

@@ -738,6 +738,7 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 
 > [!combat]- **Balancing the Wolves** 
 > This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> 
 > * **Three Players**. Reduce the number of wolves to 3. 
 > * **Four Players**. Reduce the number of wolves to 4. 
 > * **Six Players**. Reduce the number of wolves to 1 and increase the number of werewolves to 2.
@@ -988,6 +989,13 @@ A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t
 If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction. 
 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
+
+> [!combat]+ **Balancing the Werewolf Hunt** 
+> This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * _**Three Players.**_ Reduce the number of wolves to one.,
+> *  _**Four Players.**_ Reduce the number of wolves to two.,
+> * - _**Six Players.**_ Increase the number of wolves to four.
 
 > [!info]+ **Lycanthropy in Barovia**
 >

@@ -165,7 +165,7 @@ The roc attacks if the players attempt to steal the gem, or otherwise act dishon
 > 
 > * It can use a bonus action to shape-shift into a Tiny raven or return to its true form. Other than its size and actions, its game statistics are the same in each form.
 > * It regains 40 hit points at the start of each of its turns if it’s physically touching the stone of Mt. Ghakis. The roc dies only if it starts its turn with 0 hit points and doesn’t regenerate.
-> * It can take up to three reactions per round, but only one per turn. If the roc would lose its reactions and isn’t unconscious, it loses one reaction instead.
+> * It can take up to three reactions per round, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead..
 > * It gains the following reaction: ***Indomitable.*** **Trigger:** A hostile creature ends its turn. **Effect:** The roc can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)
 > * It gains the following reaction: ***Raven’s Gale (1/round).*** *Trigger:* A hostile creature ends its turn within 10 feet of the roc. *Effect:* The roc flaps its mighty wings, forcing each creature in a 30-foot cone centered on the first creature to succeed on a DC 21 Strength saving throw or be thrown 20 feet away. A creature that fails the saving throw by 10 or more also falls prone.
 
@@ -258,11 +258,11 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > Vallaki’s guard patrols are largely as described in <span class="citation">Town Gates (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
 
 > [!lore]+ **The Long Arm of Castle Ravenloft**
-> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
+> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky, Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
 >
-> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">Nrq. Storage Room (p. 114)</span>. 
+> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. 
 >
-> That night, the emissary used a *potion of waking slumber, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
+> That night, the emissary used a *potion of waking slumber*, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
 >
 > The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
 >
@@ -372,7 +372,7 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
     <h2>Urwin Martikov</h2>
     <em>Medium humanoid (human, shapechanger), lawful good</em>
     <hr>
-    <strong>Armor Class</strong> 15 (studded leather armor)
+    <strong>Armor Class</strong> 15 (studded leather armor) (16 with <strong><em>Beacon of Protection</strong></em>)
     <br>
     <strong>Hit Points</strong> 63 (14d8)
     <br>
@@ -412,11 +412,10 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
     <h3>Actions</h3>
     <p><strong><em>Multiattack.</em></strong> Urwin makes two weapon attacks, one of which can be with his heavy crossbow.</p>
     <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 100/400 ft., one target. <em>Hit:</em> 8 (1d10 + 3) piercing damage.</p>
+    <p><strong><em>Heavy Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 100/400 ft., one target. <em>Hit:</em> 8 (1d10 + 3) piercing damage.</p>
     <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
     <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Urwin polymorphs into a raven-humanoid hybrid or into a raven, or back into his human form. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts back to his human form if she dies.</p>
-    <h3>Reactions</h3>
+    <p><strong><em>Shapechange.</em></strong> Urwin polymorphs into a raven-humanoid hybrid or into a raven, or back into his human form. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts back to his human form if he dies.</p>
 </div>
 
 > [!abstract]+ **The Third Gem**
@@ -485,16 +484,14 @@ In combat, Strahd begins in his **Vampire** phase, rather than his Mage phase, b
 
 If the players reveal the *Sunsword*’s hilt to Strahd, he bares his teeth in a cold, mirthless smile. “I see you’ve found half of my brother’s old sword," he says. “I had thought it destroyed long ago, but no matter. Do you mean to enchant me with nostalgia for the past, or do you truly believe that this trinket poses some threat to me?"
 
-If the players activate the *Sunsword*’s radiant blade, Strahd bares his teeth in a snarl, his teeth gritted. “A quaint, if futile gesture. Perhaps it is time I taught you a lesson I should have long ago."
-
-If Strahd takes 30 or more damage from the *Sunsword* in a single turn, or if he takes 80 or more damage from the *Sunsword* across three consecutive rounds, he snarls with pain and fury. He then uses his movement and reactions to retreat. Read:
+If the players reduce Strahd's second form to 155 hit points or fewer, he snarls with pain and fury. He then uses his movement and reactions to retreat. Read:
 
 <div class="description">
-<p>Strahd’s body trembles with rage. His batlike nostrils flare, his crimson eyes flashing as scorched burns and wounds across his body struggle to knit back together.</p>
-<p>"You may think that this toy will save you," he hisses. “But as you sleep tonight, do not forget: Your souls are <em>mine</em>—and I shall claim them when I choose."</p>
+<p>Strahd’s body trembles with rage. His batlike nostrils flare, his crimson eyes flashing as wounds across his body start to knit back together.</p>
+<p>"You may think your misguided courage will save you," he hisses. “But as you sleep tonight, do not forget: Your souls are <em>mine</em>—and I shall claim them when I choose.".</p>
 </div>
 
-On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. (Strahd also flees if the players reduce his second form to 155 hit points or fewer.)
+On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. 
 ## T2d. Exethanter’s Warning
 Forty-eight hours after the players leave the *Tome of Strahd* with Exethanter’s spirit in [[Arc S - A Sword of Sunlight]], he contacts them simultaneously using a continuous, multi-target _sending_ spell to convey the following information:
 
@@ -588,6 +585,13 @@ This area is largely as described in <span class="citation">U1. Abandoned Cottag
 > - _**Three Players.**_ Remove the **hexwitches**.
 > - _**Four Players.**_ Reduce the number of **hexwitches** to one.
 > - _**Six Players.**_ Increase the number of **bogwitches** to three.
+
+Three ten-foot-wide passages lead from this chamber:
+
+* One to the northwest, which leads to [[#T3d. Town Green]]
+* One to the north, which leads to [[#T3a. Berez Outskirts]]
+* One to the southwest, which leads to [[#T3h. Goat Pen]]
+
 ## T3d. Town Green
 When the players enter this area, read:
 
@@ -832,6 +836,7 @@ The three dolls, which were crafted and left here by Baba Lysaga, have the stati
 * Each carrionette has +6 to Deception rolls.
 * A creature that fails its saving throw against a carrionette's ***silver needle*** attack isn’t cursed. Instead, that creature automatically suffers the effects of the carrionette’s ***soul swap*** action without making an additional saving throw.
 * A creature affected by a carrionette's ***soul swap*** action doesn’t fall unconscious. Instead, both the carrionette and its target fall unconscious until the start of the carrionette's next turn. (While unconscious, a carrionette appears to be dead.) The carrionette then gains control of the target’s body, and the target gains control of the carrionette's body. (While in this state, the target can’t speak.)
+* If the carrionette's body is destroyed, both the carrionette and the target die.
 
 The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
 
@@ -842,18 +847,19 @@ The dolls attack if the players approach them or otherwise pass the midpoint of 
 > - _**Four Players.**_ Reduce the number of **carrionettes** to two.
 
 > [!info]+ **Roleplaying a Carrionette**
-> If a carrionnette successfully gains control of a player’s body, provide that player the following information:
+> If a carrionette successfully gains control of a player’s body, provide that player the following information:
 >
 > ---
 >
-> You have swapped souls with a carrionnette. Your soul now resides in the carrionnette’s body, and the carrionnette’s soul resides in yours.
+> You have swapped souls with a carrionette. Your soul now resides in the carrionette’s body, and the carrionette’s soul resides in yours.
 >
-> While your body is possessed, you should roleplay the carrionnette’s soul as follows:
+> While your body is possessed, you should roleplay the carrionette’s soul as follows:
 >
 > * You want to deceive your companions into believing that your soul hasn’t been swapped. 
+> * You want to protect the dolls from harm.
 > * You can’t easily control your childlike behavior, such as giggles at inopportune moments, a deep fascination with interesting objects, and a simple, black-and-white “morality."
 > * If your deception fails, you attempt to flee. 
-> * If captured and interrogated, you claim that your ***soul swap*** is irreversible, and that no act or magic can restore the target’s soul to its body. (While doing so, you then glance nervously toward the carrionnette’s physical body—and, if present, its silver needle.
+> * If captured and interrogated, you claim that your ***soul swap*** is irreversible, and that no act or magic can restore the target’s soul to its body. (While doing so, you then glance nervously toward the carrionette’s physical body—and, if present, its silver needle.
 
 A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
 ## T3h. Goat Pen
@@ -1132,7 +1138,7 @@ Baba Lysaga then attacks.
 <strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
 <strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
 <strong>Challenge</strong> 10<br>
-<strong>Proficiency Bonus.</strong> +4
+<strong>Proficiency Bonus</strong> +4
 <hr>
 <p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
 <p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
@@ -1140,7 +1146,7 @@ Baba Lysaga then attacks.
 <p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Baba Lysaga uses Hair Blade twice, or uses Spellcasting to cast <em>acid splash</em> twice.</p>
-<p><strong><em>Hair Blades.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: <span class="highlight">9 (1d8 + 5)</span> slashing plus <span class="highlight">4 (1d8)</span> poison damage, and the target must succeed on a <span class="highlight">DC 17Constitution saving throw</span> or be <span class="highlight">poisoned</span> for 1 minute or until it receives magical healing. A creature poisoned in this way must make a <span class="highlight">DC 17 Constitution saving throw</span> at the end of each of its turns. Each time it fails, it becomes <span class="highlight">slowed</span> if it is currently poisoned, or becomes <span class="highlight">paralyzed</span> if it is currently slowed. Each time it succeeds, it becomes slowed if it is currently paralyzed, becomes poisoned if it is currently slowed, or is no longer poisoned if it is currently poisoned. If the creature rolls a natural 20, it’s no longer poisoned.</p>
+<p><strong><em>Hair Blades.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: <span class="highlight">9 (1d8 + 5)</span> slashing plus <span class="highlight">4 (1d8)</span> poison damage, and the target must succeed on a <span class="highlight">DC 17 Constitution saving throw</span> or be <span class="highlight">poisoned</span> for 1 minute or until it receives magical healing. A creature poisoned in this way must make a <span class="highlight">DC 17 Constitution saving throw</span> at the end of each of its turns. Each time it fails, it becomes <span class="highlight">slowed</span> if it is currently poisoned, or becomes <span class="highlight">paralyzed</span> if it is currently slowed. Each time it succeeds, it becomes slowed if it is currently paralyzed, becomes poisoned if it is currently slowed, or is no longer poisoned if it is currently poisoned. If the creature rolls a natural 20, it’s no longer poisoned.</p>
 <p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):<br>
 <em>At will</em>: acid splash (3d6 damage), mage hand, detect magic, magic missile (level 2 version), sleep (level 2 version), lightning bolt<br>
 <em>3/day each</em>: Evard’s black tentacles, polymorph<br>
@@ -1149,7 +1155,7 @@ Baba Lysaga then attacks.
 <h3>Bonus Actions</h3>
 <p><strong><em>Swarm.</em></strong> Baba Lysaga magically polymorphs into a <strong>swarm of insects</strong> (flies), flies up to 30 ft., then resumes her true form. Anything she is wearing or carrying transforms with her. While transformed, melee weapon attacks against her have <span class="highlight">disadvantage</span>.</p>
 <h3>Reactions</h3>
-<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If Baba Lysaga would lose her reactions, she loses one reaction instead.</p>
+<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by a melee attack roll. <strong>Effect:</strong> Baba Lysaga’s bladed hair braids attempt to block the attack, forcing the attacker to reroll the attack. (The attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use her Hair Blades against the attacker. This reaction has no effect if the first attack was a critical hit.</p>
 <p><strong><em>Swarm.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn or Baba Lysaga takes damage from falling. <strong>Effect:</strong> Baba Lysaga uses her Swarm. If she would take damage from her fall, she takes no damage instead.</p>
@@ -1194,7 +1200,7 @@ Baba Lysaga then attacks.
 <strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
 <strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
 <strong>Challenge</strong> 10<br>
-<strong>Proficiency Bonus.</strong> +4
+<strong>Proficiency Bonus</strong> +4
 <hr>
 <p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
 <p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
@@ -1206,7 +1212,7 @@ Baba Lysaga then attacks.
 <h3>Bonus Actions</h3>
 <p><strong><em>Swampwalk.</em></strong> If Baba Lysaga is in Berez, she submerges herself in the water or earth beneath her, then exits from a 5-foot-square patch of water or earth within 30 feet.</p>
 <h3>Reactions</h3>
-<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If Baba Lysaga would lose her reactions, she loses one reaction instead.</p>
+<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by an attack roll. <strong>Effect:</strong> Baba Lysaga casts and attempts to parry the attack with <em>grasping vine</em>, forcing the attacker to reroll the attack. (She can’t attack with the vine this turn, and the attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use the grasping vine to attack the attacker. This reaction has no effect if the first attack was a critical hit.</p>
 <p><strong><em>Swampwalk (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Swampwalk.</p>
@@ -1254,8 +1260,9 @@ Baba Lysaga then attacks.
 <strong>Senses</strong> blindsight 120 ft. (blind beyond this radius), passive Perception 6<br>
 <strong>Languages</strong> —<br>
 <strong>Challenge</strong> 15 (8,400 XP)<br>
-<strong>Proficiency Bonus.</strong> +4
+<strong>Proficiency Bonus</strong> +4
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> The hut doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Immutable Form.</em></strong> The hut is immune to any spell or effect that would alter its form.</p>
 <p><strong><em>Siege Monster.</em></strong> The hut deals double damage to objects and structures.</p>
 <p><strong><em>Stolen Gem.</em></strong> The hut is animated by a magic gem shaped like a viridian pinecone embedded in the stump beneath its floorboards, held in place by a black root (AC 15, 10 hit points, vulnerability to fire damage, and immunity to poison and psychic damage). A player who removes the hut’s floorboards as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span> exposes the gem, and can remove the gem by destroying the root or succeeding on a DC 15 Strength check. The hut dies if the gem is removed.</p>
@@ -1264,7 +1271,7 @@ Baba Lysaga then attacks.
 <p><strong><em>Throw.</em></strong> A creature grappled by the hut must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">thrown 60 feet</span> away. A creature thrown in this way falls twenty feet and lands <span class="highlight">prone</span>.</p>
 <p><strong><em>Rock.</em></strong> Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: <span class="highlight">21 (3d8 + 8)</span> bludgeoning damage.</p>
 <h3>Reactions</h3>
-<p>The hut can take up to <strong>three reactions per round</strong>, but only one per turn. If the hut would lose its reactions, it loses one reaction instead.</p>
+<p>The hut can take up to <strong>three reactions per round</strong>, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The hut can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Root.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 20 feet of the hut. <strong>Effect:</strong> The hut attacks that creature with its Root.</p>
 <p><strong><em>Bite.</em></strong> <strong>Trigger:</strong> A creature attempts to retrieve the gem from the hut’s stump. <strong>Effect:</strong> The hut attempts to bite the creature’s arm or body with its floorboards, forcing that creature to succeed on a DC 20 Dexterity saving throw or take 9 (2d8) piercing damage and be grappled (escape DC 20). While grappled in this way, a creature has disadvantage on checks made to retrieve the gem.</p>
@@ -1390,7 +1397,7 @@ The two pale figures are **vampire spawn**. Escher is a **vampire spawn** with t
 
 If the players don’t intervene or call attention to themselves, the conversation continues as follows:
 
-* Escher continues, speaking to Luvash: “As I’m sure you are away, his Grace can be a powerful friend—and an even more dangerous enemy. Should you hear word of him, Ravenloft would be in your debt. The activities of such a traitor can be dangerous, and my Lord wishes to see this man swiftly returned to custody, lest his dark nature endanger more of Barovia. I am sure you understand."
+* Escher continues, speaking to Luvash: “As I’m sure you are aware, his Grace can be a powerful friend—and an even more dangerous enemy. Should you hear word of him, Ravenloft would be in your debt. The activities of such a traitor can be dangerous, and my Lord wishes to see this man swiftly returned to custody, lest his dark nature endanger more of Barovia. I am sure you understand."
 * Luvash considers Escher’s words, then nods. “We are grateful for Count von Zarovich’s trust in our people. I assure you that I will look into this matter."
 * Escher smiles thinly. “You may be able to look into it sooner than you might think?" (Luvash raises an eyebrow, and Escher continues.) “We have a report," Escher says softly, “that a cloaked individual was recently seen entering one of your wagons." He pauses. “It is, unfortunately, all too common for our friends to undertake dangerous activities under our noses. Should you cooperate fully in this investigation, I assure you that you will be rewarded, and no harm will come to you or your community." 
 
@@ -1678,7 +1685,7 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 <h2>Rudolph Van Richten</h2>
 <em>Medium humanoid (human), lawful good</em>
 <hr>
-<strong>Armor Class</strong> 13 (leather armor)
+<strong>Armor Class</strong> 13 (leather armor) (14 with <strong><em>Beacon of Protection</strong></em>))
 <br>
 <strong>Hit Points</strong> 77 (14d8 + 14)
 <br>
@@ -1741,7 +1748,7 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 <h2>Arturi Radanavich</h2>
 <em>Medium humanoid, neutral good</em>
 <hr>
-<strong>Armor Class</strong> 15 (studded leather)
+<strong>Armor Class</strong> 15 (studded leather) (16 with with <strong><em>Beacon of Protection</strong></em>)
 <br>
 <strong>Hit Points</strong> 52 (8d8 + 16)
 <br>
@@ -1783,6 +1790,7 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 <h3>Reactions</h3>
 <p><strong><em>Parry.</em></strong> When Arturi is hit by a melee attack while wielding a weapon, he adds 2 to his AC against that attack, potentially causing it to miss.</p>
 </div>
+
 ### After the Storm
 At initiative count 0 of the tenth round of combat, read:
 
@@ -1871,11 +1879,14 @@ A player can claim their *boon of the Huntress* by grasping or touching it. If t
 >
 > ---
 >
-> Green flames burst across the spear’s shaft and blade, though the wood and stone remain untouched. The crystals across the cavern hum in warm recognition, and the air fills with a sense of fierce, triumphant joy. Slowly, the flames recede, then eventually vanish—but the spear remains warm to the touch.
+> Green flames burst across the spear’s shaft and blade, though the wood and stone remain untouched. The megaliths hum in warm recognition, and the air fills with a sense of fierce, triumphant joy. Slowly, the flames recede, then eventually vanish—but the spear remains warm to the touch.
 >
 > ---
 >
-> The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional property: If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. In addition, the spear’s wielder can use a bonus action to cause emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While ignited in this way, the spear also gains the properties of a *mace of disruption*.
+> The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional properties:
+> * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. 
+> * You can use a bonus action to cause harmless emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While aflame, the spear sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
+> * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier, and the spear regains all expended uses at dawn.
 
 ***Milestone.*** Reconsecrating the Forest Fane completes a story milestone. When the players claim the *boon of the Huntress*, award each player 5,500 XP.
 # T5. A Light in the Dark
@@ -2077,7 +2088,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 19<br>
-<strong>Proficiency</strong> +6<br>
+<strong>Proficiency Bonus</strong> +6<br>
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
@@ -2092,7 +2103,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Rahadin is hit by a melee or ranged attack, fails a Dexterity saving throw, or takes damage from <em>magic missile</em>. <strong>Effect:</strong> Rahadin adds +6 to his Armor Class against that attack or to the result of his saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> <strong>Trigger:</strong> An enemy misses Rahadin with a melee attack. <strong>Effect:</strong> Rahadin moves up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
@@ -2138,7 +2149,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 19<br>
-<strong>Proficiency</strong> +6<br>
+<strong>Proficiency Bonus</strong> +6<br>
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
@@ -2150,11 +2161,11 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all *amber shards* in a sixty-foot radius. Each creature in that area carrying an *amber shard* must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
+<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
 <p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
 <p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
 <h3>Reactions</h3>
-<p>Rahadin can take up to five reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p>Rahadin can take up to five reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Claws.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 5 feet of Rahadin. <strong>Effect:</strong> Rahadin attacks that creature with his claws.</p>
 <p><strong><em>Rampage.</em></strong> <strong>Trigger:</strong> Rahadin reduces a creature to 0 hit points with a melee attack. <strong>Effect:</strong> Rahadin can move up to half his speed and make one attack.</p></strong>

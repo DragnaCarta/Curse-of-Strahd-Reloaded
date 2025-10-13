@@ -256,7 +256,7 @@ Azianka and Davanka are bored, inattentive, and irritated at not being allowed t
 
 Azianka and Davanka are restless, and can easily be lured from the cave mouth by an illusion, an annoying **wereraven** in raven form summoned by the *Keeper's whistle*, or any other nonthreatening distraction. (If the players use the *Keeper’s Whistle* to summon a **wereraven** to assist them, a gregarious and excitable **wereraven** named Stefan Zalenski appears two minutes thereafter to assist them.) Unless otherwise distracted, the women return to the cave once ten minutes have passed.
 
-If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two werewolves then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
+If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two **werewolves** (as described in [[Bestiary]]) then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
 
 The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolves and **werewolf brawlers** in [[#L4d. Deep Caves]], who arrive after 1 round to investigate.
 
@@ -362,7 +362,7 @@ To sneak through this area without disturbing the wolves, the players must succe
 <strong>Senses</strong> darkvision 60 ft., passive Perception 16<br>
 <strong>Languages</strong> Common (can't speak in wolf form)<br>
 <strong>Challenge</strong> 7, or 6 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +3<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
 <p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>

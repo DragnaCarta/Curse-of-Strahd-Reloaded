@@ -1,8 +1,5 @@
 _An adventure for five 4th-level characters._
 
-> [!info]+ **The New Arc D**
-> The prior Arc D, [[Arc D - The Tome of Strahd]], has been deprecated and merged with [[Arc H - The Lost Soul]]. This arc, formerly Arc E, has been accordingly re-lettered to accommodate its removal.
-
 In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
 
 The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
@@ -386,8 +383,9 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency</strong> +3<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -609,8 +607,9 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 14<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Proficiency Bonus</strong> +5<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
 <p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
@@ -626,7 +625,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)
 <p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
 <p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
@@ -673,7 +672,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Proficiency Bonus</strong> +5<br>
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
@@ -687,7 +686,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
