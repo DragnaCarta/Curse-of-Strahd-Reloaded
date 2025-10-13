@@ -1,4 +1,6 @@
+
 ### Animated Major Object
+
 
 <div class="statblock">
 <h2>Animated Major Object</h2>
@@ -45,6 +47,7 @@
 
 ### Animated Minor Object
 
+
 <div class="statblock">
 <h2>Animated Minor Object</h2>
 <em>Small or medium construct, unaligned</em>
@@ -89,6 +92,7 @@
 </div>
 
 ### Castle Gargoyle
+
 
 <div class="statblock">
 <h2>Gargoyle</h2>
@@ -142,7 +146,9 @@
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
 </div>
+
 ### Druid Assailant
+
 
 <div class="statblock">
     <h2>Druid Assailant</h2>
@@ -200,6 +206,7 @@
 
 ### Druid Naturalist
 
+
 <div class="statblock">
     <h2>Druid Naturalist</h2>
     <em>Medium human, neutral evil</em>
@@ -255,6 +262,7 @@
 
 ### Elder Twig Blight
 
+
 <div class="statblock">
     <h2>Elder Twig Blight</h2>
     <em>Medium Plant, Neutral Evil</em>
@@ -304,6 +312,8 @@
 </div>
 
 ### Gargoyle
+
+
 <div class="statblock">
 <h2>Gargoyle</h2>
 <em>Medium Elemental, Chaotic Evil</em>
@@ -359,6 +369,7 @@
 
 ### Plague of Rats
 
+
 <div class="statblock">
 <h2>Plague of Rats</h2>
 <em>Large swarm of Tiny beasts, chaotic evil</em>
@@ -408,6 +419,7 @@
 </div>
 
 ### Rootspike Triad
+
 
 <div class="statblock">
 <h2>Rootspike Triad</h2>
@@ -460,6 +472,7 @@
 
 ### Swarm of Twig Blights
 
+
 <div class="statblock">
     <h2>Swarm of Twig Blights</h2>
     <em>Large Plant, Neutral Evil</em>
@@ -508,6 +521,7 @@
 </div>
 
 ### Werewolf
+
 
 <div class="statblock">
 <h2>Werewolf</h2>
@@ -562,6 +576,8 @@
 </div>
 
 ### Werewolf Brawler
+
+
 <div class="statblock">
 <h2>Werewolf Brawler</h2>
 <em>Medium Humanoid, Chaotic Evil</em>
@@ -617,7 +633,9 @@
 <p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
 <p><strong><em>Crushing Grip.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Constitution saving throw. The creature takes 10 (3d6) bludgeoning damage on a failure, and half as much damage on a success. A creature that fails the saving throw by 5 or more is also dazed until the end of its next turn. (The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.)
 </div>
+
 ### Wight Commander
+
 
 <div class="statblock">
 <h2>Wight Commander</h2>
@@ -673,6 +691,7 @@
 
 ### Zombie
 
+
 <div class="statblock">
   <h2>Zombie</h2>
   <em>Medium Undead, Neutral Evil</em>
@@ -715,6 +734,7 @@
 
 
 ### Zombie Plague Spreader
+
 
 <div class="statblock">
   <h2>Zombie, Plague Spreader</h2>
