@@ -1,3 +1,7 @@
+# Hotfix 2.1.0.8 (November 10, 2025)
+* Fixed rendering error with Volenta's statblock in [[Arc D - St. Andral's Feast]] and [[Non-Player Characters]]
+# Hotfix 2.1.0.7 (November 8, 2025)
+* Added link to Arc A Foundry module by Eidolon Publishing in [[Arc A - Escape From Death House]]
 # Hotfix 2.1.0.6 (October 13, 2025)
 * Resolved formatting issues in [[Bestiary]]
 # Patch 2.1.0.5 (September 22, 2025)

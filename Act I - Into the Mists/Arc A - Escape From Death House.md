@@ -1,12 +1,5 @@
 *An adventure for five 2nd-level characters.*
 
-> [!tip]+ **A Taste of Horror**
-> The following pages contain a guide to the first two-thirds of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
-> 
-> You can sign up to receive update notifications in your email inbox by joining the free DragnaCarta community on [Patreon](https://www.patreon.com/DragnaCarta).
-> 
-> You can also get an early peek at drafts of the remainder of **Act III: The Broken Land**, as well as outlines and notes for all following acts and arcs, by supporting this guide on [Patreon](https://www.patreon.com/DragnaCarta).
-
 > [!warning]+ **A Second-Level Adventure**
 > Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
 
@@ -20,6 +13,9 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 
 > [!lore]+ **The History of Death House**
 > See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
+
+> [!info]+ **Arc A Foundry Module**
+> Want a fully-prepped Foundry module for ***Arc A: Escape From Death House***? Download the manifest for the official Reloaded module by Eidolon Publishing [here](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json)!
 # A1. Daggerford
 
 > [!warning]+ **Keep Your Workload Low**
