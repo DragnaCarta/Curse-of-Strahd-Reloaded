@@ -26,7 +26,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > Alexei, a Vistana youth and Arabelle’s older cousin, was ordinarily tasked with watching her while her father, Luvash, worked. While Arabelle played in the woods near the encampment, Yan approached Alexei and shared with him copious amounts of wine—more than enough to get him exceedingly drunk. Once Alexei was asleep, Yan grabbed Arabelle, gagged her, and stuffed her into a sack.
 >
-> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
+> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Escher, having taken the teleportation circle to Berez, transformed into a bat and flew to the meeting point, where he met Yan. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
 >
 > Dr. Rudolph van Richten, the vampire hunter who had fled Castle Ravenloft after Strahd’s awakening, had been staying nearby at the old tower on Lake Baratok. Today, Van Richten was searching the marshy riverside grasses for a particular medicinal herb he’d run out of—and it was there, crouching hidden in the underbrush, that he noticed Yan and Escher’s clandestine meeting.
 >
@@ -436,7 +436,7 @@ As the players journey west toward Szoldar’s shack, read:
 <div class="description">
 <p>The path ahead is uneven, littered with pebbles and overgrown in parts by moss and wild grass. To the left, the trees of the Svalich Wood stand tall and foreboding; to the right, a chill breeze sweeps in from the lake, tinged with a faint, brackish scent and the damp earthiness of old silt. Other than the mournful croak of a distant raven, the only sound that breaks the eerie silence is the squelching of mud beneath your feet and the quiet lapping of the waves against the shore.</p>
 <p>It's not long, however, before the air is tinged with the faint scents of fur and a familiar, metallic tang. Ahead, you can hear the sound of rushing water, and see a place where the dark waters of the lake flow swiftly into a river that disappears southward into the dark woods.</p>
-<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away lies an old stone slab, resting on a cracked, mossy stone circle.</p>
+<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away, an old stone stele stands atop a circular foundation tightly packed with moss-covered stones.</p>
 </div>
 
 If the players arrive between the hours of noon and dusk, Szoldar and Yevgeni can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.

@@ -14,7 +14,7 @@ For as long as they ruled the land, the Ladies acted as its sovereigns, making t
 
 Two of the Ladies bestowed upon their most faithful worshippers the gifts of lycanthropy: flocks of wereravens served the Seeker’s will, while packs of Good-aligned werewolves called wolfir raced through the woods to join the Huntress’s Wild Hunt. Meanwhile, the Weaver fashioned three gemstones the size and shape of pinecones, imbued them with the raw energies of life, and delivered them to her priests with a promise that the bounties of the woods would always feed them and their children.
 
-Together, the Weaver, the Huntress, and the Seeker became known as the Ladies Three. To honor them, the First Folk built three sacred fanes at places of natural power—the Swamp Fane, the Forest Fane, and the Mountain Fane. These fanes served as conduits for the goddess' power, allowing them to walk among their worshippers and anchor themselves to the land they loved.
+Together, the Weaver, the Huntress, and the Seeker became known as the Ladies Three. To honor them, the First Folk built three sacred fanes at places of natural power—the Swamp Fane, the Forest Fane, and the Mountain Fane.[^1] These fanes served as conduits for the goddess' power, allowing them to walk among their worshippers and anchor themselves to the land they loved.
 
 The First Folk, however, built no shrine to the Dreamer, too fearful of her grim portfolio to invite her into their tents and prayers. Embittered and enraged, the Dreamer fell into jealousy and envy—and the whispers of Mother Night, the greater goddess of darkness, lured her into corruption.
 
@@ -412,9 +412,9 @@ Fiona returned to take command of Wachterhaus, her family's estate. As she wept 
 
 Six years later, Rudolph van Richten's son, Erasmus, was born. When Erasmus was fourteen, Madame Irene Radanavich—the leader, or *raunie* of the Vistani Radanavich caravan—forged an alliance with the **vampire** Baron Metus, who dwelled in the county neighboring the Van Richtens' home. 
 
-Baron Metus commissioned Madame Radanavich to kidnap victims and consorts for his pleasures, but the Radanavich's first foray—joined by the parents of the young Ezmerelda d'Avenir—went sour, leaving Madame Radanavich's son, Radovan Radanavich, badly wounded. 
+Baron Metus commissioned Madame Radanavich to kidnap victims and consorts for his pleasures, but the Radanavich's first foray—joined by the parents of the young Ezmerelda d'Avenir—went sour, leaving Madame Radanavich's son, Radu Radanavich, badly wounded. 
 
-The Radanaviches brought Radovan to Rudolph, who proved unable to save him. When Radovan died, Madame swore vengeance on Rudolph's family and kidnapped his son, Erasmus before selling him to Baron Metus. Their terrible task complete, the Radanaviches parted ways with the d'Avenirs and fled through the Mists to Barovia, where they believed neither Van Richten nor Metus could follow.
+The Radanaviches brought Radu to Rudolph, who proved unable to save him. When Radu died, Madame swore vengeance on Rudolph's family and kidnapped his son, Erasmus before selling him to Baron Metus. Their terrible task complete, the Radanaviches parted ways with the d'Avenirs and fled through the Mists to Barovia, where they believed neither Van Richten nor Metus could follow.
 
 Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well.  (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani.
 
@@ -426,7 +426,7 @@ The horde killed all but one young man: Arturi Radanavich, who hid away in a tru
 
 Several weeks after Rudolph van Richten departed Barovia, Izek and his younger sister, the four-year-old Ireena Strazni, were attacked by a **dire wolf**, as described in <span class="citation">Izek Strazni (p. 231)</span>. Although Izek lost his arm, an *amber shard* he had picked up by the shore of Lake Zarovich spoke to him, promising the power to keep his sister safe. Izek accepted the vestige's offer, and destroyed the dire wolf with its fiery power.
 
-When Izek returned to his senses, however, he found that Ireena had fled, vanishing into the woods. She would later appear near the Village of Barovia with no memory of her past, where she would be adopted by Burgomaster Kolyan Indirovich. (See <span class="citation">E5f. Chapel (p. 46)</span>. 
+When Izek returned to his senses, however, he found that Ireena had fled, vanishing into the woods. She would later appear near the Village of Barovia with no memory of her past, where she would be adopted by Burgomaster Kolyan Indirovich. (See <span class="citation">E5f. Chapel (p. 46))</span>. 
 
 Izek soon lost his parents to grief, as described in <span class="citation">Izek Strazni (p. 231)</span>, and lashed out at those around him—eventually killing several other children. He was caught and pardoned by Vargas Vallakovich, the adult son of Baron Valentin Vallakovich. Against his father's wishes, Vargas took Izek into their home. Vargas's wife, Lydia Petrovna, was disturbed by the boy’s violent proclivities and withdrew to care obsessively for the their newborn son, Victor.
 
@@ -550,3 +550,5 @@ Meanwhile, in a distant land far beyond the valley, several travelers arrive in 
 ***The Darkened Valley.*** This section provides a reasonable time period for Strahd's awakening to reverberate throughout Barovia, thereby setting up many of the challenges and conflicts, such as Kasimir's search for the Amber Temple and Stella Wachter's "illness," that the players will later face.
 
 ***The Wrath of Strahd.*** This section provides context for the players' arrival in the village of Barovia, setting up Ireena's journey alongside them.
+
+[^1]: The concept of the Fanes was first introduced in: Cordell, Bruce R., and James Wyatt. _Expedition to Castle Ravenloft_. Wizards of the Coast, October 2006

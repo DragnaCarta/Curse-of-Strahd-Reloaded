@@ -60,7 +60,7 @@ The first time the players take a long rest in Vallaki after [[#U1. The War Coun
 > * “Your friends need you."
 > * “Peace is within your grasp."
 >
-> A player who touches the sleeping characters is instantly transported into the dream alongside them.
+> Any attempts to rouse the sleeping players fail. A player who touches the sleeping characters is instantly transported into the dream alongside them. 
 ## U2b. Vallaki Town Square
 ### Entering the Dream
 When the players first enter the dream, read the following, adjusting the text to remove any deceased characters:
@@ -204,7 +204,7 @@ The woman resembles Stella from behind. If the players approach or interact with
 
 <div class="description">
 <p>The woman’s head turns; although her body resembles Stella Wachter’s in form, the woman’s face is older—almost ageless—and strange and unfamiliar to you.</p>
-<p>She has thin eyebrows and high cheekbones, and an expression that at once looks stern, solemn, and comforting. Her eyes are a pale, light gray, and she wears a brooch upon her neck shaped like a sprig of belladona upon a silver shield.</p>
+<p>She has thin eyebrows and high cheekbones, and an expression that at once looks stern, solemn, and comforting. Her eyes are a pale, light gray, and she wears a brooch upon her neck shaped like a sprig of belladonna upon a silver shield.</p>
 <p>"At long last," she says, smiling warmly. “I’ve truly looked forward to meeting you."</p>
 </div>
 
@@ -253,7 +253,7 @@ If the players defy them again, the mists swirl angrily, and the Dark Powers’ 
 The dream then ends, and the players awaken at the end of their long rest. When they do, Ireena awakens with a sprig of belladonna on her chest.
 
 > [!abstract]+ **The Belladonna**
-> The sprig of belladonna—nightshare—is a deadly poison, enhanced by the Dark Powers’ magic. If Ireena ingests it, she dies one minute later, her soul collected by the Dark Powers.
+> The sprig of belladonna—nightshade—is a deadly poison, enhanced by the Dark Powers’ magic. If Ireena ingests it, she dies one minute later, her soul collected by the Dark Powers.
 
 > [!abstract]+ **Ireena’s Death**
 > If Ireena accepts the Dark Powers’ gift in the dream or ingests the sprig of belladonna, her body dissipates into mist immediately after her death.
@@ -497,7 +497,7 @@ If the players investigate the shack, they find that it contains hunter’s gear
 
 The butterfly is the heart of the Dreamer. Although the Dreamer’s vestige was taken from her corpse and sealed in the Amber Temple millenia ago, the butterfly still retains some of the Dreamer’s power, especially now that Strahd is using the Dreamer’s vestige to channel the power stores within the Heart of Sorrow.
 
-The Dreamer’s heart has the statistics of an **aboleth**, with the following changes:
+The Dreamer’s heart has the statistics of an **aboleth** (2024), with the following changes:
 
 * It has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, and immunity to cold damage.
 * It has a fly speed of 40 ft., and no swim speed.
@@ -697,7 +697,7 @@ The journey from the crossroads to the castle gates is two and one-half miles lo
 
 The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
 
-Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popfsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
+Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popofsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
 
 The wights and vampires attack any players who enter the courtyard. In combat, the undead aim to knock all of the players unconscious, then bring their unconscious bodies to Strahd.
 ## U5b. Ascending the Keep
@@ -840,7 +840,7 @@ A player who inspects the castle’s surroundings from outside the tower can con
 > 
 > ***Baleful Command (Soldier Phase Only).*** The Heart telepathically speaks a one-word command to a creature connected to it. The target must succeed on a DC 19 Wisdom saving throw or be charmed by Strahd until the end of its next turn. While charmed in this way, the target must use its action to follow the command. The target automatically succeeds on the saving throw if the Heart's command is directly harmful to it.
 > 
-> Arterial Binding (Vampire Phase Only). Up to two creatures connected to the Heart must succeed on a DC 19 Strength saving throw or be grappled by the Heart (escape DC 19) until initiative count 20 of the next round of combat.
+> ***Arterial Binding (Vampire Phase Only).*** Up to two creatures connected to the Heart must succeed on a DC 19 Strength saving throw or be grappled by the Heart (escape DC 19) until initiative count 20 of the next round of combat.
 >
 > ***Tower's Fury.*** The tower around the Heart shakes and pitches violently. Any creature on the stairs or hanging on a tower wall must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Creatures with the Spider Climb feature, as well as creatures crawling on the staircase or lying prone on the stairs, succeed automatically.
 >
@@ -902,7 +902,7 @@ When Strahd’s Soldier phase is reduced to 0 hit points, read the following, mo
 <p>And then—the frontline opens, and a new band of warriors marches forth.</p>
 <p>Diona, mounted upon a mighty elk, raises her stone spear in the air and bellows defiance. Beside and towering above them, the ethereal form of Chief Kavan, mounted upon a ghostly giant elk of his own, leads a train of whooping spirits marching forward. Bestial spirits—a giant bear, an enormous eagle, and ravenous wolf—raze the undead before them as Chief Diegia raises a rallying cry. Overhead, a sky-splitting shriek pierces the air—and the great shadow of the roc of Mount Ghakis plunges through the clouds.</p>
 <p><em>Flicker</em>. The Wizard of Wines returns—and the Martikovs are no longer alone. Gleaming shades, clad in shining mail, step forth from the shadows to rend the grotesque horde. The wereravens crow with gleeful defiance as two radiant spirits—the familiar forms of Vladimir Horngaard and Sir Godfrey Gwilym—fight side-by-side, leading the Order of the Silver Dragon to battle once more.</p>
-<p><em>Flicker</em>. The stone walls of Kezk—and a lone figure soaring high above the fray. With a note of purity and grace, the Abbot plunges from the sky, his wings shining with divine light. His radiant mace cleaves through the undead masses as, below, the Belviews rip and tear with ferocious tenacity. An undead direwolf roars and stumbles back as two massive wolves, their eyes alight with human intelligence, tackle it to the ground.</p>
+<p><em>Flicker</em>. The stone walls of Kezk—and a lone figure soaring high above the fray. With a note of purity and grace, Ithuriel plunges from the sky, his wings shining with divine light. His radiant mace cleaves through the undead masses as, below, the Belviews rip and tear with ferocious tenacity. An undead direwolf roars and stumbles back as two massive wolves, their eyes alight with human intelligence, tackle it to the ground.</p>
 <p><em>Flicker</em>. Grim-faced figures, their blades burning with baneful fire, begin to turn back the lurching tide. Fiona Wachter stands above them, commanding their fury with deadly precision. Father Lucian stands beside her, a storm of swirling suns filling the air around them as the arrows of the dusk elves fall like a black cloud to meet their victims far below.</p>
 <p>You hear a child’s voice cut through the chaos—“The northern gate! It’s about to fall!"—and see Arabelle not far away, Luvash and Arrigal destroying any shadow that dares step too close. As her warning rings through the air, a pair of cloaked figures take to the skies—and Victor Vallakovich and Kasimir Velikov begin to rain fire down upon the monsters below.</p>
 <p><em>Flicker</em>. The villagers of Barovia fight fiercely from their barricades—and Dr. Rudolph van Richten shouts orders from the vanguard. As his blade cleaves an elegant dance, rusted nails and broken boards whirl through the air in an unseen wind, the spirit of Erasmus van Richten flickering through the streets. At the backlines, Father Donavich kneels before the wounded, his hands alight with golden life as Doru, fangs bared and claws outstretched, cuts down undead with fierce abandon.</p>

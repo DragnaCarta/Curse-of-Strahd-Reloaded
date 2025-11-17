@@ -27,8 +27,8 @@ If the players attempt to take shelter in <span class="citation">U1. Abandoned C
 > [!combat]- **Balancing the Ruins of Berez**
  > Due to the wave mechanic, this combat encounter is a series of a consecutive **mild** combat encounter followed by a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 4% of their total maximum hit points and the second of which will consume approximately 29% of their total maximum hit points (for a total of 33% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
  > 
- > * Three Players. Reduce the number of bogwitches in the first wave to 1. Reduce the number of scarecrows in the second wave to five.
- > * Four Players. Reduce the number of hexwitches in the first wave to three. Reduce the number of scarecrows in the second wave to six.
+ > * Three Players. Reduce the number of bogwitches in the first wave to one. Reduce the number of scarecrows in the second wave to five.
+ > * Four Players. Reduce the number of hexwitches in the first wave to one. Reduce the number of scarecrows in the second wave to six.
  > * Six Players. Add one stormwitch to the first wave. Increase the number of scarecrows in the second wave to eight."
 
 
@@ -273,7 +273,7 @@ At will: detect evil and good<br>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes two attacks. He can replace one of those attacks with <strong><em>ray of light</em></strong>.</p>
 <p><strong><em>Mace.</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 4 (1d8) radiant damage.</p>
 <p><strong><em>Ray of Light.</em></strong> <em>Ranged Spell Attack:</em> +10 to hit, range 30 feet, one target. <em>Hit:</em> The target takes 9 (2d8) radiant damage and is outlined in radiant light until the end of Ithuriel's next turn. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
-<p><strong><em>Healing Touch (3/Day).</em></strong> Ithuriel touches another creature. The target magically regains 24 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
+<p><strong><em>Healing Touch (5/Day).</em></strong> Ithuriel touches another creature. The target magically regains 24 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
 <p><strong><em>Change Shape.</em></strong> Ithuriel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than his own, or back into its true form. He reverts to his true form if he is reduced to 0 hit points. Any equipment he is wearing or carrying is absorbed or borne by the new form (Ithuriel's choice). In a new form, Ithuriel retains his game statistics and ability to speak, but his AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and he gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that he lacks.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>

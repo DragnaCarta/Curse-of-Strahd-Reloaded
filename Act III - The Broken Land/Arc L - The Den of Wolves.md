@@ -213,7 +213,7 @@ If asked, Ezmerelda can share that the Radanaviches sold Van Richten’s son—a
 
 When her story ends, Ezmerelda gazes into the flames. "I owe the Krezkovs a debt I can never repay," she says softly. "But finding Ilya and returning him home, safe and sound—that would be a start."
 
-Ezmerelda isn’t sure whether the Black Terror still lingers in Barovia. “I very nearly hope he does," she says, a wry smile on her lips. Her grip tightens around her silvered handaxe. “I have a gift I’d like to give him."
+Ezmerelda isn’t sure whether the Black Terror still lingers in Barovia. “I very nearly hope he does," she says, a wry smile on her lips. Her grip tightens around her silvered shortsword. “I have a gift I’d like to give him."
 # L4. Werewolf Den
 One hour after nightfall, the majority of the werewolf pack departs the den. Read:
 
