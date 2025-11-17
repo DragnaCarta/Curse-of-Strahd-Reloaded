@@ -16,6 +16,10 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 
 > [!info]+ **The Magic of the Shards**
 > A player who scrutinizes an amber shard with a *detect magic* spell discerns tinges of abjuration magic. A player who attempts to identify a shard with an *identify* spell learns that it was once a part of a larger framework meant to contain or imprison some entity or creature, and that it still retains some arcane link to the original container.
+
+> [!info]+ **Why Amber?**
+> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls that amber has a unique magical property: it is a magical “insulator," and cannot be damaged or crossed by any kind of energy, be it magical or divine. On a result of 20 or more, the player further recalls that magical energies can pass through amber only very slowly, on a timescale of years to decades.
+
 # Stage One
 In this stage, the player is a mere possessor of the amber shard, likely unaware of the true power it offers. 
 
@@ -73,7 +77,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 ***Boon.*** You have advantage on Charisma (Deception) checks.
 
 ***Condition.*** Your eyes melt away, leaving empty sockets that can still see. You have disadvantage on Wisdom (Perception) checks.
-## Tarakemedes, the Grave Wyrm
+## Tarakamedes, the Grave Wyrm
 ***Spell.*** _Fly._
 
 ***Boon.*** While aloft, you gain a flying speed equal to your walking speed. However, you can't use this speed to gain altitude, and you descend 1 foot for every 10 feet of horizontal distance covered.

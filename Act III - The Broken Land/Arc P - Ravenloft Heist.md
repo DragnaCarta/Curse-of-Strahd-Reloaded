@@ -268,7 +268,7 @@ Shortly after the players first enter this area, the *major image* abruptly chan
 > [!abstract]+ **Ludmilla’s Arrival**
 > When the woman’s shriek rings out, Ludmilla Vilisevic, one of Strahd’s vampiric brides, hears the disturbance and departs [[#P9. Coven’s Quarters]], casting *gaseous form* and descending <span class="citation">K48. Offstair (p. 70)</span> and <span class="citation">K21. South Tower Stair (p. 59)</span> to <span class="citation">K9. Guests’ Hall (p. 56)</span>. She then climbs <span class="citation">K19. Grand Landing (p. 58)</span> and conceals herself, waiting for the players to return.
 >
-> However, if the players don’t enter <span class="citation">K10. Dining Hall (p. 56)</span> and instead ascend <span class="citation">K21. South Tower Stair (p. 59)</span>, Ludmilla hears them coming and returns to <span class="citation">K47. Portrait of Strahd (p. 68)</span>. There, in order to lure the players to the roof, she uses her ***claws*** attack to slice a wound along her own shoulder, allowing blood to drip down to form a trail on the floor behind her as she ascends <span class="citation">K48. Offstair (p. 70)</span> to <span class="citation">K57. Tower Roof (p. 72)</span>. See [[#P8. Guest Suite]] for more information about Ludmilla’s ambush.
+> However, if the players don’t enter <span class="citation">K10. Dining Hall (p. 56)</span> and instead ascend <span class="citation">K21. South Tower Stair (p. 59)</span>, Ludmilla hears them coming and returns to <span class="citation">K47. Portrait of Strahd (p. 68)</span>. There, in order to lure the players to the roof, she uses her ***claws*** attack to slice a wound along her own shoulder, allowing blood to drip down to form a trail on the floor behind her as she ascends <span class="citation">K48. Offstair (p. 70)</span> to <span class="citation">K57. Tower Roof (p. 72)</span>.
 > 
 > If the players neither enter  <span class="citation">K10. Dining Hall (p. 56)</span> nor ascend <span class="citation">K21. South Tower Stair (p. 59)</span>, and instead ascend <span class="citation">K19. Grand Landing (p. 58)</span>, Ludmilla hears them coming and creates a blood trail to lure them through <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span>, and down <span class="citation">K29. Creaky Landing (p. 62)</span> into <span class="citation">K15. Chapel (p. 57)</span>. 
 
@@ -290,7 +290,7 @@ Ludmilla always uses her bonus action to cast *darkness* on her first turn in co
 
 If Ludmilla isn’t hidden from the target, her attempt to take the *Holy Symbol of Ravenkind* automatically fails. Otherwise, the symbol’s wielder must make a DC 18 Dexterity saving throw to prevent Ludmilla from removing it.
 
-Whether Ludmilla successfully steals the symbol or not, she then retreats up <span class="citation">K19. Grand Landing (p. 58)</span> and releases concentration on her *darkness* spell before taunting the players with an invitation to "come take it back." She then crosses <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, and passes through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span> before descending into <span class="citation">K15. Chapel (p. 57)</span>. (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
+Whether Ludmilla successfully steals the symbol or not, she then retreats up <span class="citation">K19. Grand Landing (p. 58)</span> and releases concentration on her *darkness* spell. If she has taken the symbol, she taunts the players with an invitation to "come take it back." She then crosses <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, and passes through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span> before descending into <span class="citation">K15. Chapel (p. 57)</span>. (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
 
 > [!warning]+ **Opportunity Attacks in Darkness**
 > Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
@@ -303,7 +303,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 120 (16d8 + 48)<br>
+<strong>Hit Points</strong> 82 (11d8 + 33)<br>
 <strong>Speed</strong> 30 ft.
 <hr>
 <table class="ability-table">
@@ -365,7 +365,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 120 (16d8 + 48)<br>
+<strong>Hit Points</strong> 82 (11d8 + 33)<br>
 <strong>Speed</strong> 30 ft., fly 50 ft. (hover)
 <hr>
 <table class="ability-table">
@@ -677,7 +677,7 @@ If Cyrus already encountered any players the [[Arc O - Dinner with the Devil]], 
 
 In either case, once Cyrus has confirmed that the players are no danger to him, he suspiciously asks to know their business in the castle, then immediately insists that they not tell him. “Plausible deniability; that’s what my grandmammy always told me," he grunts. “Tell me no truths, and I won’t tell no one no lies."
 
-If the players seem friendly, Cyrus asks them to retrieve his “favorite cooking spoon" from the old garrison (see [[#P10. Garrison]]). “Saw one of those shamblers grab it, then vanish through those doors," he says, pointing to the doors to <span class="citation">K67. Hall of Bones (p. 78).</span>. (The “shambler" Cyrus is referring to is a **zombie**. Cyrus has seen numerous zombies wandering the lower halls recently, and is too frightened of them to enter the garrison himself.) In exchange for this favor, Cyrus promises to draw the players a rough map of the castle once his spoon is returned to him.
+If the players seem friendly, Cyrus asks them to retrieve his “favorite cooking spoon" from the old garrison (see [[#P10. Garrison]]). “Saw one of those shamblers grab it, then vanish through those doors," he says, pointing to the doors to <span class="citation">K67. Hall of Bones (p. 78)</span>. (The “shambler" Cyrus is referring to is a **zombie**. Cyrus has seen numerous zombies wandering the lower halls recently, and is too frightened of them to enter the garrison himself.) In exchange for this favor, Cyrus promises to draw the players a rough map of the castle once his spoon is returned to him.
 
 > [!info]+ **Cyrus’s Map**
 > If the players retrieve his favorite cooking spoon, Cyrus can draw them a simple boxes-and-lines map with the following details:
@@ -1122,7 +1122,7 @@ Shortly after combat ends, the door to <span class="citation">K49. Lounge (p. 70
 ## P8b. Guest Suite
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, 50 & 51.</em></span>
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, modify this area’s description depending on Escher’s location, which is as follows:
+This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, the witches' ambush does not occur if the party rest here, and modify this area’s description depending on Escher’s location, which is as follows:
 
 * If he saw the players in <span class="citation">K47. Portrait of Strahd (p. 68)</span> after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in <span class="citation">K51. Closet (p. 70)</span> while waiting for the players to leave. 
 * Otherwise, Escher is lounging on the couch as described in <span class="citation">K49. Lounge (p. 70)</span>.
@@ -1189,7 +1189,7 @@ This area is largely as described in <span class="citation">K55. Element Room (p
 > If the players failed to prevent the **black cat** familiar in [[#P8a. Guest Landing]] from alerting its mistress, the coven has used the contents of the cauldron in [[#P9c. Cauldron Room]] to transform the zombie into a weakened **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>). Add the following to this area’s description:
 >
 > <hr>
-> *The zombie’s flesh is a smooth, sickly white, its skin run through with raised crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the stone floor.*
+> <em>The zombie’s flesh is a smooth, sickly white, its skin run through with raised crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the stone floor.</em>
 > <hr>
 >
 > Increase the plague spreader's hit points to 100, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.
@@ -1455,7 +1455,16 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 ### North Tower Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. In addition, when the players arrive at this level, read:
+This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+
+## P10g. Garrison, Sixth Floor
+### General’s Landing
+<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+
+This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+
+
+ In addition, when the players arrive at this level, read:
 
 <div class="description">
 <p>The landing is flanked by spiral stone stairs, one vanishing into the tower’s peak above, the other descending into the darkness far below. Ten tarnished halberds hang from mounts above the stairs, their rusted steel glinting wickedly with each flash of lightning.</p>
@@ -1478,16 +1487,6 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 > The Devourer is no willing participant in Strahd’s schemes. However, while entrapped in the Heart of Sorrow, she is powerless to resist his torments.
 
 
-## P10g. Garrison, Sixth Floor
-### General’s Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
-
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
-
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
->
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ### General’s Terrace
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K57 & K58.</em></span>
 
@@ -1529,7 +1528,7 @@ The bats arrive in two rounds, rather than three.
 <span class="citation"><em>This scene takes place in Chapter 4, Area K73.</em></span>
 
 > [!info]+ **Flooded Areas** 
-> The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. North Dungeon (p. 82) </span>, <span class="citation">and K76. Torture Chamber (p. 82) </span>  are difficult terrain.
+> The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. South Dungeon (p. 82) </span>, <span class="citation">and K76. Torture Chamber (p. 82) </span>  are difficult terrain.
 
 This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>. However, the trapdoors function as follows:
 
@@ -1963,7 +1962,7 @@ The player can release the staff at any time. If they release the staff while th
 <span class="credit">"Khazan's Staff" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!item]+ **Khazan's Staff**
-> *Staff, weapon, rare (requires attunement by a sorcerer, warlock, or wizard)*
+> *Staff, weapon, legendary (requires attunement by a sorcerer, warlock, or wizard)*
 > *Simple weapon, melee weapon*
 > 4 lb. | 1d6 bludgeoning - versatile (1d8)
 > 
