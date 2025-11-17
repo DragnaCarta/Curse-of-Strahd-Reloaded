@@ -446,7 +446,6 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<div class="break"></div>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>

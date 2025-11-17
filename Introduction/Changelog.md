@@ -1,4 +1,4 @@
-# Patch 2.1.0.7 (November 17, 2025)
+# Patch 2.1.0.9 (November 17, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that *Waltz for Klara*  only causes the bookshelf to swing open, not open the secret door behind
 * Added art for Bildrath and Parriwimple in [[Arc B - Welcome to Barovia]]
@@ -16,6 +16,10 @@
 * Added art for The Roc of Mount Ghakis in [[Arc T - The Three Fanes]]
 * Clarified that the Dreamer’s heart has the statistics of an **aboleth** from 2024, not 2014, in [[Arc U - Dreams of Dawn]]
 * Added a citation for the original concept of the Fanes, in [[History of Barovia]]
+# Hotfix 2.1.0.8 (November 10, 2025)
+* Fixed rendering error with Volenta's statblock in [[Arc D - St. Andral's Feast]] and [[Non-Player Characters]]
+# Hotfix 2.1.0.7 (November 8, 2025)
+* Added link to Arc A Foundry module by Eidolon Publishing in [[Arc A - Escape From Death House]]
 # Hotfix 2.1.0.6 (October 13, 2025)
 * Resolved formatting issues in [[Bestiary]]
 # Patch 2.1.0.5 (September 22, 2025)
