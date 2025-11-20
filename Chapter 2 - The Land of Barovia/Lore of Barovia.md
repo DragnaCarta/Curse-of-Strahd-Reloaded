@@ -9,9 +9,29 @@ The Dark Powers do not necessarily seek to corrupt those they encounter. Instead
 
 As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. 
 
-Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span> and <span class="citation">Resurrection Madness (p. 24)</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
+Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
 # Geography
 The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
+
+# Weather
+Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
+# Calendar
+The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar has twelve 28-day months, which are named as follows: <sup>1</sup>
+  
+| Month | Barovian Name | Gregorian Name |
+| :---: | :------------ | :------------- |
+|   1   | Yinvar        | January        |
+|   2   | Fivral        | February       |
+|   3   | Mart          | March          |
+|   4   | Apryl         | April          |
+|   5   | Mai           | May            |
+|   6   | Eyune         | June           |
+|   7   | Eyule         | July           |
+|   8   | Avgust        | August         |
+|   9   | Sintyavr      | September      |
+|  10   | Octyavr       | October        |
+|  11   | Neyavr        | November       |
+|  12   | Dekavr        | December       |
 # Cultures
 ## Barovians
 The denizens of the Village of Barovia are a broken, haunted people, largely as described in <span class="citation">Chapter 3: The Village of Barovia (p. 41)</span> and <span class="citation">Barovian Villagers (p. 41)</span>. 
@@ -32,7 +52,7 @@ However, Baron Vallakovich commands the loyalty of Izek Strazni, a cruel and cap
 
 Though Vallaki is far from a police state, Izek has spies throughout the town—individuals that he has threatened or intimidated into keeping him abreast of news and information. Those who speak ill of the Baron or his “festivals” (described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span>) are thrown in the stocks as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. Those who go further may find themselves forcibly summoned to the Baron’s manor for “corrective rehabilitation,” or even left to the tender mercies of Izek himself, whose diabolic mastery of fire allows him to burn his victims’ flesh or set their homes aflame.
 
-As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">Vallaki Lore (p. 96)</span>, and the secret members of her devil-worshipping cult, as described in <span class="citation">Cultists (p. 96)</span> and <span class="citation">N4. Wachterhaus (p. 110)</span>.
+As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">Vallaki Lore (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
 ## Krezkians
 The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
 ## Vistani
@@ -100,26 +120,18 @@ Their spiritual leader, an elder **storm giant** named Burebis, is the sole mort
 
 While not members of any civilized society, the wolves, rats, and bats of Barovia are Strahd’s loyal servants and spies. Each day, at sunrise and sunset, each beast with news to report—of outsiders, of turmoil, or simply of interesting trinkets or treasures—returns to Castle Ravenloft to share what it's learned and to receive new orders to disseminate through the valley. Strahd’s vampiric brides gather and organize their intelligence: the wolves to Volenta Popofsky, the rats to Ludmilla Vilisevic, and the bats to Anastrasya Karelova.
 
-
 ## Brides of Strahd
-
-Strahd’s eldest three vampiric consorts—Ludmilla, Anastrasya, and Volenta—serve their master loyally, but compete bitterly for his favor. As the eldest and most adept at the arcane arts, Ludmilla is Strahd’s favored research partner, developing new spells for his use while investigating the secrets of the Mists. Meanwhile, Anastrasya is a master of the arts of espionage and diplomacy, managing Strahd’s political relationships while retaining key spies in each of Barovia’s settlements. Finally, Volenta is a skilled artificer and torturer, innovating new traps to guard Ravenloft’s halls while wringing information from those who fall into them.
+Three of Strahd’s eldest vampiric consorts—Ludmilla, Anastrasya, and Volenta—serve their master loyally, but compete bitterly for his favor. As the eldest and most adept at the arcane arts, Ludmilla is Strahd’s favored research partner, developing new spells for his use while investigating the secrets of the Mists. Meanwhile, Anastrasya is a master of the arts of espionage and diplomacy, managing Strahd’s political relationships while retaining key spies in each of Barovia’s settlements. Finally, Volenta is a skilled artificer and torturer, innovating new traps to guard Ravenloft’s halls while wringing information from those who fall into them.
 
 Over the past hundred years, with Strahd asleep in Castle Ravenloft, each of his brides dispersed through the valley to pursue their own agendas. Now, with Strahd awoken, and his moment of reckoning at hand, each bride is desperate to prove their loyalty and worth to Strahd once more—and to win their place at his side when his grand plan comes to fruition.
-
 ## Witches of Mother Night
-
 While the good-hearted worshippers of Barovia keep the faith of the Morninglord alive, other, darker individuals seek the power and favor of Mother Night instead. Chief among them is Baba Lysaga, the Witch of Berez, who has fostered a coven of fellow devotees by recruiting outcasts and exiles from the settlements of Barovia. The maddened Lysaga views these practitioners as her children, and teaches them to secretly consider themselves the younger siblings of Strahd—sworn to protect and obey him for eternity.
 
 These witches are largely as described in <span class="citation">Barovian Witch (p. 229)</span>, though their pacts are forged with Mother Night instead of Strahd and the Dark Powers. Those sent to Ravenloft serve at the pleasure of Ludmilla Vilisevic, Strahd’s magic-minded consort, though none forget that their true loyalty is owed to Baba Lysaga of the swamp—and, above her, to Strahd himself.
-
 ## Wachtercult
-
-As part of her latest scheme to gain control of Vallaki, Lady Fiona Wachter has founded a devil-worshipping cult, described further in <span class="citation">N4. Wachterhaus (p. 110)</span>. Currently, Lady Wachter’s “book club” boasts six cult fanatics, with each fanatic leading a smaller cell of six cultists as described in <span class="citation">Cultists (p. 96)</span>. 
-
+Unlike in the official *Curse of Strahd* module, Lady Fiona Wachter does not worship devils. Instead, although she retains an **imp** familiar as a memento of her time studying with the witch Baba Lysaga, she has taught the members of her Vallakian cult to worship the goddess Ezra, who is described in [[#The Cult of Ezra]] below. Currently, Lady Wachter’s “book club” boasts six **cult fanatics**, with each fanatic leading a smaller cell of six **cultists** as described in <span class="citation">Cultists (p. 96)</span>. 
 ## Werewolf Pack
-
-The werewolf pack—the members of whom call themselves the Children of Mother Night—are largely as described in **Chapter 15: Werewolf Den (p. 201). Until Strahd’s awakening, the pack largely used Barovia as a place to rest between hunts, occasionally prowling the roads between settlements, but preferring the tastier meat of the lands beyond the mists.
+The werewolf pack—the members of which call themselves the Children of Mother Night—are largely as described in <span class="citation">Chapter 15: Werewolf Den (p. 201)</span>. Until Strahd’s awakening, the pack largely used Barovia as a place to rest between hunts, occasionally prowling the roads between settlements, but preferring the tastier meat of the lands beyond the mists.
 
 However, when Strahd awoke, he demanded the loyalty of the werewolves whose forebears had once served him faithfully. He threatened to seal the pack within the mists for all eternity if they defied him—but promised them wealth, power, and plentiful prey if they returned to his service.
 
@@ -129,6 +141,22 @@ But Emil was betrayed. Kiril, a young and haughty werewolf who felt his strength
 
 Now, as the pack’s new alpha and Strahd’s faithful servant, Kiril leads his werewolves on a savage and bloody crusade to dominate the wild places of Barovia, though he dreams of one day surmounting the settlements’ walls and devouring their people like sheep. Meanwhile, Emil’s mate Zuleika, the pack’s holy woman and soothsayer, sits alone in Mother Night’s shrine, silently praying for deliverance—or vengeance.
 
+> [!info]+ **Lycanthropy in Barovia**
+>
+> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+>
+> Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
+>
+> An infected creature can embrace the curse of lycanthropy—and so gain its full benefits—by completing a certain task, depending on the nature of their curse:
+>
+> - An infected **werewolf** must voluntarily kill another humanoid and devour their flesh.
+> - An infected **wereraven** must be knocked unconscious while voluntarily attempting to protect another humanoid from (what they believe to be) near-certain death.
+>
+> An infected lycanthrope can be recognized by the scar of the wound that originally transmitted the curse. The wound will never entirely heal, and remains raw and bloody until the curse is lifted.
+>
+> The child of two lycanthropes possesses the full benefits of lycanthropy from birth, and may learn to control their curse as they age. A child born with lycanthropy in this way cannot be cured except by means of a *wish* spell.
+>
+> Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on Neyavr 8th—the sixth night after they first arrive in Vallaki.**
 ## Amber Vestiges
 
 The vestiges of the Amber Temple are not sentient as most would imagine it; as the decaying remnants of dead gods, they are mere scraps of malevolent power, described further in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>, <span class="citation">Amber Sarcophagi (p. 191)</span>, and <span class="citation">X33. Amber Vaults (p. 191)</span>.
@@ -153,7 +181,7 @@ However, Madam Eva foresees that Strahd will soon return to her for a final, ter
 ## The Church of the Morninglord
 The dominant faith in Barovia worships the deity known as the Morninglord, a god of dawn and renewal. In centuries past, with the sun always hidden behind overcast skies, the people’s faith had slowly slipped into empty ritual. 
 
-With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. Father Lucian Petrovich, the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morningword’s grace, as described in **N1. St. Andral’s Church (p. 97), but even he has his quiet doubts about how far that protection can go.
+With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. Father Lucian Petrovich, the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morninglord’s grace, as described in <span class="citation">N1. St. Andral’s Church (p. 97)</span> but even he has his quiet doubts about how far that protection can go.
 
 > [!lore]+ **The Names of the Gods**
 >
@@ -170,7 +198,7 @@ These Barovians walk a middle path, and instead worship Ezra, the Mistwalker: th
 
 In Barovia, the followers of Ezra preach that power is an illusion, and suffering life’s only constant. Many believe that tales of the sun are myths, and that Barovia has neither past nor future: only an unceasing present that must be forever endured.
 
-Though she preaches devil-worship to her cult, Lady Fiona Wachter of Vallaki is a quiet worshipper of Ezra. Many turn to Ezra for comfort in times of tragedy, finding it easier to believe that hope is an illusion than to believe that it may be attained and then lost. 
+Lady Fiona Wachter of Vallaki is a quiet worshipper of Ezra, as are her followers. Many turn to Ezra for comfort in times of tragedy, finding it easier to believe that hope is an illusion than to believe that it may be attained and then lost. 
 
 Few, however, suspect the horrible truth: that “Ezra” does not, and has never existed—and that her soothing voice is merely a simulacrum conjured by the twisted whispers of the Dark Powers themselves.
 ## The Faith of the Ladies Three
@@ -204,3 +232,5 @@ The "good" Mountain Folk of Soldav have been added to provide the players with a
 Finally, the recent history of the werewolf pack has been updated to tie more strongly into the narrative of Strahd's recent reawakening, while the amber vestiges have been given "amber shards" to introduce players to their corruption on a much earlier timescale than the original module.
 
 ***Religions.*** The cult of Ezra has been added to the campaign to provide additional depth to Fiona Wachter’s characterization and to foreshadow the true nature of the Dark Powers before Ireena meets and defies them at the climax of her character arc.
+
+<sup>1</sup> Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).

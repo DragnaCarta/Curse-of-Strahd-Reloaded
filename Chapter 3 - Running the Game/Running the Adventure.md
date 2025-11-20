@@ -25,7 +25,7 @@ It is, of course, always possible for players to go "off the rails" and forge th
 In contrast to the original *Curse of Strahd* module, this guide offers a single, original adventure hook to guide the players into Barovia. In this hook, Death House serves as a portal to Strahd's domain: the players enter Death House in their own world, and—upon defeating or pacifying the cult—emerge into the land of Barovia. However, this hook can be implemented in two possible ways:
 
 * ***Lost in the Mists.*** In this version, the players are members of a mercenary adventuring party that has been hired to investigate a series of mysterious disappearances tied to a particular house (Death House). This hook focuses the players' attention solely on Strahd's tyranny and the Barovians who suffer under his rule, encouraging the players to immerse themselves in the campaign's lore and to develop unique relationships with its diverse cast of characters.
-* ***Barovian Relics.*** In this version, one or more players possess certain relics that originated from Barovia and are tied to their backstories.  When Death House manifests nearby, those relics are drawn to it, encouraging the players to enter and investigate. (Any players who do not wish to craft a backstory may instead choose to be a mercenary investigating recent disappearances, as in ***Lost in the Mists***.) This hook focuses the players' attentions on their own interests and personal connections to the land of Barovia, encouraging them to invest their attention in NPCs and locations tied to their unique relics.
+* ***Barovian Relics.*** In this version, one or more players possess certain unique relics that originated from Barovia and are tied to their backstories.  When Death House manifests nearby, those relics are drawn to it, encouraging the players to enter and investigate. (Any players who do not wish to craft a backstory may instead choose to be a mercenary investigating recent disappearances, as in ***Lost in the Mists***.) This hook focuses the players' attentions on their own interests and personal connections to the land of Barovia, encouraging them to invest their attention in NPCs and locations tied to their unique relics.
 
 In general, ***Lost in the Mists*** may be viewed as a "pure" version of *Curse of Strahd*, focusing its narrative on the isolation and alienation of Barovia. By contrast, ***Barovian Relics*** is best used by Dungeon Masters who are passionate about Barovia's gothic atmosphere and environment, but whose players require a personal connection to the campaign to be emotionally invested.
 
@@ -33,13 +33,13 @@ See ***Arc A. Escape From Death House*** and **A1. Daggerford** for more informa
 # Strahd’s Spies
 One or more of Strahd's spies check in on the players once each day and once each night, as described in **Strahd's Spies** (p. 29). However, the nature of Strahd’s spies may vary with the players’ location and the time of day. Use the following table when planning an encounter with a spy:
 
-|Location|Day Encounter|Night Encounter|
-|:---:|:---:|:---:|
-|Village of Barovia|1 Vistani **bandit**|1d4 **swarms of bats**|
-|Svalich Woods|1 **wolf** or **druid**|1 **wolf** or 1d4 **swarms of bats**|
-|Town of Vallaki|1 **swarm of rats** or 1 Wachter **cultist**|1 **swarm of bats**|
-|Village of Krezk|1 **swarm of rats**|1 **swarm of bats**|
-|Mount Ghakis|1 **dire wolf** or 1 **berserker**|1 **swarm of bats**|
+|      Location      |           Day Encounter            |           Night Encounter            |
+| :----------------: | :--------------------------------: | :----------------------------------: |
+| Village of Barovia |        1 Vistani **bandit**        |        1d4 **swarms of bats**        |
+|   Svalich Woods    |      1 **wolf** or **druid**       | 1 **wolf** or 1d4 **swarms of bats** |
+|  Town of Vallaki   |        1 **swarm of rats**         |         1 **swarm of bats**          |
+|  Village of Krezk  |        1 **swarm of rats**         |         1 **swarm of bats**          |
+|    Mount Ghakis    | 1 **dire wolf** or 1 **berserker** |         1 **swarm of bats**          |
 
 Strahd's spies, which all understand Common, report the following information, which you should track using the [**Strahd's Espionage** handout](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/Strahd's%20Espionage.pdf):
 
@@ -47,15 +47,15 @@ Strahd's spies, which all understand Common, report the following information, w
 * any spells, weapons, or abilities that the players are seen using; and
 * any locations or NPCs that the players are seen visiting.
 # Encounters with Strahd
-Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see ***Arc C: Into the Valley***), the players may later speak with him at Yester Hill (see ***Arc M: The Missing Gem***) and dine with him at Castle Ravenloft (see ***Arc L: Dinner with Strahd***).
+Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Act I - Into the Mists/Arc C - Into the Valley]]), the players may later speak with him at Yester Hill (see [[Arc J - The Stolen Gem]]) and dine with him at Castle Ravenloft (see [[Arc O - Dinner with the Devil]]).
 
-Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc Y: The Devil’s Ordeals*** for more information.
+Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc R: The Tyrant's Trials*** for more information.
 
 > [!warning]+ **Combat Tactics**
 > Combat encounters in this guide have been designed using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a system that calibrates encounter difficulty to ensure challenging, balanced encounters. Unless specifically provided in this guide, or unless necessary to compete with players using similar tactics, enemies (including Strahd) should not need to use any tactics (e.g., targeting weak players or focus-firing) in order to provide a challenging experience.
 # The Tarokka Reading
 ## The Tome of Strahd
-The contents of the Tome of Strahd are now as described in [[Arc D - The Tome of Strahd#Reading the Tome|Arc D - The Tome of Strahd]].
+The contents of the Tome of Strahd are now as described in [[Arc H - The Lost Soul#H9a. Reading the Tome|Arc H - The Lost Soul]].
 ## The Holy Symbol of Ravenkind
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
@@ -70,7 +70,7 @@ The *Holy Symbol of Ravenkind* has been revised as follows:
 </div>
 
 ## The Sunsword
-The *Sunsword* cannot be attuned to when the players first obtain it. Instead, the players must submerge it in the blessed pool near the Shrine of the White Sun to restore its radiant blade. (The hilt retains its sentience and ability to communicate telepathically before its blade is restored.) For more information about this arc, see ***Arc V: The Sunsword*** below.
+The *Sunsword* cannot be attuned when the players first obtain it. Instead, the players must submerge it in the blessed pool near the Shrine of the White Sun to restore its radiant blade. (The hilt retains its sentience and ability to communicate telepathically before its blade is restored.) For more information about this arc, see ***Arc V: The Sunsword*** below.
 
 Note that the *Sunsword* is a sentient magic item; as described in **Conflict** (*Dungeon Master's Guide*, p. 216), it may make demands of its wielder or attempt to seize control of them if they act contrary to its will. (This is especially likely to occur if, for example, its wielder is charmed by Strahd von Zarovich.)
 ## Strahd’s Enemy
@@ -78,18 +78,15 @@ Strahd's enemy no longer possesses the ***Inspire*** action (**Strahd's Enemy**,
 ## The Card Reading
 Immediately before the scene in which the players meet Madam Eva, if you are using a physical Tarokka deck for the reading, choose which five cards Madam Eva will draw and stack them on top of the deck in the order described in <strong>Card Reading</strong> (p. 11).
 
-When choosing which card(s) to use for which part of the reading, select from the following lists.
+When choosing which card(s) to use for which part of the reading, select the following.
 ### The Tome of Strahd
-The Tome of Strahd is not present in the Material Plane of Barovia. Instead, it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc I - The Lost Soul]] for more information about the gallows speaker.
+The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information about the gallows speaker.
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword
-Place the *Sunsword* in one of the following locations:
-
-* ***Seven of Swords—Hooded One.*** Choose the head of the giant statue in the Amber Temple if you want to force the players to fight Neferon, the **arcanaloth.**
-* ***Eight of Glyphs—Bishop.*** Choose the sealed treasury of the Amber Temple if you want to give your players a reason to delve more deeply into the Amber Temple.
+Place the *Sunsword* in the Vampyr's sarcophagus in the Amber Temple (***Eight of Glyphs—Bishop***).
 ### Strahd's Enemy
-Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades).***
+Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades***).
 ### Strahd's Location
 Assign Strahd's location in Castle Ravenloft to **K20. Heart of Sorrow**, represented by the ***Marionette (Jack of Hearts).*** 
 # Design Notes: Running the Adventure
@@ -104,7 +101,7 @@ The *Holy Symbol* has been intentionally placed in the Werewolf Den to ensure th
 
 The four foretellings leading to Krezk—the scarecrow in the garden of the Abbey of Saint Markovia (***Two of Glyphs—Missionary***), the main hall of the Abbey (***One of Glyphs—Monk***), the nursery of the Abbey (***Two of Coins—Philanthropist***), and the gazebo in the Shrine of the White Sun (***Three of Glyphs—Healer***)—have been removed to ensure that the players do not fulfill two of their Tarokka readings (i.e., both the *Holy Symbol* and Strahd's Enemy) while within the same relative area.
 
-***The Sunsword.*** The *Sunsword*'s radiant blade has been withheld from the players to create a more organic opportunity to meet the spirit of Sergei von Zarovich, to manufacture a late-game interaction between Sergi and Ireena, and to create a more climactic and engaging narrative. 
+***The Sunsword.*** The *Sunsword*'s radiant blade has been withheld from the players to create a more organic opportunity to meet the spirit of Sergei von Zarovich, to manufacture a late-game interaction between Sergei and Ireena, and to create a more climactic and engaging narrative. 
 
 Due to its power in combat against Strahd, the *Sunsword* has been intentionally placed in the Amber Temple—the most dangerous and isolated location in the game—to ensure that the players do not obtain it too early. This placement also ensures that the players have a reliable hook to the Temple and a rewarding goal to achieve while there.
 
