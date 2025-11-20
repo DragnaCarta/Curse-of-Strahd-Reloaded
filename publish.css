@@ -50,6 +50,7 @@
      --custom-background-interesting: #33002a34;
      --custom-background-design: #3600003a;
      --custom-background-combat: #3600003a;
+     --custom-background-combat-alt: #4c2b2b4f;
   }
 
 
@@ -73,6 +74,14 @@
   .markdown-preview-view h3,
   .markdown-preview-view h4,
   .markdown-preview-view h5 {
+    color: var(--highlight-primary);
+  }
+
+  .cm-s-obsidian .cm-header.cm-header-1,
+  .cm-s-obsidian .cm-header.cm-header-2,
+  .cm-s-obsidian .cm-header.cm-header-3,
+  .cm-s-obsidian .cm-header.cm-header-4,
+  .cm-s-obsidian .cm-header.cm-header-5 {
     color: var(--highlight-primary);
   }
 
@@ -378,6 +387,10 @@ details[open] > summary h3 {
     --callout-icon: lucide-swords;
     --highlight: var(--highlight-combat);
     --background: var(--custom-background-combat);
+  }
+
+  .callout[data-callout="combat"] .callout-content table tbody tr:nth-child(odd) {
+    background: var(--custom-background-combat-alt);
   }
 
   .callout[data-callout="warning"] {

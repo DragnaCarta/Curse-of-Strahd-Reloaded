@@ -50,6 +50,7 @@
      --custom-background-interesting: #33002a34;
      --custom-background-design: #3600003a;
      --custom-background-combat: #3600003a;
+     --custom-background-combat-alt: #4c2b2b4f;
   }
 
 
@@ -76,6 +77,14 @@
     color: var(--highlight-primary);
   }
 
+  .cm-s-obsidian .cm-header.cm-header-1,
+  .cm-s-obsidian .cm-header.cm-header-2,
+  .cm-s-obsidian .cm-header.cm-header-3,
+  .cm-s-obsidian .cm-header.cm-header-4,
+  .cm-s-obsidian .cm-header.cm-header-5 {
+    color: var(--highlight-primary);
+  }
+
   .page-header {
     margin-bottom: 8px !important;
   }
@@ -88,6 +97,17 @@
   .citation em {
     color: var(--highlight-secondary);
     font-weight: bold;
+  }
+
+  .credit {
+    color: var(--highlight-secondary);
+    display: block;
+    margin: auto;
+    font-weight: bold;
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+    width: 100%;
   }
   
   .published-container .markdown-rendered h1,
@@ -362,6 +382,17 @@ details[open] > summary h3 {
     --background: var(--custom-background-friendly);
   }
 
+  .callout[data-callout="combat"] {
+    --callout-color: 0, 0, 0; 
+    --callout-icon: lucide-swords;
+    --highlight: var(--highlight-combat);
+    --background: var(--custom-background-combat);
+  }
+
+  .callout[data-callout="combat"] .callout-content table tbody tr:nth-child(odd) {
+    background: var(--custom-background-combat-alt);
+  }
+
   .callout[data-callout="warning"] {
     --highlight: var(--highlight-warning);
     --background: var(--custom-background-warning);
@@ -442,6 +473,10 @@ details[open] > summary h3 {
 /* Remove line after the last item */
 .flowchart li:last-child::after {
     display: none;
+}
+
+.break {
+  break-before: column;
 }
 
   
