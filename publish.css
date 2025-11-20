@@ -393,7 +393,8 @@ details[open] > summary h3 {
     background: var(--custom-background-combat-alt);
   }
 
-  .callout[data-callout="combat"] table th, td:first-child {
+  .callout[data-callout="combat"] table th,
+  .callout[data-callout="combat"] table td {
     text-align: center;
     vertical-align: middle;
   }
