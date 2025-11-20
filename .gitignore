@@ -1,1 +1,3 @@
 .obsidian/*.json
+.DS_Store
+.idea/
