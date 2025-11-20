@@ -255,7 +255,7 @@ The woman is Wensencia, a student of Baba Lysaga. (Players who previously encoun
 > Wensencia's steed has the statistics of a **dire wolf**, but has a **zombie**'s ***undead fortitude*** feature instead of a dire wolf's ***pack tactics*** feature. It obey's Wensencia's spoken commands, and Wensencia can use a bonus action on her turn to mentally command it if it is within 60 feet of her.
 
 > [!profile]+ **Wensencia, Swamp Witch**
-> Wensencia, like Baba Lysaga’s five other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
+> Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
 
 If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
 
@@ -500,7 +500,7 @@ This area is largely as described in <span class="citation">Q4. Spider's Ballroo
 
 > [!combat]+ **Balancing the Spiders’ Ballroom**
 > This two-wave encounter includes a bruising combat encounter followed by a mild combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), the first of which will consume approximately 30% of their total maximum hit points and the second of which will consume approximately 7% of their total maximum hit points (for a total of 37% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players.** Reduce the number of giant spiders in the first wave to one. Have the phase spiders appear in waves—first one, then the other. 
+> * **Three Players.** Reduce the number of giant spiders in the first wave to five. Have the phase spiders appear in waves—first one, then the other. 
 > * **Four Players.** Reduce the number of giant spiders in the first wave to six. 
 > * **Six Players**. Increase the number of giant spiders in the first wave to eight.
 
