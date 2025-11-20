@@ -49,7 +49,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Werewolf Den.*** Strahd finds Kiril Stoyanovich to be a useful and loyal servant, if somewhat brutish and unsophisticated. He intends to keep Emil Toranescu, the pack’s former alpha, as a prisoner in his dungeons until Emil is sufficiently mad with starvation to be “tamed.”
 
-***Tsolenka Pass.*** Strahd is peripherally aware that the Mountain Folk roam the Balinok Mountains, but—due to Elder Burebis’s protection—is unaware of the existence of their settlement Monsdav. He considers the Mountain Folk to be a lost and broken people and has no use for or interest in them.
+***Tsolenka Pass.*** Strahd is peripherally aware that the Mountain Folk roam the Balinok Mountains, but—due to Elder Burebis’s protection—is unaware of the existence of their settlement Soldav. He considers the Mountain Folk to be a lost and broken people and has no use for or interest in them.
 
 ***Amber Temple.*** Strahd respects Neferon’s dedication to protecting the temple and finds him to be a worthy guardian of the treasures contained within. He has historically had a collegial respect for Exethanter, but, after awakening from his own hibernation, was disappointed by Exethanter’s loss of memory—something Strahd has little interest in restoring.
 
@@ -86,7 +86,7 @@ Strahd believes fully in the “survival of the fittest” and expects to see th
 ## Escaping the Mists
 With Madam Eva’s reluctant guidance, Strahd has learned that the Grand Conjunction—a time when the barriers between worlds will be thinned, and the energies of the stars aligned—is a prime opportunity to free himself from the Dark Powers’ prison. 
 
-To this end, Strahd has crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. This ritual has three necessary components: a power source, a control mechanism, and a catalyst.
+To this end, Strahd has crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. This ritual has four necessary components: a power source, a control mechanism, a catalyst, and a sacrifice.
 
 ***The Power Source.*** Strahd’s plan requires a substantial amount of power—far more than he can supply himself. So long as he remains bonded to the Fanes of Barovia, however, he can channel their power directly into the Heart of Sorrow for use in the ritual. 
 
@@ -100,7 +100,11 @@ Should this plot fail, Strahd must instead journey to the Whispering Wall at Yes
 
 The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs.
 
-By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exceptions include Ireena Kolyana and Dr. Rudolph van Richten, who Strahd will allow to keep their souls for his own purposes.
+By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exception includes Ireena Kolyana, who Strahd will allow to keep her soul for his own purposes.
+
+***The Sacrifice.*** The schemes of the Dark Powers command that a Darklord must always sit upon the throne of Castle Ravenloft. To escape their clutches, Strahd must find a suitable replacement—an individual whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as Strahd makes his escape. 
+
+Strahd's chamberlain and adoptive brother, Rahadin, has willingly offered himself as a worthy replacement. However, should Strahd find another suitable candidate, he would leap at the opportunity to retain Rahadin's services as a general for his armies.
 
 ***Plans Within Plans.*** If the players reconsecrate the Fanes, Strahd quickly devises a backup plan. By becoming the champions of the Fanes, the players will unknowingly have made themselves into conduits for their power, allowing Strahd to access the Fanes’ energies if he can lure the players to Castle Ravenloft. 
 
@@ -119,6 +123,9 @@ Strahd commands a vast host of beasts, undead, and other minions, which he can d
 * ***The witches’ coven*** that dwells in Castle Ravenloft
 
 However, Strahd **always faces the final battle alone.** Whether by pride, fate, or mere coincidence, this fight is his to win—or lose.
+
+> [!info]+ **Strahd's Spawn**
+> Strahd's **vampire spawn**, as noted in <span class="citation">Vampire Spawn (Monster Manual, p. 298)</span>, are bound by two compulsions: their hunger for blood, and the need to obey any command Strahd gives them. Only the strongest-willed spawn can master their need for blood, but no spawn can ignore one of Strahd's direct orders. Even so, while all of Strahd's spawn are bound to obey the letter of his commands, intelligent and willful spawn may find opportunities to disobey their spirit.
 # Strahd’s Tactics
 Even in combat, Strahd is no ordinary foe. Like several of the enemies encountered in this adventure, he uses a **multi-phase statblock** in battle. Strahd’s statistics work as follows:
 ### Phases
@@ -128,7 +135,7 @@ Strahd can choose which phase he begins in when rolling initiative. By default, 
 
 When outside of combat, Strahd can:
 
-* switch into his Solder phase by drawing his longsword and extinguishing his focus;
+* switch into his Soldier phase by drawing his longsword and extinguishing his focus;
 * switch into his Mage phase by lighting his focus (his cloak's ruby clasp) and stowing his longsword;
 * switch into his Vampire phase by stowing his longsword and extinguishing his focus.
 ### Phase Transitions
@@ -152,13 +159,13 @@ All three phases share the following vampire attributes and weaknesses:
 
 Additionally, Strahd can use the following action in his ***Vampire*** form:
 
-* ***Shapechange.*** If Strahd isn't in running water or sunlight, he polymorphs into a Tiny **bat**, a Medium **wolf**, or a Medium cloud of mist, or back into his true form. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies. While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage, except the damage he takes from sunlight.
+* ***Shapechange.*** If Strahd isn't in running water or sunlight, he polymorphs into a Tiny **bat**, a Medium **wolf**, or a Medium cloud of mist, or back into his true form. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies. While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 30 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage, except the damage he takes from sunlight.
 
 While Strahd retains a connection to the Fanes of Barovia, he also possesses the following features in all three phases:
 
-* ***Dominion of the Mountain.*** While Strahd retains the power of the Mountain Fane, he is under the effect of a permanent *nondetection* spell. Additionally, Strahd can cast *control weather* as an action without components.
+* ***Dominion of the Mountain.*** While Strahd retains the power of the Mountain Fane, he is under the effect of a permanent *nondetection* spell.
 * ***Dominion of the Swamp.*** While Strahd retains the power of the Swamp Fane, he can cast *major image* and *move earth* without components.
-* ***Dominion of the Forest.*** While Strahd retains the power of the Forest Fane, he can cast *beast sense*, *locate creature*, and *animal shapes* without components.
+* ***Dominion of the Forest.*** While Strahd retains the power of the Forest Fane, he can cast *beast sense* and *locate creature* without components.
 * ***Rejuvenation.*** If Strahd is destroyed while he retains the power of at least one of the Fanes, he gains a new body in 24 hours, regaining all his hit points and phases and becoming active again. His new body appears within his coffin.
 
 > [!info]+ **Vampiric Forbiddance**
@@ -207,16 +214,16 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8, Cha +11<br>
-<strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Perception +14, Religion +11, Stealth +17<br>
+<strong>Saving Throws</strong> Dex +12, Wis +9, Cha +12<br>
+<strong>Skills</strong> Arcana +19, Athletics +12, Deception +19, Insight +9, Perception +16, Religion +12, Stealth +19<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br>
 <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br>
 <strong>Challenge</strong> 21, or 19 when fought in sunlight<br>
-<strong>Proficiency Bonus.</strong> +6<br>
+<strong>Proficiency Bonus.</strong> +7<br>
 <hr>
-<p><strong><em>Complex Casting.</em></strong> If Strahd casts a spell on his turn using a bonus action, he can also use his action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Legendary Resistance (1/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Close Quarters Fighter.</em></strong> Strahd doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Complex Casting.</em></strong> If Strahd casts a spell on his turn using a bonus action, he can also use his action to cast a leveled spell on the same turn.</p>
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p>
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Strahd takes <span class="highlight">20 radiant damage</span> at the start of his turn, and he has <span class="highlight">disadvantage</span> on attack rolls and ability checks.</p>
@@ -225,21 +232,23 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 1/day: scrying</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Strahd uses <strong><em>vampiric touch</em></strong> twice, or <strong><em>vampiric touch</em></strong> and <strong><em>telekinetic grasp</em></strong> once each.</p>
-<p><strong><em>Vampiric Touch.</em></strong> Strahd casts or attacks with <em>vampiric touch</em>. A creature hit by an attack made with this spell must make a <span class="highlight">DC 19 Constitution saving throw</span> or be <span class="highlight">dazed</span> until the start of Strahd’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Telekinetic Grasp.</em></strong> <em>2nd-level transmutation</em>, range 60 feet, components V S M, 1 round. <em>Effect:</em> Strahd exerts his will on one creature that he can see within <span class="highlight">60 feet</span> and forces it to make a <span class="highlight">DC 19 Strength saving throw</span>. On a failure, that creature rises vertically, up to 20 feet, and remains suspended there until the start of Strahd’s next turn. That creature also takes <span class="highlight">7 (2d6) necrotic damage</span> and is <span class="highlight">restrained</span> until the end of Strahd’s next turn. When the effect ends, the target falls to the ground if it is still aloft.</p>
+<p><strong><em>Vampiric Touch.</em></strong> Strahd casts or attacks with <em>vampiric touch</em> (+12 to hit). A creature hit by an attack made with this spell must make a <span class="highlight">DC 20 Constitution saving throw</span> or be <span class="highlight">dazed</span> until the start of Strahd’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Telekinetic Grasp.</em></strong> <em>2nd-level transmutation</em>, range 60 feet, components V S M, 1 round. <em>Effect:</em> Strahd exerts his will on one creature that he can see within <span class="highlight">60 feet</span> and forces it to make a <span class="highlight">DC 20 Strength saving throw</span>. On a failure, that creature rises vertically, up to 20 feet, and remains suspended there until the start of Strahd’s next turn. That creature also takes <span class="highlight">7 (2d6) necrotic damage</span> and is <span class="highlight">restrained</span> until the end of Strahd’s next turn. When the effect ends, the target falls to the ground if it is still aloft.</p>
+<p><strong><em>Dispel Magic (3/day).</em></strong> Strahd casts <em>dispel magic</em>.
 <h3>Bonus Actions</h3>
-<p><strong><em>Circle of Sickness.</em></strong> <em>3rd-level necromancy</em>, self, components V S M, instantaneous. <em>Effect:</em> A sphere of negative energy bursts from Strahd in a 10-foot radius. Each creature within range must make a <span class="highlight">DC 19 Constitution saving throw</span>. On a failure, a creature takes <span class="highlight">28 (8d6) necrotic damage</span> and gains <span>disadvantage</span> on its next attack roll made before the end of its next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p>
-<p><strong><em>Lightning Bolt.</em></strong> Strahd casts <em>lightning bolt</em>.</p>
+<p><strong><em>Circle of Sickness.</em></strong> <em>3rd-level necromancy</em>, self, components V S M, instantaneous. <em>Effect:</em> A sphere of negative energy bursts from Strahd. Each creature within 10 feet of Strahd must make a <span class="highlight">DC 20 Constitution saving throw</span>. On a failure, a creature takes <span class="highlight">28 (8d6) necrotic damage</span> and gains <span>disadvantage</span> on its next attack roll made before the end of its next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p>
+<p><strong><em>Lightning Bolt.</em></strong> Strahd casts <em>lightning bolt</em> (DC 20).</p>
 <h3>Reactions</h3>
-<p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p>Strahd can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Strahd can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Misty Step.</em></strong> In response to taking damage, Strahd casts <em>misty step</em>.</p>
-<p><strong><em>Blindness/Deafness.</em></strong> In response to taking damage from a melee attack, Strahd casts <em>blindness/deafness</em> against the attacker. A creature that fails its saving throw against the spell takes an additional <span class="highlight">7 (2d6) necrotic damage</span>.</p>
+<p><strong><em>Blindness/Deafness.</em></strong> In response to taking damage from a melee attack, Strahd casts <em>blindness/deafness</em> (DC 20) against the attacker. A creature that fails its saving throw against the spell takes an additional <span class="highlight">7 (2d6) necrotic damage</span>.</p>
 <h3>Lair Actions</h3>
-<p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p>
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Scatter.</em></strong> The air quivers around up to three creatures of Strahd's choice that he can see within <span class="highlight">60 feet</span>. Each creature must succeed on a <span class="highlight">DC 19 Wisdom saving throw</span> or be teleported to an unoccupied space on the ground or floor that Strahd can see within 60 feet of him.</p>
-<p><strong><em>Fiery Sphere.</em></strong> A <span class="highlight">10-foot diameter</span> sphere of fire appears in an unoccupied space of Strahd's choice within <span class="highlight">60 feet</span> that he can see until initiative count 20 on the following round. Any creature that starts its turn within <span class="highlight">5 feet</span> of the sphere must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or take <span class="highlight">14 (4d6) fire damage</span>. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a <span class="highlight">30-foot radius</span> and dim light for an additional <span class="highlight">30 feet</span>.</p>
+<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Swamp Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
+<p><strong><em>Control Water (requires Swamp Fane.)</em></strong> Strahd casts or uses <em>control water</em> without components or concentration.</p>
+<p><strong><em>Fog Cloud (requires Swamp Fane.)</em></strong> Strahd casts <em>fog cloud</em> at 5th level without components or concentration. While the fog remains, Strahd has blindsight out to its edges.</p>
 </div>
+
 
 ### The Soldier
 <br>
@@ -276,66 +285,70 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8, Cha +11<br>
-<strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Perception +14, Religion +11, Stealth +17<br>
+<strong>Saving Throws</strong> Dex +12, Wis +9, Cha +12<br>
+<strong>Skills</strong> Arcana +19, Athletics +12, Deception +19, Insight +9, Perception +16, Religion +12, Stealth +19<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br>
 <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br>
 <strong>Challenge</strong> 21, or 19 when fought in sunlight<br>
-<strong>Proficiency Bonus.</strong> +6<br>
+<strong>Proficiency Bonus.</strong> +7<br>
 <hr>
-<p><strong><em>Battlefield Awareness.</em></strong> Strahd has <span class="highlight">advantage</span> on Strength and Dexterity saving throws against effects that he can see or hear, such as traps and spells.</p>
-<p><strong><em>Legendary Resistance (1/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p>
+<p><strong><em>Battlefield Awareness.</em></strong> Strahd has <span class="highlight">advantage</span> on Strength and Dexterity saving throws against effects that he can see or hear, such as traps and spells. Additionally, Strahd can't be disarmed.</p>
+<p><strong><em>Close Quarters Fighter.</em></strong> Strahd doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p>
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Strahd takes <span class="highlight">20 radiant damage</span> at the start of his turn, and he has <span class="highlight">disadvantage</span> on attack rolls and ability checks.</p>
 <!-- Actions Section -->
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Strahd makes two attacks, only one of which can be an <strong><em>umbral net.</em></strong></p>
-<p><strong><em>Longsword.</em></strong> Melee Weapon Attack: <span class="highlight">+11 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">11 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage</span>. If the target is a creature, Strahd can force it to succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be pushed 5 feet away and knocked <span class="highlight">prone</span>.</p>
-<p><strong><em>Umbral Net.</em></strong> Ranged Spell Attack: <span class="highlight">+11 to hit</span>, range 30/60 ft., one creature. <em>Hit:</em> <span class="highlight">7 (2d6) necrotic damage</span> and the target is <span class="highlight">restrained</span> until the start of Strahd’s next turn.</p>
+<p><strong><em>Longsword.</em></strong> Melee Weapon Attack: <span class="highlight">+12 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">11 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage</span>. If the target is a creature, Strahd can force it to succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be pushed 5 feet away and knocked <span class="highlight">prone</span>.</p>
+<p><strong><em>Umbral Net.</em></strong> Ranged Spell Attack: <span class="highlight">+12 to hit</span>, range 30/60 ft., one creature. <em>Hit:</em> <span class="highlight">7 (2d6) necrotic damage</span> and the target is <span class="highlight">restrained</span> until the start of Strahd’s next turn.</p>
 <!-- Bonus Actions Section -->
 <h3>Bonus Actions</h3>
-<p><strong><em>Thunderous Wave.</em></strong> Strahd slams the point of his sword into the ground, creating a shockwave. Each creature within <span class="highlight">5 feet</span> must make a <span class="highlight">DC 19 Strength saving throw</span> or take <span class="highlight">14 (3d8) thunder damage</span> and be pushed 5 feet away. A creature that succeeds on the roll takes half damage and isn’t pushed.</p>
-<p><strong><em>Dark Volley.</em></strong> Strahd conjures a rain of shadowy arrows to fall toward a point he can see within <span class="highlight">120 feet</span>. Each creature within a <span class="highlight">10-foot radius, 40-foot-high cylinder</span> centered on that point must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">18 (4d8) necrotic damage</span> on a failure or half as much damage on a success.</p>
+<p><strong><em>Thunderous Wave.</em></strong> Strahd slams the point of his sword into the ground, creating a shockwave. Each creature within <span class="highlight">5 feet</span> must make a <span class="highlight">DC 20 Strength saving throw</span> or take <span class="highlight">14 (3d8) thunder damage</span> and be pushed 5 feet away. A creature that succeeds on the roll takes half damage and isn’t pushed.</p>
+<p><strong><em>Dark Volley.</em></strong> Strahd conjures a rain of shadowy arrows to fall toward a point he can see within <span class="highlight">120 feet</span>. Each creature within a <span class="highlight">10-foot radius, 40-foot-high cylinder</span> centered on that point must make a <span class="highlight">DC 20 Dexterity saving throw</span>, taking <span class="highlight">18 (4d8) necrotic damage</span> on a failure or half as much damage on a success.</p>
 <!-- Reactions Section -->
 <h3>Reactions</h3>
-<p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Commander’s Retreat.</em></strong> In response to taking damage from a melee attack, Strahd forces his attacker to succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be pushed 5 feet away. He can then immediately move up to his speed away from them without provoking opportunity attacks.</p>
+<p>Strahd can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Strahd can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Commander’s Retreat.</em></strong> In response to taking damage from a melee attack, Strahd forces his attacker to succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be pushed 5 feet away. He can then immediately move up to his speed away from them without provoking opportunity attacks.</p>
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from a spell or attack, Strahd moves up to his speed toward the attacker and can make a <strong><em>longsword</em></strong> attack against them. This movement doesn’t trigger opportunity attacks.</p>
 <!-- Lair Actions Section -->
 <h3>Lair Actions</h3>
-<p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p>
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
-<p><strong><em>Ghostly Hands.</em></strong> All non-undead creatures in a <span class="highlight">10-foot</span> square starting from a point within <span class="highlight">60 feet </span>must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">restrained</span> by grasping ghostly hands until initiative count 20 on the following round.</p>
-<p><strong><em>Fog Bank.</em></strong> A <span class="highlight">40-foot radius</span> sphere of fog appears centered on a point within <span class="highlight">60 feet</span> of Strahd that he can see. The sphere spreads around corners, and its area is heavily obscured. It lasts until initiative count 20 on the following round or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. When the fog appears, Strahd can immediately take the <span class="highlight">Hide</span> action as a reaction and move up to his speed.</p>
+<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Forest Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
+<p><strong><em>Plant Growth (requires Forest Fane).</em></strong> Strahd casts <em>plant growth</em> without components or concentration.</p>
+<p><strong><em>Wrath of Nature (requires Forest Fane).</em></strong> Strahd casts <em>wrath of nature</em> without components or concentration. When he casts it in this way, Strahd can’t use the spell’s <strong><em>rocks</em></strong> effect.
 </div>
 
+>[!info]+ **Fog Bank**
+>Because fog only creates heavy obscurement and does not extinguish or otherwise dim sources of light, Strahd and other undead are still affected by sunlight created by the *Sunsword* and other sources while heavily obscured by fog.
 ### The Vampire
 <br>
-<div class="statblock"> <h2>Strahd, the Vampire</h2> <em>Medium undead (shapechanger), lawful evil</em> <hr> <strong>Armor Class</strong> 16 (natural armor) <br> <strong>Hit Points</strong> 331 (39d8 + 156) <br> <strong>Speed</strong> 40 ft., climb 40 ft. <hr> <table class="ability-table"> <thead> <tr> <th>STR</th> <th>DEX</th> <th>CON</th> <th>INT</th> <th>WIS</th> <th>CHA</th> </tr> </thead> <tbody> <tr> <td>20 (+5)</td> <td>20 (+5)</td> <td>18 (+4)</td> <td>20 (+5)</td> <td>15 (+2)</td> <td>20 (+5)</td> </tr> </tbody> </table> <hr> <strong>Saving Throws</strong> Dex +11, Wis +8, Cha +11<br> <strong>Skills</strong> Arcana +17, Athletics +11, Deception +17, Perception +14, Religion +11, Stealth +17<br> <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br> <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br> <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br> <strong>Challenge</strong> 21, or 19 when fought in sunlight<br> <strong>Proficiency Bonus.</strong> +6<br> <hr> 
-<p><strong><em>Father of the Night.</em></strong> A humanoid killed by Strahd’s <strong><em>bite</em></strong>, or which is reduced to 0 hit points by it and dies without regaining consciousness, arises as a <strong>**vampire spawn**</strong> under Strahd’s control at the start of his next turn.</p> 
-<p><strong><em>Legendary Resistance (1/Day).</em></strong> If Strahd fails a saving throw, he can choose to succeed instead.</p> 
+<div class="statblock"> <h2>Strahd, the Vampire</h2> <em>Medium undead (shapechanger), lawful evil</em> <hr> <strong>Armor Class</strong> 16 (natural armor) <br> <strong>Hit Points</strong> 331 (39d8 + 156) <br> <strong>Speed</strong> 40 ft., climb 40 ft. <hr> <table class="ability-table"> <thead> <tr> <th>STR</th> <th>DEX</th> <th>CON</th> <th>INT</th> <th>WIS</th> <th>CHA</th> </tr> </thead> <tbody> <tr> <td>20 (+5)</td> <td>20 (+5)</td> <td>18 (+4)</td> <td>20 (+5)</td> <td>15 (+2)</td> <td>20 (+5)</td> </tr> </tbody> </table> <hr> <strong>Saving Throws</strong> Dex +12, Wis +9, Cha +12<br> <strong>Skills</strong> Arcana +19, Athletics +12, Deception +19, Insight +9, Perception +16, Religion +13, Stealth +19<br> <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br> <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br> <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br> <strong>Challenge</strong> 21, or 19 when fought in sunlight<br> <strong>Proficiency Bonus.</strong> +7<br> <hr> 
+<p><strong><em>Close Quarters Fighter.</em></strong> Strahd doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Regeneration</em></strong>. Strahd regains <span class="highlight">20 hit points</span> at the start of his turn if he has at least 1 hit point and isn’t in sunlight. If he takes <span class="highlight">radiant damage</span>, this trait doesn’t function at the start of his next turn.</p> 
 <p><strong><em>Spider Climb</em></strong>. Strahd can move up, down, and across vertical surfaces and upside down along ceilings, while leaving his hands free.</p> 
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Strahd takes <span class="highlight">20 radiant damage</span> at the start of his turn, and he has <span class="highlight">disadvantage</span> on attack rolls and ability checks.</p> <!-- Actions Section --> <h3>Actions</h3> 
 <p><strong><em>Multiattack.</em></strong> Strahd makes two attacks, only one of which can be a bite attack. Strahd can replace one of his attacks with a <strong><em>charm.</em></strong></p> 
-<p><strong><em>Unarmed Strike.</em></strong> Melee Weapon Attack: <span class="highlight">+11 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">10 (1d8 + 5) slashing damage plus 14 (4d6) necrotic damage</span>. If the target is a creature, Strahd can grapple it (escape DC 19).</p> 
-<p><strong><em>Bite.</em></strong> Melee Weapon Attack: <span class="highlight">+11 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">8 (1d6 + 5) piercing damage plus 10 (3d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The reduction lasts until the target finishes a long rest.</p> 
-<p><strong><em>Charm.</em></strong> One humanoid within 30 feet that Strahd can see must make a DC 19 Wisdom saving throw or be magically charmed for 1 minute or until Strahd loses his concentration (as if concentrating on a spell).</p>
+<p><strong><em>Unarmed Strike.</em></strong> Melee Weapon Attack: <span class="highlight">+12 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">10 (1d8 + 5) slashing damage plus 14 (4d6) necrotic damage</span>. If the target is a creature, Strahd can grapple it (escape DC 20).</p> 
+<p><strong><em>Bite.</em></strong> Melee Weapon Attack: <span class="highlight">+12 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">8 (1d6 + 5) piercing damage plus 10 (3d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. A humanoid reduced to 0 hit points by this damage and then buried rises the following sunset as a <strong>vampire spawn</strong> under the vampire's control. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p> 
+<p><strong><em>Charm.</em></strong> One humanoid within 30 feet that Strahd can see must make a DC 20 Wisdom saving throw or be magically charmed for 1 minute or until Strahd loses his concentration (as if concentrating on a spell).</p>
 <p>A target that can't see Strahd automatically succeeds. While charmed, the target regards Strahd as a trusted friend to be heeded and protected; it isn't under Strahd's control, but takes his requests and actions in the most favorable way and lets Strahd bite it.</p>
 <p>The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. If the target is still charmed at the end of the minute, the effect lasts for 24 hours, until Strahd is destroyed, or until he takes a bonus action to end it.</p>
 <!-- Bonus Actions Section --> <h3>Bonus Actions</h3> 
-<p><strong><em>Bats’ Frenzy.</em></strong> Strahd summons a swarm of bat-like shadows from his cloak, forcing each creature within <span class="highlight">10 feet</span> to make a successful <span class="highlight">DC 19 Dexterity saving throw</span> or take <span class="highlight">15 (6d4) necrotic damage</span> and gain disadvantage on the next attack roll it makes before the start of Strahd’s next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p> 
-<p><strong><em>Predator’s Fury.</em></strong> Strahd summons a pair of wolf-like shadows from his cloak and chooses up to two creatures he can see within <span class="highlight">60 feet</span> that are within 5 feet of each other. A target must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or take <span class="highlight">16 (2d10 + 5) force damage</span> and be knocked prone. A creature that succeeds on the roll takes half damage and isn’t knocked prone.</p> 
+<p><strong><em>Bats’ Frenzy.</em></strong> Strahd summons a swarm of bat-like shadows from his cloak, forcing each creature within <span class="highlight">10 feet</span> to make a successful <span class="highlight">DC 20 Dexterity saving throw</span> or take <span class="highlight">15 (6d4) necrotic damage</span> and gain disadvantage on the next attack roll it makes before the start of Strahd’s next turn. A creature that succeeds on the roll takes half damage and doesn’t gain disadvantage.</p> 
+<p><strong><em>Predator’s Fury.</em></strong> Strahd summons a pair of wolf-like shadows from his cloak and chooses up to two creatures he can see within <span class="highlight">60 feet</span> that are within 5 feet of each other. A target must succeed on a <span class="highlight">DC 20 Dexterity saving throw</span> or take <span class="highlight">16 (2d10 + 5) force damage</span> and be knocked prone. A creature that succeeds on the roll takes half damage and isn’t knocked prone.</p> 
 <!-- Reactions Section --> <h3>Reactions</h3> 
-<p>Strahd can take up to three reactions per round, but only one per turn. If he would lose his reactions and isn't incapacitated, he loses one reaction instead.</p> 
-<p><strong><em>Night’s Retreat.</em></strong> In response to taking damage, Strahd can fly up to his speed without provoking opportunity attacks.</p> 
-<p><strong><em>Blood Frenzy.</em></strong> In response to taking damage, Strahd can move up to his speed toward the attacker and make an <strong><em>unarmed strike</em></strong> attack.</p> <!-- Lair Actions Section --> <h3>Lair Actions</h3> 
-<p>While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.</p> 
-<p>On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options:</p> 
-<p><strong><em>Deluge of Blood.</em></strong> A wave of blood explodes outward from a point Strahd can see within <span class="highlight">60 feet</span>. Each creature within 10 feet of that point must make a DC 19 Strength saving throw. On a failure, a creature takes 7 (2d6) bludgeoning damage and is pushed 10 feet away from the point and knocked prone. The creature is also blinded until initiative count 20 on the next round.</p> 
-<p><strong><em>Wails of the Damned.</em></strong> Strahd summons an ethereal torrent of shrieking specters in a 5-foot radius centered on a point within 60 feet that he can see. Each creature in that area must make a DC 19 Wisdom saving throw or be frightened of Strahd until initiative count 20 on the next round. A creature frightened in this way is paralyzed and loses its concentration.</p> </div>
+<p>Strahd can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p> 
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong>Strahd can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Night’s Retreat.</em></strong> In response to taking damage, Strahd can fly up to his speed without provoking opportunity attacks. If one or more creatures have grappled Strahd, he breaks free of the grapples.</p> 
+<p><strong><em>Blood Frenzy.</em></strong> In response to taking damage, Strahd can move up to his speed toward the attacker and make an <strong><em>unarmed strike</em></strong> attack against it.</p> <!-- Lair Actions Section --> <h3>Lair Actions</h3> 
+<!-- Fane Lair Actions Section -->
+<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Mountain Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
+<p><strong><em>Change Weather (requires Mountain Fane).</em></strong> Strahd casts <em>control weather</em> as an action without concentration or components. When he does, he can change any number of weather conditions to any of the stages given.</p>
+<p> <strong><em>Call Lightning (requires Mountain Fane).</em></strong> Strahd casts or uses <em>call lightning</em> without components or concentration. Whenever he rolls lightning damage with this spell while outdoors in a storm, he deals maximum damage, instead of rolling.
+</div>
+
 
 # Design Notes: Strahd von Zarovich
 ***Roleplaying Strahd.*** The Gentleman, the Tyrant, and the Monster reflect three distinct popular community interpretations of Strahd's character. Many DMs will attempt to combine two or more of these archetypes into their campaign at a time, but doing so can risk making Strahd's character feel inconsistent and unpredictable. 
