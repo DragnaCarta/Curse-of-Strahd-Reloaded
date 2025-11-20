@@ -1,3 +1,21 @@
+# Patch 2.1.0.9 (November 17, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that *Waltz for Klara*  only causes the bookshelf to swing open, not open the secret door behind
+* Added art for Bildrath and Parriwimple in [[Arc B - Welcome to Barovia]]
+* Clarified the descriptions of the various shrines to the Ladies Three as stone stele, to give a more accurate understanding of how they look
+* Clarified that it is the returning of the bones of St Andral to the church that prompts the XP reward, not the reconsecration of the church
+* Added Escher's journey from Ravenloft and back via Berez, when meeting Yan in [[Arc E - The Missing Vistana]] 
+* Removed references to black onyx stones at the megaliths, as this is part of deprecated content
+* Clarified in [[Arc J - The Stolen Gem]] that Ireena is now a CR2 ally.
+* Added a reminder that even in Varushka's nightmare, Vladimir's *oathbind* ability will still have an effect on players if they are under its power.
+* Changed Khazan's staff rarity from rare to legendary, to be in line with the power of *robe of the archmagi*.
+* Increased Ithuriel's *healing touch* ability to five a day, to not slow the average party down if they are all suffering from lycanthropy by this point.
+* Clarified that Kasimir used rope and not a *fly* spell to pass the gatehouse in [[Arc R - Trials of the Mountain]]
+* Added art for Chief Diegia, Oroles, and Elder Burebis in [[Arc R - Trials of the Mountain]]
+* Added art for The Roc of Mount Ghakis, Diona, Heinrich Stolt, Neferon, Heinrich's Map, Flameskulls, Khazan's Notes in [[Arc S - A Sword of Sunlight]]
+* Added art for The Roc of Mount Ghakis in [[Arc T - The Three Fanes]]
+* Clarified that the Dreamer’s heart has the statistics of an **aboleth** from 2024, not 2014, in [[Arc U - Dreams of Dawn]]
+* Added a citation for the original concept of the Fanes, in [[History of Barovia]]
 # Hotfix 2.1.0.8 (November 10, 2025)
 * Fixed rendering error with Volenta's statblock in [[Arc D - St. Andral's Feast]] and [[Non-Player Characters]]
 # Hotfix 2.1.0.7 (November 8, 2025)

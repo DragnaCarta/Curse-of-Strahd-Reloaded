@@ -1265,6 +1265,9 @@ At the time the players first arrive, this chamber is currently inhabited by a m
 <p>A wounded guard spasms in Strahd’s grasp, then abruptly goes limp as the vampire’s fangs sink deep into his bare, crimson neck. Blood spills from the man’s throat as Strahd drinks greedily, rivulets of blood running down his chest and clothes.</p>
 </div>
 
+> [!warning]+ **Vladimir's Oath**
+> If players have been subjected to Vladimir's *oathbind* feature in [[Arc M - The Dragon's Manor]], it will still be in effect with the memory of Strahd in this scene.
+
 > [!info]+ **Memory of Strahd**
 > This memory of Strahd has the statistics described in <span class="citation">Strahd von Zarovich (p. 240)</span>, but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions, he loses one reaction instead.) He also gains the following reactions:
 >

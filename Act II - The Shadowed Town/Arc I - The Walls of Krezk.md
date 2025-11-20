@@ -102,7 +102,7 @@ As the players depart the Luna River Crossroads, read:
 <div class="description">
 <p>Leaving the crossroads behind, you set a southern course alongside the Luna River, whose waters reflect only the gray of the sky above as it winds its way through the valley.</p>
 <p>Though the trees of the Svalich Wood close in oppressively on either side to start, it’s not long before the forest’s edge pulls away from the river and road, revealing a tributary that spills into the river from the mountains. The Luna River here encircles a small, forlorn isle dotted with tall evergreen trees, which stand like silent sentinels as the river flows around them.</p>
-<p>Not far from the road, upon a small peninsula that juts out into the river, stands a mossy stone slab standing just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some kind of carving.</p>
+<p>Not far from the road, upon a small peninsula that juts out into the river, stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p>
 </div>
 
 If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Weaver, and the three-pointed star the symbol of the Ladies Three.) Otherwise, read:
@@ -131,7 +131,7 @@ The two **scarecrows** are as described in <span class="citation">Marsh Scarecro
 <p>A light flashes amid the fog beyond the scarecrows, a woman’s silhouette emerging from the swirling mist.</p>
 </div>
 
-The silhouette belongs to Wensencia, a shrill, mocking, and sharp-tongued **Barovian witch** from Vallaki who has been studying under Baba Lysaga for the past three months. (Wensencia, like Baba Lysaga’s six other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic.) 
+The silhouette belongs to Wensencia, a shrill, mocking, and sharp-tongued **Barovian witch** from Vallaki who has been studying under Baba Lysaga for the past three months. (Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic.) 
 
 Wensencia curtly informs the players that “Mother Lysaga” has summoned them to her cottage, and that they must follow her if they wish to reach it safely. She asks no questions and answers none, except to tell the players that none come to Berez except to seek “Mother Lysaga’s” favor, and that Baba Lysaga alone will determine whether they may earn it.
 
@@ -167,7 +167,7 @@ If the players enter the hut, they find Baba Lysaga humming a lullaby above the 
 Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
 
 > [!abstract]+ **Lysaga's Wrath**
-> If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her goat pen (described below), where they awakens 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.
+> If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her goat pen (described below), where they awaken 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.
 > 
 > Darzin warns the players that Lysaga intends to keep them as sacrifices for use in her longevity potions. He can share, however, that a Barovian witch taunting him let slip that Lysaga keeps doses of a potion called a *null tincture* on a shelf in her wicker cabinet, which, if imbibed, ends all spells and magical effects currently affecting its drinker. Players who successfully escape the goat pen and sneak into Baba Lysaga's hut can find six *null tinctures* in her wicker cabinet.
 
@@ -196,7 +196,7 @@ If the players successfully retrieve a goat for Baba Lysaga, she retrieves a rus
 Baba Lysaga then commands the players to dispose of the goat’s body in the grass outside of the hut. She warns them that they must not speak a word while she is within the grasp of the spell, lest they disturb her focus. She then begins to cast the *scrying* spell. Read:
 
 <div class="description">
-<p>WIth the dripping dagger clutched in one shriveled hand, Baba Lysaga begins to trace strange, arcane symbols across the surface of the goat’s blood with the other, her fingers leaving trails of eerie, shimmering magic.</p>
+<p>With the dripping dagger clutched in one shriveled hand, Baba Lysaga begins to trace strange, arcane symbols across the surface of the goat’s blood with the other, her fingers leaving trails of eerie, shimmering magic.</p>
 <p>The light in the room dims as the shadows grow darker, the air stilled by an eerie silence broken only by the witch’s murmuring incantations.</p>
 <p>Magic seeps from her fingertips, flowing like water into the tub of blood. Gradually, the crimson pool begins to ripple and churn, shimmering with silvery light—and then abruptly stills, now as smooth and reflective as a mirror. Baba Lysaga leans forward to peer into the pool, her eyes flickering with a gleam of interest and cruelty.</p>
 <p>“I see a boy,” she hisses, “adolescent, shaggy-haired, and claw-scarred.” Her voice is a mixture of intrigue and mockery, and she licks her lips in obvious amusement. “They have collared him with silver, and chained him to a post. There he sits, huddled and pathetic. His eyes, oh, they are hidden, buried in his knees as he snivels and sobs.”</p>

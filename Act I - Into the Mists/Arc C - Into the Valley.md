@@ -156,7 +156,7 @@ Whether Ireena is with the party or not, add:
 > 
 > <hr>
 > 
-> The wolves are **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
+> The wolves are **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party plus Ireena.)
 > 
 > If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
 
@@ -831,7 +831,7 @@ The journey from the Black Carriage to the western **Gates of Barovia** is a qua
 The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
 
 <div class="description"><p>The road continues forward, passing between a patch of dark woods. The air here is as quiet as the grave, the trees standing perfectly still in the unnerving silence.</p>
-<p>Not far from the road, nestled in the overgrown underbrush, stands a mossy stone slab standing just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some kind of carving.</p></div>
+<p>Not far from the road, nestled in the overgrown underbrush, stands a mossy stone stele standing just under six feet in height. It sits within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p></div>
 
 Briefly pause to allow the players to act or react. If the players choose to investigate the slab, they find that it bears a crude carving of a raven over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Seeker, and the three-pointed star the symbol of the Ladies Three.)
 
@@ -994,8 +994,8 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 > This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * _**Three Players.**_ Reduce the number of wolves to one.,
-> *  _**Four Players.**_ Reduce the number of wolves to two.,
-> * - _**Six Players.**_ Increase the number of wolves to four.
+> * _**Four Players.**_ Reduce the number of wolves to two.,
+> * _**Six Players.**_ Increase the number of wolves to four.
 
 > [!info]+ **Lycanthropy in Barovia**
 >

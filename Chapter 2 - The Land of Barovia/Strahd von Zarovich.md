@@ -315,7 +315,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from a spell or attack, Strahd moves up to his speed toward the attacker and can make a <strong><em>longsword</em></strong> attack against them. This movement doesn’t trigger opportunity attacks.</p>
 <!-- Lair Actions Section -->
 <h3>Lair Actions</h3>
-<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Swamp Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
+<p>On initiative count 20 (losing initiative ties), if he's outdoors and the players have not yet reconsecrated the Forest Fane, Strahd can take one of the following lair action options, or forgo using any of them in that round:</p>
 <p><strong><em>Plant Growth (requires Forest Fane).</em></strong> Strahd casts <em>plant growth</em> without components or concentration.</p>
 <p><strong><em>Wrath of Nature (requires Forest Fane).</em></strong> Strahd casts <em>wrath of nature</em> without components or concentration. When he casts it in this way, Strahd can’t use the spell’s <strong><em>rocks</em></strong> effect.
 </div>

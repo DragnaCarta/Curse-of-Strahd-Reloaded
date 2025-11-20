@@ -152,6 +152,9 @@ If the players approach or attempt to retrieve the gem, the **roc** of Mt. Ghaki
 <p>The mountain shudders as the roc of Mt. Ghakis slams onto the earth below, stones and branches crunching beneath its talons. Its throat feathers rustle as it lowers its great head in warning, a low, guttural croak emanating from its throat.</p>
 </div>
 
+![[The_Roc_of_Mt._Ghakis_no_Strahd_hires.jpg]]
+<span class="credit">"The Roc of Mount Ghakis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 The roc won’t let the players take the gem unless they prove themselves worthy of doing so. The players can prove themselves worthy using the following methods, or in any other reasonable way:
 
 * The players can fight and bloody the roc (see statistics below).
@@ -1300,7 +1303,7 @@ The players can convince Davian and Urwin to reconcile as follows.
 
 * **Davian.** To convince Davian, the players must make a reasonable argument that (a) Urwin wasn’t to blame for the gem’s theft, or (b) their feud has hurt them and their family more than the gem’s theft itself. The players can automatically convince Davian that Urwin wasn’t to blame for the gem’s theft by showing him the Seeker’s ash-green gem from [[#T1d. The Roc’s Nest]], and explaining the Roc and Seeker’s roles in stealing it.
 * **Urwin.** To convince Urwin, the players must either (a) convince Davian to apologize to him for blaming him for the gem’s theft, or (b) make a reasonable argument that Davian is worth reconciling with.
-## T3mj. The Swamp Fane
+## T3m. The Swamp Fane
 As the players approach <span class="citation">U6. Standing Stones (p. 165)</span>, read:
 
 <div class="description">

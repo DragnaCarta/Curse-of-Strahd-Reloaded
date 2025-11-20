@@ -70,7 +70,7 @@ When he answers the door, the players can observe that Kasimir’s [[Arc E - The
 > 
 > Sir Godfrey warned Kasimir against meddling with the Temple’s evil—but his words fell on deaf ears. Leaving Sir Godfrey behind, Kasimir soon located the map Patrina had told him of. With Strahd’s darkness rapidly spreading once more across the valley, Kasimir set off for the slopes of Mt. Ghakis to reach Patrina’s promised vengeance.
 >
-> The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the **vrocks** of the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. As described in [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]], Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach.
+> The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the **vrocks** of the Tsolenka Pass gatehouse drove him to fall amidst a snow bluff in an icy chasm. As described in [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]], Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach.
 
 Kasimir is glad to make small talk with the players while he prepares their tea. In particular, Kasimir was astounded by the lighting of the beacon of Argynvostholt in [[Arc Q - A Shining Beacon]], and is fascinated to learn that the players were responsible for its appearance. (A lump rising in his throat, Kasimir glances in the beacon’s direction and says softly: "Looking at it, I felt something that I hadn’t in a long, long time, though I couldn’t say quite what." If a player suggests "hope" or any similar emotion as what Kasimir felt, he pauses for a moment, then chuckles, replying, "I suppose it was. Strange, perhaps, that it should be such an unfamiliar feeling.")
 
@@ -351,7 +351,7 @@ Upon arriving at the players’ resting place, Strahd dispatches the weakest and
 
 Strahd also dispatches a **bat** to quietly accompany the dispatched NPC to the players’ resting place and report back should any issues arise. (A player notices the bat, which may be hanging from a nearby building’s eaves or tree branch, if they have a passive Wisdom (Perception) score of 12 or greater.)
 
-Upon greeting the players, the dispatched NPC attempts to relay that "the others" are waiting outside and hoping to meet the players. If asked, the NPC is glad to confirm that "the others" include the other kidnapped NPCs and "Lord von Zarovich." (Because the kidnapped NPCs have been charmed by Strahd, the dispatched NPC doesn’t fear Strahd or believed that they’ve been kidnapped, and views him as a friend and protector. The dispatched NPC isn’t sure why Strahd wants to meet with the players, but is confident that he only desires good things for them.)
+Upon greeting the players, the dispatched NPC attempts to relay that "the others" are waiting outside and hoping to meet the players. If asked, the NPC is glad to confirm that "the others" include the other kidnapped NPCs and "Lord von Zarovich." (Because the kidnapped NPCs have been charmed by Strahd, the dispatched NPC doesn’t fear Strahd or believe that they’ve been kidnapped, and views him as a friend and protector. The dispatched NPC isn’t sure why Strahd wants to meet with the players, but is confident that he only desires good things for them.)
 
 > [!abstract]+ **Refusing the Call**
 > If the players decline to travel to Strahd’s location, the dispatched NPC warns them, with concern, that "Lord von Zarovich" said the other kidnapped NPCs may be in danger unless the players come. (The dispatched NPC isn’t sure why, but is convinced that Strahd’s words are true.) 
@@ -613,7 +613,7 @@ At dawn on the first day after the players inform Kasimir that they are ready to
 Once he and the players have reached the Old Svalich Road, in addition to the information in [[#R1. Recruiting Kasimir]], Kasimir is willing to share the following information if the players swear themselves to secrecy and succeed on a DC 10 Charisma (Persuasion) check, succeeding automatically if the players have given him good reason to trust them (e.g., reuniting Arabelle with her family in [[Arc E - The Missing Vistana]]):
 
 * Four centuries ago, before King Barov II invaded the dusk elf principality of Othrondil, Kasimir was the scribe of Prince Erevan Löwenhart, their uncle, and Patrina his court mage. (Kasimir and Patrina were not direct blood relations of Erevan, who married their aunt, Lorelei.)
-* When King Barov II, aided by the treacherous Rahadin, Prince Erevan’s son,conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
+* When King Barov II, aided by the treacherous Rahadin, Prince Erevan’s son, conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
 * When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland. Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
 * For a time after they arrived in Barovia, Kasimir dared to believe Patrina may have made peace with their fate—but it wasn’t long before she began slipping away on odd, secretive errands, often for days at a time. Patrina refused to speak of where she went on these occasions, no matter how hard Kasimir pushed.
 * One night, less than a week after Strahd conquered Barovia, Patrina vanished from the dusk elf encampment. For the next year, Kasimir often sought to find her amidst the settlements and wild places of Barovia—but to no avail. He eventually came to accept that she had died, and joined his people in mourning her.
@@ -802,7 +802,7 @@ The silhouette behind the players is Rahadin, who hopes to follow the players to
 The shadow ahead of the players is a broken monument to the roc of Mt. Ghakis, built by the First Folk long ago. If a player approaches the shadow or succeeds on a DC 15 Wisdom (Perception) check, read:
 
 <div class="description">
-<p>The shadow belongs to an ancient, six-foot-tall stone monument. Though time and the elements have eroded its form into little more than a vague silhouette, its avian beak and talons remain unmistakable. Where wings might once have risen, however, there now lie only jagged remnants—stone wounds from which its upper limbs have long since crumbled away.</p>
+<p>The shadow reveals itself to be an ancient, six-foot-tall stone monument. Though time and the elements have eroded its form into little more than a vague silhouette, its avian beak and talons remain unmistakable. Where wings might once have risen, however, there now lie only jagged remnants—stone wounds from which its upper limbs have long since crumbled away.</p>
 </div>
 
 A player who succeeds on a DC 16 Wisdom (Perception) check, or who searches the area for a full minute, spots two small snowy mounds within a few yards of the monument. The mounds conceal the monument’s two broken wings, each of which remains largely in one piece.
@@ -930,7 +930,7 @@ The players’ arrival at the gatehouse is largely as described in <span class="
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
 </div>
 
-In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a *fly* spell.)
+In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.)
 
 > [!combat]+ **Balancing the Gatehouse** 
 > This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 54% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
@@ -958,7 +958,7 @@ If the door is answered, Strahd cordially requests permission to enter. If the p
 
 Otherwise, Strahd smiles coldly and asks if the players are familiar with the topography upon which their ill-chosen resting place lies. "This mountain," he adds, his voice touched with a sharp amusement, "is ancient, its crags shaped by millennia of erosion. The tower in which you currently stand is perched upon a cliffside—one that, in turn, rests upon a natural arch of stone. Nature’s formations are long-lived indeed, but to an immortal’s eyes, even they can grow withered with age." 
 
-Strahd pauses and allows his words to linger before continuing: "This particular formation, I regret to inform you, has worn thinner with each passing century. Should it collide with a force of suitable strength, I fear this lofty perch may not fly quite so high as it does now. Yet I am the Land—and for as long as I wish it, no harm shall come to its foundations."
+Strahd pauses and allows his words to linger before continuing: "This particular formation, I regret to inform you, has worn thinner with each passing century. Should it collide with a force of suitable strength, I fear this lofty perch may not rest quite so high as it does now. Yet I am the Land—and for as long as I wish it, no harm shall come to its foundations."
 
 Strahd’s eyebrows lift slightly, and he asks: "Do we have an understanding?"
 
@@ -1783,6 +1783,7 @@ The forsaken soldiers attack any creature that falls through the ice. If a forsa
 > * It has no ***life drain*** attack.
 > * Replace its ***longsword*** attack with a ***shortsword*** attack (+4 to hit, 1d6 + 2 piercing damage) or ***spear*** attack (+4 to hit, 1d6 + 2 piercing damage, or 1d8 + 2 piercing damage if used with two hands).
 > * Replace its ***longbow*** attack with the following: ***Fist.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 3 bludgeoning damage and the target is grappled (escape DC 12).
+> * It is unable to speak.
 >
 > The first time a player sees a **forsaken soldier** directly, read:
 > 
@@ -2020,6 +2021,9 @@ At any suitable point when Scorilo has just threatened, questioned, or otherwise
 <p>A tall, muscled woman strides down the tunnel, her fur-lined cloak clasped with a brooch of polished bronze set with flashing amethyst. Her dark, silver-streaked hair hangs down in a long, tightly-coiled braid, the hilt of a heavy greatsword visible beyond her thick, corded shoulders. She moves with the grace of a seasoned predator, her steely eyes sharp, but unyielding. Two fur-clad warriors bearing greataxes flank her on either side, their steps echoing in time with hers.</p>
 </div>
 
+![[Chief_Diegia_transparent.png]]
+<span class="credit">"Chief Diegia" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Pause for a moment to allow the players to interject. If none do, or Chief Diegia is allowed to approach, continue:
 
 <div class="description">
@@ -2126,6 +2130,9 @@ As the players' encounter with Kaldur draws to a close, Chief Diegia's husband, 
 <p>The wool curtain beside the left curtain stirs, and a mountain of a man steps through. He is broad-shouldered and muscular, with a height noticeably above six feet and a shaggy, black, grey-striped beard that extends to his chest. His ruddy cheeks, however, are crinkled with the lines of old smiles, and his blue eyes are bright and warm.</p>
 <p>"Is that Diona?" he asks, ducking through the threshold. His gaze falls on you, and the hopeful grin on his face fades to a quieter, more subdued smile. "Ah. I see we have guests."</p>
 </div>
+
+![[Oroles_Transparent.png]]
+<span class="credit">"Oroles" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Diegia is glad to introduce the players to her husband, Oroles (use the statistics of a **gladiator**), whose features are visibly similar to Como and Scorilo's. A player who succeeds on a DC 12 Wisdom (Insight) check discerns that Oroles, though doing his best to appear friendly, seems to be disappointed by the players' identities.
 
@@ -2300,6 +2307,9 @@ As the players climb the steps, continue:
 
 The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder Burebis’s form more closely observe that the roots extruding from the wall have, in many places, bound and pierced his flesh, preventing him from moving.
 
+![[Burebis_hi-res.jpg]]
+<span class="credit">"Elder Burebis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!lore]+ **Elder Burebis**
 > One thousand years ago, the young and arrogant storm giant Burebis came to the valley of Barovia—then called Girvisa by the Tauta—seeking to prove his abilities in foresight against the being called "the Seeker." Although Burebis lost their competition—a series of predictions regarding an impending storm—the Seeker was impressed by his audacity and skill, and invited him to become her student in the ways of omen-finding and foresight.
 >
@@ -2337,7 +2347,7 @@ Burebis can also share the following information regarding the Ladies of the Fan
 ### Burebis’s Request
 Should the players accept his mission to seek knowledge from the Amber Temple, Burebis asks them to return to him should they do so successfully. "I have lingered long past my time," he rasps, "but I believe these roots have sustained my existence for a reason. I am old and bound, but I possess knowledge and strength that may well be of use to you." 
 
-If the players agree to return to him after exploring the Amber Temple, Burebis sags in gratitude and relief. As thanks, he offers the players a boon to aid them in their travels to and from the Temple. Read the following test, replacing the blank with the name of the character who bears the *whistle of the Keepers*:
+If the players agree to return to him after exploring the Amber Temple, Burebis sags in gratitude and relief. As thanks, he offers the players a boon to aid them in their travels to and from the Temple. Read the following text, replacing the blank with the name of the character who bears the *whistle of the Keepers*:
 
 <div class="description">
 <p>Burebis’s old eyes trace across your forms, eventually coming to rest upon &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;. "I sense the feel of the Seeker’s magic upon you," he says. "You carry a boon of the ravens, do you not?"</p>
