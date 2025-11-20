@@ -1172,7 +1172,7 @@ If the players attempt to bypass or attack Gustav, a swarm of levitating debris 
 > | Number of Players | Modification |
 > |-|-|
 > | 3 | <ul><li>Reduce Gustav’s hit points to 13.</li><li>Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.</li></ul> |
-> | 4 | <ul><li>Reduce Gustav’s hit points to 18.</li><li>Reduce his forceful slam attack to 8 (3d4+1) ***force damage*** and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.</li></ul> |
+> | 4 | <ul><li>Reduce Gustav’s hit points to 18.</li><li>Reduce his ***forceful slam*** attack to 8 (3d4+1) force damage and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.</li></ul> |
 > | 6 | <ul><li>Increase Gustav’s hit points to 26.</li><li>Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.</li></ul> |
 
 The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
