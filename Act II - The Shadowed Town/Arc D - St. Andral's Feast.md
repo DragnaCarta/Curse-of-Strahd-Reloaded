@@ -12,6 +12,14 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 > If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
 > 
 > The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+
+> [!info]+ **Want a Hand?**
+> Want access to a Discord community of *Reloaded* DMs, on-demand campaign help from the author, and one-on-one session prep and mentoring? Check out the author's [Patreon](https://patreon.com/dragnacarta) for:
+> 
+> * Discord access (Bronze+)
+> * Developer commentary blogs (Silver+)
+> * Personal campaign help (Gold+)
+> * One-on-one live mentorship and session prep (Platinum+)
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
