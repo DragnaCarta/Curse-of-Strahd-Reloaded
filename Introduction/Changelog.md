@@ -1,6 +1,8 @@
+# Patch 2.1.0.10 (November 22, 2025)
+* Merged combat encounter balancing template and [[Arc A - Escape From Death House]] modifications from community contributor
 # Patch 2.1.0.9 (November 17, 2025)
 * Amended various typos, broken links, and errors in formatting
-* Clarified that *Waltz for Klara*  only causes the bookshelf to swing open, not open the secret door behind
+* Clarified that *Waltz for Klara* only causes the bookshelf to swing open, not open the secret door behind
 * Added art for Bildrath and Parriwimple in [[Arc B - Welcome to Barovia]]
 * Clarified the descriptions of the various shrines to the Ladies Three as stone stele, to give a more accurate understanding of how they look
 * Clarified that it is the returning of the bones of St Andral to the church that prompts the XP reward, not the reconsecration of the church
