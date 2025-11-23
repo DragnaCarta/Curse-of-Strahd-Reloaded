@@ -1,6 +1,6 @@
 # Quest Log
 ## Current
-* Find out what happened to Gertruda at Castle Ravenloft. 
+* Rescure Gertruda from Castle Ravenloft. 
 * Retrieve the Clockwork Man in Castle Ravenloft for Blinsky. 
 	* Reward on return: The monkey. 
 * Retrieve the Huntresses' Spear in King Dostrons' tomb in Castle Ravenloft. 
@@ -12,7 +12,6 @@
 * Rescue Emil Toranescu from Castle Ravenloft. 
 	* Return him to Zuleika outside Krezk to break their oaths to her. 
 * Retrieve Argynvosts' Skull in Castle Ravenloft. 
-* Dinner with Strahd on 14 Neyavr
 * Defeat Strahd von Zarovich
 	* Find the Tome of Strahd (acquired, read). 
 	* Find their foretold ally against Strahd at the Abbey of St. Markovia (Ezmerelda, recruited).  

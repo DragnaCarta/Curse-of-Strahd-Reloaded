@@ -470,3 +470,20 @@ Session
 	* The closet opens to a blank stone wall, when the party sees this, the windows in the Lounge slam open. Looking outside, read from the description. 
 * Fifth Floor
 	* This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span> and <span class="citation">K50. Guest Room (p. 70)</span>. However, the castle’s stone is bright, clean, and freshly carved, with its furniture pristine and newly crafted. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
+
+# 23 NOV 2025
+Starting 14 Neyavr, night
+
+* Picking up after the fight with Strahd. 
+* Party may move east toward the central staircase from the larders. 
+* Party will enter the chamberlains office. 
+	* Find secret door, passageway will be walled off. 
+	* Find an ornate golden key with similar decoration to the lock found on the Guest Suite door found after you all woke up earlier. 
+* Party will eventually attempt to leave via the door they entered the Bloody Keep, which will deposit them just outside the closet in the first level of the nightmare. 
+* Party will attempt to unlock the door, the player doing so making a check. 
+* The clock will chime and the spirit of Varushka will appear behind the players. 
+* The players may attempt to negotiate or combat the spirit. 
+* Afterwards the party will wake up, and a shadow will appear on the wall, who will open the closet and trapdoor, trying to get the party to follow it. 
+	* The shadow will guide the players through the element and familiar rooms and up the offstair toward the tower roof. 
+	* Halfway up the offstair it will show them a section of the wall...
+* The players may attempt to explore the castle at this point, or return to the Guest Suite. 

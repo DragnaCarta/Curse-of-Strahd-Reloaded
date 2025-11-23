@@ -426,3 +426,18 @@ Resuming 14 Neyavr, night
 * Here the party found the stairwells covered by stone, and a figure emerging from it. The figure introduced himself as Ismark Antonivich, whom you all know as Ismark the Great, an ancestor of the Ismark you left in the Village of Barovia. Ismark told the party he and his companion Lugdana came to Castle Ravenloft in search of the Sigil of the Sun. Igor showed him the Holy Symbol of Ravenkind, Ismark recognized it as matching the description of the object he is searching for, and told him to keep it close as they make their escape from the castle. 
 * The party and Ismark made their way inside the Guest Suite. When they attempted to open the closet door the furniture in the Guest Suite animated and attacked. 
 * Paused immediately after combat. 
+
+# 16 NOV 2025
+Resuming 14 Neyavr, night
+
+* Resuming immediately after combat on floor 2 of Varushka's Nightmare (VN). 
+* The party made to ascend through the trapdoor in the Guest Room Closet. Ismark bid them farwell and good luck, noting he would seek Lugdana elsewhere.
+* The party discovered Pidlwick II under the bed in the Guest Room on floor 3 of VN. The hook which controls the opening mechanism of the trapdoor was missing. The party asked Pidlwick for help, but after he was unable to assist well, Igor threatened him. Pidlwick led Igor to the stairwell and pushed him down before vanishing. The party found the hook hidden inside the clock in the Guest Room and ascended to the next floor. 
+* The party found the closet walled off in the Guest Room. Fel broke the windows in the Lounge and saw the closet across the rooftop. Using their abilities to fly, Fel and Igor made it to the far end of the rooftop without issue before a rumbling was heard from inside the castle nearby. 
+* A large black dragon with similar features to that of Rahadin made the remainder of the parties escape difficult, but everyone was ultimately able to cross the rooftop before more of the acid-turned-chains from the dragon immobilized some completely. 
+* After climbing ascending the trapdoor ladder in the closet on the rooftop, everyone again found themselves in the Guest Suite landing. Moving into the Lounge you all heard sobbing coming from the Guest Room where you were met a woman on the bed by the name of Varushka, clutching a locket from her dear friend Katarina, and blood running down her neck from a familiar puncture wound... 
+* Varushka told you ten days prior she had seen King von Zarovich speak with "a great darkness" in his chambers, and later the skies grew red, the mists descended on the valley, and Zarovich had "become a monster". She also mentioned Rahadin keeps the key to the Guest Suite in his office in the cellars. 
+* Moving from the bedroom to the closet near Varushka led you to a room in a lower level of the castle, the sky outside delivering blood-red light through the windows and a screams heard from a staircase descending deeper into the castle. Here you found Varushka again, hiding under a table, and imploring you to hide or flee as Strahd searches for Captain Dilisnya, whom she saw abscond by means she cant explain. 
+* Moving down toward the source of the noise you found yourselves in the castle larders, the door at the far end of the hall ajar. Entering the hall you heard a familiar voice cursing Dilisnya from beyond another door to the north. 
+* Moving past the door in the north end of the hall you saw Strahd ending the life of one of his former men-at-arms. You attempted to converse with the blood-raged Strahd for a short time, but combat was nigh-inevitable. 
+* You defeated this apparent younger version of Strahd before he turned to mist and escaped through a crack in the wall. 

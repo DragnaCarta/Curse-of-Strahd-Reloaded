@@ -7,6 +7,24 @@ As they work to enter the castle, they’ll need to avoid the attentions of the 
 Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **Volenta Popofsky** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Dawn's Grace* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
 
 And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
+
+# P0. Preparing the Players before the Heist
+
+Remind the party of key knowledge, explicit goals, and potential aides as they plan for the heist.
+
+Knowledge
+* Strahd will be gone for 12 hours 
+
+Goals
+* Recover Argynvost's Skull (Argynvosts mission)
+* Recover the Spear of the Huntress (To reach Soldav)
+* Rescue Emil Toranescu (Break Zuleika's oath)
+* Recover the Icon of Dawn's Grace (Cleanse abbot)
+* Rescue Gertruda
+* Recover the Clockwork Man
+
+Potential Aides
+* Anyone you have made allies of may have knowledge or other support to offer. 
 # P1. Preparing for the Heist
 Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
 
@@ -2040,6 +2058,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 > * Three Players. Reduce Rahadin’s hit points in each phase to 127. Reduce his first phase’s ***multiattack*** to only one attack, but increase his ***wind strike*** and ***whirling blades*** reactions to 10 (3d6) damage each. Limit his ***punishing strike*** reaction to 2/round, and decrease the damage of his ***psychic scream*** to 7 (2d6) damage. Reduce his second phase’s ***multiattack*** to two attacks and limit ***riposte*** to 2/round. Finally, reduce his ***deathly choir***’s damage to 7 (2d6). 
 > * Four Players. Reduce Rahadin’s hit points in each phase to 154. Limit his first phase’s ***punishing strike*** to 2/round, but increase the damage of his bonus actions to 9 (2d8). Reduce his ***multiattack*** in his second phase to two attacks. 
 > * Six Players. Increase Rahadin’s hit points to 206 in each phase. Increase his ***multiattack*** in his first phase to three attacks, but reduce the damage of his bonus actions to 5 (2d4). Increase his ***multiattack*** in his second phase to four attacks.
+
 <div class="statblock">
 <h2>Rahadin, Castle Chamberlain</h2>
 <em>Medium humanoid (elf), lawful evil</em>
