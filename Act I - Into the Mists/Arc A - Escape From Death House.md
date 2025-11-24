@@ -1,4 +1,4 @@
-*An adventure for five 2nd-level characters.*
+<div class="subtitle"><em>An adventure for five 2nd-level characters.</em></div>
 
 > [!warning]+ **A Second-Level Adventure**
 > Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
@@ -564,7 +564,7 @@ This room is largely as described in **Children’s Room** (p. 215-16).
 > ***Inspirations.*** When playing Thorn, channel Neville Longbottom (*Harry Potter*) and Piglet (*Winnie the Pooh*).
 >
 > **Character Information**
-***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
+> ***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
 >
 > ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
 >

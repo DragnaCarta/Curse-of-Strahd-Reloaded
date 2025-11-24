@@ -1,4 +1,4 @@
-*An adventure for five 3rd-level characters.*
+<div class="subtitle"><em>An adventure for five 3rd-level characters.</em></div>
 
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When the players arrive at the barricades, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.
 

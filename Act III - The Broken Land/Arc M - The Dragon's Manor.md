@@ -1,4 +1,4 @@
-_An adventure for five 4th, 5th, or 6th-level characters._
+<div class="subtitle"><em>An adventure for five 4th, 5th, or 6th-level characters.</em></div>
 
 In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter Sir Godfrey Gwilym, an ancient **revenant** knight of the Order of the Silver Dragon.
 

@@ -1,4 +1,4 @@
-_An adventure for five 4th-level characters._
+<div class="subtitle"><em>An adventure for five 4th-level characters.</em></div>
 
 In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
 

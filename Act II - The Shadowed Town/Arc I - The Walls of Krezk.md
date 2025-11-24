@@ -1,4 +1,4 @@
-_An adventure for five 4th- or 5th-level characters._
+<div class="subtitle"><em>An adventure for five 4th- or 5th-level characters.</em></div>
 
 In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for cackle fever from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
 

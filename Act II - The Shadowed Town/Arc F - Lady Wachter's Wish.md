@@ -1,4 +1,4 @@
-_An adventure for five 4th-level characters._
+<div class="subtitle"><em>An adventure for five 4th-level characters.</em></div>
 
 In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
 
@@ -24,7 +24,7 @@ Urwin doesn’t know who the letter is from, but can tell the players that it wa
 
 The envelope contains the following letter, with the blank filled with the name of whichever player the envelope was addressed to:
 
-<div class="sidebar">
+<div class="description">
 <p>Dear _____ and esteemed companions,</p>
 <p>I hope this missive finds you in good health and high spirits. Vallaki appears to have been blessed by your presence and the promise of goodwill you bear with you.</p>
 <p>It has come to my attention that our paths, though they wind through such trying times, bear a striking convergence. Accordingly, I write to you today with a humble invitation to dine at my home, Wachterhaus, at sundown tomorrow evening. You may find it on Vallaki’s northern road, a short distance from the Zarovich Gate.</p>
