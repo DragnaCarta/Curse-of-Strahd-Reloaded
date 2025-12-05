@@ -1,3 +1,5 @@
 .obsidian/*.json
 .DS_Store
 .idea/
+.venv/
+.obsidian/plugins/

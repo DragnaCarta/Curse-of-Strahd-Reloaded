@@ -1,0 +1,3 @@
+# TRAVEL THROUGH THE MISTS 
+
+The werewolves serve Strahd out of fear, believing that Mother Night has blessed him with godlike powers and eternal life. Although he can't leave Barovia, Strahd can allow certain creatures to come and go, such as the Vistani. He periodically allows the werewolves to slip past the misty borders as well, so that they can bring or lure others into his domain. Unlike the Vistani, however, the werewolves can't come and go as they please.

@@ -1,0 +1,50 @@
+# Areas of Argynvostholt (Q28-Q36)
+
+## Q28. Knights' Quarters
+
+Tattered and faded drapes cover the windows of this circular room, and empty torch sconces line the walls. Broken bunk beds and armor stands are strewn on the floor.
+
+%% --- Page 187 --- %%
+Three phantom warriors (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
+
+### Treasure 
+
+Buried under the wreckage is a small wooden coffer containing four potions of invulnerability. A search of the room yields this lost cache.
+
+#[[Q29. Northwest Guest Room]]
+
+#[[Q30. Curtained Staircase]]
+
+#[[Q31. East Staircases]]
+
+#[[Q32. Ruined Bedchambers]]
+
+#[[Q33. Collapsed Ceiling]]
+
+#[[Q34. Ruined Bathroom]]
+
+#[[Q35. Upstairs Gallery]]
+
+## Q36. Dragon's Audience Hall 
+
+The west wall of this fifty-foot-long, thirty-foot-wide audience hall has crumbled, leaving a gaping hole and a pile of rubble. Weapons and shields that once hung from the walls have fallen to the floor and succumbed to rust. A large, wooden throne carved to resemble a dragon with unfolding wings faces three tall windows to the west. Slumped in the throne is a gaunt, armored figure with one gauntlet wrapped around the hilt of a greatsword.
+
+Vladimir Horngaard (see appendix D), commander of the fallen Order of the Silver Dragon, is slumped in the throne. If the beacon of Argynvostholt (see area Q53) has been lit, the corpse is lifeless, and characters can plunder it freely (see "Treasure" below).
+
+If the beacon has not been lit, the body is serving as a host for the revenant. If the characters approach it, it says, "Go away." If they don't leave immediately, read:
+
+The creature's grip on the greatsword tightens. "If you have come to destroy me, know this: I perished defending this land from evil over four centuries ago, and because of my failure, I am forever doomed. If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down. You cannot free me from my damnation, nor would I wish it."
+"If you have come to free this land from the creature that feasts on the blood of the innocent, know this: There is no monster I hate more than Strahd von Zarovich. He slew Argynvost, broke the life of the knight I loved, and destroyed the valiant order to which I devoted my life, but Strahd has already died once. He can't be allowed to die again. Instead, he must suffer eternally in a hell of his own creation, from which he can never escape. Whatever can be done to bring him misery and unrest, I will do, but I will destroy anyone who tries to end his torment."
+
+Vladimir fights in self-defense. He also rises from his throne and attacks if the characters fail to heed his warning and press him for help destroying Strahd. The first time Vladimir takes damage, six phantom warriors (see appendix D) materialize and join the fray, coming to his defense.
+
+Hatred so clouds Vladimir's mind that he can't remember that Sir Godfrey (area Q37) was his beloved in life. If Sir Godfrey helps the characters and faces Vladimir, anguished recognition shines in Vladimir's eyes, yet only lighting the beacon can free him.
+
+### Treasure
+
+Vladimir Horngaard wields a +2 greatsword.
+Vladimir wears a platinum holy symbol of the Morninglord (worth 250 gp ) around his neck, underneath his half plate armor.
+
+### Fortunes of Ravenloft
+
+If your card reading reveals that a treasure is here, it's in Vladimir's possession, and he doesn't part with it willingly unless the beacon of Argynvostholt has been lit (see area Q53).
