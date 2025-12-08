@@ -594,12 +594,27 @@ A player with a passive Intelligence (Investigation) score of 15 or greater who 
 
 Bluetspur attacks any creature that passes through the illusion, perceives it, or attacks it. If it attacks, the **death slaad** Nardag in [[#S3b. West Catacombs]] removes its disguise and joins it in battle. Both slaad fight to the death.
 
-> [!combat]+ **Balancing the East Catacombs** 
-> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The East Catacombs**  
+> **Combat Level**: Bruising 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 27%
 > 
-> - _**Three Players.**_ Change Nardag to a **green slaad**.
-> - _**Four Players.**_ Change Bluetspur to a **red slaad**, except that its ***claw*** attack inflicts a **blue slaad's** Chaos Phage instead of a **red slaad's** egg.
-> - _**Six Players.**_ Change Bluetspur to a **gray slaad**.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Bluetspur | 1 | 1 | 1 | 1 |
+> | Nardag | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Change Nardag to a **green slaad**. |
+> | 4 | Change Bluetspur to a **red slaad**, except that its ***claw*** attack inflicts a **blue slaad's** Chaos Phage instead of a **red slaad's** egg. |
+> | 6 | Change Bluetspur to a **gray slaad**. |
 
 > [!info]+ **Curing Chaos Phage**
 > The players can cure the **blue slaad's** ***chaos phage*** disease by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
@@ -1086,12 +1101,27 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 >
 > *"Break them," Vilnius rasps.*
 
-> [!combat]+ **Balancing the Lecture Hall** 
-> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 23% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Lecture Hall**  
+> **Combat Level**: Bruising 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 23%
 > 
-> - _**Three Players.**_ Reduce the **shield guardian's** AC to 15. Reduce its hit points to 93, its Strength to 16, its Dexterity to 4, and its Constitution to 16. Reduce its proficiency bonus to +2. Reduce its ***fist*** attack to +5 to hit and 1d6 + 3 bludgeoning damage.,
-> - _**Four Players.**_ Reduce the **shield guardian's** hit points to 123.
-> - _**Six Players.**_ Increase the **shield guardian's** AC to 18. Increase its hit points to 161 and its Dexterity to 10. Increase its proficiency bonus to +4. Increase its ***fist*** attack to +8 to hit.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Shield Guardian | 1 | 1 | 1 | 1 |
+> | Vilnius | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the **shield guardian's** AC to 15. Reduce its hit points to 93, its Strength to 16, its Dexterity to 4, and its Constitution to 16. Reduce its proficiency bonus to +2. Reduce its ***fist*** attack to +5 to hit and 1d6 + 3 bludgeoning damage. |
+> | 4 | Reduce the **shield guardian's** hit points to 123. |
+> | 6 | Increase the **shield guardian's** AC to 18. Increase its hit points to 161 and its Dexterity to 10. Increase its proficiency bonus to +4. Increase its ***fist*** attack to +8 to hit. |
 
 <div class="statblock">
 <h2>Vilnius, First Prisoner</h2>
@@ -1172,12 +1202,26 @@ This area is largely as described in <span class="citation">X10. Northeast Annex
 * When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
 
-> [!combat]+ **Balancing the Training Hall** 
-> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Training Hall**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 20%
 > 
-> - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
-> - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
-> - _**Six Players.**_ Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Amber Golem | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage. |
+> | 4 | Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage. |
+> | 6 | Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage. |
 
 ### Shrine of Fear
 <span class="citation">This scene takes place in Chapter 13, Areas X12 and X13.</span>
@@ -1522,12 +1566,27 @@ In addition, the **amber golem** attacks any creature that disturbs any of the p
 * When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
 
-> [!combat]+ **Balancing the Treasury** 
-> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Treasury**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 20%
 > 
-> - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
-> - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
-> - _**Six Players.**_ Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Amber Golem | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage. |
+> | 4 | Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage. |
+> | 6 | Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage. |
+
 ## S6c. Amber Vault
 <span class="citation">This scene takes place in Chapter 13, Areas X41 and X42.</span>
 
@@ -1779,12 +1838,26 @@ Otherwise, if the players accumulate three failures before three successes, Kasi
 
 Patrina then attacks.
 
-> [!combat]+ **Balancing the Lich** 
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will each consume approximately 40% of their total maximum hit points (for a total of 80% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Lich**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 40% (first phase), 40% (second phase), for a total of 80%
 > 
-> - _**Three Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 198. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 68 and the damage of their ***slam*** attack to 13 (3d4 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.
-> - _**Four Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.
-> - _**Six Players.**_ Increase Patrina's hit points in her first phase to 320 and in her second phase to 294. Increase the hit points of **amber constructs** to 101 and the damage of their ***slam*** attack to 24 (4d8 + 6) bludgeoning damage. In Patrina's second phase, increase her ***multiattack*** to five attacks with her ***shadowblade***.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Patrina Velikovna | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce Patrina's hit points in her first phase to 215 and in her second phase to 198. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 68 and the damage of their ***slam*** attack to 13 (3d4 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round. |
+> | 4 | Reduce Patrina's hit points in her first phase to 215 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round. |
+> | 6 | Increase Patrina's hit points in her first phase to 320 and in her second phase to 294. Increase the hit points of **amber constructs** to 101 and the damage of their ***slam*** attack to 24 (4d8 + 6) bludgeoning damage. In Patrina's second phase, increase her ***multiattack*** to five attacks with her ***shadowblade***. |
 
 <div class="statblock">
 <h2>Patrina, Vengeful Wraith</h2>

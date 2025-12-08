@@ -324,23 +324,41 @@ As they travel to [[#U3c. The Wall]] or [[#U3j. The Morning Gate]], the players 
 * **The Wall.** While traveling to the Whispering Wall, the players are attacked by three **winged harbingers** (use the statistics below) and six **zombies**. In battle, one **winged harbinger** and two **zombies** prefer to fight one another, rather than the players.
 * **The Gate.** While travelling to the Morning Gate, the players are attacked by six **zombies**.
 
-> [!combat]+ **Balancing the Vallakian Streets Wall** 
-> This combat encounter is a **mild** combat encounter against a party of two 10th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 17% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
->
-> - _**One Player.**_ Reduce the number of harbingers to two. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players.
-> - _**Three Players.**_ Increase the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players.
-> - _**Four Players.**_ Increase the number of harbingers to four and the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players.
-> - _**Five Players.**_ Increase the number of harbingers to five and the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players.
-> - _**Six Players.**_ Increase the number of harbingers to five and the number of zombies to twelve. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players.
-
-> [!combat]+ **Balancing the Vallakian Streets Gate** 
-> This combat encounter is a **mild** combat encounter against a party of three 10th-level players, and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Vallakian Streets Wall**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 10
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 17%
 > 
-> - _**One Player.**_ Reduce the number of zombies to two.
-> - _**Two Players.**_ Reduce the number of zombies to four.
-> - _**Four Players.**_ Increase the number of zombies to eight.
-> - _**Five Players.**_ Increase the number of zombies to ten.
-> - _**Six Players.**_ Increase the number of zombies to twelve.
+> ### **Enemies:**
+> 
+> | |1 Player | 2 Players | 3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|-|-|
+> | Winged Harbinger | 2 | 3 | 3 | 4 | 5 | 5 |
+> | Zombie | 6 | 6 | 9 | 9 | 9 | 12 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 2 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|-|-|
+> | 1 | Reduce the number of harbingers to two. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
+> | 3 | Increase the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
+> | 4 | Increase the number of harbingers to four and the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
+> | 5 | Increase the number of harbingers to five and the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
+> | 6 | Increase the number of harbingers to five and the number of zombies to twelve. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players. |
+
+> [!combat]- **Combat - The Vallakian Streets Gate**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 10
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 10%
+> 
+> ### **Enemies:**
+> 
+> | |1 Player | 2 Players | 3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|-|-|
+> | Zombie | 2 | 4 | 6 | 8 | 10 | 12 |
 
 > [!info]+ **Winged Harbinger**
 > A **winged harbinger**, which appears as a six-foot-tall butterfly made of frigid fog and mist, uses the statistics of a **specter**, with the following changes:
@@ -443,14 +461,18 @@ Shortly after the players hear the howls, four **winter wolves** leap forth from
 
 When the wolves are defeated, an archway of swirling mist appears before the players, pointing west. If the players pass through it, they emerge into [[#U3h. The Lonely Maid]].
 
-> [!combat]+ **Balancing the Attack on the Swamp Fane** 
-> This combat encounter is a **bruising** combat encounter against a party of two 10th-level players, four CR 2 allies (Ireena Kolyana and three Druids), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Attack on the Swamp Fane**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 10
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 29%
 > 
-> - _**One Player.**_ Reduce the number of winter wolves to three.
-> - _**Three Players.**_ Increase the number of winter wolves to five.
-> - _**Four Players.**_ Increase the number of winter wolves to six.
-> - _**Five Players.**_ Increase the number of winter wolves to seven.
-> - _**Six Players.**_ Increase the number of winter wolves to eight.
+> ### **Enemies:**
+> 
+> | |1 Player | 2 Players | 3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|-|-|
+> | Winter Wolf | 3 | 4 | 5 | 6 | 7 | 8 |
+
 
 ## U3h. The Lonely Maid
 When the players emerge from [[#U3g. Attack on the Swamp Fane]], read:
@@ -604,11 +626,21 @@ The Zarovich Gate is attacked by the following undead:
 
 In combat, the hulks attempt to batter down the gate, while the ordinary zombies attempt to pile atop one another in order to breach the nearby walls. (To do so, three zombies must stand atop one another’s shoulders.)
 
-> [!combat]+ **Balancing the Zarovich Gate** 
-> This combat encounter is a **crushing** combat encounter against a party of one 10th-level player and assorted Vallakian allies, and will consume approximately 127% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Zarovich Gate**  
+> **Combat Level**: Crushing
+> **Expected Character Level**: 10
+> **Allies:** Assorted Vallakians
+> **Expected HP Consumption:** 127%
 > 
-> - _**No Players at this gate.**_ Remove the ogre zombies. Decrease the number of zombies to eighteen. Decrease the number of swarms of bats to one.
-> - _**Two Players at this gate.**_ Increase the number of ogre zombies to three. Increase the number of zombies to twenty four. Increase the number of swarms of bats to five.
+> ### **Enemies:**
+> 
+> | |0 Players | 1 Player | 2 Players|
+> |-|-|-|-|
+> | Swarm of Bats | 1 | 2 | 5 |
+> | Zombie | 2 | 20 | 24 |
+> | Zombie Hulk | 0 | 2 | 3 | 
+
+
 ### The Southern Wall
 Vallaki’s southeastern wall is attacked by the following undead:
 
@@ -618,11 +650,20 @@ Vallaki’s southeastern wall is attacked by the following undead:
 
 In combat, the three leapers attempt to climb the wall directly, while the ordinary zombies attempt to pile atop one another in order to reach the top. (To do so, three zombies must stand atop one another’s shoulders.)
 
-> [!combat]+ **Balancing the Southern Wall** 
-> This combat encounter is a **crushing** combat encounter against a party of one 10th-level player and assorted Vallakian allies, and will consume approximately 135% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Southern Wall**  
+> **Combat Level**: Crushing
+> **Expected Character Level**: 10
+> **Allies:** Assorted Vallakians
+> **Expected HP Consumption:** 135%
 > 
-> - _**No Players at this gate.**_ Reduce the number of zombie leapers to one. Decrease the number of zombies to fifteen.
-> - _**Two Players at this gate.**_ Increase the number of zombie leapers to four. Increase the number of zombies to twenty five. Increase the number of swarms of bats to five.
+> ### **Enemies:**
+> 
+> | |0 Players | 1 Player | 2 Players|
+> |-|-|-|-|
+> | Swarm of Bats | 2 | 2 | 5 |
+> | Zombie | 15 | 20 | 25 |
+> | Zombie Leapers | 1 | 2 | 4 | 
+
 ### The Morning Gate
 The Morning Gate is attacked by the following undead:
 
@@ -631,11 +672,19 @@ The Morning Gate is attacked by the following undead:
 
 In combat, the zombies attempt to mass around the gates and walls, drawing fire until the plague spreader can reach the defenders with its ***virulent miasma***.
 
-> [!combat]+ **Balancing the Morning Gate** 
-> This combat encounter is a **brutal** combat encounter against a party of one 10th-level player and assorted Vallakian allies, and will consume approximately 73% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Morning Gate**  
+> **Combat Level**: Brutal
+> **Expected Character Level**: 10
+> **Allies:** Assorted Vallakians
+> **Expected HP Consumption:** 73%
 > 
-> - _**No Players at this gate.**_ Reduce the number of zombies to nine.
-> - _**Two Players at this gate.**_ Increase the number of zombie plague spreaders to two. Increase the number of zombies to eighteen.
+> ### **Enemies:**
+> 
+> | |0 Players | 1 Player | 2 Players|
+> |-|-|-|-|
+> | Zombie | 9 | 16 | 18 |
+> | Zombie Plague Spreader | 1 | 1 | 2 | 
+
 ## U3k. Aftermath
 Shortly after the players reunite following [[#U3i. Lake Zarovich]] and [[#U3j. The Morning Gate]], after they and their companions have had an opportunity to celebrate, a grim Urwin Martikov—or Danika Dorakova, if Urwin is dead—visits the players and shares the following information, as relayed by his raven scouts:
 
@@ -808,21 +857,26 @@ When the final battle begins, read:
 
 A player who inspects the castle’s surroundings from outside the tower can confirm that the castle has split from the Pillarstone of Ravenloft and is rising into the air.
 
-> [!combat]+ **Balancing the Ancient** 
-> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 10th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 45% of their total maximum hit points (for a total of 136% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Ancient**  
+> **Combat Level**: Bloody (phase one), Bloody (phase two), Bloody (phase three)
+> **Expected Character Level**: 10
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 45% (phase one), 45% (phase two), 45% (phase three) for a total of 136%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Strahd von Zarovich | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
-> * _**Three Players.**_ Reduce Strahd's hit points in each phase to 247.
-> * In his first phase, reduce the damage of his ***Vampiric Touch*** attack to 2d6 necrotic damage. Reduce the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 6d6 damage. Reduce the damage of his ***Blindness/Deafness*** reaction to 1d10.
-> * In his second phase, reduce his ***Longsword*** attack to 1d10+5 slashing damage and 1d4 necrotic damage. Reduce the damage of his ***Umbral Net*** to 1d10. Reduce the damage of his ***Thunderous Wave*** to 2d8. Reduce the damage of his ***Dark Volley*** to 3d8.
-> * In his third phase, reduce his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 2d6 necrotic damage. Reduce his ***Bats' Frenzy*** to 4d4 necrotic damage. Reduce his ***Predator's Fury*** to 1d10+5 force damage.
-> * _**Four Players.**_ Reduce Strahd's hit points in each phase to 289.
-> * In his first phase, reduce his Multiattack to only one use of ***Vampiric Touch*** and one use of ***Telekinetic Grasp***. Reduce the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 5d6 damage. Reduce the damage of his ***Blindness/Deafness*** reaction to 1d12.
-> * In his second phase, reduce his ***Longsword*** attack to 1d10+5 slashing damage and 1d8 necrotic damage. Reduce the damage of his ***Umbral Net*** to 1d12. Reduce the damage of his ***Thunderous Wave*** to 2d10. Reduce the damage of his ***Dark Volley*** to 3d10.
-> * In his third phase, reduce his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 3d6 necrotic damage. Reduce his ***Bats' Frenzy*** to 2d12 necrotic damage. Reduce his ***Predator's Fury*** to 2d8+5 force damage.
-> * ***Six Players.*** Increase Strahd's hit points in each phase to 373.
-> * In his first phase, increase his ***multiattack*** to either two attacks with ***Vampiric Touch*** or one attack of ***Vampiric Touch*** and two uses of ***Telekinetic Grasp***. Increase the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 9d6 damage. Increase the damage of his ***Blindness/Deafness*** reaction to 2d8.
-> * In his second phase, increase his ***Longsword*** attack to 1d10+5 slashing damage and 2d8 necrotic damage. Increase the damage of his ***Umbral Net*** to 2d8. Increase the damage of his ***Thunderous Wave*** to 3d10. Increase the damage of his ***Dark Volley*** to 4d10.
-> * In his third phase, increase his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 5d6 necrotic damage. Increase his ***Bats' Frenzy*** to 4d8 necrotic damage. Increase his ***Predator's Fury*** to 2d12+5 force damage.
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce Strahd's hit points in each phase to 247. <ul><li>In his first phase, reduce the damage of his ***Vampiric Touch*** attack to 2d6 necrotic damage. Reduce the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 6d6 damage. Reduce the damage of his ***Blindness/Deafness*** reaction to 1d10. </li><li>In his second phase, reduce his ***Longsword*** attack to 1d10+5 slashing damage and 1d4 necrotic damage. Reduce the damage of his ***Umbral Net*** to 1d10. Reduce the damage of his ***Thunderous Wave*** to 2d8. Reduce the damage of his ***Dark Volley*** to 3d8.</li> <li>In his third phase, reduce his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 2d6 necrotic damage. Reduce his ***Bats' Frenzy*** to 4d4 necrotic damage. Reduce his ***Predator's Fury*** to 1d10+5 force damage. </li></ul>|
+> | 4 | Reduce Strahd's hit points in each phase to 289. <ul><li> In his first phase, reduce his Multiattack to only one use of ***Vampiric Touch*** and one use of ***Telekinetic Grasp***. Reduce the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 5d6 damage. Reduce the damage of his ***Blindness/Deafness*** reaction to 1d12. </li><li> In his second phase, reduce his ***Longsword*** attack to 1d10+5 slashing damage and 1d8 necrotic damage. Reduce the damage of his ***Umbral Net*** to 1d12. Reduce the damage of his ***Thunderous Wave*** to 2d10. Reduce the damage of his ***Dark Volley*** to 3d10. </li><li> In his third phase, reduce his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 3d6 necrotic damage. Reduce his ***Bats' Frenzy*** to 2d12 necrotic damage. Reduce his ***Predator's Fury*** to 2d8+5 force damage. </li></ul>|
+> | 6 | Increase Strahd's hit points in each phase to 373. <ul><li> In his first phase, increase his ***multiattack*** to either two attacks with ***Vampiric Touch*** or one attack of ***Vampiric Touch*** and two uses of ***Telekinetic Grasp***. Increase the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 9d6 damage. Increase the damage of his ***Blindness/Deafness*** reaction to 2d8. </li><li> In his second phase, increase his ***Longsword*** attack to 1d10+5 slashing damage and 2d8 necrotic damage. Increase the damage of his ***Umbral Net*** to 2d8. Increase the damage of his ***Thunderous Wave*** to 3d10. Increase the damage of his ***Dark Volley*** to 4d10. </li><li> In his third phase, increase his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 5d6 necrotic damage. Increase his ***Bats' Frenzy*** to 4d8 necrotic damage. Increase his ***Predator's Fury*** to 2d12+5 force damage. <ul></li>|
 
 > [!info]+ **Strahd’s Statistics**
 > See [[Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strahd’s statistics and tactics in battle.
