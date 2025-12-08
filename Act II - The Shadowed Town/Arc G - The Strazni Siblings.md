@@ -255,12 +255,27 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 <p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
 </div>
 
-> [!combat]- **Balancing the Brute**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 2 ally (Ireena Kolyana), and will each consume approximately 31% of their total maximum hit points (for a total of 62% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Brute**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 4
+> **Allies:** Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 31% (first phase), and 31% (second phase) for a total of 62%
 > 
-> * ***Three Players.*** Reduce Izek’s hit points to 75 in each phase. For his first phase, reduce his ***silvered battleaxe*** attack to 7 (1d8+3) damage, his ***flame hurl*** attack and ***flame volley*** bonus action to 4 (1d8) damage, and his ***slicing whirl*** bonus action to 3 (1d6) damage. For his second phase, reduce his ***silvered battleaxe*** attack to 6 (1d6+3) slashing damage plus 1 fire damage, his ***burning punch*** attack to 5 (1d4+3) bludgeoning damage plus 1 fire damage, his ***flaming wave*** action to 7 (2d6) damage, his ***flame burst*** and ***explosive blast*** bonus actions to 4 (1d8) damage, his ***retaliatory burn*** reaction to 2 (1d4) fire damage, and his ***cinder sparks*** reaction to 1 fire damage.
-> * ***Four Players.*** Reduce Izek’s hit points to 92 in each phase. For his first phase, reduce his ***silvered battleaxe*** attack to 9 (1d8+5) damage, his ***flame hurl*** attack and ***flame volley*** bonus action to 5 (1d10) damage, and his ***slicing whirl*** bonus action to 4 (1d8) damage. For his second phase, reduce his ***silvered battleaxe*** attack to 8 (1d6+5) slashing damage plus 1 fire damage, his ***burning punch*** attack to 7 (1d4+5) bludgeoning damage plus 1 fire damage, his ***flaming wave*** action to 9 (2d8) damage, his ***flame burst*** and ***explosive blast*** bonus actions to 6 (1d12) damage, his ***retaliatory burn*** reaction to 3 (1d6) fire damage, and his ***cinder sparks*** reaction to 1 fire damage.
->  * ***Six Players.*** Increase Izek’s hit points to 128 in each phase. For his first phase, increase his ***silvered battleaxe*** attack to 11 (1d12+5) damage and his ***slicing whirl*** bonus action to 6 (1d12) damage. For his second phase, increase his ***silvered battleaxe*** attack to 10 (1d10+5) slashing damage plus 2 (1d4) fire damage, his ***burning punch*** attack to 9 (1d8+5) bludgeoning damage plus 2 (1d4) fire damage, his ***flaming wave*** action to 13 (2d12) damage, and his ***retaliatory burn*** reaction to 5 (1d10) fire damage.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Izek Strazni | 1 | 1 | 1 | 1 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce Izek’s hit points to 75 in each phase. For his first phase, reduce his silvered battleaxe attack to 7 (1d8+3) damage, his flame hurl attack and flame volley bonus action to 4 (1d8) damage, and his slicing whirl bonus action to 3 (1d6) damage. For his second phase, reduce his silvered battleaxe attack to 6 (1d6+3) slashing damage plus 1 fire damage, his burning punch attack to 5 (1d4+3) bludgeoning damage plus 1 fire damage, his flaming wave action to 7 (2d6) damage, his flame burst and explosive blast bonus actions to 4 (1d8) damage, his retaliatory burn reaction to 2 (1d4) fire damage, and his cinder sparks reaction to 1 fire damage. |
+> | 4 | Reduce Izek’s hit points to 92 in each phase. For his first phase, reduce his silvered battleaxe attack to 9 (1d8+5) damage, his flame hurl attack and flame volley bonus action to 5 (1d10) damage, and his slicing whirl bonus action to 4 (1d8) damage. For his second phase, reduce his silvered battleaxe attack to 8 (1d6+5) slashing damage plus 1 fire damage, his burning punch attack to 7 (1d4+5) bludgeoning damage plus 1 fire damage, his flaming wave action to 9 (2d8) damage, his flame burst and explosive blast bonus actions to 6 (1d12) damage, his retaliatory burn reaction to 3 (1d6) fire damage, and his cinder sparks reaction to 1 fire damage. |
+> | 6 | Increase Izek’s hit points to 128 in each phase. For his first phase, increase his silvered battleaxe attack to 11 (1d12+5) damage and his slicing whirl bonus action to 6 (1d12) damage. For his second phase, increase his silvered battleaxe attack to 10 (1d10+5) slashing damage plus 2 (1d4) fire damage, his burning punch attack to 9 (1d8+5) bludgeoning damage plus 2 (1d4) fire damage, his flaming wave action to 13 (2d12) damage, and his retaliatory burn reaction to 5 (1d10) fire damage. |
+
 
 ## G4b. Storming the Manor
 If the players cause a ruckus at the front door or on the first floor of the manor, [[Non-Player Characters#Izek Strazni|Izek]] overhears them and exits his bedroom, bringing his silvered battleaxe in case of battle. He fights at the slightest provocation.
