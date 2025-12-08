@@ -225,7 +225,7 @@ In combat, the **vine blights** use their ***constrict*** attack to grapple enem
 > [!combat]- **Combat - The False Trail**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 5
-> **Allies:** Muriel Vinshaw (CR 1), and Ireena Kolyana Wachter (CR 2)
+> **Allies:** Muriel Vinshaw (CR 1), and Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 10%
 > 
 > ### **Enemies:**

@@ -497,7 +497,7 @@ If the players approach the snapped signpost or move to leave the intersection, 
 > [!combat]- **Combat - The Blights**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 4
-> **Allies:** Szoldar Szoldarovoch (CR 1/2)
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
 > **Expected HP Consumption:** 18%
 > 
 > ### **Enemies:**
@@ -585,7 +585,7 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 > [!combat]- **Combat - The Gargoyles**  
 > **Combat Level**: Oppressive
 > **Expected Character Level**: 4
-> **Allies:** Szoldar Szoldarovoch (CR 1/2)
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
 > **Expected HP Consumption:** 85%
 > 
 > ### **Enemies:**
@@ -728,7 +728,7 @@ Otherwise, if no characters show that they’re carrying silvered weapons or amm
 > [!combat]- **Combat - The Werewolves**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 4
-> **Allies:** Szoldar Szoldarovoch (CR 1/2)
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
 > **Expected HP Consumption:** 38%
 > 
 > ### **Enemies:**

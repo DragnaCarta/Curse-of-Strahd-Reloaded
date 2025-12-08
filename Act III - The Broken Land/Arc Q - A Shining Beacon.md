@@ -932,7 +932,7 @@ The revenants then attack.
 > [!combat]- **Combat - The Return to the Foyer**  
 > **Combat Level**: Bloody
 > **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2),, Ezmerelda d'Avenir (CR 4)
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 44%
 > 
 > ### **Balancing:**
