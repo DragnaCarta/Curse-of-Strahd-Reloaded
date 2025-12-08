@@ -973,7 +973,7 @@ Victor’s panicked eyes flash toward the players, and Stella draws in toward he
 > [!combat]- **Combat - The Specters**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 5
-> **Allies:** Majesto (CR 1), Erasmus van Richten (CR 2), and Fiona Wachter (CR 2)
+> **Allies:** Majesto (CR 1), Erasmus van Richten (CR 2), Fiona Wachter (CR 2)
 > **Expected HP Consumption:** 5%
 > 
 > ### **Enemies:**
