@@ -331,12 +331,19 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
-> [!combat]- **Balancing the First Bride**
-> Due to the phase mechanic and chokepoint, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 48% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The First Bride**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 4
+> **Allies:** Father Lucian (CR 3)
+> **Expected HP Consumption:** 24% (first phase), and 24% (second phase) for a total of 48%
 > 
-> * ***Three Players.*** Remove the vampire spawn.
-> * ***Four Players.*** Decrease the number of vampire spawn to one. 
-> * ***Six Players.*** Increase the number of vampire spawn to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Vampire Spawn | 0 | 1 | 2 | 3 |
+> | Volenta Popofsky | 1 | 1 | 1 | 1 |
+
 
 > [!warning]+ **Sunlight in Barovia**
 > Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
