@@ -651,12 +651,20 @@ Three **druid assailants**, three **berserkers**, and two **rootspike triads** l
 * One rootspike triad west of the lake path
 * One rootspike triad west of the mountain trail
 
-> [!combat]+ **Balancing the Druids' Vengeance** 
-> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Druid's Vengeance**  
+> **Combat Level**: Bloody 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 58%
 > 
-> * _**Three Players.**_ Reduce the number of **druid assailants** to one. Reduce the number of **berserkers** to two.
-> * _**Four Players.**_ Reduce the number of **druid assailants** to two.
-> * _**Six Players.**_ Increase the number of **berserkers** to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Berserker | 2 | 3 | 3 | 4 |
+> | Druid Assailant | 1 | 2 | 3 | 3 |
+> | Rootspike Triad | 2 | 2 | 2 | 2 |
+
 
 > [!lore]+ **Rootspike Triad**
 > Following the players’ victory over the Forest Folk in [[Arc J - The Stolen Gem]], several **druid naturalists** journeyed to the ruins of Berez, seeking the aid of the swamp witch Baba Lysaga in empowering their magic. The **rootspike triads** were the end result: trios of druid naturalists with wooden spikes driven into their eyes, bloody runes carved into their flesh, and a bark-like covering across their skin.
@@ -840,12 +848,20 @@ The three spear-wielding maidens are mounted upon **snow perytons**, which have 
 
 In combat, the spear-wielding maidens and their mounts target the toughest or healthiest-looking party members, while the unmounted maidens target the weakest. 
 
-> [!combat]+ **Balancing the Monument** 
-> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 53% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
->
-> - _**Three Players.**_ Reduce the number of **snow maidens** to eight. Reduce the number of **perytons** and spear-wielding **snow maidens** to two each.
-> - _**Four Players.**_ Reduce the number of **snow maidens** to six.
-> - _**Six Players.**_ Reduce number of **snow maidens** to eight. Increase the number of **perytons** and spear-wielding **snow maidens** to four each.
+> [!combat]- **Combat - The Monument**  
+> **Combat Level**: Bloody 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 53%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Peryton | 2 | 3 | 3 | 4 |
+> | Snow Maiden | 8 | 6 | 9 | 8 |
+> | Spear-Wielding Snow Maiden | 2 | 3 | 3 | 4 |
+
 
 > [!abstract]+ **The Roc’s Blessing**
 > On initiative count 20 of the second round of combat, if the players repaired the monument’s wings (e.g., through the use of a *mending* spell) or otherwise paid homage to it, a player with a passive Wisdom (Perception) score of 13 or greater notices the statue’s eyes glimmer a cold, cerulean blue. The players then gain the benefits of a *wind wall* spell, placed in such a way as to obstruct or injure the greatest number of snow maidens possible. 
@@ -912,12 +928,19 @@ The howl belongs to the leader of a pack of eight **winter wolves**, one of whic
 
 In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in order to gain advantage on their attacks and using their ***cold breath*** whenever they can catch at least two victims in its range. (As servants of Strahd, however, the wolves ensure their cold breath never harms Ireena.) The wolves fight to the death.
 
-> [!combat]+ **Balancing the Blizzard** 
-> This combat encounter is a **brutal** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 75% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
->
-> - _**Three Players.**_ Reduce the number of **winter wolves** to five.
-> - _**Four Players.**_ Reduce the number of **winter wolves** to six.
-> - _**Six Players.**_ Increase the number of **winter wolves** to eight.
+> [!combat]- **Combat - The Blizzard**  
+> **Combat Level**: Brutal 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 75%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Winter Wolf | 5 | 6 | 7 | 8 |
+> | Winter Wolf Packleader | 1 | 1 | 1 | 1 |
+
 
 > [!info]+ **Short Rests in the Blizzard**
 > Players seeking to take a short rest after the wolf attack can still seek out cover from the storm for the duration, as described in [[#Seeking Shelter]] above. However, players who roll a result of 20 or higher on the Wisdom (Survival) check to find shelter don’t find the Mountain Folk cave.
@@ -932,11 +955,17 @@ The players’ arrival at the gatehouse is largely as described in <span class="
 
 In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.)
 
-> [!combat]+ **Balancing the Gatehouse** 
-> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 54% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Gatehouse**  
+> **Combat Level**: Bloody 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 54%
 > 
-> - _**Three Players.**_ Reduce the number of petrified **vrocks** to three.
-> - _**Four Players.**_ Reduce the number of petrified **vrocks** to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Vrock | 3 | 3 | 4 | 4 |
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
@@ -1418,12 +1447,28 @@ If the players enter the cave, read:
 >
 > *Shadows gather, slithering across the ground and creeping up the walls as colors fade to shades of pale, lifeless gray. All around you, the warmth and light of the world seem to seep away—as though drawn into a cold and distant void.*
 
-> [!combat]+ **Balancing the Bodaks' Lair** 
-> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Bodak's Lair**  
+> **Combat Level**: Bruising 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 30%
 > 
-> - _**Three Players.**_ Reduce the hit points of each **bodak** to 103. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 5 (2d4) necrotic damage. Reduce the damage of their ***death gaze*** to 12 (5d4) psychic damage. Reduce the damage of their ***withering gaze*** to 17 (5d6) necrotic damage.
-> - _**Four Players.**_ Reduce the hit points of each **bodak** to 119. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. Reduce the damage of their ***death gaze*** to 14 (4d6) psychic damage. Reduce the damage of their ***withering gaze*** to 18 (4d8) necrotic damage.
-> - _**Six Players.**_ Increase the hit points of each **bodak** to 153. Increase the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 11 (2d10) necrotic damage. Increase the damage of their ***death gaze*** to 18 (4d8) psychic damage. Increase the damage of their ***withering gaze*** to 24 (5d8) necrotic damage.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Bodak | 2 | 2 | 2 | 2 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the hit points of each **bodak** to 103. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 5 (2d4) necrotic damage. Reduce the damage of their ***death gaze*** to 12 (5d4) psychic damage. Reduce the damage of their ***withering gaze*** to 17 (5d6) necrotic damage. |
+> | 4 | Reduce the hit points of each **bodak** to 119. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. Reduce the damage of their ***death gaze*** to 14 (4d6) psychic damage. Reduce the damage of their ***withering gaze*** to 18 (4d8) necrotic damage. |
+> | 6 | Increase the hit points of each **bodak** to 153. Increase the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 11 (2d10) necrotic damage. Increase the damage of their ***death gaze*** to 18 (4d8) psychic damage. Increase the damage of their ***withering gaze*** to 24 (5d8) necrotic damage. |
+
+
 ### The Junction
 If a player follows the corridor, read:
 
@@ -1946,13 +1991,21 @@ Otherwise, the Mountain Folk intervene at initiative count 0 of the third round 
 >
 > The players’ companions (i.e., Kalaris, Zia, or Corylla), possessions (i.e., the legendary *spear of the Huntress*), or familiarity with the Mountain Folks’ faith (i.e., their skill in solving the puzzle of the carvings) dictate the ease with which Como can convince Scorilo’s guards to open the door. Como also successfully convinces the guards to rally out if the players appear to be at a clear risk of dying to the barlgura and shoosuva.
 
-> [!combat]+ **Balancing the Amber-Touched** 
-> Due to the three-faction combat, this combat encounter is a **bruising** combat encounter against a party of five 8th-level players, two CR 1/2 allies (two **scouts**) four CR 2 allies (Ireena Kolyana and three **berserkers**), a CR 4 ally (Ezmerelda d’Avenir), two CR 5 allies (two **gladiators**), and a CR 6 ally (Kasimir Velikov), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Amber-Touched**  
+> **Combat Level**: Bruising 
+> **Expected Character Level**: 8
+> **Allies:** Two Scouts (CR 1/2), three Berserkers (CR 2) Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), two Gladiators (CR 5), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 31%
 > 
-> - _**Three Players.**_ Increase the number of **berserkers** to five. Increase the number of **scouts** to five.
-> - _**Four Players.**_ Increase the number of **berserkers** to four. Increase the number of **scouts** to four.
-> - _**Six Players.**_ Decrease the number of **berserkers** to two. Decrease the number of **scouts** to one.
-
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Barlgura | 6 | 6 | 6 | 6 |
+> | Berserker | 5 | 4 | 3 | 2 |
+> | Gladiator | 2 | 2 | 2 | 2 |
+> | Scout | 5 | 4 | 2 | 1 |
+> | Shoosuva | 1 | 1 | 1 | 1|
 
 > [!profile]+ **Scorilo & Como**
 > **Roleplaying Information**

@@ -1,3 +1,5 @@
+# Hotfix 2.1.0.11 (December 8, 2025)
+* Updated combat encounters to be in line with new balancing template across all arcs
 # Patch 2.1.0.10 (November 22, 2025)
 * Merged combat encounter balancing template and [[Arc A - Escape From Death House]] modifications from community contributor
 # Patch 2.1.0.9 (November 17, 2025)

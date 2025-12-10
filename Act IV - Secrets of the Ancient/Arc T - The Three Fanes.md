@@ -241,12 +241,18 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 
 A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
 
-> [!combat]+ **Balancing the Wizard of Wines** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Wizard of Wines**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 18%
 > 
-> - _**Three Players.**_ Reduce the number of **scarecrows** to five.
-> - _**Four Players.**_ Reduce the number of **scarecrows** to six.
-> - _**Six Players.**_ Increase the number of **scarecrows** to eight.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Scarecrow | 5 | 6 | 7 | 8 |
+
 
 If the players enter the winery, they find it empty. If they ascend to the second floor, they find that the wall between the two <span class="citation">W19. Sleeping Quarters (p. 179)</span> has been reduced to splinters and rubbles, and that the rooms’ shared southern wall has been marked with the following message, engraved in scorched, blackened wood: “*A Mother Never Forgets.*"
 ## T2b. The Town of Vallaki
@@ -569,10 +575,18 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 ## T3b. Northern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
-> [!combat]+ **Balancing the Northern Cottages** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 4% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Northern Cottages**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 4%
 > 
-> - _**Three Players.**_ Reduce the number of **greater strix** to one.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Greater Strix | 1 | 2 | 2 | 2 |
+
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -582,12 +596,21 @@ Three ten-foot-wide passages lead from this chamber:
 ## T3c. Southern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 
-> [!combat]+ **Balancing the Southern Cottages** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 8% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Southern Cottages**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 8%
 > 
-> - _**Three Players.**_ Remove the **hexwitches**.
-> - _**Four Players.**_ Reduce the number of **hexwitches** to one.
-> - _**Six Players.**_ Increase the number of **bogwitches** to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Barovian Bogwitch | 2 | 2 | 2 | 3 |
+> | Barovian Hexwitch | 0 | 1 | 2 | 2 |
+> | Dire Wolf | 1 | 1 | 1 | 1 |
+> | Wensencia | 1 | 1 | 1 | 1 |
+
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -624,12 +647,17 @@ A walking corpse rises from the mire and attacks if touched, or if the players a
 
 The sounds of combat awaken any other walking corpses within the room. Once awakened, each walking corpse arises and lurches toward the players, converging on the players’ location by sound five rounds later. When they do, read the text described in <span class="citation">U5. Marina’s Monument, Fortunes of Ravenloft (p. 165)</span>.
 
-> [!combat]+ **Balancing the Town Green** 
-> Due to the phase mechanic, this is a series of a consecutive **mild** and **bruising** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Town Green**  
+> **Combat Level**: Mild (first phase), Bruising (second phase)
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 30%
 > 
-> - _**Three Players.**_ Reduce the number of **walking corpses** to five.
-> - _**Four Players.**_ Reduce the number of **walking corpses** to six.
-> - _**Six Players.**_ Increase the number of **walking corpses** to eight.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Walking Corpses | 5 | 6 | 7 | 8 |
 
 Two ten-foot-wide passages lead from this chamber:
 
@@ -646,11 +674,17 @@ The three lights are **will-o’-wisps**. A player who scrutinizes the lights fr
 
 If the wisps detect the players, they turn invisible using their ***invisibility*** feature, take the Hide action, and attack when the players seem most vulnerable (but before the players depart this area). The players can attempt to sneak past the wisps, succeeding with a successful group DC 13 Dexterity (Stealth) check.
 
-> [!combat]+ **Balancing the Churchyard** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Churchyard**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 6%
 > 
-> - _**Three Players.**_ Reduce the number of **will-o'-wisps** to two.
-> - _**Six Players.**_ Increase the number of **will-o'-wisps** to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Will-o'-Wisp | 2 | 3 | 3 | 4 |
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -843,11 +877,17 @@ The three dolls, which were crafted and left here by Baba Lysaga, have the stati
 
 The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
 
-> [!combat]+ **Balancing the Manor's Cellar** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Manor's Cellar**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 3%
 > 
-> - _**Three Players.**_ Reduce the number of **carrionettes** to two.
-> - _**Four Players.**_ Reduce the number of **carrionettes** to two.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Carrionette | 2 | 2 | 3 | 3 |
 
 > [!info]+ **Roleplaying a Carrionette**
 > If a carrionette successfully gains control of a player’s body, provide that player the following information:
@@ -868,12 +908,17 @@ A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence 
 ## T3h. Goat Pen
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
-> [!combat]+ **Balancing the Goatpen** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Goat Pen**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 29%
 > 
-> - _**Three Players.**_ Reduce the number of mutated **goats** to six.
-> - _**Four Players.**_ Reduce the number of mutated **goats** to seven.
-> - _**Six Players.**_ Increase the number of mutated **goats** to ten.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Goat | 6 | 7 | 9 | 10 |
 
 Two ten-foot-wide passages lead from this chamber, whose walls are flush with the edges of the goat pen:
 
@@ -882,12 +927,18 @@ Two ten-foot-wide passages lead from this chamber, whose walls are flush with th
 ## T3i. Garden
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
 
-> [!combat]+ **Balancing the Garden** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 22% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Garden**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 22%
 > 
-> - _**Three Players.**_ Reduce the number of **scarecrows** to four. Reduce the number of **giant poisonous snakes** to three.
-> - _**Four Players.**_ Reduce the number of **scarecrows** to five. Reduce the number of **giant poisonous snakes** to three.
-> - _**Six Players.**_ Increase the number of **scarecrows** to seven.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Giant Poisonous Snake | 3 | 3 | 4 | 4 |
+> | Scarecrow | 4 | 5 | 6 | 7 |
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -1031,12 +1082,20 @@ The candelabra, bookstand, and stone bust each have the statistics of an **anima
 </div>
 <br>
 
-> [!combat]+ **Balancing Ulrich Manor** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 31% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Ulrich Manor**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 31%
 > 
-> - _**Three Players.**_ Reduce the number of **animated minor objects** to one.
-> - _**Four Players.**_ Reduce the number of **animated minor objects** to two.
-> - _**Six Players.**_ Increase the number of **animated minor objects** to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Animated Minor Object | 1 | 2 | 3 | 4 |
+> | Flying Sword | 2 | 2 | 2 | 2 |
+> | Ghost | 1 | 1 | 1 | 1 |
+> | Swarm of Insects | 1 | 1 | 1 | 1 |
 
 If the players continue to defy Lazlo, or attack him, he and the animated objects attack.
 ## T3k. Baba Lysaga’s Hut
@@ -1098,12 +1157,27 @@ Baba Lysaga then attacks.
 >
 > A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
 
-> [!combat]+ **Balancing the Witch** 
-> Due to the phase mechanic, this is a series of consecutive **brutal** and **mild** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 72% of their total maximum hit points, then approximately 11% of their total maximum hit points (for a total of 83% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Witch**  
+> **Combat Level**: Bruising (phase one), Mild (phase two)
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 72% (phase one), 11% (phase two), for a total of 83%
 > 
-> - _**Three Players.**_ Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2.
-> - _**Four Players.**_ Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round.
-> - _**Six Players.**_ Increase **Baba Lysaga's** hit points to 151 in each phase. Increase her number of reactions in each phase to 6. Increase the **Creeping Hut's** hit points to 295. Increase its number of reactions to 4, but limit its ***root*** reaction to 3/round.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Baba Lysaga | 1 | 1 | 1 | 1 |
+> | Creeping Hut | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2. |
+> | 4 | Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round. |
+> | 6 | Increase **Baba Lysaga's** hit points to 151 in each phase. Increase her number of reactions in each phase to 6. Increase the **Creeping Hut's** hit points to 295. Increase its number of reactions to 4, but limit its ***root*** reaction to 3/round. |
 
 <div class="statblock">
 <h2>Baba Lysaga, Witch Mother</h2>
@@ -2045,12 +2119,27 @@ If the players approach him or otherwise make themselves known, Rahadin stands a
 
 Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
 
-> [!combat]+ **Balancing Rahadin's Vengeance** 
-> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 51% of their total maximum hit points (for a total of 102% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+
+> [!combat]- **Combat - Rahadin's Vengeance**  
+> **Combat Level**: Bloody (phase one), Bloody (phase two)
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 51% (phase one), 51% (phase two), for a total of 102%
 > 
-> - _**Three Players.**_ Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3.
-> - _**Four Players.**_ Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack.
-> - _**Six Players.**_ Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Rahadin | 1 | 1 | 1 | 1 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3. |
+> | 4 | Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack. |
+> | 6 | Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks. |
 
 <div class="statblock">
 <h2>Rahadin, Amber-Touched</h2>

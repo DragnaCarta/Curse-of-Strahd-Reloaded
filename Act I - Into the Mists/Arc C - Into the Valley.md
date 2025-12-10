@@ -240,12 +240,27 @@ The **greater strix** uses the statistics of a **manticore**, but is a Medium co
 
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
-> [!combat]- **Balancing the Strix**
-> This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Strix**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 3
+> **Allies:** Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 34%
 > 
-> * ***Three Players.*** Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer.
-> * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
-> * ***Six Players.*** Increase the number of swarms of lesser strix to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Greater Strix | 1 | 1 | 1 | 1 |
+> | Swarm of Lesser Strix | 1 | 1 | 2 | 3 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer. |
+> | 4 | Reduce the number of swarms of lesser strix to one. |
+> | 6 | Increase the number of swarms of lesser strix to three. |
 
 These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
 
@@ -736,12 +751,27 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 
 ![[wolf_ravine.jpg]]
 
-> [!combat]- **Balancing the Wolves** 
-> This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> [!combat]- **Combat - The Wolves**  
+> **Combat Level**: Bloody
+> **Expected Character Level**: 3
+> **Allies:** Muriel Vinshaw (CR 0), Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 58%
 > 
-> * **Three Players**. Reduce the number of wolves to 3. 
-> * **Four Players**. Reduce the number of wolves to 4. 
-> * **Six Players**. Reduce the number of wolves to 1 and increase the number of werewolves to 2.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Wolves | 3 | 4 | 8 | 1 |
+> | Werewolves | 0 | 0 | 0 | 2 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the number of wolves to 3. |
+> | 4 | Reduce the number of wolves to 4. |
+> | 6 | Reduce the number of wolves to 1 and increase the number of werewolves to 2. |
 
 Replace the wolves' ***bite*** attack with the following action options:
 
@@ -990,12 +1020,18 @@ If the werewolves die, they reverts to their true forms: a young man with pale, 
 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
 
-> [!combat]+ **Balancing the Werewolf Hunt** 
-> This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Werewolf Hunt**  
+> **Combat Level**: Oppressive
+> **Expected Character Level**: 3
+> **Allies:** Two swarms of ravens (CR 1/4), Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 84%
 > 
-> * _**Three Players.**_ Reduce the number of wolves to one.,
-> * _**Four Players.**_ Reduce the number of wolves to two.,
-> * _**Six Players.**_ Increase the number of wolves to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Werewolf | 2 | 2 | 2 | 2 |
+> | Wolf | 1 | 2 | 3 | 4 |
 
 > [!info]+ **Lycanthropy in Barovia**
 >
