@@ -1,3 +1,18 @@
+# Patch 2.1.0.12 (January 12, 2026)
+* Amended various typos, broken links, and errors in formatting
+* Added art for Gustav's grick form in [[Arc A - Escape From Death House]]
+* Added the **Fast Grappler** ability to Vampire Spawn, so they don't get trapped by difficult terrain from things such as *Spirit Guardians*.
+* Clarified wording on recovering hit points after being bitten by a vampire.
+* Clarified inconsistencies in the ages between Kasimir and Patrina.
+* Added an explanation of the burgomaster's duties, courtesy of Fiona Wachter in [[Arc F - Lady Wachter's Wish]]. 
+* Added artwork for Cyrus Bellview in [[Arc O - Dinner with the Devil]]
+* Ensured that checks and saves are accurately used in the Collapsing Tower section of [[Arc R - Trials of the Mountain]]
+* Added artwork of Vilnius in [[Arc S - A Sword of Sunlight]]
+* Added artwork of Patrina in [[Arc S - A Sword of Sunlight]]
+* Added artwork of an Amber Construct in [[Arc S - A Sword of Sunlight]]
+* Clarified the wording of Patrina's *counterspell* in [[Arc S - A Sword of Sunlight]]
+* Including an infobox to notify DMs that Strahd assumes his Monster persona upon learning of the *Sunsword* being ignited.
+* Clarified the location of the bats in [[Arc T - The Three Fanes]]
 # Hotfix 2.1.0.11 (December 8, 2025)
 * Updated combat encounters to be in line with new balancing template across all arcs
 # Patch 2.1.0.10 (November 22, 2025)

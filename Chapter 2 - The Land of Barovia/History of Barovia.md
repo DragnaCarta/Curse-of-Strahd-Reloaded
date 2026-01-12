@@ -14,7 +14,7 @@ For as long as they ruled the land, the Ladies acted as its sovereigns, making t
 
 Two of the Ladies bestowed upon their most faithful worshippers the gifts of lycanthropy: flocks of wereravens served the Seeker’s will, while packs of Good-aligned werewolves called wolfir raced through the woods to join the Huntress’s Wild Hunt. Meanwhile, the Weaver fashioned three gemstones the size and shape of pinecones, imbued them with the raw energies of life, and delivered them to her priests with a promise that the bounties of the woods would always feed them and their children.
 
-Together, the Weaver, the Huntress, and the Seeker became known as the Ladies Three. To honor them, the First Folk built three sacred fanes at places of natural power—the Swamp Fane, the Forest Fane, and the Mountain Fane.[^1] These fanes served as conduits for the goddess' power, allowing them to walk among their worshippers and anchor themselves to the land they loved.
+Together, the Weaver, the Huntress, and the Seeker became known as the Ladies Three. To honor them, the First Folk built three sacred shrines, or fanes, at places of natural power—the Swamp Fane, the Forest Fane, and the Mountain Fane.[^1] These fanes served as conduits for the goddess' power, allowing them to walk among their worshippers and anchor themselves to the land they loved.
 
 The First Folk, however, built no shrine to the Dreamer, too fearful of her grim portfolio to invite her into their tents and prayers. Embittered and enraged, the Dreamer fell into jealousy and envy—and the whispers of Mother Night, the greater goddess of darkness, lured her into corruption.
 
@@ -283,7 +283,7 @@ Fearful that a future revolt might find and raise Sergei’s *Brightblade* again
 
 When news of Markovia’s death reached its walls, the clerics of the Abbey sealed it off from the outside world, terrified of Strahd’s reprisal. Meanwhile, near Yester Hill to the south, a vision of Strahd’s homeland appeared in the Mists, as described in <span class="citation">Y5. Wall of Fog (p. 200)</span>.
 
-Determined to distract himself from the visions in the mist, Strahd terrorized the clerics of the Abbey, preying upon their paranoia and fear. It was’t long before the the clergy began to fight amongst themselves; within weeks, all were either dead or insane, as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>.
+Determined to distract himself from the visions in the mist, Strahd terrorized the clerics of the Abbey, preying upon their paranoia and fear. It wasn’t long before the clergy began to fight amongst themselves; within weeks, all were either dead or insane, as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>.
 
 In the darkened halls of Argynvostholt, quarrels rang out amongst the revenants of the Order as Vladimir’s knights demanded vengeance for Saint Markovia. Vladimir, however, crushed their dissent, determined that Strahd should suffer his accursed fate for all of eternity. Awoken by their discord, the ghost of Argynvost began to haunt his ruined lair—too weak to speak out, but strong enough to mourn.
 ## Strahd’s First Followers

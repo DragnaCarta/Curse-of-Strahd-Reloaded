@@ -1000,12 +1000,6 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > **Allies:** Zorya (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 39% (first phase), 39% (second phase), for a total of 78%
 > 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Vladimir Horngaard | 1 | 1 | 1 | 1 |
->
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
