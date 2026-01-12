@@ -124,6 +124,8 @@ Lady Wachter may also respond to player questions as follows:
 
 ***If asked how she came to her position,*** Lady Wachter notes that she was not always the heir of House Wachter. Her elder brother, Frederich Wachter, had always been expected to inherit their mother’s household and title. As a teenager, Fiona often fought with her mother and brother—and, on one such occasion, ran away from home in a pique of stubborn fury. She fled into the Svalich Woods, where she would have surely died had she not been found by an old woman named Lysa. Fiona stayed in Lysa’s cottage for six months, until she learned that her parents and brother had perished in a tragic accident. Fiona returned to Vallaki against Lysa’s advice and reclaimed her family’s position.
 
+***If asked what the responsibilites of a burgomaster are,*** Lady Wachter will explain the main duties of a burgomaster are settling disputes, maintaining town records, and coordinating town defenses. They also collect taxes for Castle Ravenloft, though those haven't been collected in over a century by now. Burgomasters also raise taxes to pay guards, however, they have limited legislative powers - they only have the power that the town grants them. 
+
 > [!info]+ **What Lady Wachter Knows**
 > If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
 > 
@@ -480,12 +482,6 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 > **Allies:** Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 31% (first phase), and 31% (second phase) for a total of 62%
 > 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Izek Strazni | 1 | 1 | 1 | 1 |
->
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
 >

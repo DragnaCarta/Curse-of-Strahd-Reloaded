@@ -337,7 +337,7 @@ A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika sayi
 * The Blue Water Inn is currently closed, by order of Lady Wachter for “harboring traitors against Vallaki and Castle Ravenloft." It hasn’t had any customers for two days.
 * Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft." In addition to closing the inn, she’s imprisoned the priest of St. Andral’s Church, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Blinsky) thrown the local toymaker, Gadof Blinsky into the stocks.
 * Two nights ago, a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts. None returned.
-* Dozens of swarms of bats have taken up residence in Wachterhaus’s basement, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through.
+* Dozens of swarms of bats have taken up residence in Arasek Stockyard, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through.
 
 Danika can also share concerning news regarding the Wizard of Wines winery:
 
@@ -470,7 +470,7 @@ Each proclamation reads “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO 
 
 The two **guards** watching the stocks have no personal enmity toward Blinsky and Bluto, and no great loyalty to Lady Wachter. However, both are reluctant to be disciplined or removed from the guard. More significantly, both fear the rumors they’ve heard of Lady Wachter’s newest guest, who is said amongst the town guard to be an emissary sent from Castle Ravenloft itself.
 
-If the players attempt to openly free Blinsky or Bluto from the stocks, the guards protest and ready their arms. The players can convince the guards to stand down on a successful DC 15 Charisma (Persuasion) check or a DC 10 Charisma (Intimidation) check, made with advantage if the players reference Lady Wachter’s proclamations that they are “ARMED AND DANGEORUS." 
+If the players attempt to openly free Blinsky or Bluto from the stocks, the guards protest and ready their arms. The players can convince the guards to stand down on a successful DC 15 Charisma (Persuasion) check or a DC 10 Charisma (Intimidation) check, made with advantage if the players reference Lady Wachter’s proclamations that they are “ARMED AND DANGEROUS." 
 
 Otherwise, if the players disregard their orders to stand down, the guards attack any character who attempts to free either man from the stocks, seeking to knock them unconscious and bring them to Wachterhaus for questioning. If one guard is knocked unconscious or killed, the surviving guard surrenders or flees, respectively.
 ### Wachterhaus
@@ -1163,13 +1163,6 @@ Baba Lysaga then attacks.
 > **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 72% (phase one), 11% (phase two), for a total of 83%
 > 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Baba Lysaga | 1 | 1 | 1 | 1 |
-> | Creeping Hut | 1 | 1 | 1 | 1 |
-> 
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
@@ -1539,7 +1532,7 @@ A player can convince Arturi to share the cause of his “ailment" or the reason
 * Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, haunting him like a curse. “Undead take you," Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him *mortu*, or “outcast," a word that can also be more directly translated as “living dead." No village gave Arturi sanctuary, and no town’s walls would protect him; no matter where he slept, the dead would rise and find him.
 * For eighteen years, Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, three months ago, he returned to Barovia to seek the counsel of the Vistana seer Madam Eva. "The past must burn," she told him. “Find the man who forged your fetters. His final breath will set you free."
 * Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache hidden in a hollow near Lake Baratok, which contained a half-written manuscript on werewolves and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
-* Two days ago, Strahd kidnapped Arturi and brought him to Castle Ravenloft. Strahd appeared intrigued by the nature of Arturi’s curse, studying its magic and extracting his blood for his own experimentation. Strahd appears to believe that Arturi's curse, which bonds him to Dr. Van Richten, will allow him to finally hunt Van Richten down—and so end the tale that began with Barovia’s recent rebellion. “Should that happen," Arturi says, “I fear I will never be rid of this curse—or that it shall eventually grow to consume and swallow me, leaving nothing left." He adds: “But if my curse is lifted, I shall be useless to him—and he will have no means to track Doctor Van Richten through me."
+* Two days ago, Strahd kidnapped Arturi and brought him to Castle Ravenloft. Strahd appeared intrigued by the nature of Arturi’s curse, studying its magic and extracting his blood for his own experimentation. Strahd appears to believe that Arturi's curse, which binds him to Dr. Van Richten, will allow him to finally hunt Van Richten down—and so end the tale that began with Barovia’s recent rebellion. “Should that happen," Arturi says, “I fear I will never be rid of this curse—or that it shall eventually grow to consume and swallow me, leaving nothing left." He adds: “But if my curse is lifted, I shall be useless to him—and he will have no means to track Doctor Van Richten through me."
 
 Arturi believes it clear that Madam Eva’s first words —the “man who forged his fetters"—refer to Dr. Van Richten. He isn’t sure how to interpret “His final breath will set you free," but—although he conceals this from the players—grimly believes that he may need to personally kill Van Richten to free himself of his curse.
 
@@ -1620,7 +1613,7 @@ If approached, Ezmerelda can share or recount the following information:
 Ezmerelda is grateful for any counsel the players might provide.
 
 > [!abstract]+ **Van Richten’s Response**
-> If Ezmerelda departs his presence, Van Richten approaches the players to ask their counsel after speaking with Arturi. “I’ve hurt her," he says, his eyes tired. “I never meant to lie to her, but a lie by omission is a lie all the same. I could not blame her if she never trusted me again; I do not need her forgiveness, nor do I deserve it. But please—you’ve come to know her as a friend. Is there anything I can do to make this right?"
+> If Ezmerelda departs from his presence, Van Richten approaches the players to ask their counsel after speaking with Arturi. “I’ve hurt her," he says, his eyes tired. “I never meant to lie to her, but a lie by omission is a lie all the same. I could not blame her if she never trusted me again; I do not need her forgiveness, nor do I deserve it. But please—you’ve come to know her as a friend. Is there anything I can do to make this right?"
 >
 > Van Richten is grateful for any counsel the players might provide.
 
@@ -1874,7 +1867,7 @@ At initiative count 0 of the tenth round of combat, read:
 <div class="description">
 <p>The final wagon collapses into ruin, sending cinders swirling into the sky above. Around it, the wreckage begins to cool, each wagon falling into gray, smoldering ashes.</p>
 <p>“Go back!" Van Richten shouts at the dead, his voice hoarse. “There is nothing here for you anymore! <em>Go back!</em>"</p>
-<p>The forest seems to wait with baited breast—and then, the horde stills. One by one, the undead halt their advance, turn, and shuffle back to the cover of the deep forest beyond, where they vanish into the darkness and mist.</p>
+<p>The forest seems to wait with bated breath—and then, the horde stills. One by one, the undead halt their advance, turn, and shuffle back to the cover of the deep forest beyond, where they vanish into the darkness and mist.</p>
 </div>
 
 Shortly after the fight ends, read:
@@ -2125,12 +2118,6 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 > **Expected Character Level**: 9
 > **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 51% (phase one), 51% (phase two), for a total of 102%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Rahadin | 1 | 1 | 1 | 1 |
 > 
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
