@@ -25,7 +25,7 @@ Upon their arrival in Vallaki, the players can find shelter at the Blue Water In
 |   2   | A   | The players begin their first long rest after escaping Death House | 400   |
 |   3   | B   | The players defend and depart the village of Barovia               | 400   |
 |   3   | B   | The players aid Doru in passing his test of will                   | 100   |
-|   3   | B   | The players receive the Tarokka reading                            | 500   |
+|   3   | C   | The players receive the Tarokka reading                            | 500   |
 |   3   | C   | The players arrive in Vallaki                                      | 1,000 |
 |   3   | C   | The players escort Ireena to Vallaki                               | 250   |
 

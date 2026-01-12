@@ -31,7 +31,7 @@ The meeting’s attendees have thus far taken the following positions regarding 
 Although any individual attendee may require convincing or argument, the attendees of the war council welcome any insight, guidance, and leadership the players are able to provide.
 # U2. The Dream
 ## U2a. The Dream Begins
-The first time the players take a long rest in Vallaki after [[#U1. The War Council]], if Ireena Kolyana is still alive and a member of their party, the players and Ireena are drawn into a dream created by the Dark Powers. Read:
+The first time the players take a long rest in Vallaki after [[#U1. The War Council]], if Ireena Kolyana and Ezmerelda d’Avenir are still alive and traveling with them, the players—along with Ireena and Ezmerelda—are drawn into a dream created by the Dark Powers. Read:
 
 <div class="description">
 <p>You feel yourselves sinking into a warm, soft darkness as sleep draws its arms around you. There’s a sensation of falling, of the tide of unconsciousness washing over you. You don’t notice the moment you fall asleep, but you notice when, a heartbeat later, your eyes snap open again—only to find yourselves somewhere else.</p>
@@ -862,12 +862,6 @@ A player who inspects the castle’s surroundings from outside the tower can con
 > **Expected Character Level**: 10
 > **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 45% (phase one), 45% (phase two), 45% (phase three) for a total of 136%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Strahd von Zarovich | 1 | 1 | 1 | 1 |
 > 
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:

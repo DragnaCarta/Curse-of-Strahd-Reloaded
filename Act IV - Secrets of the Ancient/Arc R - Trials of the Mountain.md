@@ -1022,7 +1022,7 @@ If the players subsequently invite Strahd inside, he offers them a cold, mocking
 > 
 > <hr>
 > 
-> Each character remaining in the tower must immediately make a DC 10 Dexterity (Acrobatics) check. On a failure, a character falls against the eastern wall of the tower and falls prone. 
+> Each character remaining in the tower must immediately make a DC 13 Dexterity saving throw. On a failure, a character falls against the eastern wall of the tower and falls prone. 
 > 
 > Roll initiative. To escape the collapsing tower, a character within 10 feet of the door or a western-facing window must use their action and succeed on a DC 10 Strength (Athletics) check. On a failure, the player slides 10 feet east.
 > 
@@ -1175,7 +1175,7 @@ Ireena then spills the bag’s contents into her hand, silently counts them, and
 
 * If at least half of the stones are black, Ireena exhales with clear relief.
 * If all of the stones are black, Ireena beams with pride.
-* If at least half of the stones are red, Ireena pales, a look of horror dawning upon her face.
+* If more than half of the stones are red, Ireena pales, a look of horror dawning upon her face.
 * If all of the stones are red, Ireena exhales with clear relief.
 
 Once she has announced the results, Ireena displays the chosen stones for all the players to see.
