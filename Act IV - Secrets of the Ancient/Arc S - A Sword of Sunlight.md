@@ -250,6 +250,7 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 > If the players threaten "Heinrich" or refuse to answer his questions to his satisfaction, “Heinrich" stands up straighter, adjusts his glasses, and warns them grimly that, although he is "a peaceful man by nature," he "will not hesitate" to call upon the aid of his flameskull allies should the players attempt to deceive him or force their way into the Temple. "I assure you," he says with a dry smile, "I may be old, but I am far from incapable."
 > 
 > If the players attack "Heinrich" or disregard his warnings, "Heinrich" uses his fly speed to rise into the air, warns them that they "have made a terrible mistake," and retreats into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, using his ***teleport*** action to teleport into <span class="citation">X5a. God of Secrets (p. 184)</span> as soon as it comes within range. Neferon and the flameskulls in <span class="citation">X17. Upper West Hall (p. 187)</span> then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>.
+> ^heinrichsdiscipline
 
 ![[Neferon_transparent.png]]
 <span class="credit">"Neferon" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -264,6 +265,7 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 > If reduced to 62 hit points or fewer, Neferon casts *dimension door* to teleport to the skies above the Amber Temple, where he remains until nightfall. That night, if the players begin a long rest in or near the temple, Neferon casts *invisibility* and approaches their camp to weaken or destroy them, preferring to do so without engaging in open combat (e.g., by first casting *phantasmal force*, *detect thoughts*, or *suggestion*).
 >
 > Neferon never confronts the players without reserving at least one 4th-level spell slot (to cast *dimension door* and escape) and one 3rd-level spell slot (to cast *counterspell* if *dimension door* is countered).
+> ^neferonstactics
 #### Heinrich’s Request
 "Heinrich" is glad to allow the players to explore the Temple in exchange for "a small fee—a minor service, really." If the players express an interest in doing so, "Heinrich" shares the following information:
 
@@ -271,7 +273,7 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 * Heinrich was, with some luck (and the use of an ancient *arcane lock* mechanism built by the temple’s original inhabitants), able to imprison the creature in the temple catacombs. However, he fears that the slaad may soon escape and wreak havoc across the temple—or the valley below. (A DC 21 Wisdom (Insight) check reveals that “Heinrich" is indeed concerned about the slaad—but doesn’t appear authentically concerned about the safety of the Barovian people.)
 * “Heinrich" is glad to allow the players to explore the temple if they descend into the catacombs and “remove" (i.e., kill) the death slaad for him. (The catacombs, he shares, lie beneath the overlook, at the southern end of <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>).
 
-If the players refuse to carry out “Heinrich’s" task, he responds as described in **Heinrich’s Discipline** above. 
+If the players refuse to carry out “Heinrich’s" task, he responds as described in [[#^heinrichsdiscipline|Heinrich's Discipline]] above. 
 
 > [!info]+ **Slaad Lore**
 > A player who succeeds on a DC 15 Intelligence (Arcana) check recalls the first paragraph of information provided in <span class="citation">*Monster Manual* "Slaadi," *Monster Manual* (p. 278)</span>. On a result of 20 or higher, the character recalls all additional lore listed in that entry. On a result of 25 or more, a player recalls a death slaad’s elemental resistances, shapechanging ability, magical resistance, regenerative abilities, blindsight, and ability to cast spells.
@@ -560,7 +562,7 @@ On the night before the players’ arrival at the Amber Temple, a **death slaad*
 This area is largely as described in <span class="citation">X31a. West Catacombs (p. 191)</span>. However, it is inhabited by Nardag, a **death slaad** that can speak Common. If Nardag is expecting the players, add the following to the end of this area’s description:
 
 <div class="description">
-<p>A young woman with long, braided hair lies on the floor, her back propped up against the wall behind her. One of her legs is twisted at an odd angle, and her teeth are gritted in pain.</p>
+<p>A young woman with long, braided hair sits on the floor, her back propped up against the wall behind her. One of her legs is twisted at an odd angle, and her teeth are gritted in pain.</p>
 </div>
 
 If the players reveal themselves or greet her, the woman—who introduces herself as "Lorelei"—asks whether they're "friends of the creature that locked her here." "Lorelei" can share the following false information if asked:
@@ -784,7 +786,7 @@ This area is largely as described in <span class="citation">X33d. Breached Vault
 >
 > ---
 > 
-> If the player expresses interest in Delban’s gift, Delban offers the player the power to unleash “the cold of the void beyond the stars." To accept, the player must enter the column of lava and allow Delban to devour it.
+> If the player expresses interest in Delban’s gift, Delban offers the player the power to unleash “the cold of the void beyond the stars." To accept, the player must enter the column of lava and allow Delban to devour them.
 > 
 > ***Delban’s Gift.*** Delban’s dark gift allows a player to cast _cone of cold_ without components three times per day. A player who accepts Delban’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Delban’s [[Amber Shards#Amber Corruption|Amber Corruption]].
 >
@@ -1024,11 +1026,14 @@ A player with a passive Wisdom (Perception) score of 15 or greater notices that 
 >
 > As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **shield guardian**’s amulet, then hid himself away in <span class="citation">X9. Lecture Hall (p. 185)</span>.
 > 
-> The Dark Powers were born from Vilnius’s treachery that night, rising from the dark miasma that filled the temple’s halls. Craving the nourishment of Vilnius’s maddened paranoia and fear, the Dark Powers used their new power to entrap him within <span class="citation">X9. Lecture Hall (p. 185)</span>; there, his body slowly wasted away over the centuries, until little but a shade remained. Vilnius became the Dark Powers’ first prisoners, and the Amber Temple their first prison.
+> The Dark Powers were born from Vilnius’s treachery that night, rising from the dark miasma that filled the temple’s halls. Craving the nourishment of Vilnius’s maddened paranoia and fear, the Dark Powers used their new power to entrap him within <span class="citation">X9. Lecture Hall (p. 185)</span>; there, his body slowly wasted away over the centuries, until little but a shade remained. Vilnius became the Dark Powers’ first prisoner, and the Amber Temple their first prison.
 > 
 > Since then, Vilnius has become something less than human — and something more. He believes himself to be alive, and fears the dead that dwell elsewhere in the temple. He dares not venture forth from the lecture hall, but believes—correctly—that if only he could return to the [[#Shrine of Temptation]] to claim his master's staff, he could walk freely from the temple without fear.
 
 When the players first approach or confront Vilnius, if they bear bright lights, Vilnius hisses and shies away from them, hissing that the light is “too bright" and warning them that “something might see."
+
+![[Vilnius.png]]
+<span class="credit">"Vilnius" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Vilnius’s Shadow**
 > A player with a passive Wisdom (Perception) score of 18 or greater, or 15 if Vilnius is standing in bright light, notices that Vilnius doesn’t cast a shadow. If the players confront Vilnius regarding his lack of a shadow, read:
@@ -1037,7 +1042,7 @@ When the players first approach or confront Vilnius, if they bear bright lights,
 >
 > *Vilnius’s eyes narrow, and his pallid flesh seems to cling even tighter to his sallow, angled cheekbones. He pauses for a moment, tilting his head as though listening to an unseen voice, then nods. “It is decided, then," he says.*
 >
-> *His eyes darken, then blacken to voids, as the mists churn and swirl around him. His hand rises to an object beneath his cloak, which shines with a thickly amber light—as, from the floor beside him, an enormous metallic head begins to rise from the mists, followed by steel-forged shoulders, a metal torso, and limbs carved of thick, studded wood.*
+> *His eyes darken, then blacken to voids, as the mists churn and swirl around him. His hand rises to an object beneath his cloak, which shines with a sickly amber light—as, from the floor beside him, an enormous metallic head begins to rise from the mists, followed by steel-forged shoulders, a metal torso, and limbs carved of thick, studded wood.*
 >
 > *"Remove them," Vilnius rasps.*
 >
@@ -1375,9 +1380,9 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 >  
 > *This ossuary has been built to resemble a throne room forged entirely of bones. Lightless grey flames burn in countless skull-carved sconces along the walls, which are themselves built of interlocking femurs and decorated with human ribs.*  
 >  
-> *A tall throne stands at the chamber’s far end, built of skulls, ribs, clavicles, and femurs, each bone bleached a pale white. Above the throne towers a serpentine gray-scaled wurm, the features of its eyeless head swallowed up by its own massive, tooth-filled maw. Twin skeletal wings extend from its back, each wing’s bones brushing against the ceiling and walls of the chamber around it.*  
+> *A tall throne stands at the chamber’s far end, built of skulls, ribs, clavicles, and femurs, each bone bleached a pale white. Above the throne towers a serpentine gray-scaled wyrm, the features of its eyeless head swallowed up by its own massive, tooth-filled maw. Twin skeletal wings extend from its back, each wing’s bones brushing against the ceiling and walls of the chamber around it.*  
 >  
-> *“I am Tarakamedes, the Grave Wyrm," the wurm rasps. “Have you come to seek my gift?"*  
+> *“I am Tarakamedes, the Grave Wyrm," the wyrm rasps. “Have you come to seek my gift?"*  
 >  
 > ---  
 >  
@@ -1492,7 +1497,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 > 
 > ---  
 >  
-> If the player expresses interest in Zantras’s gift, he offers the player the power to “command presence, loyalty, and obedience." To accept, the player must sit in the throne and allow Zantras to place the clone upon their head.
+> If the player expresses interest in Zantras’s gift, he offers the player the power to “command presence, loyalty, and obedience." To accept, the player must sit in the throne and allow Zantras to place the crown upon their head.
 >  
 > If the player passes through the amber archway or accepts Zantras’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
@@ -1765,13 +1770,16 @@ At a suitable moment after a player withdraws the *Sunsword* from the sarcophagu
 <p>"Now, that’s better," the woman purrs, her violet eyes flashing. She extends her arms, admiring her fingers and palms. “It’s been <em>so</em> long since I last tasted fresh air."</p>
 </div>
 
+![[PATRINA_transparent_sunsword.png]]
+<span class="credit">"Patrina" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Patrina greets the players with mocking warmth, thanking them for freeing her from her “lengthy imprisonment." “You’ve truly no idea how *unpleasant* it is to have your soul trapped within an inanimate object for nearly four hundred years," she bemoans, inspecting her fingernails carefully, “especially when that object is hidden inside of an isolated demiplane, with no creature to talk to but the maddened ghost of the first creature that thought bloodsucking was some *groundbreaking* new idea."
 
 ***Patrina’s Schemes.*** Patrina is glad to share the following information if prompted or asked, pausing as necessary or appropriate to allow the players to respond:
 
 * She is Patrina Velikovna, the sister of Kasimir Velikov. 
 * More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle Erevan didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillaged and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
-* "It was in the aftermath of Erevan's downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl scarcely eighty years old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
+* "It was in the aftermath of Erevan's downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl a mere century old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
 * Whether the players respond or not, Patrina continues: "I won't claim the glory or honor of being the first to call for rebellion, but I'd gladly claim the glory of being among the first when Barov’s son took the throne." She chuckles darkly, a low, throaty sound. "We thought him a naive starling—scarcely fifty summers old. How wrong we were."
 * She continues: "He broke us again, of course. Left us to the mercy of his favorite little travelers—the Vistani, who you may have met. Did you know that's where the names 'Velikov' and ‘Velikovna’ come from? Dear Kasimir feared that Strahd might learn of our relationship to dear Uncle, and suggested we take the name of the man whose caravan had taken us in." She rolls her eyes. “Of course, carrying out the traditional Vistani blood rite to *officially* become parts of the Velikov clan might have been a step too far, but my brother has always been one for *sentiment.*
 * “Of course," Patrina adds, “when the Vistani bore us to the valley, it soon became clear that this was to be our prison—and, in time, our graves." She smiles. “Thankfully, a chance encounter with a knight, a few drinks, and a *touch* of enchantment allowed me to learn of a temple high in the mountains—one that held the secrets to excising the scourge of the von Zaroviches and returning my people to their proper place."
@@ -1844,19 +1852,13 @@ Patrina then attacks.
 > **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
 > **Expected HP Consumption:** 40% (first phase), 40% (second phase), for a total of 80%
 > 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Patrina Velikovna | 1 | 1 | 1 | 1 |
-> 
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
 > | Number of Players | Modification |
 > |-|-|
 > | 3 | Reduce Patrina's hit points in her first phase to 215 and in her second phase to 198. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 68 and the damage of their ***slam*** attack to 13 (3d4 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round. |
-> | 4 | Reduce Patrina's hit points in her first phase to 215 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round. |
+> | 4 | Reduce Patrina's hit points in her first phase to 250 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round. |
 > | 6 | Increase Patrina's hit points in her first phase to 320 and in her second phase to 294. Increase the hit points of **amber constructs** to 101 and the damage of their ***slam*** attack to 24 (4d8 + 6) bludgeoning damage. In Patrina's second phase, increase her ***multiattack*** to five attacks with her ***shadowblade***. |
 
 <div class="statblock">
@@ -1923,7 +1925,7 @@ Patrina then attacks.
 <h3>Reactions</h3>
 <p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot of 1st level or higher and add the spell slot’s level to the level of the spell it cast. If the result is <span class="highlight">4 or more</span>, the creature can make a <span class="highlight">DC 19 saving throw</span> using its spellcasting ability, gaining a bonus to its saving throw equal to the result. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
+<p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot and make a DC19 saving throw using its spellcasting ability modifier. Reduce the DC by 1 for each level of spell slot spent for the casting and as part of this reaction. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
 <p><strong><em>Ghostly Walk.</em></strong> <strong>Trigger:</strong> A creature Patrina can see within <span class="highlight">60 feet</span> of her ends its turn. <strong>Effect:</strong> Patrina moves up to her speed toward or away from that creature without provoking opportunity attacks.</p>
 <p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
 </div>
@@ -1934,6 +1936,9 @@ Patrina then attacks.
 > * Replace its immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons that aren’t adamantine with resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
 > * Remove its **immutable form***, ***magic resistance***, or ***magic weapons*** features.
 > * Remove its ***multiattack*** and ***slow*** actions.
+
+![[Amber_Constructs__Sarcophagi.png]]
+ <span class="credit">"Amber Construct" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Changing Forms**
 > When Patrina transforms into her second phase, she notes, with pronounced irritation, that she had hoped “not to assume corporeal form before her preparations were complete." “It seems, however," she adds, her voice dripping with venom, “that you require my *fullest* attention."
@@ -2032,6 +2037,7 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 * Its wielder gains a bonus to attack and damage rolls equal to its resonance level. (*This replaces its original +2 bonus.*)
 * It emits bright light in a minimum radius equal to 5 feet times its resonance level, and dim light for an additional number of feet equal to 5 feet times its resonance level. (For example, if the blade has a resonance level of 3, it emits bright light in a 15-foot radius and dim light for an additional 15 feet.) This light is still considered sunlight.
 * It can emit bright light out to a maximum of 10 feet times its resonance level, and dim light for an additional number of feet equal to 10 feet times its resonance level. (For example, if the blade has a resonance level of 3, it can emit bright light out to a maximum of 30 feet, and dim light for an additional 30 feet.)
+* Its wielder can use an action to expand or reduce its radius of bright and dim light by 5 feet each.
 * Depending on the nature of the spirit inhabiting it, it gains one of the following additional effects (your choice). (For example, St. Markovia’s spirit might allow the wielder to use the *shield of faith* effect, while an unsuitable spirit might grant no effect.) Once used, this feature can’t be used again until the wielder completes a long rest.
 
 | d6 | Effect |
@@ -2081,6 +2087,10 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 > ---
 > 
 > The pillar of radiance is visible to all creatures in Barovia. Once the *Sunsword* is ignited, Strahd won't leave Castle Ravenloft unless the players are dead.
+
+> [!info]+ **The Monster**
+> When Strahd first learns that the *Sunsword* is ignited, his persona changes from the Tyrant to the Monster. See [[Strahd von Zarovich]] for more information about roleplaying the Monster.
+
 # S7. Archmage’s Quarters
 ## S7a. Stair of Wisdom
 <span class="citation">This scene takes place in Chapter 13, Area X5b.</span>
@@ -2168,13 +2178,13 @@ Neferon—as “Heinrich"—asks the players to identify any physical items they
 
 However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its radiant properties. "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
 
-If the players refuse to disclose an item’s value, or if negotiations break down, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as **Heinrich’s Discipline** and **Neferon’s Tactics** above.
+If the players refuse to disclose an item’s value, or if negotiations break down, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as [[#^heinrichsdiscipline|Heinrich's Discipline]] and [[#^neferonstactics|Neferon's Tactics]] above.
 
 ***Lying to Neferon.*** Players who lie to “Heinrich" can deceive him by succeeding on a DC 22 Charisma (Deception) check, failing automatically if “Heinrich" is already aware (e.g., through the use of his *arcane eye* spell) that the players possess one or more items that they have failed to disclose.
 
 If “Heinrich" determines the players are lying to him, he kindly asks whether they are “certain" they do not recall acquiring any items from the temple’s vaults or corridors, noting cordially that the Amber Temple “does not take kindly to thieves, be they willful or merely forgetful." If the players again lie to him, “Heinrich" innocently inquires about any items he is aware of by description, such as "a broken platinum sword hilt." 
 
-If the players lie to him a third time, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as **Heinrich’s Discipline** and **Neferon’s Tactics** above.
+If the players lie to him a third time, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as [[#^heinrichsdiscipline|Heinrich's Discipline]] and [[#^neferonstactics|Neferon's Tactics]] above.
 
 > [!abstract]+ **Neferon’s Resistance**
 > Neferon offers no resistance to players who credibly threaten to destroy his phylactery. In exchange for allowing them to depart in peace, however, he asks that the players leave the phylactery somewhere safe where he can subsequently retrieve it. 

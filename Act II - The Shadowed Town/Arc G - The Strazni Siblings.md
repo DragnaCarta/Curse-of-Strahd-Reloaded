@@ -261,12 +261,6 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 > **Allies:** Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 31% (first phase), and 31% (second phase) for a total of 62%
 > 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Izek Strazni | 1 | 1 | 1 | 1 |
->
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
