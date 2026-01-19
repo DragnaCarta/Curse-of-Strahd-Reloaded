@@ -216,7 +216,7 @@ Unless the players interrupt, the following exchange then occurs:
 <p>The Abbot’s hand lashes forward, gripping Vasilka around the throat and lifting her into the air. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly. “Perhaps I was too patient with you," he intones lifelessly, “too compassionate. I can always start again, with better parts and training."</p>
 </div>
 
-Unless prevented by the players, the Abbot then grapples Vasilka (who does not resist) and uses his wings to fly her out into the courtyard, where he proceeds to attack her with his ***mace***. (See below for more information regarding the Abbot’s attack.)
+Unless prevented by the players, the Abbot then grapples Vasilka (who does not resist) and drags her out into the courtyard, where he proceeds to attack her with his ***mace***. (See below for more information regarding the Abbot’s attack.)
 
 ***The Players’ Defiance.*** If the players decline to depart and did not previously deliver Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], a shadow crosses the Abbot’s face, and his eyes narrow. Read:
 
@@ -243,12 +243,6 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 > **Expected Character Level**: 7
 > **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 42% (first phase), 51% (second phase), for a total of 93%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | The Abbot | 1 | 1 | 1 | 1 |
 > 
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
@@ -317,8 +311,8 @@ At will: detect evil and good<br>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes two attacks. He can replace one of those attacks with <strong><em>ray of light</em></strong>.</p>
 <p><strong><em>Mace.</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 4 (1d8) radiant damage.</p>
-<p><strong><em>Ray of Light.</em></strong> <em>Ranged Spell Attack:</em> +10 to hit, range 30 feet, one target. <em>Hit:</em> The target takes 9 (2d8) radiant damage and is outlined in radiant light until the end of Ithuriel's next turn. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
-<p><strong><em>Healing Touch (5/Day).</em></strong> Ithuriel touches another creature. The target magically regains 24 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
+<p><strong><em>Ray of Light.</em></strong> <em>Ranged Spell Attack:</em> +10 to hit, range 30 feet, one target. <em>Hit:</em> The target takes 9 (2d8) radiant damage and is outlined in radiant light until the end of Ithuriel's next turn. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.</p>
+<p><strong><em>Healing Touch (5/Day).</em></strong> Ithuriel touches another creature. The target magically regains 23 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
 <p><strong><em>Change Shape.</em></strong> Ithuriel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than his own, or back into its true form. He reverts to his true form if he is reduced to 0 hit points. Any equipment he is wearing or carrying is absorbed or borne by the new form (Ithuriel's choice). In a new form, Ithuriel retains his game statistics and ability to speak, but his AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and he gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that he lacks.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>
@@ -384,7 +378,7 @@ At will: detect evil and good<br>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) radiant damage. If the target is a creature, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Ithuriel can't bite another target.</p>
 <p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
-<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, range 30 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
+<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, range 30 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage.</p>
 <p></p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
@@ -739,12 +733,6 @@ Kiril then attacks.
 > **Allies:** Ireena Kolyana (CR 2), Emil Toranescu (CR 3), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 58% (first phase), 52% (second phase), for a total of 110%
 > 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Kiril Stoyanovich | 1 | 1 | 1 | 1 |
-> 
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
@@ -795,7 +783,6 @@ Kiril then attacks.
 <strong>Proficiency Bonus</strong> +6<br>
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
 <h3>Actions</h3>
@@ -861,7 +848,6 @@ Kiril then attacks.
 <strong>Proficiency Bonus</strong> +6<br>
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
