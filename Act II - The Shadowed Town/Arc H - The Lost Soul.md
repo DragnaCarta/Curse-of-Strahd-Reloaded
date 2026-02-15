@@ -420,7 +420,7 @@ Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded 
 ![[The Three Hags.png]]
 <span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 ### Distracting Morgantha
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 6: Area O1.</em></span>
 
 If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
 
@@ -430,7 +430,7 @@ If one or more players knock on the door to <span class="citation">O1. Ground Fl
 >
 > While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
 >
-> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions.
+> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions. For **Innate Spellcasting***, the spellcasting ability is Intelligence, their spell save DC is 17, and their spellcasting attack bonus is +9.
 
 The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
 
@@ -446,7 +446,7 @@ A player can ease Morgantha's paranoia by sharing a story of a beautiful dream t
 
 Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
 ### Morgantha Gets Suspicious
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 6: Area O1.</em></span>
 
 If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
 
@@ -485,7 +485,7 @@ When the players direct her to do so, Lady Wachter begins the ritual. Read:
 
 The circle, which extends five hundred feet vertically into the air, remains for the next ten minutes. During this time, any night hags named by Lady Wachter who remain within the circle cannot use their ***etherealness*** ability to enter the Ethereal Plane.
 ### Confronting the Hags
-<span class="citation"><em>This scene takes place in Chapter 5: Area O.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
 
 As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
 
@@ -503,7 +503,7 @@ If informed that the players want to borrow a heartstone, Morgantha is glad to a
 
 If the players challenge Morgantha's predation of Franz and the children, she scoffs, noting, "Child, their souls were forfeit from the moment that they were born into these Mists—a soul bag larger than any one I could craft, and holding a far deeper evil. What difference does it make who claims them, or when?" 
 
-Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in **Morgantha's Plea** below.)
+Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in [[#Morgantha's Plea]] below.)
 
 ![[The Bonegrinder Coven.png]]
 <span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -718,6 +718,8 @@ Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair act
 
 ![[Victor's Counterspell.jpg]]
 <span class="credit">"Victor's Counterspell" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+### Morgantha's Plea
 
 Immediately following Victor's _counterspell_, Morgantha calls for a parley, promising to reveal three pieces of secret knowledge to the players in exchange for the coven's lives. 
 
@@ -1246,7 +1248,7 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>But I would not be called "death" so soon. I made a pact with Death. On the day of the wedding, I killed Sergei, my brother, and sealed my pact with his blood.</p>
 <p>I found Tatyana weeping in the garden east of the chapel. She fled from me, and I pursued. Finally, in despair, she flung herself from the walls of Ravenloft, and I watched everything I ever wanted fall from my grasp forever.</p>
 <p>It was a thousand feet through the mists. No trace of her was ever found, and not even I know her final fate. Arrows from the castle guards pierced me to my soul, but I did not die. Nor did I live. I became undead, forever.</p>
-<p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. But the sword, that cursed sword that Sergei brought! I must dispose of that awful tool! I fear and hate it as much as the sun.</p>
+<p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. Only the sword, that cursed sword that Sergei brought! I hated it as much as the sun. But it is long gone now, and no other weapon shall stay my hand.</p>
 <p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
 <p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, though she fled from me once again. But she cannot run forever—and I have nothing but time.</p>
 <p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
@@ -1281,7 +1283,7 @@ This arc also serves to cement Lady Wachter's alliance with the players, strengt
 
 The **gallows speaker**'s attack on Stella has been added to explicitly introduce Leo Dilisnya as an antagonist for this arc (even if his identity is currently unknown to the players). 
 
-Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in Ireena's character arc, explored further in [[Arc X - Tatyana's Legacy]]).
+Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in Ireena's character arc, explored further in [[Arc T - The Three Fanes]]).
 
 Victor's teleportation circle is now a functional one to (1) make clear to the players that magical escape from Barovia is not possible, and (2) to ensure that the players view Victor as a competent mage, rather than an incompetent one.
 
@@ -1325,11 +1327,9 @@ This guide intentionally foregoes alternative bargains that the hags might seek 
 3. While such moral dilemmas may make for great media, few players are willing (let alone eager) to play a child-trafficking/drug-dealing TTRPG, and 
 4. The players are undertaking such tasks under duress (i.e., to save Stella), and are therefore not truly "choosing" to fall into corruption to the hags' satisfaction.
 
-***The Megaliths.*** The Mountain Fane has been placed by Old Bonegrinder due to its proximity to the eastern Balinok Mountains (which form a clustered mountain range around Castle Ravenloft) and to Madam Eva's current residence at Tser Pool (which provides the players with an easy means of obtaining the third enchanted winery gemstone from her tent in order to restore the Mountain Fane in [[Arc Y - Ladies of the Fanes]].) 
+***The Megaliths.*** The Mountain Fane has been placed by Old Bonegrinder due to its proximity to the eastern Balinok Mountains (which form a clustered mountain range around Castle Ravenloft) and to Madam Eva's current residence at Tser Pool. 
 
 The vampiric mists have been added to discourage the players from lingering in this area, to create an additional barrier to the leech's demiplane, and to hint to the players that this site is not all that it seems.
-
-The onyx stone that conceals the leech's demiplane has been added to prevent the players from restoring the Fane until after they obtain Leo Dilisnya's cursed dagger in [[Arc U - The Amber Temple.]]
 
 ***Old Bonegrinder.*** The coven's ***dispel magic*** lair action (and Victor's *counterspell* response) have been added to ensure that the players fight the hags from close range, rather than spamming *fireball* spells from a long distance.
 
@@ -1355,12 +1355,12 @@ Morgantha's parley has been added to provide the players with a final dilemma: t
 
 The hags' threat to kill the children and feed them to the players in the morning as dream pastries has been added to create a clear "ticking clock" that incentivizes the players to promptly escape.
 
-***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment, and to introduce the image of the Ba'al Verzi dagger to the players prior to its recovery in [[Arc U - The Amber Temple]] and its use in[[Arc Y - Ladies of the Fanes.]]
+***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment.]]
 
 The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[Arc E - The Missing Vistana]], and to advance the players' connection with the tragedy of the Van Richten family.
 
 The attack by the **specters** has been added to partially deplete the players' resources prior to the battle with the **gallows speaker**, to indicate the risk to Stella's soul should the players fail, and to make the gallows speaker more impressive when it subsequently appears.
 
-Leo Dilisnya's "argument" persuading the players to stand aside is intended to reveal the history of the Wachter and Dilisnya clans to the players, revealing significant portions of Lady Wachter's history, setting clear stakes for the ensuing combat, and indicating the depths of Strahd's tyranny and cruelty. (This conversation also reveals the nature of the daggers of the Ba'al Verzi, which the players will later encounter in [[Arc U - The Amber Temple]].)
+Leo Dilisnya's "argument" persuading the players to stand aside is intended to reveal the history of the Wachter and Dilisnya clans to the players, revealing significant portions of Lady Wachter's history, setting clear stakes for the ensuing combat, and indicating the depths of Strahd's tyranny and cruelty.
 
 ***Return to the Material Plane.*** Erasmus's warnings regarding the **phase spiders** of Berez and Strahd's **nightmare** steed have been added to provide the players with an additional reward upon completing this arc.

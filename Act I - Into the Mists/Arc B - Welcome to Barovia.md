@@ -254,6 +254,9 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 
 The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
+![[Ireena.png]]
+<span class="credit">"Ireena Kolyana" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!profile]+ **Profile: Ireena Kolyana**
 >
 > **Roleplaying Information**
