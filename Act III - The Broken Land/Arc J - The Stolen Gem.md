@@ -239,7 +239,7 @@ In combat, the **vine blights** use their ***constrict*** attack to grapple enem
 As the players proceed past the pit trap, read:
 
 <div class="description">
-<p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving. /p>
+<p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p>
 </div>
 
 If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
@@ -573,7 +573,7 @@ Silvia invites the players to approach the caged raven and see “the mark of th
 > 
 > In its current state, the damaged spigot has AC 10, 5 hit points, and immunity to piercing, poison, and psychic damage. If the spigot is reduced to 0 hit points, or if a creature successfully makes a DC 10 Strength check to break the spigot while within 5 feet, the vat bursts and releases a wave of wine that crashes down upon all creatures in a 15-foot cube to the north of the vat.
 > 
-> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat and takes 7 (2d6) bludgeoning damage. (A swarm of Small or smaller creatures, such as the **swarm of twig blights**, must also make the saving throw.)
+> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat, is knocked prone, and takes 7 (2d6) bludgeoning damage. (A swarm of Small or smaller creatures, such as the swarm of twig blights, must also make the saving throw.) On a successful save, the creature takes half as much damage, and is not pushed or knocked prone.
 > 
 > Once the vat bursts, all ground within a 20-foot radius becomes difficult terrain until the wine is cleaned up.
 
@@ -1235,7 +1235,7 @@ As the conversation winds down, or if the players attack or attempt to bypass Lu
 The lightning strike signals the true beginning of the druids’ ritual. Once the ritual begins, the thirteen **druid naturalists** encircling the statue use their action each turn to continue chanting and beating their drums. While participating in the ritual, a druid can't move or use bonus actions or reactions.
 
 > [!info]+ **Completing the Ritual**
-> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. At the end of each round, if fewer than twelve druids are able to chant (e.g., because some druids have died, or due to a *silence* spell), roll a d12. 
+> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. At the end of each round, if fewer than twelve druids are able to chant (e.g., because some druids have broken concentration or died, or due to a *silence* spell), roll a d12. 
 > 
 > If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 17 Constitution saving throw or take 7 (2d6) lightning damage and be dazed until the start of their next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
 > 
@@ -1252,7 +1252,7 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > 
 > At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
 ## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
+Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows** (see below).
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
@@ -1407,7 +1407,7 @@ A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Cha
 <p>With a shriek of rage and impotent fury, Muriel spreads her wings and launches into the air.</p>
 </div>
 
-Each time Muriel takes damage from Ludmilla's ***shroud of shadows*** feature, blood from her wounds spills onto the earth of Yester Hill below. Read:
+Each time Muriel takes piercing or slashing damage (e.g. from Ludmilla's ***shroud of shadows*** feature), blood from her wounds spills onto the earth of Yester Hill below. Read:
 
 <div class=description>
 <p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
@@ -1441,7 +1441,7 @@ If the ritual is permanently disrupted (see **The Ritual Begins** above) or if t
 <p>The wind whips into a frenzied gale, screaming through your ears, as the bark of the statue begins to splinter and creak. The electric potential suffusing the air grows to a terrible peak around the statue, your flesh prickling with the energy impatiently waiting to be unleashed. </p>
 </div>
 
-In the round following the ritual's disruption, the following events occur:
+In the three rounds following the ritual's disruption, the following events occur:
 
 * On initiative count 20, the statue collapses. When this occurs, any player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
 * On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.

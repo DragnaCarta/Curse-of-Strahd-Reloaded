@@ -527,7 +527,7 @@ The Abbot guides the players to the doorway of the foyer of the East Wing, which
 
 <div class="description">
 <p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>
-<p>Its eyes are deep, empty sockets filled with a dark, glassy material that reflects no light. Arms hang by its sides, each finger elongated and tipped with a jagged nail, resembling more the claws of a beast than the hands of a man.</p>
+<p>Its eyes are deep, hollow sockets filled with a dark, smooth material that reflects no light. Arms hang by its sides, each finger elongated and tipped with a jagged nail, resembling more the claws of a beast than the hands of a man.</p>
 </div>
 
 The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.

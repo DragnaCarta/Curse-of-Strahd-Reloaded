@@ -640,7 +640,7 @@ If, after he has finished his story, the players ask Kasimir why he lied about h
 ## R4b. The Druids’ Vengeance
 The journey from the dusk elf encampment to the Raven River Crossroads is four and one-quarter miles and takes one hour and twenty-five minutes.
 
-This area is largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. 
+This area is largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit traps.
 
 Together, the pit traps form a diagonal across the road that runs from the start of the path to Lake Baratok (lake path) to the start of the trail to Mt. Ghakis (mountain trail). A 2-foot-wide catwalk between each pit trap provides safe passage between them.
 
@@ -2005,7 +2005,7 @@ Otherwise, the Mountain Folk intervene at initiative count 0 of the third round 
 > | Berserker | 5 | 4 | 3 | 2 |
 > | Gladiator | 2 | 2 | 2 | 2 |
 > | Scout | 5 | 4 | 2 | 1 |
-> | Shoosuva | 1 | 1 | 1 | 1|
+> | Shoosuva | 2 | 2 | 2 | 2|
 
 > [!profile]+ **Scorilo & Como**
 > **Roleplaying Information**

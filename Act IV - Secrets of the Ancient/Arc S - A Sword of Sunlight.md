@@ -272,6 +272,7 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 * Ordinarily, the Amber Temple is isolated and quiet. However, last night, a creature arrived from another world by means of “some strange portal": a slaad, of the plane of Limbo. ("A death slaad, to be precise," “Heinrich" remarks grimly, pushing his spectacles up his nose—“one of the most dangerous members of slaadkind.")
 * Heinrich was, with some luck (and the use of an ancient *arcane lock* mechanism built by the temple’s original inhabitants), able to imprison the creature in the temple catacombs. However, he fears that the slaad may soon escape and wreak havoc across the temple—or the valley below. (A DC 21 Wisdom (Insight) check reveals that “Heinrich" is indeed concerned about the slaad—but doesn’t appear authentically concerned about the safety of the Barovian people.)
 * “Heinrich" is glad to allow the players to explore the temple if they descend into the catacombs and “remove" (i.e., kill) the death slaad for him. (The catacombs, he shares, lie beneath the overlook, at the southern end of <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>).
+* Heinrich is willing to teach the players the secret password, "Etherna", to open the magically sealed catacomb doors.
 
 If the players refuse to carry out “Heinrich’s" task, he responds as described in [[#^heinrichsdiscipline|Heinrich's Discipline]] above. 
 
@@ -422,7 +423,7 @@ This area is largely as described in <span class="citation">X16. West Scroll Rep
 This area is largely as described in <span class="citation">X17. Upper West Hall (p. 187)</span>. However, remove the *staff of frost*.
 
 > [!lore]+ **The Charred Corpse**
-> Jakarion was not Vilnius’s mentor, but a mage that came to the temple two years ago seeking the vestiges’ power.
+> The corpse here was not Vilnius’s mentor, but an unknown mage that came to the temple two years ago seeking the vestiges’ power.
 
 > [!lore]+ **The Flameskulls**
 > Patrina created the three **flameskulls** that dwell here approximately four centuries ago, shortly after sealing away Exethanter’s spirit. To do so, she used the skeletal remains of wizards killed in the temple’s downfall. The flameskulls, which are named Petra, Dominik, and Gaspar, retain the following hazy memories of their old lives:
@@ -590,7 +591,7 @@ When Nardag attacks, the **blue slaad** in [[#S3c. East Catacombs]] emerges and 
 > [!info]+ **Nardag’s Worship**
 > Nardag can sense the presence of the Dark Powers within the temple, and seeks to kill the players as offerings to them. As it fights, it gleefully asks the players whether they can “sense them—the powers of darkness that rule the twisting mists." If the players confuse the Dark Powers with the amber vestiges, Nardag angrily corrects them, snarling: “They are not as those weak, sniveling remnants. They are greater and above them. They suffuse each gulp of air you swallow; each thought that drips through your skulls. They are in your blood, in your veins, and in your hearts. They are Death incarnate—misery and pain and despair and *beauty*—and I will make you an offering to them!"
 ## S3c. East Catacombs
-This area is largely as described in <span class="citation">X31b. East Catacombs (p. 191)</span>. However, a **blue slaad** named Bluetspur stands on the eastern side of this chamber, disguised by Nardag's *major image* spell. While active, the *major image* disguises the blue slaad’s surroundings to appear as an empty corridor. 
+This area is largely as described in <span class="citation">X31b. East Catacombs (p. 191)</span>. However, it is strewn with broken amber husks and partially consumed, ancient cadavers. A **blue slaad** named Bluetspur stands on the eastern side of this chamber, disguised by Nardag's *major image* spell. While active, the *major image* disguises the blue slaad’s surroundings to appear as an empty corridor. 
 
 A player with a passive Intelligence (Investigation) score of 15 or greater who approaches the illusion notices that the corridor’s contents don’t seem to obey the ordinary laws of parallax motion (almost as though the corridor is not three-dimensional, but flat).
 
@@ -619,7 +620,7 @@ Bluetspur attacks any creature that passes through the illusion, perceives it, o
 > | 6 | Change Bluetspur to a **gray slaad**. |
 
 > [!info]+ **Curing Chaos Phage**
-> The players can cure the **blue slaad's** ***chaos phage*** disease by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
+> The players can cure the ***chaos phage*** disease inflicted by the Blue Slaad’s ***claw*** attack by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
 # S4. Western Temple
 ## S4a. Western Temple, Main Floor
 ### Brewing Room
@@ -2174,7 +2175,7 @@ Neferon—as “Heinrich"—asks the players to identify any physical items they
 
 ***Telling the Truth.*** If the players reveal that they have taken any items from the temple, “Heinrich" notes pleasantly that he would be “more than willing to negotiate the terms of acquisition," so long as the players fully disclose the item's nature and value. (“Heinrich"  further insists upon inspecting unfamiliar magic items using his *identify* spell.)
 
-“Heinrich" is willing to allow the players to depart the Amber Temple with a magical item in exchange for a magical item “of equal or greater value," or "a secret of great power." (For example, the players might reveal the existence and true nature of the Keepers of the Feather, the existence of the *Tome of Strahd*, or the location of Soldav.)
+“Heinrich" is willing to allow the players to depart the Amber Temple with a magical item in exchange for a magical item “of equal or greater value," or "a secret of great power." (For example, the players might reveal the existence and true nature of the Keepers of the Feather, or the existence of the *Tome of Strahd*. Due to Elder Burebis' *modify memory* spell, players will not be able to offer the location of Soldav as their secret.)
 
 However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its radiant properties. "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
 

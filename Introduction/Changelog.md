@@ -1,3 +1,14 @@
+# Patch 2.1.0.13 (February 15, 2026)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that Eliza should have the statblock of a spy in [[Arc C - Into the Valley]]
+* Added how Ireena votes in [[Arc C - Into the Valley#C4d. The Dancing Fire|The Dancing Fire]]
+* Renamed The Black Carriage to The Crossroads of Ravenloft, now that there is no black carriage in the scene in [[Arc C - Into the Valley]]
+* Added Van Richten's *charm bracelet* and *lucid lens* as items that show up under a *detect magic spell* in [[Arc C - Into the Valley]]
+* Included all of Van Richten's magic items within his statblock in [[Arc E - The Missing Vistana]]
+* Added a small buff to the fermentation vat explosion in [[Arc J - The Stolen Gem]]
+* Added a profile with roleplaying information for Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]]
+* Added a section on Bianca's fate after Kiril is vanquished in [[Arc Q - A Shining Beacon]]
+* Clarified that players will not be able to give the location of Soldav to Neferon in [[Arc S - A Sword of Sunlight]], due to Elder Burebis' *modify memory* spell.
 # Patch 2.1.0.12 (January 12, 2026)
 * Amended various typos, broken links, and errors in formatting
 * Added art for Gustav's grick form in [[Arc A - Escape From Death House]]
