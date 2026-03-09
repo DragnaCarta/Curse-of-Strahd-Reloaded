@@ -56,6 +56,7 @@ Each session lives in `Campaign/Course/month_X/week_Y/` and contains:
 | File | Purpose |
 |------|---------|
 | [Source/Introduction/synopsis.md](Source/Introduction/synopsis.md) | Wikipedia-style full plot synopsis — read this first |
+| [Source/Introduction/players_guide_ravenloft.pdf](Source/Introduction/players_guide_ravenloft.pdf) | **Hand this to your players at Session Zero** — 40-page Ravenloft player guide |
 | [Source/Introduction/A DM's Guide to Curse of Strahd.md](Source/Introduction/A%20DM's%20Guide%20to%20Curse%20of%20Strahd.md) | DragnaCarta's original DM overview |
 | [Source/Chapter 2 - The Land of Barovia/Strahd von Zarovich.md](Source/Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md) | Deep lore on the villain |
 

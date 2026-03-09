@@ -18,6 +18,8 @@ Major antagonists and creatures with custom or modified stat blocks.
 | `morgantha.md` | Morgantha | 5/9 (coven) | Night Hag; Dream Pastry Merchant |
 | `kiril_stoyanovich.md` | Kiril Stoyanovich | 7 | Werewolf Alpha; Strahd's Servant |
 | `flesh_mound.md` | The Flesh Mound | 5 | Death House Final Boss |
+| `elisabeth_durst.md` | Elisabeth Durst | 4 | Death House Villain; triggers collapse |
+| `vladimir_horngaard.md` | Vladimir Horngaard | 17 | Death Knight; Argynvostholt Commander; beacon resolution |
 
 ---
 
@@ -27,6 +29,9 @@ Allied, neutral, and ambiguous NPCs. Every named NPC in the campaign is filed he
 | File | NPC(s) | First Appears | Role |
 |------|--------|--------------|------|
 | `rose_and_thorn.md` | Rose & Thorn Durst | Month 1, Wk 1 | Death House ghost children; the first heartbreak |
+| `miss_klara.md` | Miss Klara (the Nursemaid) | Month 1, Wk 1 | Benign mirror spirit; information source; tragic center |
+| `gustav_durst.md` | Gustav Durst | Month 1, Wk 1 | Poltergeist; blocks basement exit; pathetically guilty |
+| `walter_durst.md` | Walter Durst | Month 1, Wk 1 | Infant at center of Flesh Mound; the heart weak point |
 | `ireena_kolyana.md` | Ireena Kolyana | Month 1, Wk 2 | Tatyana reincarnation; primary protected NPC |
 | `ismark_kolyanovich.md` | Ismark Kolyanovich | Month 1, Wk 2 | Ireena's adoptive brother; early companion |
 | `father_donavich.md` | Father Donavich | Month 1, Wk 2 | Barovia's priest; Doru's father; faith in crisis |

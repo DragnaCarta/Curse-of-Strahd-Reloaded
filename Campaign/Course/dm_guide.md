@@ -211,6 +211,33 @@ If you sit down to a session and aren't sure how to open it:
 
 ---
 
+## Death in Barovia — Quick Reference
+
+**Full rules:** `rules/death_and_resurrection.md`  
+**Spirit character sheet template:** `templates/spirit_character.md`
+
+### The Core Rules
+- **No resurrection magic works.** Revivify, Raise Dead, Resurrection — all fail. The Dark Powers intercept every soul.
+- **Session 1:** Nobody dies permanently. 0 HP = unconscious. Give everyone a first session to fall in love with their characters.
+- **Sessions 2–16:** Permanent death is on the table. Honor it when it happens.
+
+### When Someone Dies — Do This Immediately
+1. Describe the death cinematically. Make it mean something.
+2. Ask the player: **spirit or new character?**
+3. **Spirit:** Copy `templates/spirit_character.md` → rename → fill in the Tether with the player right now (5 min). They level up with the party. They have a quest to get back.
+4. **New character:** Enters within 15 minutes of real time, at full party level, already in Barovia.
+
+### The Spirit System in One Sentence
+The spirit keeps their character, levels up normally, can possess willing party members and distract enemies — but has a tether (unfinished business) they must resolve to return to their body, with a 5-session clock before they fade permanently.
+
+### If Most of the Party Dies
+Use the **Dark Powers Intervention** (once per campaign): everyone wakes 1 hour earlier, 1 HP, one level of Exhaustion, full memory of dying. The Dark Powers wanted them alive a little longer. That should feel worse than dying.
+
+### The Body Rule
+If a dead character's body is unprotected, Strahd claims it. He won't use it immediately — he'll save it for a moment of maximum dramatic impact. Note every body's location in your `notes.md`.
+
+---
+
 ## The Final Session Checklist
 
 Before Session 16, confirm the party has:

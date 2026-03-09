@@ -21,6 +21,7 @@ Items that unlock specific story beats. Track who's carrying them.
 
 | File | Item | Source | Required For |
 |------|------|--------|-------------|
+| `quest_items/barovian_trinkets.md` | Barovian Trinkets (1 per PC) | Assigned before Session 1 | The hook that pulls the party into Barovia |
 | `quest_items/bones_of_st_andral.md` | Bones of St. Andral | Coffin-maker's shop | St. Andral's ward (Arc D) |
 | `quest_items/life_gems.md` | The Three Life-Gems | Wizard of Wines winery | Reconsecrating the Three Fanes (Act IV) |
 | `quest_items/argynvosts_skull.md` | Argynvost's Skull | Castle Ravenloft, Hall of Bones | Lighting the Beacon at Argynvostholt |

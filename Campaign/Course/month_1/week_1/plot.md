@@ -9,15 +9,41 @@
 ## Scene 1 — The Hook (Daggerford)
 > *Read aloud or paraphrase:*
 >
-> "The city of Daggerford hums with the sounds of Highharvesttide — laughter, music, the smell of roasting meats. But as the evening wears on, a strange fog begins to roll in from the east, thicker than any ocean mist you've seen. Lanterns flicker. Dogs refuse to bark. And then — a child's voice cuts through the revelry."
+> "The city of Daggerford hums with the sounds of Highharvesttide (Forgotten Realms wiki harvest festival) — laughter, music, the smell of roasting meats. But as the evening wears on, a strange fog begins to roll in from the east, thicker than any ocean mist you've seen. Lanterns flicker. Dogs refuse to bark. And then — a child's voice cuts through the revelry."
 
 Each player character independently receives a different enchanted trinket (a locket, a carved bone charm, a tarnished coin) that begins to tug them eastward. The items cannot be discarded — they vanish and reappear in a pocket. Run this as individual hooks if desired, or narrate a shared tavern scene at **The Nightmare's Bridle**.
 
 **Read Aloud — The Children:**
-> "Through the fog, two small figures appear: a boy, perhaps ten, and a girl a few years younger. The boy clutches the girl's hand tightly. 'Please,' he says, his voice barely audible. 'There's a monster in our house. Our parents are asleep. We can't wake them.' His eyes are wide — not with the fear of a child, but with something far older."
+> "Through the fog, two small figures take shape — a girl, maybe eight, and a younger boy pressed close behind her. Their clothes are fine but soaked through. The girl's eyes find yours immediately — not the wide, darting eyes of a frightened child, but steady. Too steady. Like she has been waiting a very long time and has learned not to show how long."
+>
+> *She speaks quietly, each word deliberate:*
+>
+> "We live in that house. We've been waiting for someone to come down this road for — a long time. There is something in our basement. It has been there for as long as I can remember. Our mother and father went down to deal with it. They didn't come back up."
+>
+> *A pause. She doesn't look away.*
+>
+> "We can hear it at night. Moving. We can't leave. We've tried. The fog just — brings us back. You're the first people who have ever come."
+>
+> *The boy says nothing. He is looking at his feet. Then, without looking up:*
+>
+> "We're very tired."
 
-- **Rose Durst** (girl): Sweet, precise, holds her brother's hand. Speaks in a small voice about "the monster in the basement."
-- **Thorn Durst** (boy): Quieter. Sometimes looks at his feet instead of the party.
+**If the party hesitates or asks questions — Rose's follow-up lines (use one at a time):**
+
+- *"I know how it sounds. I know. But please look at us. We've been standing in this rain. Where else would we go?"*
+- *"I'm not asking you to fight anything. Just — come inside. It's warm. See for yourself. If you don't believe me after that, you can leave."* (She knows they can't. She doesn't say so.)
+- *"My brother hasn't slept properly in a very long time. Neither have I."* (Said quietly, to herself almost, not as manipulation — which makes it worse.)
+- *(If someone crouches down to her level)* She meets their eyes and says simply: *"Please. You're the first people who have ever come."* Then she takes their hand. Gently. Waiting.
+
+**If the party still won't move — Thorn speaks (use only once, maximum impact):**
+> *He looks up from the ground for the first time. His eyes are very calm.*
+> *"The house won't let us leave. But it will let you in."*
+> *He looks back down. He says it the same way you'd say the sky is grey — just information.*
+
+---
+
+- **Rose Durst** (girl): Composed, precise, disturbingly patient. Speaks like someone who has rehearsed this conversation in their head for a very long time. Does not beg — she *reasons*. That is more unsettling than begging.
+- **Thorn Durst** (boy): Says almost nothing. When he does speak, it is one sentence, completely flat, and completely true. He is the one that will stay with players after the session ends.
 
 > *DM Note: Rose and Thorn are already dead — they are ghosts bound to this location. They do not know they are dead. Do not reveal this yet. If players cast Detect Magic, the children appear as faint illusions of conjuration magic.*
 

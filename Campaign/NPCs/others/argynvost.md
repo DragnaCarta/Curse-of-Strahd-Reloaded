@@ -76,5 +76,5 @@ The Order's former commander. Unlike Godfrey, Vladimir's hatred has consumed him
 - "You will fail. Every hero who has come to this valley has failed. I watched them fail."
 - "If by some miracle you do not — bring our lord home. Let that much be undone."
 
-**Stat Block:** Revenant (MM) — CR 5. He will not fight the party unless they defile the manor.  
+**Stat Block:** See `Campaign/NPCs/monsters/vladimir_horngaard.md` — Death Knight, CR 17. He will not fight the party unless they defile the manor or declare themselves Strahd's servants. Do not fight him. He is a tragedy to witness, not a monster to defeat.  
 **At the beacon lighting:** His three-century scream. Then dust. Then peace.
