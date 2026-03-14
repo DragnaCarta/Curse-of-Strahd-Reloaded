@@ -41,11 +41,12 @@ Madam Eva's reading happens in Week 3 but the locations are fixed NOW. Decide an
 | Toccata plays, everyone settles | 5 min | Don't speak yet. Let it build. |
 | Daggerford opening | 15–20 min | Nightmare's Bridle tavern, Highharvesttide festival, fog rolls in |
 | Rose & Thorn appear | 5–10 min | The hook. Get them to the house. |
-| Death House exploration (Floors 1–3) | 45–60 min | Let them explore. Nursemaid's specter, master bedroom visions, the toy chest reveal. |
+| Death House exploration (Floors 1–2) | 30–40 min | Nursemaid's specter, master bedroom visions. **Award Level 2 after Floor 2.** |
+| Floors 3–4 (as Level 2) | 20–30 min | Toy chest reveal, Rose & Thorn encounter, library, attic. |
 | Basement + Ritual Chamber | 20–30 min | Cult shrine, shadows, the chant. |
-| Flesh Mound boss fight | 20–30 min | Scene 4 in plot.md. Keep energy high. |
+| Flesh Mound boss fight | 20–30 min | Scene 4 in plot.md. Keep energy high. People will die. |
 | Escape + collapse | 10–15 min | Chase scene. Get out. |
-| Level up to Level 2 | 15–20 min | Outside the house. Rose and Thorn's final moment first. |
+| Level up to Level 3 | 15–20 min | Outside the house. Rose and Thorn's final moment first. |
 
 **Target total: 3.5 hours.** If you're running long after the toy chest, cut the well and ghoul pits in the basement — go straight to the ritual chamber.
 
@@ -100,7 +101,8 @@ They never come back to Daggerford. Every minute there is borrowed time.
 Note these in `notes.md` as they happen:
 - [ ] Does anyone allow Rose to possess them? (Toy chest scene, Floor 3)
 - [ ] Does the party try to negotiate with or fight the cult shadows?
-- [ ] Does anyone attempt to sacrifice a party member to the Flesh Mound?
+- [ ] Does anyone attempt to sacrifice a party member to the Flesh Mound? (If so: that character is dead. No save.)
+- [ ] How many characters die? Record names and manner of death.
 - [ ] Does anyone try to fight Rose or Thorn directly?
 - [ ] Who figures out Rose and Thorn are dead, and when?
 
@@ -108,26 +110,27 @@ Note these in `notes.md` as they happen:
 
 ## If Someone Fights Rose or Thorn
 
-CR 4 ghosts vs Level 1 party = near-TPK. **Session 1 rule: nobody dies permanently.**
+CR 4 ghosts vs Level 1 party = near-TPK. If the party picks this fight, people die.
 
 When the second character drops to 0 HP, Rose stops. She looks at the bodies.
 > *"I just — I wasn't trying to — "*
 
 Thorn: *"They're frightened. That's all."*
 
-The downed characters wake with 1 HP. Rose and Thorn step into the walls and are gone. The party is now alone in the house with no guides. They earned that. Let it be uncomfortable.
+Rose and Thorn step into the walls and are gone. Downed characters make death saves normally. If they die, they die — handle it per the death rules below. The party is now alone in the house with no guides and possibly fewer members. They earned that.
 
 > Full combat rules: `Campaign/Course/rules/death_and_resurrection.md`
 
 ---
 
-## If Someone Actually Dies (Sessions 2+ Rule — Not Session 1)
+## When Someone Dies
 
-Session 1 is protected. After Session 1:
-1. Describe the death cinematically
+Session 1 is not protected. Death is real from the first round.
+1. Describe the death cinematically — slow down, let it land
 2. Ask the player: spirit or new character?
 3. **Spirit:** Copy `Campaign/Course/templates/spirit_character.md` → save as `spirit_[name].md` in this session's week folder
-4. **New character:** Enters at full party level within 15 minutes
+4. **New character:** Enters at full party level within 15 minutes of real time
+5. Do not apologize. Do not soften it. The table needs to understand what Barovia is.
 
 > Full rules: `Campaign/Course/rules/death_and_resurrection.md`
 
@@ -140,7 +143,8 @@ Session 1 is protected. After Session 1:
 | Party won't enter the house | Fog tightens, trinkets grow hot, escalate hooks above |
 | Party tries to burn the house | It reforms overnight. The curse rebuilds it. |
 | Party flees the Flesh Mound | Shadows pursue 2 rooms. House collapses in 10 min/floor. |
-| PC hits 0 HP (Session 1) | Unconscious — wakes with 1 HP after threat passes. Dark Powers tasting them. |
+| PC hits 0 HP | Death saves. If absorbed by Mound: death saves continue inside it. Extraction = DC 17 STR + opportunity attack. |
+| PC dies | Handle immediately: spirit or new character. Don't break flow — 15 min max. |
 | Party skips the basement entirely | The house locks all exits until the ritual chamber is approached |
 
 ---

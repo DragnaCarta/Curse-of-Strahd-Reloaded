@@ -18,15 +18,13 @@ Any such spell cast fizzles. The spell slot is spent. The body stays cold. The D
 
 ---
 
-## Session 1 Special Rule — Nobody Dies Permanently
+## Death Is Real From Session 1
 
-During Session 1 (Death House), 0 HP means **unconscious**, not dead. The Dark Powers are tasting the party, not consuming them yet. Any character that hits 0 HP experiences the grey void briefly and wakes with 1 HP after the immediate threat passes.
-
-**After Session 1, permanent death is on the table.**
+There is no protection. Death House earns its name. If a character hits 0 HP and fails three death saves — or takes damage that drops them to 0 HP from an instant-kill source — they are dead. The Dark Powers take their soul immediately.
 
 ---
 
-## When a Character Dies (Sessions 2–16)
+## When a Character Dies
 
 ### Immediate Steps (at the table)
 

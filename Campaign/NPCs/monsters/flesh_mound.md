@@ -30,20 +30,21 @@ It has no true intelligence — it is a hunger. It was created by repeated sacri
 
 ### Special Abilities
 - **Lightning Absorption:** Whenever the Flesh Mound is subjected to lightning damage, it regains HP equal to that damage.
-- **Absorb (Reaction):** When a creature within 5 ft. is reduced to 0 hp, the Mound absorbs the body — healing 10 HP. The absorbed creature is technically still alive (with 1 HP) inside the mound, extractable by a DC 15 Strength check as an action before the Mound "seals" (3 rounds).
-- **Faces of the Lost (Bonus Action, 1/turn):** One face of the Mound opens and screams a name from Barovia. If that person has been met: DC 12 Wis or frightened until end of next turn.
+- **Absorb (Reaction):** When a creature within 5 ft. is reduced to 0 HP, the Mound pulls the body inside — healing 15 HP. The absorbed creature continues making death saves inside the Mound. Three failed saves = dead. Extraction requires DC 17 Strength check (1 action) and provokes an opportunity attack from the Mound. There is no time limit — but the death saves don't stop.
+- **Faces of the Lost (Bonus Action, 1/turn):** One face opens and screams a name from Barovia. If that person has been met: DC 12 Wis or frightened until end of next turn.
 
 ### Actions
 - **Multiattack:** Two Slam attacks.
-- **Slam:** Melee +6, 2d8+4 bludgeoning. If both hit: target is Engulfed.
-- **Engulf:** DC 14 Str or Dex (target's choice) or grappled, restrained, and takes 2d8+4 bludgeoning + 2d8 acid per round. Target can repeat save on its turn to escape.
+- **Slam:** Melee +7, 2d8+4 bludgeoning. If both slams hit the same target: that target is Engulfed.
+- **Engulf:** DC 14 Str or Dex (target's choice) or grappled, restrained, and takes 2d8+4 bludgeoning + 2d8 acid at the start of each of the Mound's turns. Target can repeat save on its turn to escape.
+- **Wail of the Consumed (Recharge 5–6):** The Mound's faces scream in unison. Every creature within 20 ft. must make a DC 13 Constitution save or take 3d6 necrotic damage (half on success). On a failed save, the target's HP maximum is reduced by the damage taken until they finish a long rest. A creature whose HP maximum is reduced to 0 by this effect dies.
 
 ---
 
 ## The Cult of the Basement
 Thirteen shadow-cultists surround the Flesh Mound's chamber. They do not attack unless the party attempts to leave without completing the ritual OR the Flesh Mound is threatened.
 
-**The Cultists' Demand:** "One must die. One must feed the master." They will accept any sentient sacrifice — including a willing party member (who is immediately absorbed by the Mound but not killed, per the Absorb mechanic).
+**The Cultists' Demand:** "One must die. One must feed the master." They will accept any sentient sacrifice — including a willing party member. A sacrificed character is absorbed by the Mound and **dies**. No save. No extraction. The Mound heals to full HP.
 
 **If their demand is met:** The shadows dissipate. The house begins to slowly collapse (10 minutes per floor rather than the immediate collapse of killing the Mound).
 
@@ -57,8 +58,23 @@ When the Flesh Mound is destroyed:
 
 ---
 
+## Depleted Variant (2-3 Character Party)
+
+If the party has already lost members on Floors 3-4, use this version. The Mound has been starving — it hasn't been fed in decades. Same abilities, lower durability.
+
+- **HP: 68** (half normal)
+- All other stats, abilities, and actions remain the same
+- 4 shadow cultists join the fight on Round 2 (AC 12, HP 16, +4 to hit, 2d6+2 necrotic, STR drain on hit)
+
+**Combat math (2 Level 2 characters):** Paladin with 2 smites deals ~36 radiant in 2 rounds. Monk adds ~8 effective DPR (halved by resistance). ~5 rounds to kill it. The Mound does 26 DPR + shadows add 20. At least one more character is dying.
+
+---
+
 ## Notes for DM
 - The Flesh Mound should feel genuinely horrifying — this is horror, not fantasy combat.
 - The faces and moaning humanize it in the worst way: these are people.
 - Highlight the moaning of the Durst family members if possible.
-- No player character should permanently die here — use the Absorb mechanic as a safety net.
+- The **expected resolution is the sacrifice**, not combat. By the time the party reaches the basement, they should be beaten down and outnumbered. The cult demands one life on the altar. Let them argue about it. Let the spirits of their dead friends watch. The player who steps up is the bravest person at the table.
+- If they choose to fight: use the depleted variant (68 HP) if 3 or fewer living characters remain. Someone else is dying. That's fine.
+- The Wail is the party-killer. Use it the moment the party clusters. If it recharges, use it again.
+- Absorb triggers on anyone who drops to 0 HP within 5 ft. — this means the Mound is actively pulling dying characters inside itself while the rest of the party watches. Make them choose: attack the Mound, or try to rip their friend out (DC 17, provokes an opportunity attack)?
