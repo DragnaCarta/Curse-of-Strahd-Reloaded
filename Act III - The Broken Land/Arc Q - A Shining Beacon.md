@@ -874,6 +874,22 @@ Kiril then attacks.
 
 ## Q5c. Kiril Vanquished
 
+> [!info]+ **Bianca's Fate**
+> With Kiril struck down, Bianca’s reaction depends on the party’s past interactions with her. She is a woman caught between love, grief, and the trauma of a life under Kiril’s shadow.
+> 
+> **If the party has shown kindness, patience, and compassion:**
+> 
+> Bianca does not flee. She lingers among the werewolves, trembling, tears streaking her face as she stares at Kiril's body. "I mourn the monster he became," she says quietly, "but I still grieve the man I once loved." If asked about what she will do now, Bianca hesitates, then looks to the surviving werewolves. "If I stay," she says, hopefully, "perhaps I can help them toward a brighter future."
+> 
+> **If the party remained distant or neutral:**
+> 
+> Bianca stands frozen in shock, her eyes wide. After a long moment, she turns without a word and walks toward the forest’s edge. If the characters call after her or follow, she stops but does not turn around. "How could I possibly go back, after all he did?" she asks. "They’ll see him every time they look at me." She falls quiet, staring into the trees. "I just need to be somewhere else for a while. Somewhere he never was." If the players do not challenge this, she slips away into the forest.
+> 
+> **If the party alienated, threatened, or enraged her:**
+> 
+> When Kiril falls, Bianca’s grief transforms into fury. She screams, and in a blind surge of rage she launches herself at the players, fighting with abandon until she is slain
+
+
 Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
 
 <div class="description">

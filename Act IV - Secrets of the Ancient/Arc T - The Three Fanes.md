@@ -1,6 +1,6 @@
 *An adventure for five 9th-level characters.*
 
-In this arc, upon claiming the broken hilt of the *Sunsword* from the depths of the Amber Temple, the players must return to the Shrine of the Rozana at Soldav to commune with the Ladies of the Fanes. To cleanse the Fanes of Strahd’s corruption, they learn, certain individuals must bury the Wizard of Wine’s enchanted gems at the center of each Fane: Urwin and Davian Martikov at the Swamp Fane; Dr. Rudolph van Richten and Arturi Radanavich at the Forest Fane; and Lady Fiona Wachter at the Mountain Fane. And when Exethanter decodes the *Tome of Strahd*, he delivers a terrible warning: that unless the players can cleanse the Fanes by the zenith of the Grand Conjunction, Strahd’s will finally escape the Mists—while killing every creature in Barovian in the process.
+In this arc, upon claiming the broken hilt of the *Sunsword* from the depths of the Amber Temple, the players must return to the Shrine of the Rozana at Soldav to commune with the Ladies of the Fanes. To cleanse the Fanes of Strahd’s corruption, they learn, certain individuals must bury the Wizard of Wine’s enchanted gems at the center of each Fane: Urwin and Davian Martikov at the Swamp Fane; Dr. Rudolph van Richten and Arturi Radanavich at the Forest Fane; and Lady Fiona Wachter at the Mountain Fane. And when Exethanter decodes the *Tome of Strahd*, he delivers a terrible warning: that unless the players can cleanse the Fanes by the zenith of the Grand Conjunction, Strahd will finally escape the Mists—while killing every creature in Barovian in the process.
 
 For the reconsecrations to work, however, the players must first help Urwin and Davian Martikov end their feud, help Dr. Rudolph van Richten and Arturi Radanavich lift their curses, and help Lady Fiona Wachter find the courage and hope to defy Strahd’s rule. To make matters worse, the swamp witch Baba Lysaga has captured the Martikovs of the winery and imprisoned them in Berez, Strahd’s forces are hunting for Arturi and Van Richten both, and an emissary from Castle Ravenloft has seized power in Vallaki by taking Lady Wachter’s children as hostages. Can the players reignite the *Sunsword*, rescue the Martikovs, free Vallaki from Strahd’s rule, and reconsecrate the Fanes before the zenith of the Grand Conjunction arrives?
 
@@ -137,7 +137,7 @@ If the players ask Chief Diegia’s family how to reach the peak of Mt. Ghakis, 
 The journey from Soldav to the peak of Mt. Ghakis is four-and-a-half miles long and takes approximately three hours. As the players make the journey, read:
 
 <div class="description">
-<p>For the first mile, the journey follows the same path that ends at the Amber Temple—until Como turns onto a side, barely visible side trail that climbs higher amidst the cliffs. The trail becomes a switchback, zig-zagging and hugging the steepest slopes of the mountain as the valley falls away before you.</p>
+<p>For the first mile, the journey follows the same path that ends at the Amber Temple—until Como turns onto barely visible side trail that climbs higher amidst the cliffs. The trail becomes a switchback, zig-zagging and hugging the steepest slopes of the mountain as the valley falls away before you.</p>
 <p>After climbing three hundred feet, the trail evens out, then turns south, as it climbs the curved plateau just beneath the mountain’s highest peak. The air is thin here, as low-hanging clouds roll like ordinary fog across the frigid slopes. Ahead, a sharp cliff rises to the mountain’s snow-capped peak, forcing you to climb, hand-over-hand, on your final ascent to the top.</p>
 <p>As you climb the cliff’s final ridge, the crags fall away to reveal a bowl-shaped indentation the size of Vallaki’s town square. Great pine trees, thirty feet or taller, have been uprooted and laid around the bowl’s edges, with the basin’s floor covered with great boughs of frozen oak branches and leaves. The entire array has been pressed down, as if by a great weight, and enormous black feathers the height of a man litter the floor.</p>
 <p>At the basin’s center, a small, pale green light shimmers faintly from its place nestled amidst two oak boughs.</p>
@@ -273,7 +273,7 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 >
 > That night, the emissary used a *potion of waking slumber*, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
 >
-> The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
+> The following morning, the emissary presented Lady Wachter with a list of edicts to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
 >
 > Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted Vallakians from leaving town, ordered that Father Lucian Petrovich be arrested for “treason," and commanded that the Blue Water Inn be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker Gadof Blinsky began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
 >
@@ -371,7 +371,7 @@ Urwin is grimly pleased to see the players, but clearly frustrated. He can share
 
 Urwin is upset at his family’s capture by Baba Lysaga, and frustrated with himself for his inability to help them from Vallaki. “A spymaster with no spies," he growls quietly. “I’m useless to them here—but what more can I do?"
 
-Urwin apologizes for asking the players to aid his familyonce again, but asks them to rescue them from Baba Lysaga’s clutches. If the players depart for Berez, proceed to [[#T3. The Witch of Berez]].
+Urwin apologizes for asking the players to aid his family once again, but asks them to rescue them from Baba Lysaga’s clutches. If the players depart for Berez, proceed to [[#T3. The Witch of Berez]].
 
 > [!abstract]+ **Urwin Joins the Party**
 Urwin is surprised if the players invite him to travel to Berez with them, and asks to confer with Danika before doing so. Following a brief, private conversation, he agrees to join the players to rescue his family, then retrieves a shortsword, a heavy crossbow and bolts, and a set of studded leather armor from a chest beneath the bed in <span class="citation">N2p. Master Bedroom (p. 103)</span>.
@@ -545,10 +545,10 @@ Baba Lysaga has also placed a _programmed illusion_ spell covering the thirty-fo
 <p>Another cackle rings through the air, seeming to come from every direction at once. “Your time begins—<em>now</em>.
 </div>
 
-Beyond the entrance, the hedge maze splits into two corridors: one that runs east, and one that runs south.
+Beyond the entrance, the hedge maze splits into two corridors: one that runs westward, and one that runs southward.
 
-* The eastern passage leads to [[#T3b. Northern Cottages]]
-* The southern passage leads to [[#T3c. Southern Cottages]].)
+* The westward passage leads to [[#T3b. Northern Cottages]]
+* The southward passage leads to [[#T3c. Southern Cottages]].)
 
 ![[Berez_Dungeon.png]]
 
@@ -1623,10 +1623,10 @@ Ezmerelda is grateful for any counsel the players might provide.
 > * When he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Six years later, their son, Erasmus, was born. “Erasmus was a sweet and gentle boy," Van Richten recalls, his voice ragged with memories.
 > * When Erasmus was fourteen, the Radanavich caravan, led by Madam Irene Radanavich, brought Irene’s son, Radu, to Van Richten’s medical practice. Radu was badly wounded, and Van Richten was unable to save him. 
 > * When Radovan died, Madame Radanavich kidnapped Erasmus, then sold him to the vampire Baron Metus.
-> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See Ezmerelda d'Avenir (p. 231) and Rictavio (p. 238).) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
+> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
 > * For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a platinum ring that had reportedly once belonged to a powerful wizard—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness.
 > * The cave proved to be a portal to Barovia, leading to an underground catacomb beneath Mount Baratok built by the long-dead wizard. There, Rudolph used the wizard’s platinum ring to rouse the undead army to aid him in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!"
-> * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in Journal of Rudolph van Richten (p. 254). His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new mist talisman capable of leading him out of the Mists once more.
+> * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new mist talisman capable of leading him out of the Mists once more.
 
 > [!abstract]+ **Mist Talismans**
 > If asked, Van Richten can share that a *mist talisman* is a special item from another world that, when carried, allows its carrier to traverse the Mists to the world where that item originated. (“Such an item is separate and apart from the power of the Vistani," Van Richten adds, clearing his throat, “who hold Strahd’s own blessing to come and go as they please.")
@@ -1656,7 +1656,7 @@ Soon after arriving, Arturi softly shares that he “still remembers" the camp a
 >
 > To be “willing," a participant in the blood rite must be wholly willing—mind, heart, and soul—to undergo the rite. In particular, the Vistani participant must be wholly willing to adopt the recipient into their clan, while the non-Vistani participant must be wholly willing to adopt the clan’s name as their own. If a participant is unwilling, the blood rite fails. When this happens, the participants’ cut palms burn and cauterize when they come into contact, rather than heal. This process is painful, and produces black smoke.
 >
-> ***Arturi.*** Arturi is not a willing participant in the blood rite. Even though he wants to complete the blood rite in order to lift his curse, he has not yet forgiven Van Richten for his crimes against the Radanaviches. The players can convince Arturi to convince Van Richten by succeeding on a DC 20 Charisma (Persuasion) check, succeeding automatically if they provide helpful words of guidance and comfort to help him do so.
+> ***Arturi.*** Arturi is not a willing participant in the blood rite. Even though he wants to complete the blood rite in order to lift his curse, he has not yet forgiven Van Richten for his crimes against the Radanaviches. The players can convince Arturi to forgive Van Richten by succeeding on a DC 20 Charisma (Persuasion) check, succeeding automatically if they provide helpful words of guidance and comfort to help him do so.
 >
 > ***Van Richten.*** Van Richten is, similarly, an unwilling participant in the blood rite. Even though he wants to complete the blood rite in order to lift Arturi’s curse, he has not forgiven himself for his crimes against the Radanaviches, his failure to tell Ezmerelda of those crimes, or his failures to defend others from his curse. As such, he does not believe he deserves to join the Radanavich clan, or for his own curse to be lifted.
 >
@@ -1732,7 +1732,7 @@ The wagons readily ignite if lit aflame, and soon blaze fiercely, with inky plum
 <p>"The dead are coming," he says. "We must hold them off until we are done."</p>
 </div>
 
-The wagons burn for one minute, or ten rounds. At the beginning of the third round, the first of the undead arrive. Read:
+It takes one minute, or ten rounds, for the wagons to be fully consumed in flame. At the beginning of the third round, the first of the undead arrive. Read:
 
 <div class="description">
 <p>The woods rustle with approaching footsteps. Slowly, hunched, shambling shapes emerge from the darkness.</p>
@@ -1865,7 +1865,7 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 At initiative count 0 of the tenth round of combat, read:
 
 <div class="description">
-<p>The final wagon collapses into ruin, sending cinders swirling into the sky above. Around it, the wreckage begins to cool, each wagon falling into gray, smoldering ashes.</p>
+<p>Consumed by fire, the final wagon of the caravan collapses, their burning debris sending smoke and embers into the air.</p>
 <p>“Go back!" Van Richten shouts at the dead, his voice hoarse. “There is nothing here for you anymore! <em>Go back!</em>"</p>
 <p>The forest seems to wait with bated breath—and then, the horde stills. One by one, the undead halt their advance, turn, and shuffle back to the cover of the deep forest beyond, where they vanish into the darkness and mist.</p>
 </div>
@@ -1991,7 +1991,7 @@ When the players first enter Wachterhaus after completing [[Arc S - A Sword of S
 </div>
 
 > [!info]+ **Lady Wachter’s Medallion**
-> Lady Wachter’s silver medallion is a holy symbol of the goddess Ezra, and is as described in <span class="citation">Ezra, God of the Mists (p. 64)</span>.
+> Lady Wachter’s silver medallion is a holy symbol of the goddess Ezra, and is as described in <span class="citation">Ezra, God of the Mists (Van Richten's Guide to Ravenloft, p. 64)</span>.
 
 Lady Wachter is deep in prayer, and doesn’t notice the players’ entry unless they speak to her, approach her, or make significant amounts of noise. If the players don’t disturb her, and if any player has a passive Wisdom (Perception) score of 13 or greater, add:
 
@@ -2240,7 +2240,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
+<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
 <p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
 <p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
 <h3>Reactions</h3>

@@ -26,7 +26,7 @@ Though the First Folk were the first to claim the valley, they were far from the
 
 When the forces of evil sought to claim the vestiges’ power for their own, the wizards resolved to guard the Temple themselves, and built a road from the Temple through the mountains to import supplies. To protect it, they constructed the defenses described in <span class="citation">T1. Gatehouse Portcullis</span>, <span class="citation">T2. Demon Statues</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span> along the winding Tsolenka Pass. 
 
-However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. One survivor—an archmage named Neferon—was transfigured to an immortal, monstrous form and settled in to guard his “hoard.”
+However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>.
 ## Fall of the First Folk
 The seven tribes of the First Folk kept largely apart from one another until, one day, a young, impulsive warrior named Kavan entered the Whispering Wall, eager to set foot within its forbidden mists. In the fog, Kavan saw greatness—*his* greatness—and emerged with a deep and terrible ambition.
 
@@ -41,8 +41,6 @@ Dostron's invasion shattered the Ladies' power, driving their surviving follower
 However, King Dostron’s hand reached too far, leaving his kingdom rocked by calamity and war. When he died, thirty years after he had first invaded the valley, his generals buried him in the crypts beneath his fortress and left it behind to fall into ruin.
 
 Even so, the damage to the First Folk had been done. Never again would they reach their former glory; never again would their priests work the Ladies’ greatest miracles. Though the land was still beloved of the *Rozana*, a crack had been left in its heart—a crack that, centuries later, Strahd von Zarovich would exploit.
-
-Meanwhile, near the peak of Mount Ghakis, the evil archmage Exethanter breached the wards of the Amber Temple, as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. After becoming a lich, Exethanter seized control of the temple from Neferon, transforming the long-dead wizards into **flameskulls** under his command and settling in to welcome fellow seekers to the corridors of power.
 # The Founding Era (1 BC–345 BC)
 ## The Von Zarovich Line
 More than four centuries after King Dostron's death, King Barov von Zarovich I became the first monarch of his House, unifying several separate city states to found the nation of Zarovia. The young kingdom thrived for two hundred years, until civil strife and foreign invaders caused it to fracture and drove House von Zarovich into exile.

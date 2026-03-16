@@ -84,6 +84,23 @@ This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class=
 ![[Godfrey_trans.png]]
 <span class="credit">"Sir Godfrey Gwilym" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+> [!profile]+ **Profile: Sir Godfrey Gwilym**
+> **Roleplaying Information**
+> ***Resonance.*** Godfrey should inspire pity over his imprisonment, and sympathy for his desire to redeem Vladimir.
+> 
+> ***Emotions.*** Godfrey most often feels sadness and remorse for what has befallen Vladimir, hope that someone will arrive to restore Argynvost's power, and distrust for those who seek the Amber Temple.
+> 
+> ***Motivations.*** Godfrey wants to meet heroes who will seek out the whispers of Argynvost's spirit.
+> 
+> ***Inspirations.*** When playing Godfrey, channel Theoden (*The Lord of the Rings*), Aragorn (*The Lord of the Rings*), and Ned Stark (*A Game of Thrones*).
+> 
+> **Character Information**
+> ***Persona.*** To the world, Godfrey is a tortured revenant bound by his oath to Vladimir. To those he trusts, he is a faithful husband who believes that love can conquer vengeance.
+> 
+> ***Morale.*** In a fight, Godfrey would gladly take up arms against those who he sees as evil, or preying on the weak.
+> 
+> ***Relationships.*** Godfrey is a member of the Order of the Silver Dragon (to whom he has sworn an oath), and the husband of Vladimir Horngaard (whose relationship Vladimir has forgotten).
+
 > [!info]+ **Godfrey’s Bindings**
 > Because the revenants of the Order of the Silver Dragon were raised and bound by the hatred of Commander Vladimir Horngaard, they are magically bound in undeath by the oaths they made in life to obey and serve him. A revenant that contemplates violating one of Horngaard’s orders is ensnared by strands of black razor wire, which burrow into and restrain them to prevent such violation. (For example, a revenant that attempts to raise arms against Commander Horngaard may find their sword-arm bound, while a revenant that attempts to reveal Commander Horngaard’s secrets may find its jaw or tongue ensnared in razor wire.)
 >
