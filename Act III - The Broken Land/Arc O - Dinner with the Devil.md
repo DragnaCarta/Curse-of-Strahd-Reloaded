@@ -533,6 +533,9 @@ Sasha then enters the open door leading to the <span class="citation">K65. Kitch
 <p>Sasha clears her throat. “We require a pair of mops, Master Belview," she says politely. “There’s been a bit of a spill."</p>
 </div>
 
+![[Cyrus.png]]
+<span class="credit">"Cyrus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
 
 > [!profile]+ **Profile: Cyrus Belview**
@@ -1061,7 +1064,7 @@ In addition, when a creature first attempts to open the Closet door, the followi
 * the four-poster bed (**large animated object**), 
 * the two chairs (**medium animated objects**), 
 * the ottoman (**small animated object**), and 
-* the rug (**rug of smothering**, <span class="citation">Player’s Handbook, p. 20</span>, with 63 hit points, a Strength score of 18 (+4), +5 to hit, an escape DC of 14, and dealing 18 (4d6 + 4) damage on a hit).
+* the rug (**rug of smothering**, <span class="citation">Monster Manual, p. 20</span>, with 63 hit points, a Strength score of 18 (+4), +6 to hit, an escape DC of 14, and dealing 18 (4d6 + 4) damage on a hit).
 
 Ismark and Livius fight alongside the players if present, Livius remaining in his **raven** form. (Because he's carrying a torch, Ismark can't use his shortsword, and must wield his longsword one-handed.)
 
@@ -1265,6 +1268,9 @@ At the time the players first arrive, this chamber is currently inhabited by a m
 <p>A wounded guard spasms in Strahd’s grasp, then abruptly goes limp as the vampire’s fangs sink deep into his bare, crimson neck. Blood spills from the man’s throat as Strahd drinks greedily, rivulets of blood running down his chest and clothes.</p>
 </div>
 
+> [!warning]+ **Vladimir's Oath**
+> If players have been subjected to Vladimir's *oathbind* feature in [[Arc M - The Dragon's Manor]], it will still be in effect with the memory of Strahd in this scene.
+
 > [!info]+ **Memory of Strahd**
 > This memory of Strahd has the statistics described in <span class="citation">Strahd von Zarovich (p. 240)</span>, but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions, he loses one reaction instead.) He also gains the following reactions:
 >
@@ -1398,9 +1404,8 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <strong>Senses</strong> Darkvision 60 ft.<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 8<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>Proficiency Bonus</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Varushka would fail a saving throw, she can choose to succeed instead.</p>
 <p><strong><em>Incorporeal Movement.</em></strong> Varushka can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 <p><strong><em>Overwhelming Despair.</em></strong> When Varushka drops to 0 hit points, her sclera darken and a shroud of swirling mist and whispering shadows surrounds her. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
@@ -1413,7 +1418,8 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <p><strong><em>Papercut.</em></strong> Varushka tears the pages from the books in the Lounge and creates a whirlwind of slicing paper centered on a point she can see within 30 feet. Each creature in a 5-foot-radius, 15-foot-tall cylinder centered on that point must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) slashing damage.</p>
 <p><strong><em>Horrific Visage (1/day).</em></strong> Each non-undead creature within 60 feet of Varushka that can see her must succeed on a DC 15 Wisdom saving throw or be frightened until the start of Varushka’s next turn. If a target’s save fails by 5 or more, the target is also turned while frightened in this way. (A turned creature must take the Dash action and move away from the source of its fear by the safest available route on each of its turns, unless there is nowhere to move.)</p>
 <h3>Reactions</h3>
-<p>Varushka can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
+<p>Varushka can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Varushka can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Swap.</em></strong> In response to being targeted by an attack or spell, or by being placed in a spell’s area of effect, Varushka forces a creature she can see within 30 feet other than the attacker or caster to make a DC 15 Charisma saving throw. On a failure, she and the target switch places, and the target suffers the effects of the attack or spell instead.</p>
 <p><strong><em>Adhere.</em></strong> In response to being missed by a melee attack, Varushka forces the creature to make a DC 15 Strength saving throw. On a failure, the weapon or limb used in the attack is adhered to a nearby surface until the start of Varushka’s next turn.</p>
 <p><strong><em>Erupt (1/day).</em></strong> In response to being reduced to 0 hit points, Varushka forces each creature within 30 feet to succeed on a DC 15 Strength saving throw or take 11 (2d10) force damage and be pushed 20 feet away. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved and falls prone.</p>
@@ -1457,7 +1463,7 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <strong>Senses</strong> blindsight 30 ft., passive Perception 6<br>
 <strong>Languages</strong> —<br>
 <strong>Challenge</strong> 2<br>
-<strong> Proficiency Bonus</strong> +4
+<strong>Proficiency Bonus</strong> +4
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
 <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, one target, reach 5 ft. <em>Hit:</em> 8 (1d10 + 3) bludgeoning damage and the target must succeed on a DC 14 Strength saving throw or fall prone.</p>
@@ -1550,7 +1556,7 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <strong>Challenge</strong> 10<br>
 <strong>Proficiency Bonus.</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Varushka would fail a saving throw, she can choose to succeed instead.</p>
+<p><strong><em>Close Quarters Fighter.</em></strong> Varushka doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Incorporeal Movement.</em></strong> Varushka can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Varushka makes two attacks with her <strong><em>life drain</em></strong> and/or <strong><em>mist garrote</em></strong> attacks.</p>
@@ -1560,7 +1566,8 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <p><strong><em>Vampiric Mist.</em></strong> Tendrils of blood-red mist extrude from Varushka, touching each creature within 5 feet of her. A target must succeed on a DC 15 Constitution saving throw or take 9 (2d8) necrotic damage and have disadvantage on the next saving throw it makes before the start of Varushka’s next turn. Varushka regains hit points equal to half the damage taken (rounded up), and the target’s hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</p>
 <p><strong><em>Dark Whispers.</em></strong> Dissonant, mournful whispers fill the air around Varushka, forcing each creature within 30 feet to succeed on a DC 15 Wisdom saving throw or take 3 (1d6) psychic damage and gain disadvantage on the first attack roll or saving throw it makes before the start of Varushka’s next turn.</p>
 <h3>Reactions</h3>
-<p>Varushka can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
+<p>Varushka can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Varushka can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Misty Step.</em></strong> In response to taking damage, Varushka teleports up to 30 feet to an unoccupied space. She can then immediately make a <strong><em>life drain</em></strong> attack against a creature within reach.
 <p><strong><em>Calming Whispers.</em></strong> In response to a creature that she can see within 10 feet targeting her with an attack or spell, Varushka forces that creature to succeed on a DC 15 Wisdom saving throw. On a failure, the creature takes 5 (2d4) psychic damage and gains one level of exhaustion for the next minute. If the creature wasn’t already exhausted, it can repeat the saving throw at the end of each of its turns except this one, decreasing its exhaustion by one level on a success.
 </div>

@@ -5,6 +5,9 @@ In this arc, after learning that the dusk elf Kasimir Velikov knows the location
 The players’ sole respite arrives in the form of Soldav, the hidden refuge of the Mountain Folk. There, the players learn that Strahd has desecrated the three Fanes of the valley—the Forest Fane of Yester Hill, the Swamp Fane in Berez, and the Mountain Fane near Old Bonegrinder—and, in doing so, claimed their power as his own.
 
 Should the players survive the final leg of their journey, they emerge before the great facade of the Amber Temple. Each night as they rest, however, Strahd pays them a personal visit, hoping to drain a victim’s blood and bring them closer to the abyss of vampirism. Can the players stop Strahd’s dark plans—or will one of them find themselves eternally chained to the grave?
+
+> [!warning]+ **Beacon of Protection**
+> Don’t forget: whilst Argynvost’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
 # R1. Recruiting Kasimir
 Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
@@ -67,7 +70,7 @@ When he answers the door, the players can observe that Kasimir’s [[Arc E - The
 > 
 > Sir Godfrey warned Kasimir against meddling with the Temple’s evil—but his words fell on deaf ears. Leaving Sir Godfrey behind, Kasimir soon located the map Patrina had told him of. With Strahd’s darkness rapidly spreading once more across the valley, Kasimir set off for the slopes of Mt. Ghakis to reach Patrina’s promised vengeance.
 >
-> The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the **vrocks** of the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. As described in [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]], Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach.
+> The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the **vrocks** of the Tsolenka Pass gatehouse drove him to fall amidst a snow bluff in an icy chasm. As described in [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]], Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach.
 
 Kasimir is glad to make small talk with the players while he prepares their tea. In particular, Kasimir was astounded by the lighting of the beacon of Argynvostholt in [[Arc Q - A Shining Beacon]], and is fascinated to learn that the players were responsible for its appearance. (A lump rising in his throat, Kasimir glances in the beacon’s direction and says softly: "Looking at it, I felt something that I hadn’t in a long, long time, though I couldn’t say quite what." If a player suggests "hope" or any similar emotion as what Kasimir felt, he pauses for a moment, then chuckles, replying, "I suppose it was. Strange, perhaps, that it should be such an unfamiliar feeling.")
 
@@ -348,7 +351,7 @@ Upon arriving at the players’ resting place, Strahd dispatches the weakest and
 
 Strahd also dispatches a **bat** to quietly accompany the dispatched NPC to the players’ resting place and report back should any issues arise. (A player notices the bat, which may be hanging from a nearby building’s eaves or tree branch, if they have a passive Wisdom (Perception) score of 12 or greater.)
 
-Upon greeting the players, the dispatched NPC attempts to relay that "the others" are waiting outside and hoping to meet the players. If asked, the NPC is glad to confirm that "the others" include the other kidnapped NPCs and "Lord von Zarovich." (Because the kidnapped NPCs have been charmed by Strahd, the dispatched NPC doesn’t fear Strahd or believed that they’ve been kidnapped, and views him as a friend and protector. The dispatched NPC isn’t sure why Strahd wants to meet with the players, but is confident that he only desires good things for them.)
+Upon greeting the players, the dispatched NPC attempts to relay that "the others" are waiting outside and hoping to meet the players. If asked, the NPC is glad to confirm that "the others" include the other kidnapped NPCs and "Lord von Zarovich." (Because the kidnapped NPCs have been charmed by Strahd, the dispatched NPC doesn’t fear Strahd or believe that they’ve been kidnapped, and views him as a friend and protector. The dispatched NPC isn’t sure why Strahd wants to meet with the players, but is confident that he only desires good things for them.)
 
 > [!abstract]+ **Refusing the Call**
 > If the players decline to travel to Strahd’s location, the dispatched NPC warns them, with concern, that "Lord von Zarovich" said the other kidnapped NPCs may be in danger unless the players come. (The dispatched NPC isn’t sure why, but is convinced that Strahd’s words are true.) 
@@ -610,7 +613,7 @@ At dawn on the first day after the players inform Kasimir that they are ready to
 Once he and the players have reached the Old Svalich Road, in addition to the information in [[#R1. Recruiting Kasimir]], Kasimir is willing to share the following information if the players swear themselves to secrecy and succeed on a DC 10 Charisma (Persuasion) check, succeeding automatically if the players have given him good reason to trust them (e.g., reuniting Arabelle with her family in [[Arc E - The Missing Vistana]]):
 
 * Four centuries ago, before King Barov II invaded the dusk elf principality of Othrondil, Kasimir was the scribe of Prince Erevan Löwenhart, their uncle, and Patrina his court mage. (Kasimir and Patrina were not direct blood relations of Erevan, who married their aunt, Lorelei.)
-* When King Barov II, aided by the treacherous Rahadin, Prince Erevan’s son,conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
+* When King Barov II, aided by the treacherous Rahadin, Prince Erevan’s son, conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
 * When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland. Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
 * For a time after they arrived in Barovia, Kasimir dared to believe Patrina may have made peace with their fate—but it wasn’t long before she began slipping away on odd, secretive errands, often for days at a time. Patrina refused to speak of where she went on these occasions, no matter how hard Kasimir pushed.
 * One night, less than a week after Strahd conquered Barovia, Patrina vanished from the dusk elf encampment. For the next year, Kasimir often sought to find her amidst the settlements and wild places of Barovia—but to no avail. He eventually came to accept that she had died, and joined his people in mourning her.
@@ -637,7 +640,7 @@ If, after he has finished his story, the players ask Kasimir why he lied about h
 ## R4b. The Druids’ Vengeance
 The journey from the dusk elf encampment to the Raven River Crossroads is four and one-quarter miles and takes one hour and twenty-five minutes.
 
-This area is largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. 
+This area is largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit traps.
 
 Together, the pit traps form a diagonal across the road that runs from the start of the path to Lake Baratok (lake path) to the start of the trail to Mt. Ghakis (mountain trail). A 2-foot-wide catwalk between each pit trap provides safe passage between them.
 
@@ -648,12 +651,20 @@ Three **druid assailants**, three **berserkers**, and two **rootspike triads** l
 * One rootspike triad west of the lake path
 * One rootspike triad west of the mountain trail
 
-> [!combat]+ **Balancing the Druids' Vengeance** 
-> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Druid's Vengeance**  
+> **Combat Level**: Bloody 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 58%
 > 
-> * _**Three Players.**_ Reduce the number of **druid assailants** to one. Reduce the number of **berserkers** to two.
-> * _**Four Players.**_ Reduce the number of **druid assailants** to two.
-> * _**Six Players.**_ Increase the number of **berserkers** to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Berserker | 2 | 3 | 3 | 4 |
+> | Druid Assailant | 1 | 2 | 3 | 3 |
+> | Rootspike Triad | 2 | 2 | 2 | 2 |
+
 
 > [!lore]+ **Rootspike Triad**
 > Following the players’ victory over the Forest Folk in [[Arc J - The Stolen Gem]], several **druid naturalists** journeyed to the ruins of Berez, seeking the aid of the swamp witch Baba Lysaga in empowering their magic. The **rootspike triads** were the end result: trios of druid naturalists with wooden spikes driven into their eyes, bloody runes carved into their flesh, and a bark-like covering across their skin.
@@ -676,9 +687,6 @@ In combat, the druids and berserkers act as follows:
 <strong>Armor Class</strong> 16 (natural armor)<br>
 <strong>Hit Points</strong> 120 (16d10 + 32)<br>
 <strong>Speed</strong> 30 ft.<br>
-<strong>Senses</strong> blindsight 300 ft. (blind beyond this radius), passive Perception 13<br>
-<strong>Challenge</strong> 5<br>
-<strong>Proficiency Bonus</strong> +3
 <hr>
 <table class="ability-table">
   <thead>
@@ -707,12 +715,13 @@ In combat, the druids and berserkers act as follows:
 <strong>Skills</strong> Perception +8, Nature +4<br>
 <strong>Senses</strong> blindsight 300 ft. (blind beyond this radius), passive Perception 13<br>
 <strong>Languages</strong> understands Common but can't speak, telepathic within 60 ft.<br>
+<strong>Challenge</strong> 5<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The triad casts <em>thorn whip</em> or <em>produce flame</em> twice.</p>
-<p><strong><em>Thorn Whip.</em></strong> The triad casts <em>thorn whip</em>, dealing 10 (3d6) piercing damage on a hit.</p>
-<p><strong><em>Produce Flame.</em></strong> The triad casts <em>produce flame</em>, dealing 13 (3d8) fire damage on a hit.</p>
+<p><strong><em>Thorn Whip.</em></strong> The triad casts <em>thorn whip</em> (+8 to hit), dealing 10 (3d6) piercing damage on a hit.</p>
+<p><strong><em>Produce Flame.</em></strong> The triad casts <em>produce flame</em> (+8 to hit), dealing 13 (3d8) fire damage on a hit.</p>
 <p><strong><em>Thunderwave.</em></strong> The triad casts <em>thunderwave</em> (DC 16) in a 20-foot cube. A creature that fails its saving throw takes 18 (4d8) thunder damage instead.</p>
 <p><strong><em>Blight (3/day).</em></strong> The triad casts <em>blight</em> (DC 16).</p>
 <p><strong><em>Wall of Fire (1/day, requires concentration).</em></strong> The triad casts <em>wall of fire</em> (DC 16).</p>
@@ -801,7 +810,7 @@ The silhouette behind the players is Rahadin, who hopes to follow the players to
 The shadow ahead of the players is a broken monument to the roc of Mt. Ghakis, built by the First Folk long ago. If a player approaches the shadow or succeeds on a DC 15 Wisdom (Perception) check, read:
 
 <div class="description">
-<p>The shadow belongs to an ancient, six-foot-tall stone monument. Though time and the elements have eroded its form into little more than a vague silhouette, its avian beak and talons remain unmistakable. Where wings might once have risen, however, there now lie only jagged remnants—stone wounds from which its upper limbs have long since crumbled away.</p>
+<p>The shadow reveals itself to be an ancient, six-foot-tall stone monument. Though time and the elements have eroded its form into little more than a vague silhouette, its avian beak and talons remain unmistakable. Where wings might once have risen, however, there now lie only jagged remnants—stone wounds from which its upper limbs have long since crumbled away.</p>
 </div>
 
 A player who succeeds on a DC 16 Wisdom (Perception) check, or who searches the area for a full minute, spots two small snowy mounds within a few yards of the monument. The mounds conceal the monument’s two broken wings, each of which remains largely in one piece.
@@ -839,12 +848,20 @@ The three spear-wielding maidens are mounted upon **snow perytons**, which have 
 
 In combat, the spear-wielding maidens and their mounts target the toughest or healthiest-looking party members, while the unmounted maidens target the weakest. 
 
-> [!combat]+ **Balancing the Monument** 
-> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 53% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
->
-> - _**Three Players.**_ Reduce the number of **snow maidens** to eight. Reduce the number of **perytons** and spear-wielding **snow maidens** to two each.
-> - _**Four Players.**_ Reduce the number of **snow maidens** to six.
-> - _**Six Players.**_ Reduce number of **snow maidens** to eight. Increase the number of **perytons** and spear-wielding **snow maidens** to four each.
+> [!combat]- **Combat - The Monument**  
+> **Combat Level**: Bloody 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 53%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Peryton | 2 | 3 | 3 | 4 |
+> | Snow Maiden | 8 | 6 | 9 | 8 |
+> | Spear-Wielding Snow Maiden | 2 | 3 | 3 | 4 |
+
 
 > [!abstract]+ **The Roc’s Blessing**
 > On initiative count 20 of the second round of combat, if the players repaired the monument’s wings (e.g., through the use of a *mending* spell) or otherwise paid homage to it, a player with a passive Wisdom (Perception) score of 13 or greater notices the statue’s eyes glimmer a cold, cerulean blue. The players then gain the benefits of a *wind wall* spell, placed in such a way as to obstruct or injure the greatest number of snow maidens possible. 
@@ -911,12 +928,19 @@ The howl belongs to the leader of a pack of eight **winter wolves**, one of whic
 
 In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in order to gain advantage on their attacks and using their ***cold breath*** whenever they can catch at least two victims in its range. (As servants of Strahd, however, the wolves ensure their cold breath never harms Ireena.) The wolves fight to the death.
 
-> [!combat]+ **Balancing the Blizzard** 
-> This combat encounter is a **brutal** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 75% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
->
-> - _**Three Players.**_ Reduce the number of **winter wolves** to five.
-> - _**Four Players.**_ Reduce the number of **winter wolves** to six.
-> - _**Six Players.**_ Increase the number of **winter wolves** to eight.
+> [!combat]- **Combat - The Blizzard**  
+> **Combat Level**: Brutal 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 75%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Winter Wolf | 5 | 6 | 7 | 8 |
+> | Winter Wolf Packleader | 1 | 1 | 1 | 1 |
+
 
 > [!info]+ **Short Rests in the Blizzard**
 > Players seeking to take a short rest after the wolf attack can still seek out cover from the storm for the duration, as described in [[#Seeking Shelter]] above. However, players who roll a result of 20 or higher on the Wisdom (Survival) check to find shelter don’t find the Mountain Folk cave.
@@ -929,13 +953,19 @@ The players’ arrival at the gatehouse is largely as described in <span class="
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
 </div>
 
-In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a *fly* spell.)
+In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.)
 
-> [!combat]+ **Balancing the Gatehouse** 
-> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 54% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Gatehouse**  
+> **Combat Level**: Bloody 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 54%
 > 
-> - _**Three Players.**_ Reduce the number of petrified **vrocks** to three.
-> - _**Four Players.**_ Reduce the number of petrified **vrocks** to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Vrock | 3 | 3 | 4 | 4 |
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
@@ -957,7 +987,7 @@ If the door is answered, Strahd cordially requests permission to enter. If the p
 
 Otherwise, Strahd smiles coldly and asks if the players are familiar with the topography upon which their ill-chosen resting place lies. "This mountain," he adds, his voice touched with a sharp amusement, "is ancient, its crags shaped by millennia of erosion. The tower in which you currently stand is perched upon a cliffside—one that, in turn, rests upon a natural arch of stone. Nature’s formations are long-lived indeed, but to an immortal’s eyes, even they can grow withered with age." 
 
-Strahd pauses and allows his words to linger before continuing: "This particular formation, I regret to inform you, has worn thinner with each passing century. Should it collide with a force of suitable strength, I fear this lofty perch may not fly quite so high as it does now. Yet I am the Land—and for as long as I wish it, no harm shall come to its foundations."
+Strahd pauses and allows his words to linger before continuing: "This particular formation, I regret to inform you, has worn thinner with each passing century. Should it collide with a force of suitable strength, I fear this lofty perch may not rest quite so high as it does now. Yet I am the Land—and for as long as I wish it, no harm shall come to its foundations."
 
 Strahd’s eyebrows lift slightly, and he asks: "Do we have an understanding?"
 
@@ -992,7 +1022,7 @@ If the players subsequently invite Strahd inside, he offers them a cold, mocking
 > 
 > <hr>
 > 
-> Each character remaining in the tower must immediately make a DC 10 Dexterity (Acrobatics) check. On a failure, a character falls against the eastern wall of the tower and falls prone. 
+> Each character remaining in the tower must immediately make a DC 13 Dexterity saving throw. On a failure, a character falls against the eastern wall of the tower and falls prone. 
 > 
 > Roll initiative. To escape the collapsing tower, a character within 10 feet of the door or a western-facing window must use their action and succeed on a DC 10 Strength (Athletics) check. On a failure, the player slides 10 feet east.
 > 
@@ -1042,7 +1072,7 @@ Strahd’s eyebrows lift slightly, and he asks: "Do we have an understanding?"
 If the players subsequently exit the cave, he notes his "delight" that they have "seen sense." Proceed to [[#Strahd’s Questions]].
 
 > [!abstract]+ **The Collapsing Ice**
-> If the plates decline to invite Strahd inside, read:
+> If the players decline to invite Strahd inside, read:
 > 
 > <hr>
 >
@@ -1145,7 +1175,7 @@ Ireena then spills the bag’s contents into her hand, silently counts them, and
 
 * If at least half of the stones are black, Ireena exhales with clear relief.
 * If all of the stones are black, Ireena beams with pride.
-* If at least half of the stones are red, Ireena pales, a look of horror dawning upon her face.
+* If more than half of the stones are red, Ireena pales, a look of horror dawning upon her face.
 * If all of the stones are red, Ireena exhales with clear relief.
 
 Once she has announced the results, Ireena displays the chosen stones for all the players to see.
@@ -1302,7 +1332,7 @@ Have the players roll initiative. Set the players’ starting location as follow
 * For each round that the players have walked toward the cave, they begin fifteen feet closer to the cave. (For example, if the players began walking upon hearing the crack, they begin eighty-five feet from the cave.)
 * For each round that the players have run toward the cave, they begin thirty feet closer to the cave. (For example, if the players began running upon hearing the crack, they begin seventy feet from the cave.)
 
-A player who succeeds on a DC 10 Intelligence (Perception) check predicts that the avalanche will likely impact a section of the road from three hundred feet behind them to two hundred feet ahead of them. A player who succeeds on a DC 10 Intelligence (Survival) check predicts that, due to the angle of the mountain above them, the cave is likely to provide a safe refuge from the avalanche’s path—though it’s likely that the avalanche will block off this entrance to the cave once it’s impacted.
+A player who succeeds on a DC 10 Intelligence (Investigation) check predicts that the avalanche will likely impact a section of the road from three hundred feet behind them to two hundred feet ahead of them. A player who succeeds on a DC 10 Intelligence (Survival) check predicts that, due to the angle of the mountain above them, the cave is likely to provide a safe refuge from the avalanche’s path—though it’s likely that the avalanche will block off this entrance to the cave once it’s impacted.
 
 > [!info]+ **Escaping the Avalanche**
 > Due to the width and placement of the avalanche, it can’t be escaped by fleeing in the direction the players came. To avoid it, the players must either seek refuge in the cave, outrun the avalanche, or escape the avalanche by magical means (e.g., flight).
@@ -1417,12 +1447,28 @@ If the players enter the cave, read:
 >
 > *Shadows gather, slithering across the ground and creeping up the walls as colors fade to shades of pale, lifeless gray. All around you, the warmth and light of the world seem to seep away—as though drawn into a cold and distant void.*
 
-> [!combat]+ **Balancing the Bodaks' Lair** 
-> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Bodak's Lair**  
+> **Combat Level**: Bruising 
+> **Expected Character Level**: 8
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 30%
 > 
-> - _**Three Players.**_ Reduce the hit points of each **bodak** to 103. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 5 (2d4) necrotic damage. Reduce the damage of their ***death gaze*** to 12 (5d4) psychic damage. Reduce the damage of their ***withering gaze*** to 17 (5d6) necrotic damage.
-> - _**Four Players.**_ Reduce the hit points of each **bodak** to 119. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. Reduce the damage of their ***death gaze*** to 14 (4d6) psychic damage. Reduce the damage of their ***withering gaze*** to 18 (4d8) necrotic damage.
-> - _**Six Players.**_ Increase the hit points of each **bodak** to 153. Increase the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 11 (2d10) necrotic damage. Increase the damage of their ***death gaze*** to 18 (4d8) psychic damage. Increase the damage of their ***withering gaze*** to 24 (5d8) necrotic damage.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Bodak | 2 | 2 | 2 | 2 |
+> 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the hit points of each **bodak** to 103. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 5 (2d4) necrotic damage. Reduce the damage of their ***death gaze*** to 12 (5d4) psychic damage. Reduce the damage of their ***withering gaze*** to 17 (5d6) necrotic damage. |
+> | 4 | Reduce the hit points of each **bodak** to 119. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. Reduce the damage of their ***death gaze*** to 14 (4d6) psychic damage. Reduce the damage of their ***withering gaze*** to 18 (4d8) necrotic damage. |
+> | 6 | Increase the hit points of each **bodak** to 153. Increase the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 11 (2d10) necrotic damage. Increase the damage of their ***death gaze*** to 18 (4d8) psychic damage. Increase the damage of their ***withering gaze*** to 24 (5d8) necrotic damage. |
+
+
 ### The Junction
 If a player follows the corridor, read:
 
@@ -1753,7 +1799,7 @@ If a player has a passive Wisdom (Perception) score of 15 or greater, add:
 <p>You catch a glimpse of several still, dark shadows beneath the ice of the frozen lake’s surface.</p>
 </div>
 
-The shadows are thirteen **forsaken warriors** (see below), and are placed as depicted in the map below, with orange representing solid earth, blue representing slippery ice, white representing thin ice, and green stars representing **forsaken warriors** beneath the ice:
+The shadows are thirteen **forsaken soldiers** (see below), and are placed as depicted in the map below, with orange representing solid earth, blue representing slippery ice, white representing thin ice, and green stars representing **forsaken soldiers** beneath the ice:
 
 ![[The Frozen Lake.png]]
 
@@ -1782,6 +1828,7 @@ The forsaken soldiers attack any creature that falls through the ice. If a forsa
 > * It has no ***life drain*** attack.
 > * Replace its ***longsword*** attack with a ***shortsword*** attack (+4 to hit, 1d6 + 2 piercing damage) or ***spear*** attack (+4 to hit, 1d6 + 2 piercing damage, or 1d8 + 2 piercing damage if used with two hands).
 > * Replace its ***longbow*** attack with the following: ***Fist.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 3 bludgeoning damage and the target is grappled (escape DC 12).
+> * It is unable to speak.
 >
 > The first time a player sees a **forsaken soldier** directly, read:
 > 
@@ -1847,7 +1894,7 @@ When a player approaches the shrine, read:
 
 <div class="description">
 <p>Across the frozen stream, between and beneath the sources of the frozen waterfalls far above, this small, stone shrine appears to have been carved from the edge of the mountain face itself. Twin sets of stairs ascend to either side of a pentagonal platform, which bears a triangular altar that points southward, into the heart of the mountain itself.</p>
-<p>Along the top left and top right faces of the platform, a pair of smooth, seven-foot stone panels rises above the altar below. On the left panel, facing northeast, the proud sigil of the Morninglord’s sunburst stands carved into the stonework. On the right panel, facing northwest, is engraved a three-pointed star encircled by a series of nine smaller carvings.</p>
+<p>Along the top left and top right faces of the platform, a pair of smooth, seven-foot stone panels rises above the altar below. On the right panel, facing northeast, the proud sigil of the Morninglord’s sunburst stands carved into the stonework. On the left panel, facing northwest, is engraved a three-pointed star encircled by a series of nine smaller carvings.</p>
 <p>A set of footprints crosses the stream here, climbs the platform’s right stairs, then descends its left stairs, continuing through the snow beneath the left-side waterfall.</p>
 </div>
 
@@ -1917,7 +1964,7 @@ An elder shoosuva has the same statistics as an ordinary **shoosuva** (<span cla
 * It has a speed of 50 feet.
 * It has a Strength score of 20 and a Constitution score of 19.
 * Its has +10 to hit, and the DC of its tail stinger is 17.
-* The damage of its ***bite*** increases to 31 (4d12 + 4) and the damage of its tail stinger increases to 16 (2d10 + 5) piercing damage plus 14 (4d6) poison damage.
+* The damage of its ***bite*** increases to 31 (4d12 + 5) and the damage of its tail stinger increases to 16 (2d10 + 5) piercing damage plus 14 (4d6) poison damage.
 * The reach of its ***bite*** increases to 10 feet, and the reach of its ***tail stinger*** increases to 20 feet.
 * It gains the following additional action: ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one creature. *Hit:* 14 (2d8 + 5) slashing damage and the target must succeed on a DC 18 Strength saving throw or be knocked 5 feet away and fall prone.
 * It gains the following additional action: ***Fetid Cloud (1/day).*** The shoosuva exhales a cloud of foul-smelling yellow smoke in a twenty-foot cone. Each creature within that cone must succeed on a DC 17 Constitution saving throw or be poisoned until the end of the shoosuva’s next turn. While poisoned in this way, a creature is also blinded.
@@ -1944,13 +1991,21 @@ Otherwise, the Mountain Folk intervene at initiative count 0 of the third round 
 >
 > The players’ companions (i.e., Kalaris, Zia, or Corylla), possessions (i.e., the legendary *spear of the Huntress*), or familiarity with the Mountain Folks’ faith (i.e., their skill in solving the puzzle of the carvings) dictate the ease with which Como can convince Scorilo’s guards to open the door. Como also successfully convinces the guards to rally out if the players appear to be at a clear risk of dying to the barlgura and shoosuva.
 
-> [!combat]+ **Balancing the Amber-Touched** 
-> Due to the three-faction combat, this combat encounter is a **bruising** combat encounter against a party of five 8th-level players, two CR 1/2 allies (two **scouts**) four CR 2 allies (Ireena Kolyana and three **berserkers**), a CR 4 ally (Ezmerelda d’Avenir), two CR 5 allies (two **gladiators**), and a CR 6 ally (Kasimir Velikov), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Amber-Touched**  
+> **Combat Level**: Bruising 
+> **Expected Character Level**: 8
+> **Allies:** Two Scouts (CR 1/2), three Berserkers (CR 2) Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), two Gladiators (CR 5), Kasimir Velikov (CR 6)
+> **Expected HP Consumption:** 31%
 > 
-> - _**Three Players.**_ Increase the number of **berserkers** to five. Increase the number of **scouts** to five.
-> - _**Four Players.**_ Increase the number of **berserkers** to four. Increase the number of **scouts** to four.
-> - _**Six Players.**_ Decrease the number of **berserkers** to two. Decrease the number of **scouts** to one.
-
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Barlgura | 6 | 6 | 6 | 6 |
+> | Berserker | 5 | 4 | 3 | 2 |
+> | Gladiator | 2 | 2 | 2 | 2 |
+> | Scout | 5 | 4 | 2 | 1 |
+> | Shoosuva | 2 | 2 | 2 | 2|
 
 > [!profile]+ **Scorilo & Como**
 > **Roleplaying Information**
@@ -1997,7 +2052,7 @@ When the players enter the secret tunnel behind the frozen waterfall, read:
 As soon as Scorilo is able to, he attempts to pin the most threatening-looking player against one of the walls using the shaft of his spear. Have Scorilo attempt to grapple that player. Whether the grapple succeeds or fails, Scorilo snarls: "Why have you come here? Speak!"
 
 > [!abstract]+ **Como the Peacemaker**
-> if the players show any interest in attacking, the **berserkers** and **scouts** brandish and ready their weapons. Before any hostilities can break out, however, Como steps between any hostile parties and insists that he’s sure that they can "work out an understanding," adding that "any enemy of the Amber-Cursed is a friend of ours."
+> If the players show any interest in attacking, the **berserkers** and **scouts** brandish and ready their weapons. Before any hostilities can break out, however, Como steps between any hostile parties and insists that he’s sure that they can "work out an understanding," adding that "any enemy of the Amber-Cursed is a friend of ours."
 
 Whether the players answer Scorilo’s question or not, Scorilo growls: "The skies whisper ill omens, and you come waltzing in like lambs to slaughter—lambs with daggers, perhaps. Perhaps we should interrogate you properly, seize your weapons, and toss you back out for the mountain to deal with." 
 
@@ -2018,6 +2073,9 @@ At any suitable point when Scorilo has just threatened, questioned, or otherwise
 <p>A deep woman’s voice rings out from the far end of the tunnel. "That’s enough, Scorilo."</p>
 <p>A tall, muscled woman strides down the tunnel, her fur-lined cloak clasped with a brooch of polished bronze set with flashing amethyst. Her dark, silver-streaked hair hangs down in a long, tightly-coiled braid, the hilt of a heavy greatsword visible beyond her thick, corded shoulders. She moves with the grace of a seasoned predator, her steely eyes sharp, but unyielding. Two fur-clad warriors bearing greataxes flank her on either side, their steps echoing in time with hers.</p>
 </div>
+
+![[Chief_Diegia_transparent.png]]
+<span class="credit">"Chief Diegia" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Pause for a moment to allow the players to interject. If none do, or Chief Diegia is allowed to approach, continue:
 
@@ -2125,6 +2183,9 @@ As the players' encounter with Kaldur draws to a close, Chief Diegia's husband, 
 <p>The wool curtain beside the left curtain stirs, and a mountain of a man steps through. He is broad-shouldered and muscular, with a height noticeably above six feet and a shaggy, black, grey-striped beard that extends to his chest. His ruddy cheeks, however, are crinkled with the lines of old smiles, and his blue eyes are bright and warm.</p>
 <p>"Is that Diona?" he asks, ducking through the threshold. His gaze falls on you, and the hopeful grin on his face fades to a quieter, more subdued smile. "Ah. I see we have guests."</p>
 </div>
+
+![[Oroles_Transparent.png]]
+<span class="credit">"Oroles" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Diegia is glad to introduce the players to her husband, Oroles (use the statistics of a **gladiator**), whose features are visibly similar to Como and Scorilo's. A player who succeeds on a DC 12 Wisdom (Insight) check discerns that Oroles, though doing his best to appear friendly, seems to be disappointed by the players' identities.
 
@@ -2299,6 +2360,9 @@ As the players climb the steps, continue:
 
 The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder Burebis’s form more closely observe that the roots extruding from the wall have, in many places, bound and pierced his flesh, preventing him from moving.
 
+![[Burebis_hi-res.jpg]]
+<span class="credit">"Elder Burebis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!lore]+ **Elder Burebis**
 > One thousand years ago, the young and arrogant storm giant Burebis came to the valley of Barovia—then called Girvisa by the Tauta—seeking to prove his abilities in foresight against the being called "the Seeker." Although Burebis lost their competition—a series of predictions regarding an impending storm—the Seeker was impressed by his audacity and skill, and invited him to become her student in the ways of omen-finding and foresight.
 >
@@ -2336,7 +2400,7 @@ Burebis can also share the following information regarding the Ladies of the Fan
 ### Burebis’s Request
 Should the players accept his mission to seek knowledge from the Amber Temple, Burebis asks them to return to him should they do so successfully. "I have lingered long past my time," he rasps, "but I believe these roots have sustained my existence for a reason. I am old and bound, but I possess knowledge and strength that may well be of use to you." 
 
-If the players agree to return to him after exploring the Amber Temple, Burebis sags in gratitude and relief. As thanks, he offers the players a boon to aid them in their travels to and from the Temple. Read the following test, replacing the blank with the name of the character who bears the *whistle of the Keepers*:
+If the players agree to return to him after exploring the Amber Temple, Burebis sags in gratitude and relief. As thanks, he offers the players a boon to aid them in their travels to and from the Temple. Read the following text, replacing the blank with the name of the character who bears the *whistle of the Keepers*:
 
 <div class="description">
 <p>Burebis’s old eyes trace across your forms, eventually coming to rest upon &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;. "I sense the feel of the Seeker’s magic upon you," he says. "You carry a boon of the ravens, do you not?"</p>

@@ -1,3 +1,73 @@
+# Patch 2.1.0.13 (February 15, 2026)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that Eliza should have the statblock of a spy in [[Arc C - Into the Valley]]
+* Added how Ireena votes in [[Arc C - Into the Valley#C4d. The Dancing Fire|The Dancing Fire]]
+* Renamed The Black Carriage to The Crossroads of Ravenloft, now that there is no black carriage in the scene in [[Arc C - Into the Valley]]
+* Added Van Richten's *charm bracelet* and *lucid lens* as items that show up under a *detect magic spell* in [[Arc C - Into the Valley]]
+* Included all of Van Richten's magic items within his statblock in [[Arc E - The Missing Vistana]]
+* Added a small buff to the fermentation vat explosion in [[Arc J - The Stolen Gem]]
+* Added a profile with roleplaying information for Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]]
+* Added a section on Bianca's fate after Kiril is vanquished in [[Arc Q - A Shining Beacon]]
+* Clarified that players will not be able to give the location of Soldav to Neferon in [[Arc S - A Sword of Sunlight]], due to Elder Burebis' *modify memory* spell.
+# Patch 2.1.0.12 (January 12, 2026)
+* Amended various typos, broken links, and errors in formatting
+* Added art for Gustav's grick form in [[Arc A - Escape From Death House]]
+* Added the **Fast Grappler** ability to Vampire Spawn, so they don't get trapped by difficult terrain from things such as *Spirit Guardians*.
+* Clarified wording on recovering hit points after being bitten by a vampire.
+* Clarified inconsistencies in the ages between Kasimir and Patrina.
+* Added an explanation of the burgomaster's duties, courtesy of Fiona Wachter in [[Arc F - Lady Wachter's Wish]]. 
+* Added artwork for Cyrus Bellview in [[Arc O - Dinner with the Devil]]
+* Ensured that checks and saves are accurately used in the Collapsing Tower section of [[Arc R - Trials of the Mountain]]
+* Added artwork of Vilnius in [[Arc S - A Sword of Sunlight]]
+* Added artwork of Patrina in [[Arc S - A Sword of Sunlight]]
+* Added artwork of an Amber Construct in [[Arc S - A Sword of Sunlight]]
+* Clarified the wording of Patrina's *counterspell* in [[Arc S - A Sword of Sunlight]]
+* Including an infobox to notify DMs that Strahd assumes his Monster persona upon learning of the *Sunsword* being ignited.
+* Clarified the location of the bats in [[Arc T - The Three Fanes]]
+# Hotfix 2.1.0.11 (December 8, 2025)
+* Updated combat encounters to be in line with new balancing template across all arcs
+# Patch 2.1.0.10 (November 22, 2025)
+* Merged combat encounter balancing template and [[Arc A - Escape From Death House]] modifications from community contributor
+# Patch 2.1.0.9 (November 17, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that *Waltz for Klara* only causes the bookshelf to swing open, not open the secret door behind
+* Added art for Bildrath and Parriwimple in [[Arc B - Welcome to Barovia]]
+* Clarified the descriptions of the various shrines to the Ladies Three as stone stele, to give a more accurate understanding of how they look
+* Clarified that it is the returning of the bones of St Andral to the church that prompts the XP reward, not the reconsecration of the church
+* Added Escher's journey from Ravenloft and back via Berez, when meeting Yan in [[Arc E - The Missing Vistana]] 
+* Removed references to black onyx stones at the megaliths, as this is part of deprecated content
+* Clarified in [[Arc J - The Stolen Gem]] that Ireena is now a CR2 ally.
+* Added a reminder that even in Varushka's nightmare, Vladimir's *oathbind* ability will still have an effect on players if they are under its power.
+* Changed Khazan's staff rarity from rare to legendary, to be in line with the power of *robe of the archmagi*.
+* Increased Ithuriel's *healing touch* ability to five a day, to not slow the average party down if they are all suffering from lycanthropy by this point.
+* Clarified that Kasimir used rope and not a *fly* spell to pass the gatehouse in [[Arc R - Trials of the Mountain]]
+* Added art for Chief Diegia, Oroles, and Elder Burebis in [[Arc R - Trials of the Mountain]]
+* Added art for The Roc of Mount Ghakis, Diona, Heinrich Stolt, Neferon, Heinrich's Map, Flameskulls, Khazan's Notes in [[Arc S - A Sword of Sunlight]]
+* Added art for The Roc of Mount Ghakis in [[Arc T - The Three Fanes]]
+* Clarified that the Dreamer’s heart has the statistics of an **aboleth** from 2024, not 2014, in [[Arc U - Dreams of Dawn]]
+* Added a citation for the original concept of the Fanes, in [[History of Barovia]]
+# Hotfix 2.1.0.8 (November 10, 2025)
+* Fixed rendering error with Volenta's statblock in [[Arc D - St. Andral's Feast]] and [[Non-Player Characters]]
+# Hotfix 2.1.0.7 (November 8, 2025)
+* Added link to Arc A Foundry module by Eidolon Publishing in [[Arc A - Escape From Death House]]
+# Hotfix 2.1.0.6 (October 13, 2025)
+* Resolved formatting issues in [[Bestiary]]
+# Patch 2.1.0.5 (September 22, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Added ***Close Quarters Fighter*** to all bosses, removing their disadvantage from ranged attacks whilst in melee
+* Added *abjure spell* to Victor's spellbook, an alternative to a 5th-level *counterspell* for those using 2024 rules.
+* Added a verbal component to Ezmerelda's *runeguard stone* in [[Arc K - The Fallen Abbey]]
+* Added Henrik to the castle cells in [[Arc P - Ravenloft Heist]], if he was imprisoned in Arc D
+* Added a zombie operating the rack in [[Arc P - Ravenloft Heist]]
+* Amended or removed various skill checks concerning the Abbot in [[Arc Q - A Shining Beacon]] to allow for justifiable social solutions to not get stuck behind a poor roll
+* Added reminders in arcs R and S for DMs to add the effects of *Beacon of Protection* to allies as well as PCs once the beacon is lit in [[Arc Q - A Shining Beacon]]
+* Clarified Godfrey's resonance level in [[Arc S - A Sword of Sunlight]]
+* Removed the outdated text regarding a lit *Sunsword* in the [[Arc T - The Three Fanes#T2c. The Tyrant’s Final Trial|Tyrant's Final Trial]]
+* Added further information on mechanics and roleplay advice for the carrionettes in [[Arc T - The Three Fanes]]
+* Ensured parity across descriptions of the *Spear of the Huntress* in [[Arc T - The Three Fanes]]
+* Added balancing information for combat in [[Arc U - Dreams of Dawn]]
+* Added a [[Bestiary]] for monster statblocks from throughout the guide
+* Added statblocks for various NPCs into [[Non-Player Characters]] 
 # Hotfix 2.1.0.4 (July 6, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Added an image of Argynvost's Ghost to [[Arc Q - A Shining Beacon]]

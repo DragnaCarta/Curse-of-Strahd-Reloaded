@@ -26,7 +26,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > Alexei, a Vistana youth and Arabelle’s older cousin, was ordinarily tasked with watching her while her father, Luvash, worked. While Arabelle played in the woods near the encampment, Yan approached Alexei and shared with him copious amounts of wine—more than enough to get him exceedingly drunk. Once Alexei was asleep, Yan grabbed Arabelle, gagged her, and stuffed her into a sack.
 >
-> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
+> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Escher, having taken the teleportation circle to Berez, transformed into a bat and flew to the meeting point, where he met Yan. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
 >
 > Dr. Rudolph van Richten, the vampire hunter who had fled Castle Ravenloft after Strahd’s awakening, had been staying nearby at the old tower on Lake Baratok. Today, Van Richten was searching the marshy riverside grasses for a particular medicinal herb he’d run out of—and it was there, crouching hidden in the underbrush, that he noticed Yan and Escher’s clandestine meeting.
 >
@@ -36,7 +36,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > Taking Yan’s head with them to prevent investigation and wading upstream through the Luna River to mislead the dusk elves’ scouts, Van Richten and Arabelle returned to <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span> to hatch a plan. Remaining at the tower was infeasible—one of Strahd's servants now knew Arabelle’s face and location, and Van Richten reasoned Strahd would surely attempt to scry her. Though the tower’s antimagic field would hinder Strahd’s efforts, it would also be the first place he would look when his scrying spell inevitably failed.
 >
-> Van Richten himself had an *amulet of nondetection* to avoid Strahd’s watchful eye—as well as a spare amulet that his student, Ezmerelda d’Avenir, had returned to him when the two parted ways. The two amulets would suffice to protect them from Strahd’s magic, but Arabelle still needed a place to live and sleep away from the eyes of Strahd’s spies—at least until Van Richten could find a better alternative.
+> Van Richten himself had an *amulet of proof against detection and location* to avoid Strahd’s watchful eye—as well as a spare amulet that his student, Ezmerelda d’Avenir, had returned to him when the two parted ways. The two amulets would suffice to protect them from Strahd’s magic, but Arabelle still needed a place to live and sleep away from the eyes of Strahd’s spies—at least until Van Richten could find a better alternative.
 >
 > ***Lying Low.*** The nearby town of Vallaki, with its large and bustling population, could provide a far better place for the two to lose themselves in the crowd. However, while Van Richten could disguise himself with his *hat of disguise*, he had no such disguises for Arabelle, and any effort to transport her into or around Vallaki would risk alerting Strahd’s spies.
 >
@@ -60,10 +60,6 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 
 After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
-![[Jamboree_Poster_Distressed.png]]
-
-<span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
 
 > [!profile]+ **Profile: Gadof Blinsky**
 >
@@ -86,11 +82,16 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Dolls, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
 As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
+
+![[Jamboree_Poster_Distressed.png]]
+
+<span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 # E2. Vistani Camp
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
 
@@ -235,7 +236,7 @@ If the players ask Kasimir about his injuries, he claims that he had been hiking
 If the players ask Kasimir about the history of the dusk elves, Kasimir shares the following tale:
 
 <div class="description">
-<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
+<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was scarcely eighty years old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
 <p>It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.</p>
 <p>Barov's conquest was swift and brutal. His forces, joined by Rahadin, my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw Rahadin shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
 <p>Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.</p>
@@ -293,7 +294,7 @@ The NPCs in the mansion behave as follows:
 * Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
 
 > [!abstract]+ **Banishment from Vallaki**
-> If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken on the western side of the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
+> If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken west of Vallaki, on the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
 > 
 > To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in <span class="citation">N3m. Locked Closet (p. 107)</span>, near the chained Udo Lukovich.
 ## E3b. Searching the Library
@@ -373,6 +374,11 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 
 Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
+> [!Warning]+ Counterspell 2024
+> 
+> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
+
+
 Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
@@ -430,7 +436,7 @@ As the players journey west toward Szoldar’s shack, read:
 <div class="description">
 <p>The path ahead is uneven, littered with pebbles and overgrown in parts by moss and wild grass. To the left, the trees of the Svalich Wood stand tall and foreboding; to the right, a chill breeze sweeps in from the lake, tinged with a faint, brackish scent and the damp earthiness of old silt. Other than the mournful croak of a distant raven, the only sound that breaks the eerie silence is the squelching of mud beneath your feet and the quiet lapping of the waves against the shore.</p>
 <p>It's not long, however, before the air is tinged with the faint scents of fur and a familiar, metallic tang. Ahead, you can hear the sound of rushing water, and see a place where the dark waters of the lake flow swiftly into a river that disappears southward into the dark woods.</p>
-<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away lies an old stone slab, resting on a cracked, mossy stone circle.</p>
+<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away, an old stone stele stands atop a circular foundation tightly packed with moss-covered stones.</p>
 </div>
 
 If the players arrive between the hours of noon and dusk, Szoldar and Yevgeni can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.
@@ -488,12 +494,19 @@ If Szoldar is accompanying the players, he warns them that the saplings and scar
 
 If the players approach the snapped signpost or move to leave the intersection, the blights and scarecrows attack.
 
-> [!combat]- **Balancing the Blights**
-> This combat encounter is a **bruising** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Blights**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 4
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
+> **Expected HP Consumption:** 18%
 > 
-> * ***Three Players.*** Reduce the number of scarecrows to 1.
-> * ***Four Players.*** Reduce the number of twig blights to 2.
-> * ***Six Players.*** Increase the number of scarecrows to 3.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Scarecrows | 1 | 2 | 2 | 3 |
+> | Twig Blights | 4 | 2 | 4 | 4 |
+
 # E6. Lake Baratok
 The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
 
@@ -504,7 +517,7 @@ Lake Baratok is as described in <span class="citation">Approaching the Tower (p.
 ### Outside the Wagon
 Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
 
-In addition, rather than a single wooden sign, a trio of wooden signs has been arranged vertically in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
+In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
 A player who approaches the wagon detects a faint scent of sulfur, and notices that the grass around it appears to have been tramped down by many feet. A player who makes a successful DC 14 Wisdom (Survival) check learns that the tracks were left by a pack of wolves the previous night, which evidently inspected the wagon before leaving it alone. (If he is with the players, Szoldar points this out after a brief investigation, and advises them against interfering with the wagon.) The player also learns that the wagon has been parked here for no more than forty-eight hours.
 
@@ -569,12 +582,28 @@ A creature that touches any part of the door other than buttons without first un
 
 If eight different symbols are pressed in an incorrect sequence, their lights briefly flicker, then go out again. The first time this happens, the griffon statues atop the tower roof—four disguised **gargoyles**—come to life and attack. The gargoyles fight to the death.
 
-> [!combat]- **Balancing the Gargoyles**
-> This combat encounter is a **brutal** combat encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovich), and will consume approximately 77% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Gargoyles**  
+> **Combat Level**: Oppressive
+> **Expected Character Level**: 4
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
+> **Expected HP Consumption:** 85%
 > 
-> * ***Three Players.*** Two of the gargoyles are damaged and cannot animate or fight.
-> * ***Four Players.*** One of the gargoyles is damaged and cannot animate or fight.
-> * ***Six Players.*** Add a fifth gargoyle.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Gargoyle | 2 | 3 | 4 | 5 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Two of the gargoyles are damaged and cannot animate or fight. |
+> | 4 | One of the gargoyles is damaged and cannot animate or fight. |
+> | 6 | Add a fifth gargoyle. |
+
+
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
@@ -620,11 +649,11 @@ The scaffolding is as described in <span class="citation">V3. Rickety Scaffoldin
 <strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
 <strong>Languages</strong> Terran<br>
 <strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Proficiency Bonus</strong> +2<br>
 <hr>
 <p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
 <p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<p><strong><em>Cold Shift.</em></strong>If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
+<p><strong><em>Cold Shift.</em></strong> If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
 <p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
 <p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
 <h3>Actions</h3>
@@ -696,12 +725,26 @@ If at least two characters show that they’re carrying silvered weapons or ammu
 
 Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack.
 
-> [!combat]- **Balancing the Werewolves**
-> This combat encounter is a **bloody** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 52% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Werewolves**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 4
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
+> **Expected HP Consumption:** 38%
 > 
-> * ***Three Players.*** Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Four Players.*** Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Six Players.*** Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Werewolf | 2 | 2 | 2 | 2 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
+> | 4 | Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
+> | 6 | Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
 
 Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
@@ -743,7 +786,7 @@ Use the statblock below for the **werewolves**, rather than the one in the *Mons
 <strong>Senses</strong> darkvision, passive Perception 14<br>
 <strong>Languages</strong> Common (can't speak in wolf form)<br>
 <strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Proficiency Bonus</strong> +2<br>
 <hr>
 <p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
@@ -841,7 +884,7 @@ Once he and the players are alone in his guest suite, Rictavio draws his sword-c
 <strong>Challenge</strong> 5 (1,800 XP)<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
+<p><strong><em>Special Equipment.</em></strong> Van Richten carries an <em>amulet of proof against detection and location</em>, a <em>charm bracelet</em>, a <em>hat of disguise</em>, a <em>lucid lens</em>, and a<em>ring of mind shielding</em>.</p>
 <p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
@@ -936,7 +979,7 @@ If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, 
 
 <span class="credit">"Talisman of Echoes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Five sample answers a players might receive are given below:
+Five sample answers a player might receive are given below:
 
 * What is your name? *Yan.*
 * What lord did you serve in life? *The vampire, Strahd von Zarovich.*
@@ -1000,7 +1043,7 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 > To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
 
 > [!abstract]+ **Inspecting Ireena**
-> If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.") Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
+> If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
 
 > [!abstract]+ **Recruiting Van Richten**
 > If the players attempt to recruit Van Richten to their party, he politely but firmly declines. If the players ask his reason for doing so, he insists that he must remain at Arabelle's side to keep her safe from Strahd's minions. "I failed to guard a child once," he says stiffly. "I shall not make that mistake again." (Van Richten won't explain further.)

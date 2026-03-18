@@ -16,6 +16,10 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 
 > [!info]+ **The Magic of the Shards**
 > A player who scrutinizes an amber shard with a *detect magic* spell discerns tinges of abjuration magic. A player who attempts to identify a shard with an *identify* spell learns that it was once a part of a larger framework meant to contain or imprison some entity or creature, and that it still retains some arcane link to the original container.
+
+> [!info]+ **Why Amber?**
+> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls that amber has a unique magical property: it is a magical “insulator," and cannot be damaged or crossed by any kind of energy, be it magical or divine. On a result of 20 or more, the player further recalls that magical energies can pass through amber only very slowly, on a timescale of years to decades.
+
 # Stage One
 In this stage, the player is a mere possessor of the amber shard, likely unaware of the true power it offers. 
 
@@ -39,7 +43,7 @@ If the player accepts, they gain the following effects:
 
 * They gain a particular boon, as given in the **Amber Corruption** section below. 
 * They can continue to cast that vestige's spell once per day. Each time they do, they gain a number of levels of exhaustion equal to the number of times they've cast the spell. This number resets only if the player spends three full days without casting the vestige's spell. (For example, if a player casts Fekre's *stinking cloud* spell two days in a row, they receive one level of exhaustion on the first day and two levels of exhaustion on the second day. If the player waits three days before casting the spell again, they will receive only one level of exhaustion for doing so; otherwise, they will receive three additional levels of exhaustion.)
-* They suffers a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[Arc Q - A Shining Beacon]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
+* They suffer a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[Arc Q - A Shining Beacon]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
 
 If the player asks the vestige about the condition, the vestige informs them that the condition is a byproduct of the imperfect connection forged by the shards. It invites that player to the Amber Temple to receive the vestige's full gift and complete their transformation.
 
@@ -73,7 +77,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 ***Boon.*** You have advantage on Charisma (Deception) checks.
 
 ***Condition.*** Your eyes melt away, leaving empty sockets that can still see. You have disadvantage on Wisdom (Perception) checks.
-## Tarakemedes, the Grave Wyrm
+## Tarakamedes, the Grave Wyrm
 ***Spell.*** _Fly._
 
 ***Boon.*** While aloft, you gain a flying speed equal to your walking speed. However, you can't use this speed to gain altitude, and you descend 1 foot for every 10 feet of horizontal distance covered.
