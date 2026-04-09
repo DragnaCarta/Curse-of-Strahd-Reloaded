@@ -40,9 +40,9 @@ The quests of Act III become available and are resolved as given in the table be
 | Arc \ Day of Neyavr      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | J: The Stolen Gem        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| K: The Fallen Abbey      | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| L: The Den of Wolves     | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| M: Argynvost's Beacon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| K: The Fallen Abbey      | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| L: The Den of Wolves     | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| M: The Dragon's Manor    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | N: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
 | O: Dinner with the Devil | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
 | P: Ravenloft Heist       | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |

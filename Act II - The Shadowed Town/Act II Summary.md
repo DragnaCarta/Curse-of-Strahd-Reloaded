@@ -137,7 +137,7 @@ Together with Lady Wachter and her **cult fanatics**, the players set off for Ol
 ### Neyavr 7
 With the full moon—and, in [[Arc H - The Lost Soul]], Victor's *etherealness* ritual—just over twenty-four hours away, the players take a daytrip to the village of Krezk in [[Arc I - The Walls of Krezk]], hoping to pick wolfsbane that Dr. Rudolph van Richten can use to quell the curse of lycanthropy for one among them. 
 
-After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. The players then return to Krezk to pick wolfsbane. Given the proximity of the Abbey of Saint Markovia, the players also ascend to the Abbey's gates, where they meet the Abbot and are informed to return in two days to meet with Ezmerelda d'Avenir, their foretold ally in ***Arc M: Strahd's Enemy***.
+After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. The players then return to Krezk to pick wolfsbane. Given the proximity of the Abbey of Saint Markovia, the players also ascend to the Abbey's gates, where they meet the Abbot and are informed to return in two days to meet with Ezmerelda d'Avenir, their foretold ally in [[Arc K - The Fallen Abbey]].
 ### Neyavr 8
 The players return to Vallaki and spend a day of downtime exploring the town and acquiring gear. That night, the players join Victor and Lady Wachter to travel to the Ethereal Plane in [[Arc H - The Lost Soul]], where they do battle with the spirit of Leo Dilisnya while Victor restores Stella's soul to her body.
 ## The Cautious Explorers
@@ -165,7 +165,7 @@ That night, the players escape from Old Bonegrinder and return to Vallaki, where
 ### Neyavr 6
 The players set off for the village of Krezk in [[Arc I - The Walls of Krezk]]. After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. 
 
-The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
+The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever, asking for no payment. The players are informed that their foretold ally in [[Arc K - The Fallen Abbey]], Ezmerelda d'Avenir, will return to the Abbey in two days.
 ### Neyavr 7
 The players return to Vallaki and find that Ireena has been kidnapped by Izek Strazni in [[Arc G - The Strazni Siblings]]. The players gain entry to the Baron's mansion with Victor's help and do battle with Izek in the corridors of the manor. 
 

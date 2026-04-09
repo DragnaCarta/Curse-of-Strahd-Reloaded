@@ -70,7 +70,7 @@ The *Holy Symbol of Ravenkind* has been revised as follows:
 </div>
 
 ## The Sunsword
-The *Sunsword* cannot be attuned when the players first obtain it. Instead, the players must submerge it in the blessed pool near the Shrine of the White Sun to restore its radiant blade. (The hilt retains its sentience and ability to communicate telepathically before its blade is restored.) For more information about this arc, see ***Arc V: The Sunsword*** below.
+The *Sunsword* can be attuned when the players first obtain it. However, in the state they find it, it lacks the spark needed to ignite. To restore it, they must bind a radiant soul to the sword. (The hilt retains its sentience and ability to communicate telepathically before its blade is restored.) For more information, see [[Arc S - A Sword of Sunlight#Igniting the Sunsword|Arc S - A Sword of Sunlight]].
 
 Note that the *Sunsword* is a sentient magic item; as described in **Conflict** (*Dungeon Master's Guide*, p. 216), it may make demands of its wielder or attempt to seize control of them if they act contrary to its will. (This is especially likely to occur if, for example, its wielder is charmed by Strahd von Zarovich.)
 ## Strahd’s Enemy
@@ -91,7 +91,7 @@ Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spa
 Assign Strahd's location in Castle Ravenloft to **K20. Heart of Sorrow**, represented by the ***Marionette (Jack of Hearts).*** 
 # Design Notes: Running the Adventure
 ## The Tarokka Reading
-***The Tome of Strahd.*** The *Tome of Strahd* has been expanded to provide the players with secret information about Strahd's ultimate plan, as well as additional hooks to the Fanes of Barovia and the Amber Temple. (If the players restore his memory and show him the *Tome*, the **lich** Exethanter can interpret Strahd's ciphers and notes at their request.) 
+***The Tome of Strahd.*** The *Tome of Strahd* has been expanded to provide the players with secret information about Strahd's ultimate plan, as well as additional hooks to the Fanes of Barovia and the Amber Temple. (If the players restore his memory and show him the *Tome*, the **ghost** Exethanter can interpret Strahd's ciphers and notes at their request.) 
 
 The *Tome* has been intentionally placed in Vallaki to ensure that the players find it (and are intrigued by its mysteries) as early as possible. Because they tie strongly into other quests, Rictavio's wagon (***Seven of Stars—Illusionist***) and the attic of the Blue Water Inn (***Master of Coins—Rogue***) have been removed as possible locations.
 

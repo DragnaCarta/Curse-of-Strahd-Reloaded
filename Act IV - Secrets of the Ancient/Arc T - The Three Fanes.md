@@ -288,9 +288,8 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > [!item]+ **Beacon of Private Sanctum**
 > *Wondrous item, rare*
 >
-> When its command word is spoken, this six-inch iron cage gains the effects of a *private sanctum* spell. When cast indoors in this way, the *private sanctum* extends no further than the walls of the structure that contains it. 
->
-> Once activated, the beacon can’t be activated again until the next dawn.
+> Once per day (resetting at dawn), the bearer of this six-inch iron cage may speak its command word to cast *private sanctum* with no material components. When cast indoors in this way, the *private sanctum* extends no further than the walls of the structure that contains it.
+
 ### St. Andral’s Church
 If the players pass <span class="citation">N1. St. Andral’s Church (p. 97)</span> during the daytime, read:
 
@@ -501,31 +500,7 @@ If the players reduce Strahd's second form to 155 hit points or fewer, he snarls
 </div>
 
 On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. 
-## T2d. Exethanter’s Warning
-Forty-eight hours after the players leave the *Tome of Strahd* with Exethanter’s spirit in [[Arc S - A Sword of Sunlight]], he contacts them simultaneously using a continuous, multi-target _sending_ spell to convey the following information:
 
-* The *Tome* describes Strahd’s plan to use a giant crystalline heart to conduct the energy from three leyline crossings in Barovia (i.e., points where two leylines intersect).
-* Strahd intends to control this raw, unfettered power using a “token of divinity" that is “like, but not of," the magic that dwells in the three leylines.
-* Using the leylines’ power, and the power stored in the heart’s vast reserves, Strahd will surround the crystalline heart with a shell of thousands of living human souls, each infused with apathy, fear, and despair. This process will tear the souls from their owners’ bodies, leaving the original hosts undead husks obedient to Strahd’s commands.
-* Strahd has determined that the Mists surrounding Barovia are impenetrable—except for one thirteen-day period every thirteen centuries, when the planes and stars align to form a Grand Conjunction. When the Grand Conjunction reaches its zenith, and the boundaries between worlds grow thinnest, Strahd intends to use the fortified heart as a battering ram to break through the Mists and free Barovia from its prison—consuming every soul in the process.
-* The Grand Conjunction begins in one day’s time, and will reach its zenith in three—and if even a single leyline remains under Strahd’s control on that date, every living soul in the valley may be lost.
-
-Exethanter, who is clearly horrified, agitated, and somewhat impressed by the audacity of Strahd’s plans, urges the players to do whatever they can to thwart Strahd’s plans before the Grand Conjunction begins.
-
-> [!info]+ **The Grand Conjunction**
-> At dusk on the first night of the Grand Conjunction, and on each night thereafter, the skies split to reveal glimpses of other worlds. Read:
->
-> ---
->
-> *As the grey daylight fades, and the Moon begins to rise above the trees, the stars follow it into the sky—but they are no longer alone.*
->
-> *Strange, alien constellations join them from behind, forming a bright, shimmering tapestry that hangs across the sky. Other moons, too, float amidst the darkness, their orbiting shadows falling across the surfaces of great, distant planets. In the void beyond, sparkling nebulae drift across unfathomable vacuums, their light crossing windows into other realms—a sea of endless fire, a bloodstained expanse, a mount that rings with celestial hymns.*
->
-> *These sights amidst the heavens are obscured only by a thin sphere of mist, from which Barovia’s false stars twinkle like patches on a blanket. Beyond them, in the center of it all, stand thirteen bright stars in near-perfect alignment.*
->
-> ---
->
-> The thirteen stars grow increasingly aligned each night, reaching perfect alignment on the third night following Exethanter’s message.
 # T3. The Witch of Berez
 ## T3a. Berez Outskirts
 The players’ approach to Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise this area’s description as follows:
@@ -1135,7 +1110,7 @@ Each creature within the hut must immediately succeed on a DC 20 Dexterity savin
 
 <div clas="description">
 <p>The shreds of the hill and ruined hut fall away—revealing, beneath them, a thatched roof, a ramshackle wooden hut, and an enormous tree stump whose roots thrust into the air and mire. Twin iron cages hang from its eaves, filled with scores of shrieking, screaming ravens entrapped within.</p>
-<p>Floating beside the hut, standing in an upside-down, hollowed-out giant’s skull, is an old, gnarled woman. Her white hair stands twin horns upon her head, then falls down into multiple iron-tipped braids that dangle like daggers across her chest. Her dark eyes burn from the depths of her wrinkled, sunken face, her long, yellowed nails curling like claws before her chest.</p>
+<p>Standing in an upside-down, hollowed-out giant’s skull that floats beside the hut, is an old, gnarled woman. Her white hair stands like twin horns upon her head, then falls down into multiple iron-tipped braids that dangle like daggers across her chest. Her dark eyes burn from the depths of her wrinkled, sunken face, her long, yellowed nails curling like claws before her chest.</p>
 <p>"You’ve had your fun, my dears," Baba Lysaga rasps. “Now, I believe it is time for <em>mine.</em>."
 </div>
 Baba Lysaga then attacks.
@@ -2162,7 +2137,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
 <strong>Resistances</strong> bludgeoning, piercing, and slashing damage
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
@@ -2175,9 +2150,9 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 20 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 18 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
@@ -2222,7 +2197,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
 <strong>Resistances</strong> bludgeoning, cold, fire, lightning, piercing, and slashing damage
 <strong>Immunities</strong> poison, charmed, frightened, poisoned
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
@@ -2236,7 +2211,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede Rahadin’s darkvision.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
-<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
+<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 18 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>

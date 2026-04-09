@@ -13,6 +13,9 @@ Spells cast in Barovia function as described in <span class="citation">Alteratio
 # Geography
 The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
 
+> [!warning]+ **Wandering Players**
+>
+> Exploration in this campaign is intentional. Players won’t find much by wandering aimlessly; without clear leads, meaningful discoveries such as the *Holy Symbol of Ravenkind* or Amber Temple can take days or even weeks. To progress, the players must uncover clues and recognize the signs that point the way.
 # Weather
 Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
 # Calendar

@@ -490,3 +490,8 @@ Muriel, Ezmerelda, Elvir, and Ireena intend to travel to these lands with the ai
 The four have come to bid the players farewell—and, if they’re interested, to invite any of them to join their venture. (“So long as any of us are trapped in the Mists," Ireena says, with steely determination, “all of us are.")
 
 Even if no players join their expedition, the travelers thank the players for their efforts to aid Barovia and bid them warm farewells.
+
+> [!tip] You've Reached the End of the Mists
+> You’ve reached the end of the current public release of the *Curse of Strahd: Reloaded* guide.
+> 
+> To get a sneak peek at revisions of published arcs and other future work, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta)!
