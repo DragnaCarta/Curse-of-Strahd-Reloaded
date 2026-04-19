@@ -1,7 +1,7 @@
 # Icon of Ravenloft (Icon of Dawn's Grace)
 **Category:** Artifact (Legendary Wondrous Item / Quest Item)  
-**Acquired:** Month 3, Week 4 — St. Markovia's crypt, Castle Ravenloft (Ravenloft heist)  
-**Required For:** Redeeming the Abbot (Arc K resolution, Month 3, Week 4)
+**Acquired:** Module 3, Session 4 — St. Markovia's crypt, Castle Ravenloft (Ravenloft heist)  
+**Required For:** Redeeming the Abbot (Arc K resolution, Module 3, Session 4)
 
 ---
 
@@ -55,7 +55,7 @@ The ward on the crypt is visible to Detect Magic: a warm golden light around the
 ---
 
 ## After Redemption — Secondary Uses
-Post-Abbot-arc, the Icon retains its properties and can be used in the final battle or for consecrating defensive positions during the war council (Month 4, Week 4).
+Post-Abbot-arc, the Icon retains its properties and can be used in the final battle or for consecrating defensive positions during the war council (Module 4, Session 4).
 
 **War council use:** Consecrate the town square of Vallaki as a fallback defensive position — undead cannot enter for 24 hours, buying the civilians time.
 

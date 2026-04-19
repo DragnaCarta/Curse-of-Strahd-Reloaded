@@ -1,7 +1,7 @@
 # Ezmerelda d'Avenir
 **Type:** Vistana Monster Hunter (Custom Stat Block, CR 8)  
 **Role:** Foretold Ally (Tarokka); Party Combat Specialist  
-**First Appears:** Month 3, Week 2 (breaking into Abbey of Saint Markovia)  
+**First Appears:** Module 3, Session 2 (breaking into Abbey of Saint Markovia)  
 **Inspiration:** Michonne (*The Walking Dead*), Inigo Montoya (*Princess Bride*)
 
 ---
@@ -57,7 +57,7 @@ She knows about the Tarokka reading because Madam Eva also reads for her people.
 ---
 
 ## Campaign Arc
-- **Arc K (Month 3, Week 2):** Introduction at the Abbey. Joins the party.
+- **Arc K (Module 3, Session 2):** Introduction at the Abbey. Joins the party.
 - **Arc L onward:** Active combat support. Excellent against undead. Her wagon provides supplies.
 - **Final Battle:** Present for the war council and the final assault.
 

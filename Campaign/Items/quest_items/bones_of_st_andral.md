@@ -1,8 +1,8 @@
 # Bones of St. Andral
 **Category:** Quest Item (Sacred Relics)  
 **Status at Campaign Start:** Missing (stolen by Milivoj → sold to Henrik van der Voort → taken by Volenta)  
-**Required For:** Restoring St. Andral's Church ward (Arc D, Month 2, Week 1)  
-**Session:** Month 2, Week 1
+**Required For:** Restoring St. Andral's Church ward (Arc D, Module 2, Session 1)  
+**Session:** Module 2, Session 1
 
 ---
 

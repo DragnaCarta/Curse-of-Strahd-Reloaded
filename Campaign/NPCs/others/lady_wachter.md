@@ -1,7 +1,7 @@
 # Lady Fiona Wachter
 **Type:** Human Aristocrat / Cult Leader (Stat Block: Mage, CR 6)  
 **Role:** Vallaki's Political Operator; Strahd Loyalist → Pragmatic Ally  
-**First Appears:** Month 2, Week 2 (Wachterhaus dinner)  
+**First Appears:** Module 2, Session 2 (Wachterhaus dinner)  
 **Inspiration:** Cersei Lannister, Lady Macbeth, a Cersei who has a moment of grace
 
 ---
@@ -52,7 +52,7 @@ Lady Wachter knows exactly what she is doing. She believes it is the most compas
 ## Stella Wachter
 Lady Wachter's daughter (early twenties) was left catatonic by Victor's spirit mirror experiment. Her soul was scattered in the Ethereal Plane. Lady Wachter has been unable to reach her or help her.
 
-When the party rescues Stella (Arc H, Month 2, Week 4): the reunion is Lady Wachter's single moment of complete vulnerability. She holds Stella and says nothing. The cultist, the political operator, the woman who asks parties to commit murder for pragmatic reasons — all of that is in the room, and the only thing that matters is her daughter's face.
+When the party rescues Stella (Arc H, Module 2, Session 4): the reunion is Lady Wachter's single moment of complete vulnerability. She holds Stella and says nothing. The cultist, the political operator, the woman who asks parties to commit murder for pragmatic reasons — all of that is in the room, and the only thing that matters is her daughter's face.
 
 ---
 

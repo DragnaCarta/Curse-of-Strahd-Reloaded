@@ -1,7 +1,7 @@
 # Kiril Stoyanovich
 **Type:** Werewolf Alpha (CR 7, custom)  
 **Role:** Brutal Werewolf Pack Alpha; Strahd's Loyal Enforcer; Arc Q Boss  
-**First Appears:** Month 3, Week 2 (referenced at the Den of Wolves); Boss Fight: Month 3, Week 4 (Arc Q)
+**First Appears:** Module 3, Session 2 (referenced at the Den of Wolves); Boss Fight: Module 3, Session 4 (Arc Q)
 
 ---
 
@@ -45,8 +45,8 @@ He is loyal to Strahd not from love or fear but from pragmatism taken to its ext
 ---
 
 ## Campaign Role
-- **Arc L (Month 3, Week 2):** He is NOT at the den when the party arrives. He is out on patrol. This is by design — meeting him in the den would be premature.
-- **Arc Q (Month 3, Week 4):** Returns after the Ravenloft heist, furious that Emil was freed. Leads the remaining pack against the party in a final confrontation. This is his boss fight.
+- **Arc L (Module 3, Session 2):** He is NOT at the den when the party arrives. He is out on patrol. This is by design — meeting him in the den would be premature.
+- **Arc Q (Module 3, Session 4):** Returns after the Ravenloft heist, furious that Emil was freed. Leads the remaining pack against the party in a final confrontation. This is his boss fight.
 
 **After Kiril's defeat:** Emil Toranescu returns as the rightful alpha. The pack pledges neutrality. Several younger members choose to leave the pack and integrate with Krezk.
 

@@ -1,7 +1,7 @@
 # Rahadin
 **Type:** Dusk Elf (Custom Stat Block, CR 15)  
 **Role:** Strahd's Chamberlain and Most Loyal Servant  
-**First Appears:** Month 3, Week 3 (Dinner at Ravenloft)
+**First Appears:** Module 3, Session 3 (Dinner at Ravenloft)
 
 ---
 
@@ -60,9 +60,9 @@ The screaming is real — the psychic echo of his victims attached itself to him
 ---
 
 ## Campaign Role
-- **Dinner (Month 3, Week 3):** First introduction. He is present, professional, slightly wrong.
-- **The Heist (Month 3, Week 4):** He allows the heist — watching and filing away intelligence. He does not interfere unless the party attempts to access something truly off-limits.
-- **Final Battle (Month 4, Week 4):** He stands at the castle gate and steps aside. He is not surrendering — he is giving the party a straight path to Strahd for the end he has decided must come.
+- **Dinner (Module 3, Session 3):** First introduction. He is present, professional, slightly wrong.
+- **The Heist (Module 3, Session 4):** He allows the heist — watching and filing away intelligence. He does not interfere unless the party attempts to access something truly off-limits.
+- **Final Battle (Module 4, Session 4):** He stands at the castle gate and steps aside. He is not surrendering — he is giving the party a straight path to Strahd for the end he has decided must come.
 
 **Note:** Rahadin is built into Strahd's Grand Conjunction as the *sacrificial component* — Strahd intended to sacrifice Rahadin to the Dark Powers. Rahadin does not know this. If the party tells him, it may be one of the few things that could crack his composure.
 

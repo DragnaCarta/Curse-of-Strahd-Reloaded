@@ -1,7 +1,7 @@
 # Kasimir Velikov
 **Type:** Dusk Elf Elder / Arcane Wizard (Stat Block: Archmage at lower CR, CR 7)  
 **Role:** Guide to the Amber Temple; Grief-Driven Antihero; Long-Term Party Companion  
-**First Appears:** Month 2, Week 2 (near Vistani camp, Vallaki)  
+**First Appears:** Module 2, Session 2 (near Vistani camp, Vallaki)  
 **Arc:** Act II introduction → Act IV climax
 
 ---
@@ -55,10 +55,10 @@ Kasimir is their de facto elder. He feels responsibility for them. His pursuit o
 ---
 
 ## Campaign Arc
-- **Act II (Month 2, Week 2):** Brief introduction — plants the seed about St. Markovia's crypt.
+- **Act II (Module 2, Session 2):** Brief introduction — plants the seed about St. Markovia's crypt.
 - **Act III:** Present near the Vistani camp; grows in importance as the party prepares for Act IV.
-- **Act IV (Month 4, Week 1):** Travels with the party to Soldav and the Amber Temple.
-- **Act IV (Month 4, Week 2):** His arc climax — Patrina's spirit, the revelation about the Sunsword, the impossible choice.
+- **Act IV (Module 4, Session 1):** Travels with the party to Soldav and the Amber Temple.
+- **Act IV (Module 4, Session 2):** His arc climax — Patrina's spirit, the revelation about the Sunsword, the impossible choice.
 - **Epilogue:** He stays in Barovia after the fog lifts. He has more work to do.
 
 ---

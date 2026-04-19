@@ -1,7 +1,7 @@
 # Spear of the Huntress
 **Category:** Artifact (Legendary Weapon / Quest Item)  
-**Acquired:** Month 3, Week 4 — King Dostron's crypt, Castle Ravenloft (Ravenloft heist)  
-**Required For:** Reconsecrating the Forest Fane at Yester Hill (Month 4, Week 3)
+**Acquired:** Module 3, Session 4 — King Dostron's crypt, Castle Ravenloft (Ravenloft heist)  
+**Required For:** Reconsecrating the Forest Fane at Yester Hill (Module 4, Session 3)
 
 ---
 
@@ -27,9 +27,9 @@ The spear is specifically the key to reconsecrating the Forest Fane at Yester Hi
 
 > "The spear drives into the earth and does not stop at bedrock — it sinks further, and from it, roots spread. Silver-green light traces along the carved sigil. The hill shudders. Every tree around the circle straightens slightly."
 
-After this: the spear is consumed by the earth. It is gone. The Fane is consecrated. **Do not let the party forget it can only be used once this way** — if they spend it in combat before Month 4, Week 3, the Forest Fane cannot be reconsecrated.
+After this: the spear is consumed by the earth. It is gone. The Fane is consecrated. **Do not let the party forget it can only be used once this way** — if they spend it in combat before Module 4, Session 3, the Forest Fane cannot be reconsecrated.
 
-**DM note:** The party may be attached to the spear as a weapon by Month 4. The sacrifice of it to the Fane should feel meaningful. Let them mourn it briefly. The effect — removing Strahd's forest lair actions — is worth more than the weapon.
+**DM note:** The party may be attached to the spear as a weapon by Module 4. The sacrifice of it to the Fane should feel meaningful. Let them mourn it briefly. The effect — removing Strahd's forest lair actions — is worth more than the weapon.
 
 ---
 

@@ -1,7 +1,7 @@
 # The Abbot
 **Type:** Fallen Deva (Celestial); Stat Block: Deva (MM) CR 10 if hostile  
 **Role:** Abbey of Saint Markovia's Guardian; Misguided Healer; Potential Redemption  
-**Appears:** Month 3, Week 1 (first glimpse/brief meeting); Month 3, Week 2 (full encounter)  
+**Appears:** Module 3, Session 1 (first glimpse/brief meeting); Module 3, Session 2 (full encounter)  
 **Inspiration:** Jaime Lannister (good-intentioned fall), Ozymandias (*Watchmen*) — "I did what I had to do"
 
 ---
@@ -40,7 +40,7 @@ See `vasilka.md` for full notes. (Or include here: Vasilka accepts the truth cal
 ---
 
 ## Redemption Path
-The Abbot can only be redeemed through the **Icon of Ravenloft** — retrieved from St. Markovia's crypt during the Castle Ravenloft heist (Month 3, Week 4).
+The Abbot can only be redeemed through the **Icon of Ravenloft** — retrieved from St. Markovia's crypt during the Castle Ravenloft heist (Module 3, Session 4).
 
 When presented with the Icon:
 - The golden light intensifies and pours into him
@@ -49,7 +49,7 @@ When presented with the Icon:
 - His eyes clear
 - The delusion breaks
 
-**After redemption:** The Abbot becomes a genuine healer again. He will assist the war council (Month 4, Week 4) with healing and celestial support. He is fighting to atone. He may not succeed. He tries anyway.
+**After redemption:** The Abbot becomes a genuine healer again. He will assist the war council (Module 4, Session 4) with healing and celestial support. He is fighting to atone. He may not succeed. He tries anyway.
 
 ---
 

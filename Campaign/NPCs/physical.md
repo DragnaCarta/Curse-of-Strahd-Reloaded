@@ -18,10 +18,10 @@ Track what you own, what you need, and what's suggested for each act of the camp
 | Strahd von Zarovich | `monsters/strahd_von_zarovich.md` | ⬜ | Use for dinner scene, final battle; consider two versions — robed and combat stance |
 | Rahadin | `monsters/rahadin.md` | ⬜ | Drow-adjacent; scimitar, dark armor |
 | Ireena Kolyana | `others/ireena_kolyana.md` | ⬜ | Rapier, noble dress; central to every Act |
-| Ismark Kolyanovich | `others/ismark_kolyanovich.md` | ⬜ | Longsword, common clothes; Month 1 only |
+| Ismark Kolyanovich | `others/ismark_kolyanovich.md` | ⬜ | Longsword, common clothes; Module 1 only |
 | Madam Eva | `others/madam_eva.md` | ⬜ | Old Vistani woman; crystal ball or cards |
-| Van Richten / Rictavio | `others/van_richten_rictavio.md` | ⬜ | Can proxy as generic old man in disguise; Month 2–4 |
-| Ezmerelda d'Avenir | `others/ezmerelda_davenir.md` | ⬜ | Vistani woman; prosthetic leg; Month 3–4 ally |
+| Van Richten / Rictavio | `others/van_richten_rictavio.md` | ⬜ | Can proxy as generic old man in disguise; Module 2–4 |
+| Ezmerelda d'Avenir | `others/ezmerelda_davenir.md` | ⬜ | Vistani woman; prosthetic leg; Module 3–4 ally |
 
 ---
 
@@ -29,13 +29,13 @@ Track what you own, what you need, and what's suggested for each act of the camp
 
 | Mini | NPC File | Own? | Notes |
 |------|---------|------|-------|
-| Volenta Popofsky | `monsters/volenta_popofsky.md` | ⬜ | Wild-haired vampire; Month 2, Month 3 |
-| Izek Strazni | `monsters/izek_strazni.md` | ⬜ | One devil arm; heavily armored; Month 2 boss |
+| Volenta Popofsky | `monsters/volenta_popofsky.md` | ⬜ | Wild-haired vampire; Module 2, Module 3 |
+| Izek Strazni | `monsters/izek_strazni.md` | ⬜ | One devil arm; heavily armored; Module 2 boss |
 | Morgantha (hag disguise) | `monsters/morgantha.md` | ⬜ | Old woman with basket; can proxy any old female |
-| Morgantha (true form) | `monsters/morgantha.md` | ⬜ | Night hag — blue-skinned, claws; Month 2 boss |
-| Kiril Stoyanovich | `monsters/kiril_stoyanovich.md` | ⬜ | Large werewolf; Month 3 boss |
-| Baba Lysaga | `monsters/baba_lysaga.md` | ⬜ | Crone on flying skull; Month 4 boss |
-| Flesh Mound | `monsters/flesh_mound.md` | ⬜ | Large shambling mound proxy works; Month 1 boss |
+| Morgantha (true form) | `monsters/morgantha.md` | ⬜ | Night hag — blue-skinned, claws; Module 2 boss |
+| Kiril Stoyanovich | `monsters/kiril_stoyanovich.md` | ⬜ | Large werewolf; Module 3 boss |
+| Baba Lysaga | `monsters/baba_lysaga.md` | ⬜ | Crone on flying skull; Module 4 boss |
+| Flesh Mound | `monsters/flesh_mound.md` | ⬜ | Large shambling mound proxy works; Module 1 boss |
 
 ---
 
@@ -43,26 +43,26 @@ Track what you own, what you need, and what's suggested for each act of the camp
 
 | Mini | NPC File | Own? | Notes |
 |------|---------|------|-------|
-| Father Lucian Petrovich | `others/father_lucian.md` | ⬜ | Cleric; Vallaki; Month 2 ongoing |
-| Father Donavich | `others/father_donavich.md` | ⬜ | Disheveled priest; Month 1 |
+| Father Lucian Petrovich | `others/father_lucian.md` | ⬜ | Cleric; Vallaki; Module 2 ongoing |
+| Father Donavich | `others/father_donavich.md` | ⬜ | Disheveled priest; Module 1 |
 | Doru | `others/doru.md` | ⬜ | Vampire spawn; emaciated; can proxy as spawn mini |
-| Lady Fiona Wachter | `others/lady_wachter.md` | ⬜ | Noble woman; dark attire; Month 2–4 |
-| Victor Vallakovich | `others/victor_vallakovich.md` | ⬜ | Young wizard; book; Month 2–3 |
+| Lady Fiona Wachter | `others/lady_wachter.md` | ⬜ | Noble woman; dark attire; Module 2–4 |
+| Victor Vallakovich | `others/victor_vallakovich.md` | ⬜ | Young wizard; book; Module 2–3 |
 | Baron Vargas Vallakovich | `others/baron_vallakovich.md` | ⬜ | Fat nobleman; can proxy as generic noble |
-| Arabelle | `others/arabelle.md` | ⬜ | Young Vistani girl; Month 2 |
-| Kasimir Velikov | `others/kasimir_velikov.md` | ⬜ | Elf mage; gaunt, dark robes; Month 3–4 |
-| Muriel Vinshaw | `others/muriel_vinshaw.md` | ⬜ | Young woman; wereraven; Month 2–4 |
-| The Abbot | `others/the_abbot.md` | ⬜ | Glowing deva; Month 3 |
+| Arabelle | `others/arabelle.md` | ⬜ | Young Vistani girl; Module 2 |
+| Kasimir Velikov | `others/kasimir_velikov.md` | ⬜ | Elf mage; gaunt, dark robes; Module 3–4 |
+| Muriel Vinshaw | `others/muriel_vinshaw.md` | ⬜ | Young woman; wereraven; Module 2–4 |
+| The Abbot | `others/the_abbot.md` | ⬜ | Glowing deva; Module 3 |
 | Davian Martikov | `others/martikovs_keepers.md` | ⬜ | Old wereraven innkeeper; can proxy |
-| Luvash & Arrigal | `others/luvash_and_arrigal.md` | ⬜ | Two Vistani men; Month 2–3 |
-| Zuleika & Emil | `others/zuleika_and_emil.md` | ⬜ | Werewolf woman + man; Month 3 |
+| Luvash & Arrigal | `others/luvash_and_arrigal.md` | ⬜ | Two Vistani men; Module 2–3 |
+| Zuleika & Emil | `others/zuleika_and_emil.md` | ⬜ | Werewolf woman + man; Module 3 |
 | Stella Wachter | `others/stella_wachter.md` | ⬜ | Catatonic noblewoman; proxy as any female seated |
-| Gertruda | `others/gertruda.md` | ⬜ | Young woman; Month 3 (Ravenloft prisoner) |
-| Sergei von Zarovich | `others/sergei_von_zarovich.md` | ⬜ | Ghost/spirit; can use any translucent ghost mini; Month 4 |
-| Exethanter | `others/exethanter.md` | ⬜ | Ghost archmage; translucent blue; Month 4 |
-| Elder Burebis | `others/elder_burebis.md` | ⬜ | Huge storm giant; only appears once; Month 4 |
-| Rose & Thorn Durst | `others/rose_and_thorn.md` | ⬜ | Ghost children; can proxy with any child minis; Month 1 |
-| Erasmus van Richten | `others/erasmus_van_richten.md` | ⬜ | Ghost boy; Month 2–3; proxy any ghost mini |
+| Gertruda | `others/gertruda.md` | ⬜ | Young woman; Module 3 (Ravenloft prisoner) |
+| Sergei von Zarovich | `others/sergei_von_zarovich.md` | ⬜ | Ghost/spirit; can use any translucent ghost mini; Module 4 |
+| Exethanter | `others/exethanter.md` | ⬜ | Ghost archmage; translucent blue; Module 4 |
+| Elder Burebis | `others/elder_burebis.md` | ⬜ | Huge storm giant; only appears once; Module 4 |
+| Rose & Thorn Durst | `others/rose_and_thorn.md` | ⬜ | Ghost children; can proxy with any child minis; Module 1 |
+| Erasmus van Richten | `others/erasmus_van_richten.md` | ⬜ | Ghost boy; Module 2–3; proxy any ghost mini |
 
 ---
 
@@ -75,7 +75,7 @@ Track what you own, what you need, and what's suggested for each act of the camp
 | Milivoj | `others/vallaki_townspeople.md` | ⬜ | Any young male commoner |
 | Cyrus Belview (mongrelfolk) | `others/vallaki_townspeople.md` | ⬜ | Any deformed creature mini |
 | Baron Krezkov | `others/baron_krezkov.md` | ⬜ | Any nobleman |
-| Patrina Velikovna | — | ⬜ | Ghost elf woman; Month 4 boss |
+| Patrina Velikovna | — | ⬜ | Ghost elf woman; Module 4 boss |
 
 ---
 
@@ -160,12 +160,12 @@ Track what you own, what you need, and what's suggested for each act of the camp
 
 | Terrain | Notes | Own? |
 |---------|-------|------|
-| Coffin-maker's shop | Standard shop interior; Month 2 | ⬜ |
-| Wachterhaus (noble manor) | Noble interior, Month 2 | ⬜ |
-| Abbey of Saint Markovia | Church + attached manor; Month 3 | ⬜ |
-| Krezk village | Small village, wall; Month 2/3 | ⬜ |
-| Tsolenka Pass | Mountain pass, tower; Month 4 | ⬜ |
-| Village of Barovia | Ruined village; Month 1 | ⬜ |
+| Coffin-maker's shop | Standard shop interior; Module 2 | ⬜ |
+| Wachterhaus (noble manor) | Noble interior, Module 2 | ⬜ |
+| Abbey of Saint Markovia | Church + attached manor; Module 3 | ⬜ |
+| Krezk village | Small village, wall; Module 2/3 | ⬜ |
+| Tsolenka Pass | Mountain pass, tower; Module 4 | ⬜ |
+| Village of Barovia | Ruined village; Module 1 | ⬜ |
 
 ---
 
@@ -185,7 +185,7 @@ Track what you own, what you need, and what's suggested for each act of the camp
 ### Priority Purchase Order (Budget-Conscious)
 1. **2D maps** for Death House and Castle Ravenloft — cheap, covers the most critical set pieces
 2. **Vampire spawn** WizKids pack — used 3 acts, worth the investment
-3. **Werewolf** pack — Month 3 critical combat
+3. **Werewolf** pack — Module 3 critical combat
 4. **Strahd** mini (WizKids has an official one) — the face of the campaign
 5. **Ireena** custom via Hero Forge — she's at every session
 6. Night hags, wolves, zombies — bulk WizKids sets

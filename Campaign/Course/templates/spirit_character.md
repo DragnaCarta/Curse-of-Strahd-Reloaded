@@ -3,7 +3,7 @@
 > 1. Copy this file
 > 2. Save it to the **current session's week folder** alongside the other session files:
 >    `Campaign/Course/month_X/week_Y/spirit_[character_name].md`
->    *(Example: a character dies in Month 2, Week 3 → save as `Campaign/Course/month_2/week_3/spirit_aldric.md`)*
+>    *(Example: a character dies in Module 2, Session 3 → save as `Campaign/Course/module_2/session_3/spirit_aldric.md`)*
 > 3. Fill in the Identity and Tether sections with the player before the session ends
 > 4. From that point forward, this file lives in that week folder permanently as the record of where and when they died
 >
@@ -138,9 +138,9 @@ The spirit levels up with the party at every milestone. They gain:
 
 | Method | When Available | Cost |
 |--------|---------------|------|
-| **The Abbot's Grace** | Month 3, Week 4 (post-redemption) | The Abbot spends 3 days in prayer; available once per spirit; he will not explain why he is limited |
-| **The Amber Temple ritual** | Month 4, Week 2 | Exethanter knows a ritual using the summoning circle; requires a diamond worth 500 gp (found in the temple) and the spirit's willing consent |
-| **Sergei's Intercession** | Month 4, Week 2 (after Sunsword empowerment) | Sergei can petition the Morninglord for one soul — only usable if the spirit never accepted a Dark Gift |
+| **The Abbot's Grace** | Module 3, Session 4 (post-redemption) | The Abbot spends 3 days in prayer; available once per spirit; he will not explain why he is limited |
+| **The Amber Temple ritual** | Module 4, Session 2 | Exethanter knows a ritual using the summoning circle; requires a diamond worth 500 gp (found in the temple) and the spirit's willing consent |
+| **Sergei's Intercession** | Module 4, Session 2 (after Sunsword empowerment) | Sergei can petition the Morninglord for one soul — only usable if the spirit never accepted a Dark Gift |
 | **The Ladies Three** | If all three Fanes are consecrated | As the land heals, one spirit may be returned as a gift of the restored Fanes — chosen by the DM |
 
 ### The Return Scene

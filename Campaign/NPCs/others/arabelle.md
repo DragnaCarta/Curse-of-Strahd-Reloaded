@@ -1,7 +1,7 @@
 # Arabelle
 **Type:** Human Child (Divine Seeker Bloodline); Non-combatant  
 **Role:** Luvash's Daughter; Seeker's Heir; Grand Conjunction Control Mechanism  
-**First Appears:** Month 2, Week 2 (in Van Richten's wagon)
+**First Appears:** Module 2, Session 2 (in Van Richten's wagon)
 
 ---
 

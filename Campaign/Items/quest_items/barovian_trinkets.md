@@ -1,6 +1,6 @@
 # Barovian Trinkets — The Hooks Into the Mists
 **Category:** Quest Item (One per player character)  
-**Session:** Month 1, Week 1 — given before or at the start of Session 1  
+**Session:** Module 1, Session 1 — given before or at the start of Session 1  
 **Purpose:** The magical draw that pulls each character individually toward Barovia
 
 ---

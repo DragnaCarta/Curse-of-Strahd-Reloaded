@@ -1,7 +1,7 @@
 # Walter Durst — The Innocent Heart
 **Location:** Death House Basement — inside the Flesh Mound (the boss's weak point)  
 **Role:** Mechanical boss weak point; the tragedy at the center of everything  
-**Session:** Month 1, Week 1  
+**Session:** Module 1, Session 1  
 **Classification:** NPC (deceased infant) — not interactive, not hostile
 
 ---

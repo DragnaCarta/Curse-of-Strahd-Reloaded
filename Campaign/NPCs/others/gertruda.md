@@ -1,7 +1,7 @@
 # Gertruda
 **Type:** Human Commoner (Stat Block: Commoner, CR 0)  
 **Role:** Doru's Betrothed; Ravenloft Prisoner; Heist Objective  
-**Appears:** Month 3, Week 4 (Castle Ravenloft cell, during the heist)
+**Appears:** Module 3, Session 4 (Castle Ravenloft cell, during the heist)
 
 ---
 
@@ -11,7 +11,7 @@ Early twenties. She looks like someone who came here with a plan and has been ad
 ## Personality
 Direct. Practical. Not traumatized in the way the party might expect — she came to Ravenloft *willingly*, she has been mostly ignored by Strahd, and she has been reading his library while waiting. She is actually slightly annoyed to be rescued if the party implies she's been helpless.
 
-She came to find Doru. She found what was left of him (or the aftermath of him, depending on what the party did in Month 1). Strahd found her. He found her tiresome and put her in a comfortable cell with books.
+She came to find Doru. She found what was left of him (or the aftermath of him, depending on what the party did in Module 1). Strahd found her. He found her tiresome and put her in a comfortable cell with books.
 
 **Voice:** Brisk, collected, slightly impatient with drama.
 
@@ -38,7 +38,7 @@ This last piece of intelligence is a gift: she has identified the Heart of Sorro
 ## If Doru Was Destroyed
 She knows before the party can explain. Something in their faces.
 
-She doesn't cry in front of them. She says: "Thank you for telling me. Was it — was he — " They will have the answer to this from Month 1. She needs to hear it.
+She doesn't cry in front of them. She says: "Thank you for telling me. Was it — was he — " They will have the answer to this from Module 1. She needs to hear it.
 
 She carries grief with quiet dignity. She does not blame anyone. She goes home to the Village of Barovia and takes over her household. She visits Doru's grave regularly.
 
@@ -52,7 +52,7 @@ She is the one who tells him: "You are still you. The part that matters. I have 
 ---
 
 ## Campaign Arc
-- **Month 3, Week 4:** Rescued during the Ravenloft heist.
+- **Module 3, Session 4:** Rescued during the Ravenloft heist.
 - Returns to the Village of Barovia.
 - Contributes her map observations to the party's intelligence on Ravenloft's layout.
 - **Epilogue:** Present in Barovia village when the dawn comes.

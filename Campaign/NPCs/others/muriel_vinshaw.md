@@ -1,8 +1,8 @@
 # Muriel Vinshaw
 **Type:** Wereraven (Stat Block: Scout + Raven hybrid, CR 1/2 scout / CR 3 in hybrid)  
 **Role:** Keepers of the Feather Spy; Early Party Companion; Davian Martikov's Estranged Network Member  
-**First Appears:** Month 1, Week 3 (Tser Pool road — silver-winged raven following the party)  
-**Full Reveal:** Month 1, Week 4 (transforms during werewolf ambush)
+**First Appears:** Module 1, Session 3 (Tser Pool road — silver-winged raven following the party)  
+**Full Reveal:** Module 1, Session 4 (transforms during werewolf ambush)
 
 ---
 
@@ -53,7 +53,7 @@ Their sigil: a raven with silver-tipped wings.
 ## Campaign Arc
 - **Act I-II:** Follows the party as a raven; transforms during the werewolf ambush; introduces herself.
 - **Act II onward:** Travels with or near the party; provides aerial reconnaissance.
-- **Arc J (Month 3, Week 1):** Her history with Davian is revealed. She fights in the Yester Hill assault, drawing druid attention at a critical moment.
+- **Arc J (Module 3, Session 1):** Her history with Davian is revealed. She fights in the Yester Hill assault, drawing druid attention at a critical moment.
 - **Final Battle:** Present as aerial support.
 
 ---

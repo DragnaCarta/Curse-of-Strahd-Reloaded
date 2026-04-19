@@ -1,7 +1,7 @@
 # Strahd von Zarovich
 **Type:** Vampire (CR 15)  
 **Role:** Primary Villain  
-**First Appears:** Month 1, Week 3 (River Ivlis Crossroads)
+**First Appears:** Module 1, Session 3 (River Ivlis Crossroads)
 
 ---
 

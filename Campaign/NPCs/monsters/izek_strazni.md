@@ -1,7 +1,7 @@
 # Izek Strazni
 **Type:** Human (Cursed) Fighter/Warlock (Custom CR 6)  
 **Role:** Baron Vallakovich's Enforcer; Act II Villain/Tragic Figure  
-**First Appears:** Month 2, Week 1 (Vallaki streets)
+**First Appears:** Module 2, Session 1 (Vallaki streets)
 
 ---
 

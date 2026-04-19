@@ -15,7 +15,7 @@ The book smells of old paper, candlewax, and something that might be blood.
 ## What It Contains
 The Tome of Strahd is Strahd's personal journal spanning several centuries. Written in his private cipher (taught to him by Exethanter at the Amber Temple — a fact Exethanter will remember with guilt when his memory is restored).
 
-**Readable only after decoding.** Exethanter can decode it in one hour if given the book (Month 4, Week 2).
+**Readable only after decoding.** Exethanter can decode it in one hour if given the book (Module 4, Session 2).
 
 ### Contents (After Decoding)
 **Section 1 — His History:**
@@ -46,7 +46,7 @@ The Tome can appear in one of several places depending on your card draw. Common
 |----------|----------|
 | Baron Vallakovich's study | In a locked desk drawer (DC 15 Thieves' Tools or Perception to find) |
 | Wachterhaus (Lady Wachter's vault) | She has it and will negotiate; or the party finds it during a search |
-| Castle Ravenloft (Strahd's study) | Discovered during the Ravenloft heist (Month 3, Wk 4) — most dramatic |
+| Castle Ravenloft (Strahd's study) | Discovered during the Ravenloft heist (Module 3, Session 4) — most dramatic |
 | Amber Temple (Exethanter's old quarters) | Found during Act IV; convenient since Exethanter is right there to decode it |
 | Blue Water Inn (hidden room) | Urwin Martikov has been safeguarding it without knowing its full significance |
 

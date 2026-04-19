@@ -1,7 +1,7 @@
 # Dr. Rudolph van Richten (Alias: Rictavio)
 **Type:** Human Wizard/Fighter hybrid (Stat Block: Modified Archmage, CR 12)  
 **Role:** Legendary Vampire Hunter; Ezmerelda's Former Mentor; Van Richten's Guide  
-**First Appears:** Month 2, Week 2 (in disguise as Rictavio, Vallaki)  
+**First Appears:** Module 2, Session 2 (in disguise as Rictavio, Vallaki)  
 **Inspiration:** Van Helsing, Sherlock Holmes in retirement, a tired superhero
 
 ---
@@ -59,7 +59,7 @@ Van Richten recognized Arabelle's divine Seeker bloodline (from his research). H
 ## Campaign Arc
 - **Act II:** In disguise; helps from a distance; rescues Arabelle on his own initiative.
 - **Act III:** May reveal himself if pressed; admits who he is to the party.
-- **Arc K (Month 3, Week 2):** Full reveal. He and Ezmerelda have their reunion.
+- **Arc K (Module 3, Session 2):** Full reveal. He and Ezmerelda have their reunion.
 - **Act IV:** Active party support. He fights in the final assault.
 - **Epilogue:** He finds a note from Erasmus's ghost — "I forgive you, Dad." He doesn't speak for a long time.
 

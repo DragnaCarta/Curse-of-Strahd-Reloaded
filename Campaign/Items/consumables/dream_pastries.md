@@ -2,7 +2,7 @@
 **Category:** Consumable (Narcotic)  
 **Source:** Morgantha; Old Bonegrinder windmill  
 **Price:** 2 copper pieces each  
-**Session Relevance:** Introduced Month 1, Week 4; full significance Month 2, Week 4
+**Session Relevance:** Introduced Module 1, Session 4; full significance Module 2, Session 4
 
 ---
 

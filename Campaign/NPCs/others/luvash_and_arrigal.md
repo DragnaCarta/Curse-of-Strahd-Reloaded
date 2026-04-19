@@ -1,7 +1,7 @@
 # Luvash & Arrigal
 **Type:** Vistani (Stat Block: Bandit Captain CR 2 / Assassin CR 8)  
 **Role:** Vistani Camp Leaders; Arabelle's Father and Uncle  
-**Appears:** Month 2, Week 2 (Vistani camp east of Vallaki)
+**Appears:** Module 2, Session 2 (Vistani camp east of Vallaki)
 
 ---
 

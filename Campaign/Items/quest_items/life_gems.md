@@ -2,7 +2,7 @@
 **Category:** Quest Item (Enchanted Artifacts)  
 **Location:** Wizard of Wines winery (two); Yester Hill (one — must be recovered, Arc J)  
 **Guardians:** The Martikov family (Keepers of the Feather)  
-**Required For:** Reconsecrating the Three Fanes (Month 4, Week 3)
+**Required For:** Reconsecrating the Three Fanes (Module 4, Session 3)
 
 ---
 
@@ -26,7 +26,7 @@ To reconsecrate the Three Fanes, each gem must be planted at a specific site:
 
 ---
 
-## Gem 1 — Recovery (Arc J, Month 3, Week 1)
+## Gem 1 — Recovery (Arc J, Module 3, Session 1)
 The druids stole Gem 1 and carried it to Yester Hill as the center of their Wintersplinter ritual. It is embedded in the wicker effigy's chest.
 
 **Retrieving it:** DC 14 Athletics, 1d10 fire damage (Dex DC 12 for half), while the effigy is burning or collapsing.
@@ -35,7 +35,7 @@ After recovery: Davian Martikov plants it back in the vineyard to restore the wi
 
 ---
 
-## Planting the Gems (Month 4, Week 3)
+## Planting the Gems (Module 4, Session 3)
 Each gem's planting is a ritual moment, not a combat encounter. No saving throws, no skill checks — just the act of placing it in the earth at the right location.
 
 **What happens when a gem is planted:**

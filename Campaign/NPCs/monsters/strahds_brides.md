@@ -1,6 +1,6 @@
 # Strahd's Brides — Castle Ravenloft Court
 **Location:** Castle Ravenloft  
-**First Appears:** Month 3, Week 3 (Dinner at Ravenloft)
+**First Appears:** Module 3, Session 3 (Dinner at Ravenloft)
 
 ---
 
@@ -107,7 +107,7 @@ Use standard Vampire Spawn (CR 5).
 Escher will NOT fight the party unless directly attacked.
 
 ### Campaign Arc
-If Doru was cured (Month 1, Week 2): Escher may reach out via raven late in Act III or IV. He has complicated feelings about Doru's survival. The party can choose to help him seek redemption — or not.
+If Doru was cured (Module 1, Session 2): Escher may reach out via raven late in Act III or IV. He has complicated feelings about Doru's survival. The party can choose to help him seek redemption — or not.
 
 ---
 

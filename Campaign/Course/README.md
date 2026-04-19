@@ -20,10 +20,10 @@ The party is drawn into the demiplane of Barovia — a fog-shrouded valley ruled
 
 | Month | Act | Levels | Sessions | Major Arc |
 |-------|-----|--------|---------|-----------|
-| [Month 1](month_1/) | Act I: Into the Mists | **1 → 5** | 1–4 | Death House (L1) → Village of Barovia → Tarokka Reading → Road to Vallaki |
-| [Month 2](month_2/) | Act II: The Shadowed Town | **5 → 9** | 5–8 | St. Andral's Bones → Arabelle → Van Richten → Izek → Wachter's Coup → Night Hags → Krezk |
-| [Month 3](month_3/) | Act III: The Broken Land | **9 → 13** | 9–12 | Winery/Yester Hill → Abbey/Wolf Den → Argynvostholt/Dinner → Ravenloft Heist/Beacon |
-| [Month 4](month_4/) | Act IV: Secrets of the Ancient | **13 → 17** | 13–16 | Mountain Pass → Amber Temple → Three Fanes → Final Battle |
+| [Module 1](module_1/README.md) | Act I: Into the Mists | **1 → 5** | 1–4 | Death House (L1) → Village of Barovia → Tarokka Reading → Road to Vallaki |
+| [Module 2](module_2/) | Act II: The Shadowed Town | **5 → 9** | 5–8 | St. Andral's Bones → Arabelle → Van Richten → Izek → Wachter's Coup → Night Hags → Krezk |
+| [Module 3](module_3/) | Act III: The Broken Land | **9 → 13** | 9–12 | Winery/Yester Hill → Abbey/Wolf Den → Argynvostholt/Dinner → Ravenloft Heist/Beacon |
+| [Module 4](module_4/) | Act IV: Secrets of the Ancient | **13 → 17** | 13–16 | Mountain Pass → Amber Temple → Three Fanes → Final Battle |
 
 ---
 
@@ -41,9 +41,9 @@ Each week folder contains four files:
 
 ## Critical Setup — BEFORE SESSION 1
 Before the first session, **determine Madam Eva's Tarokka draws** and record them in:
-- `month_1/week_1/plan.md` (permanent record)
-- `month_1/week_3/plan.md` (used during the reading)
-- `month_1/week_3/recap.md` (finalized record)
+- `module_1/session_1/plan.md` (permanent record)
+- `module_1/session_3/plan.md` (used during the reading)
+- `module_1/session_3/recap.md` (finalized record)
 
 The Tarokka draws determine the locations of:
 1. The **Tome of Strahd**
@@ -70,8 +70,8 @@ These locations must be consistent throughout the campaign. Set them once and ne
 | Phase | Trigger | Character |
 |-------|---------|-----------|
 | The Gentleman | Campaign start | Polished curiosity; invites them to dinner |
-| The Tyrant | Argynvost's beacon lit (Month 3, Week 4) | Cold contempt; nightly psychological harassment |
-| The Monster | Sunsword completed (Month 4, Week 2) | Pure efficiency; no more games |
+| The Tyrant | Argynvost's beacon lit (Module 3, Session 4) | Cold contempt; nightly psychological harassment |
+| The Monster | Sunsword completed (Module 4, Session 2) | Pure efficiency; no more games |
 
 ---
 
@@ -79,7 +79,7 @@ These locations must be consistent throughout the campaign. Set them once and ne
 
 | Fane | Location | What's Needed | Guardian |
 |------|----------|---------------|---------|
-| Forest Fane | Yester Hill | Spear of the Huntress (party collects Month 3) | N/A after druids cleared |
+| Forest Fane | Yester Hill | Spear of the Huntress (party collects Module 3) | N/A after druids cleared |
 | Swamp Fane | Berez | Weaver's Gem (Martikovs carry it) | Baba Lysaga (boss) |
 | Mountain Fane | Mt. Ghakis base | Seeker's Gem (Martikovs carry it) | Strahd's hostage crisis |
 

@@ -1,7 +1,7 @@
 # Zuleika Toranescu & Emil Toranescu
 **Type:** Werewolves (Good-aligned); Priestess and Former Pack Alpha  
 **Role:** Providers of the Holy Symbol of Ravenkind; Pack Politics  
-**First Appears:** Month 3, Week 2 (Werewolf Den, Lake Baratok)
+**First Appears:** Module 3, Session 2 (Werewolf Den, Lake Baratok)
 
 ---
 

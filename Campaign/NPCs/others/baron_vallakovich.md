@@ -1,7 +1,7 @@
 # Baron Vargas Vallakovich
 **Type:** Human Noble (Stat Block: Noble, CR 1/8)  
 **Role:** Vallaki's Tyrant Burgomaster; Comic Villain Turned Pathetic  
-**Appears:** Month 2, Week 1 onward (Vallaki)
+**Appears:** Module 2, Session 1 onward (Vallaki)
 
 ---
 

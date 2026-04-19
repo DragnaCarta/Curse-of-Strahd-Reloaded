@@ -69,7 +69,7 @@ Each session lives in `Campaign/Course/month_X/week_Y/` and contains:
 | [Campaign/NPCs/monsters/strahd_von_zarovich.md](Campaign/NPCs/monsters/strahd_von_zarovich.md) | Strahd — all three personas, scaled final boss |
 | [Campaign/NPCs/monsters/rahadin.md](Campaign/NPCs/monsters/rahadin.md) | Chamberlain — CR 15, Screams of the Dead |
 | [Campaign/NPCs/others/ireena_kolyana.md](Campaign/NPCs/others/ireena_kolyana.md) | Ireena — the central figure |
-| [Campaign/NPCs/others/madam_eva.md](Campaign/NPCs/others/madam_eva.md) | Madam Eva — Tarokka reading, Month 1 Week 3 |
+| [Campaign/NPCs/others/madam_eva.md](Campaign/NPCs/others/madam_eva.md) | Madam Eva — Tarokka reading, Module 1 Session 3 |
 
 ---
 
@@ -78,5 +78,5 @@ Before Session 1, complete these steps:
 1. **Read** [Source/Introduction/synopsis.md](Source/Introduction/synopsis.md)
 2. **Decide** Madam Eva's Tarokka draws → record in [Campaign/Items/quest_items/tarokka_draw.md](Campaign/Items/quest_items/tarokka_draw.md)
 3. **Review** [Campaign/Course/level_scaling.md](Campaign/Course/level_scaling.md) — especially Session 1 (Death House at Level 1)
-4. **Read** Session 1 files: `Campaign/Course/month_1/week_1/plan.md` and `plot.md`
-5. **Check** [Campaign/NPCs/physical.md](Campaign/NPCs/physical.md) — order any minis needed for Month 1
+4. **Read** Session 1 files: `Campaign/Course/module_1/session_1/plan.md` and `plot.md`
+5. **Check** [Campaign/NPCs/physical.md](Campaign/NPCs/physical.md) — order any minis needed for Module 1

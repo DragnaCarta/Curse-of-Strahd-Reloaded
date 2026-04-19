@@ -1,7 +1,7 @@
 # Ismark Kolyanovich
 **Type:** Human Fighter (Stat Block: Veteran, CR 3)  
 **Role:** Ireena's Adoptive Brother; Early Act I Companion  
-**First Appears:** Month 1, Week 2 (Burgomaster's Mansion, Village of Barovia)  
+**First Appears:** Module 1, Session 2 (Burgomaster's Mansion, Village of Barovia)  
 **Inspiration:** Jon Snow, Faramir
 
 ---

@@ -1,7 +1,7 @@
 # Erasmus van Richten
 **Type:** Ghost (Child); Stat Block: Ghost (CR 4) — but never hostile  
 **Role:** Van Richten's Dead Son; Arc H Catalyst; Emotional Core of the Van Richten Subplot  
-**Appears:** Month 2, Week 3 (Blue Water Inn — first contact); Month 4 (final moment)
+**Appears:** Module 2, Session 3 (Blue Water Inn — first contact); Module 4 (final moment)
 
 ---
 
@@ -30,8 +30,8 @@ He is perceptive — he sees things others miss, including Stella's scattered so
 ---
 
 ## Campaign Role
-- **Month 2, Week 3:** He appears through the inn wall and leads the party to Victor. He explains Stella's situation.
-- **Month 2, Week 4:** Present during the Ethereal Plane ritual. He helps guide Stella's soul back when Leo Dilisnya is defeated — he knew where she was the whole time.
+- **Module 2, Session 3:** He appears through the inn wall and leads the party to Victor. He explains Stella's situation.
+- **Module 2, Session 4:** Present during the Ethereal Plane ritual. He helps guide Stella's soul back when Leo Dilisnya is defeated — he knew where she was the whole time.
 - **After Stella's rescue:** He hangs around less. He seems more settled.
 - **Final Battle / Epilogue:** He leaves a note in Van Richten's wagon. Van Richten finds it. This is the most quietly devastating moment in the epilogue.
 

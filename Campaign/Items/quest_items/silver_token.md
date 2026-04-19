@@ -1,6 +1,6 @@
 # Zuleika's Silver Token
 **Category:** Quest Item (Identification Token)  
-**Source:** Zuleika Toranescu (given when the deal is struck, Month 3, Week 2)  
+**Source:** Zuleika Toranescu (given when the deal is struck, Module 3, Session 2)  
 **Required For:** Getting the sympathetic dungeon guard to look away during Emil's rescue
 
 ---

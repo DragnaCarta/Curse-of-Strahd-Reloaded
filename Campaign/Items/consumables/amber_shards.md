@@ -1,6 +1,6 @@
 # Amber Shards — Vestige Dark Gifts
 **Category:** Consumable (Cursed — Dark Gift Delivery)  
-**Source:** Amber Temple sarcophagi (Month 4, Week 2)  
+**Source:** Amber Temple sarcophagi (Module 4, Session 2)  
 **Warning:** These are intentional temptations. Track carefully.
 
 ---

@@ -1,7 +1,7 @@
 # Stella Wachter
 **Type:** Human (Catatonic / Recovering); no combat stats  
 **Role:** Lady Wachter's Daughter; Victor's Catalyst; Arc H McGuffin with a Soul  
-**Appears:** Month 2, Week 2 (catatonic in a chair at Wachterhaus); Month 2, Week 4 (rescued)
+**Appears:** Module 2, Session 2 (catatonic in a chair at Wachterhaus); Module 2, Session 4 (rescued)
 
 ---
 
@@ -46,8 +46,8 @@ In the epilogue: he finally says something. It comes out badly. She laughs. This
 ---
 
 ## Campaign Arc
-- **Month 2, Week 2:** Catatonic in Wachterhaus — players see her, are told about Victor's accident.
-- **Month 2, Week 4:** Rescued via the Ethereal Plane ritual. The reunion.
+- **Module 2, Session 2:** Catatonic in Wachterhaus — players see her, are told about Victor's accident.
+- **Module 2, Session 4:** Rescued via the Ethereal Plane ritual. The reunion.
 - **Act III onward:** Recovering. She begins to assert herself in Wachterhaus. Lady Wachter listens.
 - **War Council:** She attends. She volunteers to help with civilian coordination. Her mother doesn't argue.
 

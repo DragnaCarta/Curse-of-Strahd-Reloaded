@@ -1,8 +1,8 @@
 # Sasha's Iron Key
 **Category:** Quest Item (Access Key)  
-**Source:** Sasha Ivliskova (slipped to a party member during the dinner, Month 3, Week 3)  
+**Source:** Sasha Ivliskova (slipped to a party member during the dinner, Module 3, Session 3)  
 **Required For:** East crypt passage access during the Ravenloft heist  
-**Session:** Given Month 3, Week 3; used Month 3, Week 4
+**Session:** Given Module 3, Session 3; used Module 3, Session 4
 
 ---
 

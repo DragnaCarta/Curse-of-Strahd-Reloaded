@@ -1,7 +1,7 @@
 # Father Lucian Petrovich
 **Type:** Human Priest (Stat Block: Priest, CR 2)  
 **Role:** Vallaki's Moral Anchor; St. Andral's Church  
-**First Appears:** Month 2, Week 1 (St. Andral's Church, Vallaki)  
+**First Appears:** Module 2, Session 1 (St. Andral's Church, Vallaki)  
 **Inspiration:** Uncle Iroh (Avatar: The Last Airbender), Mister Rogers, a man whose faith is genuinely, quietly earned
 
 ---

@@ -5,7 +5,7 @@ Supporting cast of Vallaki. No combat stats unless noted.
 
 ## Gadof Blinsky
 **Role:** Toy-maker; Blinsky Toys; unwilling Izek commission artist  
-**Appears:** Month 2, Week 2 (Blinsky Toys shop, Vallaki)
+**Appears:** Module 2, Session 2 (Blinsky Toys shop, Vallaki)
 
 ### Appearance
 A small, sad man in a jester's hat and coat — his "professional uniform." The hat has bells that don't ring anymore because they've been worn smooth. He looks like a man who chose a cheerful profession and has been outlasted by it.
@@ -26,7 +26,7 @@ He makes the Ireena-lookalike dolls because Izek pays him and Izek frightens him
 
 ## Henrik van der Voort
 **Role:** Coffin-maker; Volenta's unwilling host; Arc D key NPC  
-**Appears:** Month 2, Week 1 (Coffin-maker's shop, Vallaki)
+**Appears:** Module 2, Session 1 (Coffin-maker's shop, Vallaki)
 
 ### Appearance
 A nervous middle-aged man with the dark circles of someone who hasn't slept since a vampire moved into his attic. He answers the door, takes one look at the party, and immediately tries to close it.
@@ -48,7 +48,7 @@ Terrified. He is not bad — he is a man who made one bad decision (accepting pa
 
 ## Milivoj
 **Role:** St. Andral's Church groundskeeper; stole the bones out of desperation  
-**Appears:** Month 2, Week 1 (St. Andral's Church)
+**Appears:** Module 2, Session 1 (St. Andral's Church)
 
 ### Appearance
 A teenager — seventeen at most. Guilt written across his entire face from the moment the party speaks to him. Dark circles. He has been unable to eat since he did it.
@@ -69,7 +69,7 @@ He breaks with almost no pressure — he has been waiting for someone to confess
 
 ## Ernst Larnak
 **Role:** Lady Wachter's spy and go-between; everywhere, remembered by no one  
-**Appears:** Month 2, Week 2 (Wachterhaus dinner; seen in various Vallaki locations)
+**Appears:** Module 2, Session 2 (Wachterhaus dinner; seen in various Vallaki locations)
 
 ### Appearance
 Middle-aged. Forgettable face — average height, average coloring, the kind of person you don't retain in memory after he leaves a room. This is professionally useful.
@@ -88,7 +88,7 @@ Professional, watchful, completely loyal to Lady Wachter. He has no apparent per
 
 ## Arturi Radanavich
 **Role:** Wandering Vistani; Van Richten connection; the curse-giver  
-**Appears:** Month 1, Week 3 (Tser Pool camp, briefly)
+**Appears:** Module 1, Session 3 (Tser Pool camp, briefly)
 
 ### Appearance
 Middle-aged Vistani man, missing two fingers on his right hand. Travels alone. The kind of person who carries their history visibly.
@@ -111,7 +111,7 @@ He does not regret it. He also does not feel better. The curse made sense as gri
 
 ## Cyrus Belview
 **Role:** Eldest mongrelfolk at the Abbey; most articulate resident  
-**Appears:** Month 3, Week 1–2 (Abbey of Saint Markovia)
+**Appears:** Module 3, Session 1–2 (Abbey of Saint Markovia)
 
 ### Appearance
 Too many features — the Abbot's experiments gave him functional animal traits alongside his human ones. He has worked out a kind of dignity about it.

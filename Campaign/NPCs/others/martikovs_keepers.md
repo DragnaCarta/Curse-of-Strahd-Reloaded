@@ -1,7 +1,7 @@
 # The Martikovs — Keepers of the Feather Leadership
 **Type:** Wereravens (Stat Block: Commoner/Guard + Wereraven hybrid)  
 **Role:** Winery + Inn owners; Secret Resistance Network  
-**First Appears:** Month 1, Week 4 (Urwin, at the Blue Water Inn)
+**First Appears:** Module 1, Session 4 (Urwin, at the Blue Water Inn)
 
 ---
 

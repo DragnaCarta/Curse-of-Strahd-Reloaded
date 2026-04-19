@@ -1,7 +1,7 @@
 # Night Hag Heartstone
 **Category:** Quest Item (Hag's Focus)  
 **Source:** Morgantha (Old Bonegrinder); must be borrowed or taken  
-**Required For:** Victor's Ethereal Plane ritual (Arc H, Month 2, Week 4)  
+**Required For:** Victor's Ethereal Plane ritual (Arc H, Module 2, Session 4)  
 **Duration of Need:** 1 hour (Victor returns it after the ritual or it's destroyed when Morgantha dies)
 
 ---

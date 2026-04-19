@@ -2,7 +2,7 @@
 **Type:** Death Knight (CR 17) — with Legendary Actions  
 **Location:** Argynvostholt, Great Hall — on his throne, staring at nothing  
 **Role:** Former commander of the Order of the Silver Dragon; walking monument to grief that became hatred  
-**Session:** Month 3, Week 3  
+**Session:** Module 3, Session 3  
 **Note:** He is NOT the enemy. He is wrong in a way that makes him dangerous if provoked.
 
 ---

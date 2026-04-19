@@ -1,7 +1,7 @@
 # Exethanter
 **Type:** Ghost (Former Lich Archmage); Stat Block: Archmage (CR 12) ghost variant  
 **Role:** Amber Temple's Former Master; Tome of Strahd Decoder; Guide to the Sunsword  
-**Appears:** Month 4, Week 2 (Amber Temple)
+**Appears:** Module 4, Session 2 (Amber Temple)
 
 ---
 

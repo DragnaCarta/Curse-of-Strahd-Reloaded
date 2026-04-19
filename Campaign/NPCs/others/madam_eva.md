@@ -1,7 +1,7 @@
 # Madam Eva
 **Type:** Vistani Elder (Avatar of the Seeker Goddess); CR 10 if combat ever needed (never intended)  
 **Role:** The Tarokka Reader; Avatar of the Seeker; Oracle  
-**First Appears:** Month 1, Week 3 (Tser Pool camp)  
+**First Appears:** Module 1, Session 3 (Tser Pool camp)  
 **Inspiration:** The Ancient One (Marvel), The Fates (mythology), Trelawney at her most genuine
 
 ---
@@ -23,7 +23,7 @@ She does not guess. She knows. She has been waiting for the party since before t
 
 ---
 
-## The Tarokka Reading (Month 1, Week 3) ⭐
+## The Tarokka Reading (Module 1, Session 3) ⭐
 This is the campaign's central expository scene. Madam Eva draws five cards:
 
 **Card 1 — Tome of Strahd:** "This card tells of history — knowledge of the ancient. The master's secrets are hidden in [LOCATION]."
@@ -36,7 +36,7 @@ This is the campaign's central expository scene. Madam Eva draws five cards:
 
 **Card 5 — The Enemy (Final Card):** "This… is the card that matters most. The one who will stand in the darkness's path. That is you. All of you. If you are willing."
 
-> **DM NOTE:** Card locations must be determined BEFORE Session 1 (Week 1 plan.md). See the official *Curse of Strahd* Tarokka deck placement rules in the Appendix for all possible locations by card draw. Record the results and never change them.
+> **DM NOTE:** Card locations must be determined BEFORE Session 1 (Session 1 plan.md). See the official *Curse of Strahd* Tarokka deck placement rules in the Appendix for all possible locations by card draw. Record the results and never change them.
 
 ---
 

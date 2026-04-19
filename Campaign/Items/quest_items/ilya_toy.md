@@ -2,7 +2,7 @@
 **Category:** Quest Item (Personal Effect)  
 **Source:** Baron Krezkov (given when the party mentions Baba Lysaga's demands)  
 **Required For:** Baba Lysaga's scrying ritual — she uses it to watch Ilya from Berez  
-**Session:** Month 2, Week 4 / Month 3 crossover (Krezk arc)
+**Session:** Module 2, Session 4 / Module 3 crossover (Krezk arc)
 
 ---
 
@@ -28,7 +28,7 @@ When he hands it to a party member: "Baba Lysaga has his." He says nothing else.
 ---
 
 ## Resolving the Arc
-When the party defeats or deals with Baba Lysaga in Act IV (Month 4, Week 3), Ilya can be recovered from Berez. His original toy is in Lysaga's hut — on a shelf, near her scrying bowl.
+When the party defeats or deals with Baba Lysaga in Act IV (Module 4, Session 3), Ilya can be recovered from Berez. His original toy is in Lysaga's hut — on a shelf, near her scrying bowl.
 
 Returning both Ilya and the original toy to Baron Krezkov is one of the campaign's quieter victories. He takes the boy, then takes the toy, holds them both for a moment.
 

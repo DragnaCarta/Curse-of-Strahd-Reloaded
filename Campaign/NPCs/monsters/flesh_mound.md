@@ -1,7 +1,7 @@
 # The Flesh Mound
 **Type:** Undead Abomination (Modified Shambling Mound, CR 5)  
 **Role:** Death House Final Boss  
-**Appears:** Month 1, Week 1 (Death House basement)
+**Appears:** Module 1, Session 1 (Death House basement)
 
 ---
 

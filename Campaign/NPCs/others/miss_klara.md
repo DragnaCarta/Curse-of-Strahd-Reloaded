@@ -1,7 +1,7 @@
 # Miss Klara — The Nursemaid
 **Location:** Death House, Floor 2 (Nursemaid's Suite) — appears in the mirror  
 **Role:** Benign spirit; information source; tragic figure  
-**Session:** Month 1, Week 1  
+**Session:** Module 1, Session 1  
 **Classification:** Ghost (specter origin) — NOT hostile
 
 ---

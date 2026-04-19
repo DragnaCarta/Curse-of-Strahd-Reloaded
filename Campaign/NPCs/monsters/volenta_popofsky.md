@@ -1,7 +1,7 @@
 # Volenta Popofsky
 **Type:** Vampire Spawn / Vampire Bride (Custom CR 6 / CR 9 in Ravenloft)  
 **Role:** Strahd's Second Bride; Act II Villain; Ravenloft recurring antagonist  
-**First Appears:** Month 2, Week 1 (Coffin-maker's shop, Vallaki)
+**First Appears:** Module 2, Session 1 (Coffin-maker's shop, Vallaki)
 
 ---
 
@@ -60,9 +60,9 @@ She is inspired by Jinx from *Arcane* and Harley Quinn — chaotic, genuinely fu
 ---
 
 ## Campaign Arc
-1. **Month 2, Week 1 (Arc D):** Boss of the coffin-maker encounter. Escapes at 0 HP.
-2. **Month 3, Week 3 (Arc O):** Present at Dinner at Ravenloft. Manic with glee at seeing the party.
-3. **Month 4, Week 4 (Final Battle):** Optional encounter during the heist/final assault. Can be permanently killed inside Ravenloft.
+1. **Module 2, Session 1 (Arc D):** Boss of the coffin-maker encounter. Escapes at 0 HP.
+2. **Module 3, Session 3 (Arc O):** Present at Dinner at Ravenloft. Manic with glee at seeing the party.
+3. **Module 4, Session 4 (Final Battle):** Optional encounter during the heist/final assault. Can be permanently killed inside Ravenloft.
 
 ---
 

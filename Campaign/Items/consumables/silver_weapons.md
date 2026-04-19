@@ -45,17 +45,17 @@ She will share freely with allies. If asked to sell: 10 gp per silver arrow, 75 
 
 | Session | Relevant Encounters | Silver Need |
 |---------|-------------------|------------|
-| Month 1, Wk 4 | Strix wolves (Tser Pool) | Low — strix are fey, silver optional |
-| Month 2, Wk 4 | Night hags | Silver optional (hags have standard resistances) |
-| Month 3, Wk 1 | Winery druids | Not needed |
-| Month 3, Wk 2 | Kiril's werewolf pack | HIGH — core encounter, silver essential |
-| Month 3, Wk 2 | Emil's rescue | Moderate |
-| Month 3, Wk 4 | Vampire spawn | High — silver or magical |
-| Month 4, Wk 3–4 | Final battles | Very high — silver + magic |
+| Module 1, Session 4 | Strix wolves (Tser Pool) | Low — strix are fey, silver optional |
+| Module 2, Session 4 | Night hags | Silver optional (hags have standard resistances) |
+| Module 3, Session 1 | Winery druids | Not needed |
+| Module 3, Session 2 | Kiril's werewolf pack | HIGH — core encounter, silver essential |
+| Module 3, Session 2 | Emil's rescue | Moderate |
+| Module 3, Session 4 | Vampire spawn | High — silver or magical |
+| Module 4, Session 3–4 | Final battles | Very high — silver + magic |
 
 ---
 
 ## At High Party Levels (12+)
-By Month 3, most party members will have +1 or better magical weapons, which bypass silver resistances entirely. Silver becomes less critical as an equipment concern — but silver arrows remain useful for archer characters who haven't found magic ammunition.
+By Module 3, most party members will have +1 or better magical weapons, which bypass silver resistances entirely. Silver becomes less critical as an equipment concern — but silver arrows remain useful for archer characters who haven't found magic ammunition.
 
-**DM note:** Don't belabor the silver economy at high levels. The "do you have silver?" tension is most effective in Months 1-2. By Month 3, the party should feel capable. Let them.
+**DM note:** Don't belabor the silver economy at high levels. The "do you have silver?" tension is most effective in Months 1-2. By Module 3, the party should feel capable. Let them.

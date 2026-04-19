@@ -44,7 +44,7 @@ Water in a small sealed glass vial, sealed with a wax stamp bearing the Morningl
 - Has 1d4 flasks; in poor condition but still functional
 - If Doru is resolved peacefully, he becomes more active and keeps better supply (1d8 flasks)
 
-**The Abbot (post-redemption, Month 3, Week 4+):**
+**The Abbot (post-redemption, Module 3, Session 4+):**
 - An extremely powerful source — his consecrations are more potent
 - His holy water deals 2d6+2 radiant instead of 2d6
 - He can create 10 flasks per hour

@@ -1,7 +1,7 @@
 # Rose & Thorn Durst
 **Type:** Ghost Children (no combat stats unless possessing)  
 **Role:** Death House lure; tragic guides; first heartbreak of the campaign  
-**Appears:** Month 1, Week 1 (Death House, Daggerford fog border)
+**Appears:** Module 1, Session 1 (Death House, Daggerford fog border)
 
 ---
 

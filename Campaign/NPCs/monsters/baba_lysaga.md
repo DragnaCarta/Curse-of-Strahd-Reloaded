@@ -1,7 +1,7 @@
 # Baba Lysaga
 **Type:** Archmage Witch (CR 11, custom modifications)  
 **Role:** Swamp Guardian; Act IV Major Boss  
-**First Appears:** Month 2, Week 4 (Berez — polite first meeting); Boss Fight: Month 4, Week 3
+**First Appears:** Module 2, Session 4 (Berez — polite first meeting); Boss Fight: Module 4, Session 3
 
 ---
 
@@ -59,9 +59,9 @@ If the skull is destroyed: Lysaga falls prone (20 ft. fall, 2d6 damage) and lose
 ---
 
 ## First Meeting vs. Boss Fight
-**First Meeting (Month 2, Week 4):** She is helpful — she scries for Ilya Krezkov. She is observably powerful but not hostile. The party should leave understanding they've met something they cannot fight today.
+**First Meeting (Module 2, Session 4):** She is helpful — she scries for Ilya Krezkov. She is observably powerful but not hostile. The party should leave understanding they've met something they cannot fight today.
 
-**Boss Fight (Month 4, Week 3):** She knows they're coming. She has prepared the swamp. She fights from the skull, commanding blights, until the skull is taken out from under her.
+**Boss Fight (Module 4, Session 3):** She knows they're coming. She has prepared the swamp. She fights from the skull, commanding blights, until the skull is taken out from under her.
 
 ---
 

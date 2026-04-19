@@ -1,6 +1,6 @@
 # Holy Symbol of Ravenkind
 **Category:** Artifact (Legendary Wondrous Item)  
-**Acquired:** Month 3, Week 2 — from Zuleika Toranescu after rescuing Emil from Castle Ravenloft  
+**Acquired:** Module 3, Session 2 — from Zuleika Toranescu after rescuing Emil from Castle Ravenloft  
 **Foretold by:** Madam Eva's Tarokka reading (Card 2)
 
 ---
@@ -37,9 +37,9 @@ Zuleika Toranescu has kept it wrapped in cloth because holding it bare causes ph
 ---
 
 ## How to Get It
-Zuleika Toranescu holds the symbol. She will give it when Emil is safely returned from Castle Ravenloft's dungeons. The exchange happens at the werewolf den after the Ravenloft heist (Month 3, Week 4).
+Zuleika Toranescu holds the symbol. She will give it when Emil is safely returned from Castle Ravenloft's dungeons. The exchange happens at the werewolf den after the Ravenloft heist (Module 3, Session 4).
 
-**The deal (Month 3, Week 2):** Party promises to rescue Emil → Zuleika promises the symbol upon Emil's return.
+**The deal (Module 3, Session 2):** Party promises to rescue Emil → Zuleika promises the symbol upon Emil's return.
 
 **If the party rescues Emil but doesn't return to the den:** Zuleika sends a raven requesting the meeting. She will not chase them. She trusts they will come.
 

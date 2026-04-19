@@ -1,7 +1,7 @@
 # Doru
 **Type:** Vampire Spawn (potentially cured)  
 **Role:** Father Donavich's Son; Vampire Spawn Fighting His Nature; Potential Redemption Arc  
-**First Appears:** Month 1, Week 2 (Church basement, Village of Barovia)  
+**First Appears:** Module 1, Session 2 (Church basement, Village of Barovia)  
 **Inspiration:** Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad)
 
 ---
@@ -44,7 +44,7 @@ He led the charge to Castle Ravenloft after being inspired by Van Richten. He wa
 
 ---
 
-## Three Paths (Chosen in Month 1, Week 2)
+## Three Paths (Chosen in Module 1, Session 2)
 
 ### Path 1: Destruction
 Father Donavich, with the party's help, unlocks the cell. Doru has a final lucid moment. He thanks someone by name for telling Gertruda he's sorry. He looks peaceful when it's done.
@@ -64,7 +64,7 @@ Doru continues to suffer. Father Donavich continues to pray. This becomes a tick
 ---
 
 ## Gertruda
-Doru's betrothed. She comes to Vallaki to find him in Act II and eventually reaches Castle Ravenloft (where Strahd keeps her as a guest/prisoner). She is one of the heist objectives in Month 3, Week 4.
+Doru's betrothed. She comes to Vallaki to find him in Act II and eventually reaches Castle Ravenloft (where Strahd keeps her as a guest/prisoner). She is one of the heist objectives in Module 3, Session 4.
 
 ---
 

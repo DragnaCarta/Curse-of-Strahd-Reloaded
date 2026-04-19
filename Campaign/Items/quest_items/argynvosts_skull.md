@@ -1,8 +1,8 @@
 # Argynvost's Skull
 **Category:** Quest Item (Dragon Remains)  
 **Location:** Castle Ravenloft — Hall of Bones (mounted as a trophy)  
-**Required For:** Lighting the Beacon at Argynvostholt (Arc M/Q, Month 3)  
-**Session:** Recovered Month 3, Week 4 (Ravenloft heist); returned Month 3, Week 4 (same session)
+**Required For:** Lighting the Beacon at Argynvostholt (Arc M/Q, Module 3)  
+**Session:** Recovered Module 3, Session 4 (Ravenloft heist); returned Module 3, Session 4 (same session)
 
 ---
 

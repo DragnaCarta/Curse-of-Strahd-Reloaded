@@ -23,7 +23,7 @@
 | **HP Max** | Know when an encounter is threatening vs. trivial at a glance |
 | **AC** | Know if your monsters can reliably hit them |
 | **Passive Perception** | Determines what they notice without rolling — traps, ambushes, hidden doors |
-| **Trinket** | Which Barovian trinket each character carries (Month 1 hook) |
+| **Trinket** | Which Barovian trinket each character carries (Module 1 hook) |
 
 ---
 
@@ -35,7 +35,7 @@
 - Jake (Monk): Ki points (2), Flurry of Blows (2 extra unarmed attacks for 1 ki), high Perception and Investigation
 - Sorcerer: Fire Bolt (1d10 ranged cantrip), Shield (+5 AC reaction), Magic Missile (auto-hit 3d4+3)
 - Druid: Speak with Animals, Wild Shape (CR 1/4 beasts, 2 uses per short rest), Produce Flame (1d8 ranged cantrip)
-- **No dedicated healer** — Paladin has Lay on Hands (5 HP pool) and Druid can prepare Cure Wounds, but no Cleric. Deaths are likely.
+- **No dedicated healer** — Paladin has Lay on Hands (10 HP pool at level 2: 5 × level) and Druid can prepare Cure Wounds, but no Cleric. Deaths are likely.
 
 ---
 
@@ -70,7 +70,7 @@
 
 | Item | File | Carrier | Acquired |
 |------|------|---------|---------|
-| Elisabeth's Amber Shard | `NPCs/monsters/flesh_mound.md` | **Jake (Monk)** | Floor 2, Master Bedroom |
+| Elisabeth's Amber Shard | `Items/quest_items/elisabeth_amber_shard.md` | **Scott (Sorcerer)** — gifted by Jake | Floor 2 found; custody passed before Floor 3 |
 | Iron Key (front door) | — | *(confirm)* | Floor 2, Master Bedroom fireplace |
 | Miss Klara's Locket (infant hair) | `NPCs/others/walter_durst.md` | *(confirm)* | Floor 2, Nursemaid's body |
 | Walter's Name Disc (from doll) | — | Ben | Floor 2, Inside nursemaid's doll |

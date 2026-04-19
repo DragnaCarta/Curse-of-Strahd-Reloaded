@@ -1,7 +1,7 @@
 # Ireena Kolyana
 **Type:** Human Fighter (Stat Block: Veteran, CR 3)  
 **Role:** Primary Protected NPC; Tatyana Reincarnation; Ismark's Adoptive Sister  
-**First Appears:** Month 1, Week 2 (Burgomaster's Mansion, Village of Barovia)  
+**First Appears:** Module 1, Session 2 (Burgomaster's Mansion, Village of Barovia)  
 **Inspiration:** Belle, Éowyn, Hermione Granger, Katniss Everdeen
 
 ---

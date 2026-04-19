@@ -1,7 +1,7 @@
 # Father Donavich
 **Type:** Human Priest (Stat Block: Priest, CR 2 — though he will not fight)  
 **Role:** Village of Barovia's Priest; Doru's Father; Faith in Crisis  
-**Appears:** Month 1, Week 2 (Church, Village of Barovia)  
+**Appears:** Module 1, Session 2 (Church, Village of Barovia)  
 **Inspiration:** Eddard Stark carrying a burden that breaks him, Boromir trying to hold a line
 
 ---
@@ -26,7 +26,7 @@ He is not angry at the party. He is barely present — grief has taken up most o
 ---
 
 ## Arc Through the Campaign
-**Month 1, Week 2:** He is broken. He refuses to let Doru be destroyed (at first). With the party's compassion, he may allow it — or the party may cure Doru by other means.
+**Module 1, Session 2:** He is broken. He refuses to let Doru be destroyed (at first). With the party's compassion, he may allow it — or the party may cure Doru by other means.
 
 **If Doru is destroyed:** Donavich grieves through Act II. He begins rebuilding his faith in Act III — slowly, quietly. By Act IV he is present at the war council in spirit (he defends the church), and when the dawn comes, he is on his knees in the churchyard.
 

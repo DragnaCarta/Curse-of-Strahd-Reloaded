@@ -1,7 +1,7 @@
 # Victor Vallakovich
 **Type:** Human Arcane Student (Stat Block: Apprentice Wizard, CR 3 modified)  
 **Role:** Baron's Son; Forbidden Magic Student; Stella's Rescue Key; Morally Grey Ally  
-**First Appears:** Month 2, Week 3 (his hidden workshop, via Erasmus's ghost)  
+**First Appears:** Module 2, Session 3 (his hidden workshop, via Erasmus's ghost)  
 **Inspiration:** Draco Malfoy, Artemis Fowl
 
 ---
@@ -44,7 +44,7 @@ He has spent weeks trying to fix it. He hasn't been able to. He needs: a heartst
 ---
 
 ## Campaign Arc
-- **Act II (Month 2, Week 3):** Introduction via Erasmus. Assists with the spirit mirror ritual.
+- **Act II (Module 2, Session 3):** Introduction via Erasmus. Assists with the spirit mirror ritual.
 - **After Stella's restoration:** He withdraws to his workshop. He is processing. He visits Stella.
 - **Act IV:** He is at the war council. He has something to prove. He proves it — his defensive magic is significant during Vallaki's siege.
 - **Epilogue:** He tells Stella how he feels. Badly. She laughs.

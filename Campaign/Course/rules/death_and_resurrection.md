@@ -61,9 +61,9 @@ Full rules in `Campaign/Course/templates/spirit_character.md`.
 
 | Method | Available | Notes |
 |--------|-----------|-------|
-| The Abbot's Grace | Month 3, Week 4+ | Once per spirit; post-redemption only |
-| Amber Temple Ritual | Month 4, Week 2+ | Requires 500 gp diamond (found in temple) |
-| Sergei's Intercession | Month 4, Week 2 | Only if spirit never accepted a Dark Gift |
+| The Abbot's Grace | Module 3, Session 4+ | Once per spirit; post-redemption only |
+| Amber Temple Ritual | Module 4, Session 2+ | Requires 500 gp diamond (found in temple) |
+| Sergei's Intercession | Module 4, Session 2 | Only if spirit never accepted a Dark Gift |
 | The Ladies Three | After all Fanes consecrated | DM's gift; one spirit only |
 
 ---

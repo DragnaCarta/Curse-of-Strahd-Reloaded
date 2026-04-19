@@ -1,7 +1,7 @@
 # Sergei von Zarovich
 **Type:** Ghost (Prince); Stat Block: Ghost (CR 4) — nonhostile  
 **Role:** Strahd's Murdered Brother; Sunsword's Soul; Forgiveness Incarnate  
-**Appears:** Month 4, Week 2 (Amber Temple — summoned to empower the Sunsword)
+**Appears:** Module 4, Session 2 (Amber Temple — summoned to empower the Sunsword)
 
 ---
 

@@ -1,7 +1,7 @@
 # Baron Dmitri Krezkov
 **Type:** Human / Werewolf (Stat Block: Werewolf, CR 3)  
 **Role:** Burgomaster of Krezk; Secret Werewolf; Gate-Keeper of Act II's Final Area  
-**Appears:** Month 2, Week 4 (Krezk village gates)
+**Appears:** Module 2, Session 4 (Krezk village gates)
 
 ---
 
@@ -29,7 +29,7 @@ His son Ilya has inherited the lycanthropy and ran away to the werewolf den near
 ## The Entry Requirement (Arc I)
 Dmitri will open Krezk's gates ONLY after the party completes his request: travel to Berez and have Baba Lysaga scry for his missing son Ilya. He provides a personal item of Ilya's — a carved wooden horse Ilya made as a child.
 
-This requires a brief, non-hostile interaction with Baba Lysaga (Month 2, Week 4 — her first meeting with the party).
+This requires a brief, non-hostile interaction with Baba Lysaga (Module 2, Session 4 — her first meeting with the party).
 
 ---
 

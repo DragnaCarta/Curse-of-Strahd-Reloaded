@@ -1,7 +1,7 @@
 # The Sunsword
 **Category:** Artifact (Legendary Weapon)  
 **Type:** Longsword  
-**Acquired:** Month 4, Week 2 — Amber Temple (Vampyr's sarcophagus), empowered by summoning Sergei von Zarovich  
+**Acquired:** Module 4, Session 2 — Amber Temple (Vampyr's sarcophagus), empowered by summoning Sergei von Zarovich  
 **Foretold by:** Madam Eva's Tarokka reading (Card 3)
 
 ---

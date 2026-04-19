@@ -1,7 +1,7 @@
 # Gustav Durst — The Broken Patriarch
 **Location:** Death House Basement — blocks the exit from the Reliquary  
 **Role:** Reluctant obstacle; tragic figure; the other half of the house's tragedy  
-**Session:** Month 1, Week 1  
+**Session:** Module 1, Session 1  
 **Classification:** Poltergeist (without Invisibility) — initially hostile, can be bypassed
 
 ---

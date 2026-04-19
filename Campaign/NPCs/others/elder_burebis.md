@@ -1,7 +1,7 @@
 # Elder Burebis
 **Type:** Ancient Storm Giant (Dying); no combat — he cannot stand  
 **Role:** Keeper of the Fane Lore; Final Exposition; Death Scene  
-**Appears:** Month 4, Week 1 (Soldav, the hidden mountain village)
+**Appears:** Module 4, Session 1 (Soldav, the hidden mountain village)
 
 ---
 

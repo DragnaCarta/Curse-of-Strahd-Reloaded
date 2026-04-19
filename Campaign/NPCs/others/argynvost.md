@@ -1,7 +1,7 @@
 # Argynvost
 **Type:** Silver Dragon (Ghost; no combat stats — communications only)  
 **Role:** Argynvostholt's Soul; The Beacon; Symbol of Hope  
-**Appears:** Month 3, Week 3 (Dragon Gargoyle, Argynvostholt chapel)  
+**Appears:** Module 3, Session 3 (Dragon Gargoyle, Argynvostholt chapel)  
 **Arc:** Skull must be recovered from Castle Ravenloft and returned to the mausoleum to relight the beacon
 
 ---
@@ -55,7 +55,7 @@ Argynvost's most loyal surviving knight. A revenant who has walked the Svalich R
 
 **Appearance:** Full plate armor, tarnished silver, face gaunt and hollow as all revenants. Clearly dead and clearly aware.  
 **Personality:** Patient, sad, honorable to the point of inflexibility. He has been waiting for the party for three centuries without quite knowing it.  
-**First Appears:** Month 1, Week 4 (on the road to Vallaki)  
+**First Appears:** Module 1, Session 4 (on the road to Vallaki)  
 **Voice:** Creaking, slow, formal.
 
 **Key Lines:**

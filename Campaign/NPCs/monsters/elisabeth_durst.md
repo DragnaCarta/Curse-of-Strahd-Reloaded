@@ -1,7 +1,7 @@
 # Elisabeth Durst — The Amber Widow
 **Location:** Death House — appears in the master bedroom vision, triggers the house collapse  
 **Role:** True antagonist of Death House; the reason everything is wrong  
-**Session:** Month 1, Week 1  
+**Session:** Module 1, Session 1  
 **Classification:** Ghost / Banshee equivalent — HOSTILE (final encounter)
 
 ---

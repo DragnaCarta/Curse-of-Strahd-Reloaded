@@ -1,7 +1,7 @@
 # Morgantha
 **Type:** Night Hag (CR 5; CR 9 as part of coven at Old Bonegrinder)  
 **Role:** Dream Pastry Merchant; Act II Antagonist  
-**First Appears:** Month 1, Week 4 (road to Vallaki)
+**First Appears:** Module 1, Session 4 (road to Vallaki)
 
 ---
 
