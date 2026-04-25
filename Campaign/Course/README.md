@@ -3,6 +3,7 @@
 **Milestone Leveling:** 1–2 levels per session | **System:** D&D 5th Edition  
 **Source Material:** DragnaCarta's *Curse of Strahd: Reloaded* (this repository)
 
+> **Live game state:** **[`state.md`](state.md)** — open this first every week. Roster, pointer, items in play, next-session prep.  
 > **Level Scaling:** All encounters have been adjusted for L1 start and accelerated progression.  
 > See **[`level_scaling.md`](level_scaling.md)** for full encounter adjustments by session.  
 > See **[`dm_guide.md`](dm_guide.md)** for DM guidance on pacing, on-track tools, and session management.  

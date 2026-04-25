@@ -2,6 +2,8 @@
 
 Use this when you’re not sure **which folder** has what. **Session 1** = Death House + Daggerford hook. **Session 2** = Arc B (Village of Barovia) *and* a **Death House cheat sheet** if you finish the house mid-week.
 
+> **Folder convention — read this first.** `session_<N>/` folders are **narrative beats**, not real-life session counts. One narrative folder can span multiple RL sessions (Death House is currently spanning RL #1, RL #2, RL #3, possibly RL #4). RL-specific artifacts (recaps, cold opens, live logs) live *inside* whichever narrative folder you're currently playing through, prefixed `rl_session_<K>_*.md`. Live state lives in [`../state.md`](../state.md) — open that first.
+
 ---
 
 ## Session 1 (`session_1/`)

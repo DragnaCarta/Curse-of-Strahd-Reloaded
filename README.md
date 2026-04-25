@@ -29,6 +29,7 @@ curse-of-strahd-reloaded/
 ### Running the Campaign
 | File | Purpose |
 |------|---------|
+| **[Campaign/Course/state.md](Campaign/Course/state.md)** | **Live game state** — roster, current pointer, items in play, next-session prep. Open this first every week. |
 | [Campaign/Course/README.md](Campaign/Course/README.md) | Campaign overview, 4-month schedule, level progression |
 | [Campaign/Course/dm_guide.md](Campaign/Course/dm_guide.md) | How to pace sessions, keep the party on track, handle off-script moments |
 | [Campaign/Course/level_scaling.md](Campaign/Course/level_scaling.md) | Encounter adjustments for L1 start — every session |
