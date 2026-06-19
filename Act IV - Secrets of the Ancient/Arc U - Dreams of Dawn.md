@@ -1028,7 +1028,4 @@ If Sasha is present, shortly after the sun rises, read:
 
 ***Milestone.*** Defeating Strahd completes the final campaign milestone. When the sun rises, award each player 25,000 XP.
 
-> [!tip] You've Reached the End of the Mists
-> You’ve reached the end of the current public release of the *Curse of Strahd: Reloaded* guide.
-> 
-> To get a sneak peek at drafts for the guide's Epilogue, revisions of published arcs, and the optional downtime arc ***Arc N - Tales of Vallaki***, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta)!
+

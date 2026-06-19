@@ -6,12 +6,9 @@ With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to 
 
 There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that Kiril Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
 # L1. Finding the Den
-The players can locate the werewolves’ den in one of two ways:
+Recruiting Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]], she will offer her expertise as a monster hunter to track down the wolf den. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
 
-* They can recruit the monster hunter Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]]. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
-* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] or [[Arc E - The Missing Vistana]] to lead them to the den.
-
-In the former case, before she leads the players to the den, Ezmerelda proposes the following plan:
+Before she leads the players to the den, Ezmerelda proposes the following plan:
 
 * First, she will lead the players to her wagon at Lake Baratok to retrieve some supplies—specifically, a *spell scroll of major image* (in case they need a distraction), a *spell scroll of remove curse* (in case any of them is bitten), a spyglass (to keep watch), and 10 silvered crossbow bolts (to restock their quivers).
 * Second, she and the players will set up camp in the hollow and wait until nightfall for the werewolf pack to exit the den to hunt.
@@ -257,8 +254,6 @@ Azianka and Davanka are bored, inattentive, and irritated at not being allowed t
 Azianka and Davanka are restless, and can easily be lured from the cave mouth by an illusion, an annoying **wereraven** in raven form summoned by the *Keeper's whistle*, or any other nonthreatening distraction. (If the players use the *Keeper’s Whistle* to summon a **wereraven** to assist them, a gregarious and excitable **wereraven** named Stefan Zalenski appears two minutes thereafter to assist them.) Unless otherwise distracted, the women return to the cave once ten minutes have passed.
 
 If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two **werewolves** (as described in [[Bestiary]]) then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
-
-The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolves and **werewolf brawlers** in [[#L4d. Deep Caves]], who arrive after 1 round to investigate.
 
 Replace the wolves' ***bite*** attack with the following action options:
 

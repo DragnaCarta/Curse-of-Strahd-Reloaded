@@ -66,6 +66,23 @@
 ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
 
 ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
+
+> [!info]+ **Ireena Joins the Party**
+>
+> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble**, and carries a light crossbow (+3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage). She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
+>
+> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Investigation, Medicine, Perception, and Stealth, and proficiency in Dexterity saving throws. When she first joins the party at 3rd level, she has 25 (5d8) hit points.
+>
+> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
+>
+> By default, Ireena chooses the following sidekick options as she gains levels:
+>
+> - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
+> - **4th Level.** Ireena’s Dexterity score increases by 2 to 14.
+> - **8th Level.** Ireena’s Dexterity score increases by 2 to 16.
+> - **10th Level.** Ireena’s Dexterity score increases by 2 to 18.
+>
+> None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
 ### Parriwimple
 **Roleplaying Information**
 ***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
@@ -250,6 +267,7 @@
 <strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 6 (2,300 XP)<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
@@ -844,8 +862,8 @@
 <p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
+<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 8 (1d4 +6) piercing and 5 (2d4) poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
@@ -953,7 +971,7 @@
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
 <strong>Resistances</strong> bludgeoning, piercing, and slashing damage
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
@@ -966,9 +984,9 @@
 <p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 20 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 18 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
@@ -1013,7 +1031,7 @@
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
 <strong>Resistances</strong> bludgeoning, cold, fire, lightning, piercing, and slashing damage
 <strong>Immunities</strong> poison, charmed, frightened, poisoned
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
@@ -1027,7 +1045,7 @@
 <p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede Rahadin’s darkvision.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
-<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
+<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 18 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
@@ -2333,7 +2351,7 @@ When roleplaying the Martikov family, keep the following information in mind:
 <hr>
 <strong>Armor Class</strong> 16 (Natural Armor)
 <br>
-<strong>Hit Points</strong> 256 (27d10 + 108)
+<strong>Hit Points</strong> 304 (32d10+128)
 <br>
 <strong>Speed</strong> 40
 <hr>
@@ -2393,7 +2411,7 @@ When roleplaying the Martikov family, keep the following information in mind:
 <hr>
 <strong>Armor Class</strong> 17 (Natural Armor)
 <br>
-<strong>Hit Points</strong> 273 (26d12 + 104)
+<strong>Hit Points</strong> 304 (29d12+116)
 <br>
 <strong>Speed</strong> 30
 <hr>
@@ -2420,28 +2438,29 @@ When roleplaying the Martikov family, keep the following information in mind:
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Perception +4
-<strong>Senses</strong> passive Perception 14<br>
+<strong>Saving Throws</strong> Strength +11, Constitution +10<br>
+<strong>Skills</strong> Perception +5<br>
+<strong>Condition Immunities</strong> frightened<br>
+<strong>Senses</strong> passive Perception 15<br>
 <strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 18, or 16 without his regeneration<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Challenge</strong> 18, or 17 without his regeneration<br>
+<strong>Proficiency Bonus</strong> +6<br>
 <hr>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Weak Grip.</em></strong> If Kiril takes 30 damage or more on a single turn, he must succeed on a DC 20 Strength saving throw at the end of that turn or release any creatures he is grappling.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, range 10 ft., 1 target. <em>Hit:</em> 14 (2d8 + 5) slashing damage, and the target must succeed on a DC 18 Dexterity saving throw or be pushed 5 feet away or grappled (Kiril's choice).</p>
 <p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, range 10 ft., 1 target. Hit: 18 (2d12 + 5) piercing damage. If the target is Large or smaller, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and Kiril can't bite another target.</p>
 <p><strong><em>Swallow.</em></strong> Kiril makes one bite attack against a Medium or smaller creature he has restrained with his bite. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Kiril, and it takes 7 (2d6) acid damage at the start of each of Kiril's turns. If Kiril takes 20 damage or more on a single turn, he must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of him. Kiril must also immediately regurgitate all swallowed creatures if he dies.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Nightmare Howl.</em></strong> Each creature within 60 feet of Kiril that can hear him must succeed on a DC 17 Wisdom saving throw. On a failure, a creature takes 5 (2d4) psychic damage and is frightened until the start of Kiril's next turn. If a target's saving throw is successful, the target can’t be frightened by Kiril's Nightmare Howl for the next 24 hours.</p>
-<p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
+<p><strong><em>Corrupted Miasma.</em></strong> Kiril exhales a cloud of necrotic mist. Each creature within 20 feet of him must succeed on a DC 18 Wisdom saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success.</p>
+<p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
 <p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 18 Strength saving throw or fall prone.</p>
-<p><strong><em>Rend.</em></strong> In response to a creature moving within his reach, Kiril attacks it with his claws. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
+<p><strong><em>Devour.</em></strong> In response to a creature moving within his reach for the first time on a turn, Kiril attacks it with his bite if he isn't currently biting another creature. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
 <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach, Kiril forces that creature to make a DC 18 Strength saving throw. On a failure, that creature is knocked prone and either shoved 20 feet away or grappled (Kiril's choice).</p>
 </div>
 
@@ -2714,7 +2733,8 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <br>
 <strong>Languages</strong> Common, Abyssal  
 <br>
-<strong>Challenge</strong> 9 (5,000 XP)  
+<strong>Challenge</strong> 9 (5,000 XP)
+<br>
 <strong>Proficiency Bonus</strong> +4  <br>
 <hr>
 <p><strong><em>Amorphous.</em></strong> Vilnius can move through a space as narrow as 1 inch without expending extra movement to do so.</p>
@@ -2783,7 +2803,8 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <br>
 <strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
+<strong>Challenge</strong> 18 (20,000 XP)
+<br>
 <strong>Proficiency Bonus</strong> +6  
 <hr>
 <p><strong><em>Incorporeal Movement.</em></strong> Patrina can move through other creatures and objects as if they were difficult terrain. She takes <span class="highlight">5 (1d10) force damage</span> if she ends her turn inside an object.</p>
@@ -2853,7 +2874,8 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <br>
 <strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
+<strong>Challenge</strong> 18 (20,000 XP)
+<br>
 <strong>Proficiency Bonus</strong> +6  
 <hr>
 <p><strong><em>Soul Weapon.</em></strong> If Patrina isn’t holding the <em>Sunsword</em> at the start of her turn, it magically appears in her empty hand as her <strong><em>Shadowblade</em></strong>, a blade of pure darkness springing from the hilt.</p>

@@ -264,7 +264,7 @@ When the player first enters the circle of standing stones at the Mountain Fane 
 ![[Crumpled Page.png]]
 A player seeking **power** begins the campaign with the *crumpled page*, an old, yellowed page that was torn from its book long ago. The page is written in strange and cryptic arcane runes; those few runes that can be decoded speak of a path that leads to immortality and untold power.
 
-Unbeknownst to the player, the page was taken from the library of Exethanter, a **lich** who dwells in the deepest sanctum of the Amber Temple in Barovia. When it senses the presence of Death House, the ink on the page glows with amber light, the runes reshaping themselves into a map that leads to the house.
+Unbeknownst to the player, the page was taken from the library of Exethanter, a **ghost** who dwells in the deepest sanctum of the Amber Temple in Barovia. When it senses the presence of Death House, the ink on the page glows with amber light, the runes reshaping themselves into a map that leads to the house.
 
 The player who possesses the *crumpled page* should have strong, vivid reasons to want to find and claim the power that the page promises.
 

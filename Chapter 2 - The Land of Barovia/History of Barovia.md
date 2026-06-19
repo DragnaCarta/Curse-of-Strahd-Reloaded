@@ -26,7 +26,7 @@ Though the First Folk were the first to claim the valley, they were far from the
 
 When the forces of evil sought to claim the vestiges’ power for their own, the wizards resolved to guard the Temple themselves, and built a road from the Temple through the mountains to import supplies. To protect it, they constructed the defenses described in <span class="citation">T1. Gatehouse Portcullis</span>, <span class="citation">T2. Demon Statues</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span> along the winding Tsolenka Pass. 
 
-However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>.
+However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. As some wizards rejected tradition and let curiosity get the better of them, paranoia and in-fighting set in. Within three generations, all of the wizards were dead, leaving nothing but their ghosts to haunt the halls.
 ## Fall of the First Folk
 The seven tribes of the First Folk kept largely apart from one another until, one day, a young, impulsive warrior named Kavan entered the Whispering Wall, eager to set foot within its forbidden mists. In the fog, Kavan saw greatness—*his* greatness—and emerged with a deep and terrible ambition.
 
@@ -130,7 +130,7 @@ However, Strahd did not suffer peace well. Restless, and feeling like his best y
 
 Near-ageless and fair, the elven Patrina knew well of humanity’s fear of death. Where others saw a powerful conqueror, Patrina saw a man of middling age fast-approaching his twilight years. She whispered in his ear the name of the Amber Temple—and the secret of immortality it concealed—and Strahd eagerly listened.
 
-Upon Strahd’s arrival at the Amber Temple, the lich Exethanter welcomed him with open arms, as described <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. Patrina led him to an amber sarcophagus deep in the temple, to the vestige that offered the dark gift of Tenebrous: the secret of lichdom. She spoke to him of the grand power he could wield—of the ageless aeons through which he could conquer. 
+Upon Strahd’s arrival at the Amber Temple, Patrina led him to an amber sarcophagus deep in the temple, to the vestige that offered the dark gift of Tenebrous: the secret of lichdom. She spoke to him of the grand power he could wield—of the ageless aeons through which he could conquer. 
 
 What she left unspoken, of course, was that the vestige’s dark gift could be wielded only by an archmage capable of the highest circles of magic—a level that, with his fledgling skill, Strahd could reach only with her aid and influence.
 

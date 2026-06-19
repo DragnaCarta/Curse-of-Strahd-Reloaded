@@ -1,3 +1,24 @@
+# Patch 2.0.1.14 (April 9, 2026)
+* Amended various typos, broken links, and errors in formatting
+* Clarified how the zombies appear behind Rahadin in [[Arc B - Welcome to Barovia]]
+* Corrected Rahadin's damage output for saber and poisoned dart
+* Removed references to moonlight in [[Arc C - Into the Valley]] due to it being a new moon
+* Renamed The Trial to [[Arc D - St. Andral's Feast#D6b. The Sentencing|The Sentencing]] in [[Arc D - St. Andral's Feast]]
+* Removed Strahd's spying in [[Arc J - The Stolen Gem]] due to user feedback
+* Clarified the coloring of the gem in [[Arc J - The Stolen Gem]] as emerald green.
+* Clarified that the Abbot has no in depth knowledge of Tatyana, due to him arriving after her death, in [[Arc K - The Fallen Abbey]]
+* Removed alternatives to finding the wolf den, to ensure that Ezmerelda's buy-in is cemented, in [[Arc L - The Den of Wolves]]
+* Updated Cyrus Belview's profile to include motivations in [[Arc P - Ravenloft Heist]]
+* Clarified that the Belviews' cages have iron bars allowing them to witness the scene in [[Arc Q - A Shining Beacon]]
+* Updated Kiril's hit points, and updated the hit dice to reflect his size differences, in [[Arc Q - A Shining Beacon]]
+* Removed the now defunct Obsidian canvas map of the Bodak lair in [[Arc R - Trials of the Mountain]]
+* Changed Diona's armor to hide armor to reflect a more accurate AC in [[Arc S - A Sword of Sunlight]]
+* Clarified the dark gifts of Drizlash and Vaund feature abilities of monsters from 2024 rules in [[Arc S - A Sword of Sunlight]]
+* Added spell information such as level, school of magic, distance, and components, to Patrina's spells in [[Arc S - A Sword of Sunlight]]
+* Updated Exethanter's speed of deciphering the Tome to two hours, allowing players to short rest with him, and receive his warning before they leave the temple, in [[Arc S - A Sword of Sunlight]]
+* Added "Ireena Joins the Party" information in Ireena's profile in [[Non-Player Characters]] for easy reference.
+* Updated information on the Sunsword in [[Running the Adventure]]
+* Updated additional thanks in [[A DM's Guide to Curse of Strahd]]
 # Patch 2.1.0.13 (February 15, 2026)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that Eliza should have the statblock of a spy in [[Arc C - Into the Valley]]
