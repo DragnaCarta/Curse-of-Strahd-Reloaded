@@ -2363,6 +2363,9 @@ The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder 
 ![[Burebis_hi-res.jpg]]
 <span class="credit">"Elder Burebis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+![[The_Shrine_of_the_Rozana.jpg]]
+<span class="credit">"Shrine of the Rozana" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/DM_Andy/posts/cos-reloaded-of-166310502">here!</a></span>
+
 > [!lore]+ **Elder Burebis**
 > One thousand years ago, the young and arrogant storm giant Burebis came to the valley of Barovia—then called Girvisa by the Tauta—seeking to prove his abilities in foresight against the being called "the Seeker." Although Burebis lost their competition—a series of predictions regarding an impending storm—the Seeker was impressed by his audacity and skill, and invited him to become her student in the ways of omen-finding and foresight.
 >

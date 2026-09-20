@@ -673,6 +673,8 @@ This area is largely as described in <span class="citation">U5. Marina’s Monum
 <p>Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a stone monument.</p>
 <p>An ethereal, golden figure kneels before the monument.</p>
 </div>
+![[Marina's Monument.png]]
+<span class="credit">"Marina's Monument" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The golden figure is the spirit of Sergei von Zarovich (use the statistics of a **phantom warrior**). 
 
@@ -1108,7 +1110,7 @@ If the players, after investigating the hut, learn that the raven is an illusion
 
 Each creature within the hut must immediately succeed on a DC 20 Dexterity saving throw or be grappled by Baba Lysaga’s **creeping hut**. Continue:
 
-<div clas="description">
+<div class="description">
 <p>The shreds of the hill and ruined hut fall away—revealing, beneath them, a thatched roof, a ramshackle wooden hut, and an enormous tree stump whose roots thrust into the air and mire. Twin iron cages hang from its eaves, filled with scores of shrieking, screaming ravens entrapped within.</p>
 <p>Standing in an upside-down, hollowed-out giant’s skull that floats beside the hut, is an old, gnarled woman. Her white hair stands like twin horns upon her head, then falls down into multiple iron-tipped braids that dangle like daggers across her chest. Her dark eyes burn from the depths of her wrinkled, sunken face, her long, yellowed nails curling like claws before her chest.</p>
 <p>"You’ve had your fun, my dears," Baba Lysaga rasps. “Now, I believe it is time for <em>mine.</em>."
@@ -1853,7 +1855,7 @@ Shortly after the fight ends, read:
 
 When their mirth has quelled, Arturi and Van Richten thank the players for their kindness and aid. “We owe you a debt that can never be repaid," Van Richten says. A player with a passive Wisdom (Insight) score of 12 or higher notices that his eyes are smiling, as though a great weight has been lifted off of his shoulders.
 
-If asked about his next intentions, Van Richtens considers the eastern mountains thoughtfully. “I do not know," he says at last. “But I feel that your accomplishments are rapidly pushing Von Zarovich to act. Arabelle’s prophecy still rings in my ears, as do Madam Eva’s final words to me. I shall remain by Vallaki, for now, if only to protect the Vistani there from harm. But when the day comes, I shall be ready."
+If asked about his next intentions, Van Richten considers the eastern mountains thoughtfully. “Ravenloft looms ever closer," he says at last. “I feel that your accomplishments are rapidly pushing Von Zarovich to act. Arabelle’s prophecy still rings in my ears, as do Madam Eva’s final words to me. If they're right, I will be needed in the village of Barovia imminently."
 ### Erasmus’ Return
 With Van Richten’s curse lifted, Erasmus van Richten’s ghost is finally able to cross over into the Material Plane. Shortly after the undead horde retreats, read:
 
@@ -2067,7 +2069,7 @@ As the players approach <span class="citation">The Megaliths (p. 128)</span>, re
 <p>A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.</p>
 </div>
 
-The area within the cloud of fog is heavily obscured. If the players enter the fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single life drain attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+The area within the cloud of fog is has limited visibility, with players only being able to see 10ft from them. If the players enter the fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single life drain attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
 
 > [!info]+ **Fear of Sunlight**
 > The **vampiric mists** that haunt the Mountain Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
@@ -2086,6 +2088,9 @@ If the players approach him or otherwise make themselves known, Rahadin stands a
 * Rahadin realized that, unlike his “lord," Strahd, his flesh was weak—even as an elf, he had _aged_ across the past four centuries, growing old and feeble. He resolved to address his “weakness"—and did so by visiting the Amber Temple, where he claimed the vestiges’ gifts for his own.
 
 Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
+
+![[Corrupted_Rahadin_transparent.png]]
+* Amended various typos, broken links, and errors in formatting
 
 
 > [!combat]- **Combat - Rahadin's Vengeance**  

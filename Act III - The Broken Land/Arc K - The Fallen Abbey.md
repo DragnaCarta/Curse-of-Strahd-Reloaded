@@ -5,6 +5,17 @@ In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey o
 Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
 
 If the players have arrived before the second night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the second night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
+
+> [!warning]+ **Pending Changes**
+> The arc below is fully compatible with existing versions of prior arcs. However, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and Chapter [[#T4. The Monster Hunter]] in [[Arc T - The Three Fanes]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
+>
+> * Arturi Radanavich will be removed from the campaign.
+> * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
+> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
+> * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
+> * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
 # K1. The Village of Krezk
 The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
 
@@ -319,7 +330,7 @@ Dmitri apologizes to the players for concealing this information from them, and 
 > [!abstract]+ **The Players' Choice**
 > The Krezkovs, self-reliant and proud, would never dream of asking the players to find Ilya or stop the Abbot for them. If the players offer to do so, however, the Krezkovs are humbled and brought to tears with gratitude, though they apologize for not having much to offer in thanks. (Even if the players don’t offer to do so, Ezmerelda d'Avenir will recruit them to save Ilya and defeat the Abbot after meeting Ezmerelda in [[#K2c. The East Wing]].)
 > 
-> The Krezkovs also have additional aid in locating Ilya: Ezmerelda d’Avenir, a monster hunter and a friend of the Krezkovs, has been traversing the Svalich Woods for the past several days in search of him. (See **Ezmerelda’s Visit** below for more information.)
+> The Krezkovs also have additional aid in locating Ilya and stopping the Abbot: Ezmerelda d’Avenir, a monster hunter and a friend of the Krezkovs, has been traversing the Svalich Woods for the past several days in search of Ilya, after staying at the Abbey. If the players agree to aid Dmitri and Anna in either plight, the Krezkovs strongly advise them seek Ezmerelda out before attempting anything on their own. (See **Ezmerelda’s Visit** below for more information.)
 
 > [!lore]+ **Ezmerelda’s Visit**
 > Five years ago, shortly after she and Dr. Rudolph van Richten parted ways, Ezmerelda d’Avenir was grievously wounded in a werewolf attack in the western woods of Barovia, losing her lower right leg to the jaws of Kiril Stoyanovich—the werewolf that now leads the Barovian pack. 

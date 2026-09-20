@@ -957,7 +957,7 @@ The journey from the Wizard of Wines to Yester Hill is 2.5 miles and 50 minutes 
 
 As the players travel south, four **swarms of ravens** take off from a nearby tree and follow them down the road, flying above the canopy. Muriel informs the players that the ravens likely want to help, and that they can keep watch in the skies while the players traverse the road. (The ravens perch in the branches of nearby trees whenever the players stop on the road.)
 
-While traveling along the path, Muriel notes wistfully that she used to walk it with a friend of hers not long ago. "It's so strange," she says quietly, "how quickly things can change for the worse." If asked, Muriel can share that her "friend" was Elric Martikov, Elvir's twin brother and her own betrothed, and that Elric proposed to her during a walk in the woods along this very path. If asked her "friend's" fate, Muriel replies curtly, "He died," and refuses to elaborate; if pushed, she shares only that his death is too fresh and painful in her mind to relive it.
+While traveling along the path, Muriel notes wistfully that she used to walk it with Elric not long ago. "It's so strange," she says quietly, "how quickly things can change for the worse." If asked, Muriel can share that Elric proposed to her during a walk in the woods along this very path. If asked more about Elric's fate, Muriel replies curtly, "He died," and refuses to elaborate; if pushed, she shares only that his death is too fresh and painful in her mind to relive it.
 ## J4a. Kavan’s Cairn
 Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, Muriel briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
 
@@ -1061,7 +1061,7 @@ If the players inquire as to the dinner at Ravenloft, or if the players previous
 
 If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
 
-If the players ask whether Strahd was the silhouette watching them by Kavan’s cairn, Strahd smiles faintly. Instead of answering their question, he says, "Intriguingly, I was not the first creature called 'blood-drinker' in this valley. Can you guess who that was?" Regardless of the players' answer, he then shares the following tale:
+If the players ask whether Strahd knows anything about Kavan, Strahd smiles faintly. Instead of answering their question, he says, "Intriguingly, I was not the first creature called 'blood-drinker' in this valley. Can you guess who that was?" Regardless of the players' answer, he then shares the following tale:
 
 <div class="description">
 <p>"Long before my time, in the centuries before it came under my protection, Barovia was ruled by a different kind of darkness. His name was Kavan, warlord of the Mountain Tribes, and he swept forth from the Balinok Mountains like a raging storm to slaughter all who stood in his path. They called him Blood-Drinker, for the cursed spear he carried and his own, terrible thirst.</p>

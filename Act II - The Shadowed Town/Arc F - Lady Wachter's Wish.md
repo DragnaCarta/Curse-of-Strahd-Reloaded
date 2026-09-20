@@ -40,7 +40,7 @@ If the players ask Urwin about Lady Wachter, he can share all of the information
 
 Wachterhaus is largely as described in <span class="citation">N4. Wachterhaus (p. 110)</span>, but with the following changes:
 
-***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information.)
+***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information.)
 
 Additionally, Stella's room is neither musty nor dark, and her bed is not fitted with leather straps. Instead, her room is well-appointed, including a woven lavender rug, a comfortable armchair with floral patterns, and a small bookcase with a collection of carved wooden cats atop it. (The cats were whittled by her older brother, Karl, as get-well gifts following Stella’s illness.)
 

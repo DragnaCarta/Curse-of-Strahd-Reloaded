@@ -9,7 +9,7 @@ In this role, Strahd most often feels curious, amused, nostalgic, or disappointe
 
 The Gentleman avoids clashes as much as he can, taking any player rudeness or defiance in stride. If pushed, he might send his minions to stop a player's physical attacks, but only as a last resort.
 ## The Tyrant
-When he learns that the players have relit the beacon of Argynvostholt at the conclusion ***Arc R: The Beacon of Argynvostholt***, Strahd becomes the Tyrant—harsh, stern, and somewhat cruel. He keeps his cool and aloof demeanor, but treats the players less like guests and more like disappointing protégés. His goal—to push the players to their limits, testing their resilience and assessing their competence.
+When he learns that the players have relit the beacon of Argynvostholt at the conclusion [[Arc Q - A Shining Beacon]], Strahd becomes the Tyrant—harsh, stern, and somewhat cruel. He keeps his cool and aloof demeanor, but treats the players less like guests and more like disappointing protégés. His goal—to push the players to their limits, testing their resilience and assessing their competence.
 
 As the Tyrant, Strahd should offend the players with his insults and condescension, and disgust them with his disregard for human life.
 
@@ -17,7 +17,7 @@ In this role, Strahd most often feels disappointed, scornful, satisfied, amused,
 
 The Tyrant never strikes first—but will dare defiant players to back their words with action. Should a player back down, Strahd mocks their resolve and capabilities. Any players who attack him, though, are met with a swift and ruthless response—though never a lethal one.
 ## The Monster 
-When he first learns that the players have restored the blade of the *Sunsword* in ***Arc V: The Sunsword***, Strahd abandons all pretense and becomes the Monster—a cold, unfeeling sociopath, described further in **Roleplaying Strahd** (p. 10). His goal—to achieve his goals, no matter the cost.
+When he first learns that the players have restored the blade of the *Sunsword* in [[Arc S - A Sword of Sunlight]], Strahd abandons all pretense and becomes the Monster—a cold, unfeeling sociopath, described further in **Roleplaying Strahd** (p. 10). His goal—to achieve his goals, no matter the cost.
 
 As the Monster, Strahd should disgust the players with his complete indifference to life and death, inspire pity for his inability to feel happiness or love, and frustrate the players with his refusal to ever lose his cool.
 

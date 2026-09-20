@@ -777,7 +777,7 @@ Kiril then attacks.
 <hr>
 <strong>Saving Throws</strong> Strength +10, Constitution +10<br>
 <strong>Skills</strong> Perception +9, Stealth +9<br>
-<strong>Senses</strong> passive Perception 19<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 19<br>
 <strong>Languages</strong> Common (can’t speak in dire wolf form)<br>
 <strong>Challenge</strong> 19, or 18 without his regeneration<br>
 <strong>Proficiency Bonus</strong> +6<br>
@@ -842,7 +842,7 @@ Kiril then attacks.
 <strong>Saving Throws</strong> Strength +11, Constitution +10<br>
 <strong>Skills</strong> Perception +5<br>
 <strong>Condition Immunities</strong> frightened<br>
-<strong>Senses</strong> passive Perception 15<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 18, or 17 without his regeneration<br>
 <strong>Proficiency Bonus</strong> +6<br>

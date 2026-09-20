@@ -1,3 +1,16 @@
+# Patch 2.0.1.15 (August 20, 2026)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that Ismark has the statistics of a **veteran** in [[Arc B - Welcome to Barovia]]
+* Added dialogue in [[Arc D - St. Andral's Feast]] during Rahadin's sentencing, to encourage players to speak up.
+* Clarified that the charm Victor speaks of in [[Arc H - The Lost Soul]] is the *charm of mass heroism*
+* Added instruction for the Krezkov's to greatly encourage the players to seek out Ezmerelda before continuing in [[Arc K - The Fallen Abbey]]
+* Clarified the distance of the rooftop in Varushka's nightmare in [[Arc O - Dinner with the Devil]]
+* Added darkvision to Kiril's statblocks in [[Arc Q - A Shining Beacon]]
+* Added image of the Shrine of the Rozana in [[Arc R - Trials of the Mountain]]
+* Added image of Marina's Monument in [[Arc T - The Three Fanes]]
+* Clarified the visibility of the fog that surrounds Rahadin in [[Arc T - The Three Fanes]]
+* Added image of Rahadin in [[Arc T - The Three Fanes]]
+* Added that the Vistani, werewolves, and (while Strahd is asleep) people with mist talismans can come and go through the mists in [[Lore of Barovia]]
 # Patch 2.0.1.14 (April 9, 2026)
 * Amended various typos, broken links, and errors in formatting
 * Clarified how the zombies appear behind Rahadin in [[Arc B - Welcome to Barovia]]

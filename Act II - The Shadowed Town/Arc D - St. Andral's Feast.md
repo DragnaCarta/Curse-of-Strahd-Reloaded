@@ -542,7 +542,9 @@ Rahadin then reads aloud the following proclamation:
 
 The proclamation is signed and sealed by Strahd.
 
-As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicted's favor, presenting mitigating circumstances that alleviate the severity of their transgressions. (Lady Wachter will take no action to bar Strahd's justice, but supports the players in their efforts if friendly toward them.)
+Unless the players intervene themselves, Lady Wachter speaks out, her eyes falling on the players. "As we are obedient to the laws of Barovia and its master, so too then should we allow any party possessing evidence of mitigating circumstances to come forward, so that a fair and accurate sentencing can take place."
+
+As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicted's favor, presenting mitigating circumstances that alleviate the severity of their transgressions.
 
 Should the players do so, Rahadin plays the role of an adversarial and cold-hearted judge, pushing back against their responses and probing at the hole in their reasoning. The players might argue the following mitigating circumstances:
 

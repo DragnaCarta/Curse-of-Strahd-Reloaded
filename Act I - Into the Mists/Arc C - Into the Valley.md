@@ -22,6 +22,17 @@ Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. T
 
 > [!info]+ **No Random Encounters**
 > This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the <span class="citation">Random Encounters (p. 28)</span> section except where a particular encounter is referenced and incorporated directly.
+
+> [!warning]+ **Pending Changes**
+> The arc below is fully compatible with existing versions of prior arcs. However, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and Chapter [[#T4. The Monster Hunter]] in [[Arc T - The Three Fanes]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
+>
+> * Arturi Radanavich will be removed from the campaign.
+> * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
+> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
+> * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
+> * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
 # C1. The Svalich Woods
 The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
 ## C1a. The Barovian Scouts
@@ -687,6 +698,11 @@ If the players attempt to speak with Madam Eva again before departing, Stanimir 
 # C5. The Skeletal Rider
 When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
 
+<div class="description"><p>
+Through the mist comes a skeletal horse and rider. The skeletal rider's muddy leather armor is torn and raked. The horse has bit and bridle, but no saddle nor saddlebags. The rider holds forth a hand outstretched, clutching a broken lantern as if to light the way.
+</div>
+If the party did not take it, the rider is clutching the copper compass, visibly reflecting light off its shiny surface.
+
 > [!abstract]+ **Following the Rider**
 > If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
 # C6. The Watchtower
@@ -1223,7 +1239,7 @@ After clearing his throat, Rictavio shares the following story:
 <div class="description">
 <p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
 <p>Poor Count Belasco had a terrible secret: In his ancient age, his scalp was beginning to rot, his hair falling out in great clumps and knots. In embarrassment, he commanded Igoron to purchase a beautiful raven-black wig, hoping to preserve the handsome, younger man he had once been.</p>
-<p>"A handsome man indeed," agreed one of his guests—an elderly, near-blind widow named Olivenka—one particular moonlit night. Dear Olivenka kept to herself, spending her days sorting and re-sorting her late husband's rock collection, which she kept lovingly in her purse. Despite the Count's odd behavior and pale skin, she suspected nothing, her old vision too blurry to make out the fangs that poked down amidst his teeth.</p>
+<p>"A handsome man indeed," said old widow Olivenka one particular moonlit night, though her old eyes could barely see." Dear Olivenka kept to herself, spending her days sorting and re-sorting her late husband's rock collection, which she kept lovingly in her purse. Despite the Count's odd behavior and pale skin, she suspected nothing, her old vision too blurry to make out the fangs that poked down amidst his teeth.</p>
 <p>As always, the Count felt an urge to feed upon her—and though her flattering words quelled his interest, he felt the thirst in his fangs all the same. "Igoron!" he boomed. "Fetch my coat—I'm going hunting."</p>
 <p>"Yes, sire," Igoron wheezed. As he returned, he whimpered, "Best be back before dawn, milord. I'm cleaning the curtains tonight. Want you nice and safe in your coffin before sunrise."</p>
 <p>Count Belasco scoffed. "Fear not, simple Igoron," he boasted. "I know well the hour of my enemy. Not a thing could stir my spirit to linger beneath its dreadful rays."</p>

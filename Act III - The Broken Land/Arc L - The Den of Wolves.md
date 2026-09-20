@@ -5,6 +5,17 @@ In this arc, the players must locate the den of the Barovian werewolf pack, whic
 With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
 
 There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that Kiril Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
+
+> [!warning]+ **Pending Changes**
+> The arc below is fully compatible with existing versions of prior arcs. However, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and Chapter [[#T4. The Monster Hunter]] in [[Arc T - The Three Fanes]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
+>
+> * Arturi Radanavich will be removed from the campaign.
+> * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
+> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
+> * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
+> * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
 # L1. Finding the Den
 Recruiting Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]], she will offer her expertise as a monster hunter to track down the wolf den. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
 
@@ -17,6 +28,9 @@ Before she leads the players to the den, Ezmerelda proposes the following plan:
 > [!abstract]+ **Robbing Ez**
 > If the players stole from Ezmerelda's wagon in [[Arc E - The Missing Vistana]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
 # L2. Lake Baratok
+
+The journey from the village of Kresk to Lake Baratok is three-and-one-falf miles long and takes one hour and ten minutes.
+
 If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Arc E - The Missing Vistana]]. 
 
 When the players arrive, Ezmerelda enters the wagon via the hidden trapdoor in its underbelly. Shortly after doing so, she informs the players—sounding shocked—that someone has been inside the wagon and stolen several of her belongings, including the two spell scrolls, a lyre, and three vials of perfume.
@@ -161,6 +175,9 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 
 Once she has obtained any useful materials from her wagon, Ezmerelda advises the players that they will need to stake out the den until the pack has departed for the night, then move quickly to determine whether Ilya Krezkov is imprisoned inside. (If the players suggest a direct assault, Ezmerelda wryly advises them that challenging a pack of nearly a dozen werewolves and half again as many ordinary wolves would be a fool’s errand at best, and suicidal at worst.)
 # L3. Svalich Woods
+
+The journey from Lake Baratok to the werewolf den is three miles long and takes one hour.
+
 As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in the Svalich Wood to the west of Lake Baratok. Read:
 
 <div class="description">

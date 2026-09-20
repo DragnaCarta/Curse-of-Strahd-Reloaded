@@ -562,7 +562,7 @@ If the players follow her, Muriel guides them west toward the town square, then 
 <span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
 
 
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
+Ismark (who has the statistics of a **veteran**) has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
 
 The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***virulent miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
   
@@ -595,7 +595,7 @@ The plague spreader, which begins 120 feet from the center of the town square an
 Shortly after the players defeat the plague spreader, a lone horseman flanked by twelve **zombies** approaches the town square from the west. Read:
 
 <div class="description">
-<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it, in V-shaped formation with the horseman taking the lead, trail a dozen shambling undead,.</p>
+<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it, in V-shaped formation with the horseman taking the lead, trail a dozen shambling undead.</p>
 <p>The flickering torchlight paints the man’s features in shades of burning orange and red, revealing a tall, lithe figure of dusky complexion, with long, black hair that falls past his neck. A light cloak is draped across his shoulders, its edge rimmed with thick, white fur, and gloves of supple black leather cover his hands. A deep blue tunic trimmed with bronze is visible beneath a layer of tough, yet flexible leather armor, and a curved saber hangs from a sheath at his belt, with a pair of scimitars strapped to his back above it.</p>
 <p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
 </div>
