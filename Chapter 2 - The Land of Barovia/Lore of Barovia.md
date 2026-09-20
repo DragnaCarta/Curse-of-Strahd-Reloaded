@@ -7,7 +7,7 @@ Precious few—including only archmages, scholars, and (at times) the Darklords 
 
 The Dark Powers do not necessarily seek to corrupt those they encounter. Instead, for certain individuals, they seek to offer a choice between darkness and light—and to punish and ensnare those who fall to their temptations. In this adventure, two such individuals are Strahd von Zarovich and Ireena Kolyana.
 
-As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. 
+As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. However, the Vistani, werewolves, and (while Strahd is asleep) people with mist talismans (see **Domains of Ravenloft (*Van Richten’s Guide to Ravenloft*, p. 61)** can come and go through the mists as they please.
 
 Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
 # Geography

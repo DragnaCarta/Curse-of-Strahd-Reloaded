@@ -424,14 +424,6 @@ Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded 
 
 If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
 
-> [!info]+ **The Hag Coven**
->
-> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **The Bonegrinder Coven** and **The Nightmare Three**, rather than using their individual **night hag** statblocks.
->
-> While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
->
-> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions. For **Innate Spellcasting***, the spellcasting ability is Intelligence, their spell save DC is 17, and their spellcasting attack bonus is +9.
-
 The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
 
 Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 16 Charisma (Deception) check.
@@ -469,7 +461,7 @@ The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. S
 ### The Binding Circle
 If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
+If the players recovered the *charm of mass heroism*, Victor can identify it as such from his time spent reading in his father's library. [[Non-Player Characters#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
 
 Lady Wachter then warns the players that, once raised, the binding circle will last for only ten minutes. She further informs them that, should she or any of the four **cult fanatics** be knocked unconscious, the ritual will immediately fail and the hags will be free to escape. (Due to the height of the hill, it is unlikely that the night hags will be able to attack the cultists during the battle.)
 
@@ -521,6 +513,14 @@ The hags fight in self-defense, or if the players make clear that they will not 
 > - **_Gust of Wind._** The coven casts _gust of wind._
 > - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
 > - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
+
+> [!info]+ **The Hag Coven**
+>
+> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **The Bonegrinder Coven** and **The Nightmare Three**, rather than using their individual **night hag** statblocks.
+>
+> While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
+>
+> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions. For **Innate Spellcasting***, the spellcasting ability is Intelligence, their spell save DC is 17, and their spellcasting attack bonus is +9.
 
 <div class="statblock">
 <h2>The Bonegrinder Coven</h2>
@@ -810,7 +810,7 @@ Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal 
 
 Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
-If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
+If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her ***Innate Spellcasting*** to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
 ### Finding a Cure
 As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease of cackle fever can be cured in one of two ways:
 
@@ -922,7 +922,7 @@ The following sequence then unfolds, unless the players intervene:
 Just as [[Non-Player Characters#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
 
 <div class="description">
-<p>A soft, boyish laugher echoes through the ethereal fog. A faint, spectral light flickers into being beyond the gray mists, coalescing into a slender, humanoid shadow.</p>
+<p>A soft, boyish laughter echoes through the ethereal fog. A faint, spectral light flickers into being beyond the gray mists, coalescing into a slender, humanoid shadow.</p>
 </div>
 
 If one of the players moves to attack, Erasmus shouts, “Wait! I don’t mean to hurt you!” In either case, continue to read the following:
@@ -1166,7 +1166,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <p>The avenger can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
-<p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
+<p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up to its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
 <p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
 </div>
 

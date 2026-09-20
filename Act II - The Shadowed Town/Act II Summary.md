@@ -8,6 +8,10 @@ Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine
 
 Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
 
+ >[!info]+ **Dealing with Izek Strazni**
+ > [[Arc F - Lady Wachter's Wish]] and [[Arc G - The Strazni Siblings]] unfold simultaneously, but only one will likely play out to completion depending on what players chose to do.
+
+
 # Milestones
 The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 

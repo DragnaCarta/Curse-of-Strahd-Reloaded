@@ -188,7 +188,7 @@ The ravens are faithful servants of the Seeker and the descendants of the ravens
 > [!abstract]+ **Speaking with the Ravens**
 > A player who uses *speak with animals* or similar magic to communicate with the ravens can convince them to share their mission with a successful DC 12 Charisma (Persuasion) check. On a success, the ravens share that they are the descendants of ravens set to guard this place long ago, a duty they consider "the highest honor." If asked who ordered them to guard this tree, the ravens proudly declare that they serve the memory of "She Who Seeks in Storm-Clouds." (This is the name by which the ravens know the Seeker.)
 
-The object in the nest is a small, old wooden box with a tarnished silver latch bearing centuries of scratches and scrapes from ravens’ claws. If opened, the box contains half of a two-piece locket necklace made of tarnished silver.
+The object in the nest is a small, old wooden box with a tarnished silver latch bearing centuries of scratches and scrapes from ravens’ claws. If opened, the box contains half of a two-piece locket necklace made of tarnished silver, containing a small lock of hair.
 
 > [!lore]+ **Katarina’s Legacy**
 > Katarina—Madam Eva’s alter ego—and her fellow servant Varushka often came to this outcropping together on free days when they served together in Castle Ravenloft. When she fled Strahd’s rampage on the day of his transformation into a vampire, Katarina came to this location first, hoping in vain that Varushka would meet her. It was here that Katarina first made her pact with the Seeker to become Madam Eva in exchange for an opportunity to one day put Strahd to rest and restore the sun to Barovia once more.
@@ -408,7 +408,7 @@ Anastrasya then attempts to introduce the players to Escher and Sasha, introduci
 > If Ireena is not present, Escher is flamboyant, cheerful, and flirtatious with the players, determined to show Strahd’s other consorts that he won’t be cowed by their efforts to pull rank. If Ireena is present, Escher, though still flamboyant, is more withdrawn and even occasionally abrasive and quick-tempered. Too ashamed of the consequences of his decision to awaken Strahd—such as the death of Ireena’s father and the deaths of many of his friends and neighbors—he is unwilling to meet her eyes for the duration of the evening.
 
 ### Volenta’s Toy
-As introductions draw to a close, Rahadin moves into <span class="citation">K9. Guests' Hall (p. 56)</span> to guard the entrance to <span class="citation">K21. South Tower Stair (p. 59)</span>. As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
+As introductions draw to a close, Rahadin moves towards the <span class="citation">K9. Guests' Hall (p. 56)</span> to guard the entrance to <span class="citation">K21. South Tower Stair (p. 59)</span>. As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
 
 <div class="description">
 <p>A thin man dressed in fine servant’s clothes exits the torchlit staircase, his face completely obscured by a pale white mask. He holds a tray with several wine glasses and two pitchers of liquid upon it—one deep purple, one bright crimson—and steps carefully across the stone floor toward you.</p>
@@ -440,7 +440,7 @@ Unless prevented by the players, Volenta then whirls the jagged stem of her glas
 
 The players can convince Volenta to spare Anton with a DC 15 Charisma (Persuasion) check or a DC 20 Charisma (Intimidation) check, made with advantage if they invoke the possibility that Volenta might draw Strahd’s wrath by spilling blood on the castle floor. The players can also distract Volenta by finding something else to draw her attention and succeeding on a DC 15 Charisma (Performance) check or by using magic to clean her dress and succeeding on a DC 5 Charisma (Persuasion) check.
 
-If the players indicate an interest in attacking Volenta, Rahadin swiftly moves to interpose, placing one hand on the jet-black hilt of his saber while placing the other on the aggressing player’s chest. “You are guests within these walls," he says softly, “but do not forget where you are." His eyes glint dangerously. “To violate the sanctity of guestright here is to invite . . . severe consequences."
+If the players indicate an interest in attacking Volenta, Rahadin swiftly moves from the Guests' Hall to interpose, placing one hand on the jet-black hilt of his saber while placing the other on the aggressing player’s chest. “You are guests within these walls," he says softly, “but do not forget where you are." His eyes glint dangerously. “To violate the sanctity of guestright here is to invite . . . severe consequences."
 
 > [!abstract]+ **Dead Volenta**
 > If the players previously killed Volenta in [[Arc D - St. Andral's Feast]], Anton instead spills his wine on Ludmilla. Rather than shattering her wine glass, she instead summons a nimbus of crackling lightning around her free hand. “Perhaps Volenta broke you beyond repair," she murmurs coldly, lifting her hand toward his chest as he whimpers in fear. “I have long since grown used to cleaning up her messes." 
@@ -1101,7 +1101,7 @@ Instead of opening into the closet, the closet door in the guest suite opens int
 <p>The window opens onto a long, dark rooftop cloaked in swirling mists. Rain splashes against the sagging, sloping roof as flashes of lightning illuminate gargoyles perched on the roof’s end peaks, their hideous stares forever fixed on the dark, endless chasm below. On the far side of the rooftop, a small, dark, open closet stands quietly on a parapet amidst the storm.</p>
 </div>
 
-A character attempting to cross the rooftop must make a DC 10 Dexterity (Acrobatics) check. If the check succeeds, the character moves at half speed across the rooftop. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage, falling 15 feet to a ledge that runs beneath the edge of the roof. To climb back to the roof from the ledge, a character must succeed on a DC 15 Strength (Athletics) check.
+The rooftop spans 120ft. A character attempting to cross it must make a DC 10 Dexterity (Acrobatics) check. If the check succeeds, the character moves at half speed across the rooftop. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage, falling 15 feet to a ledge that runs beneath the edge of the roof. To climb back to the roof from the ledge, a character must succeed on a DC 15 Strength (Athletics) check.
 
 When all players have exited the window, six **swarms of bats** descend to attack any characters that haven't yet reached the far side. Characters have disadvantage on checks made to cross the roof while sharing a space with a swarm of bats. If any character is concentrating on a spell that allows flight, three **swarms of bats** attack that character simultaneously, hoping to break their concentration.
 

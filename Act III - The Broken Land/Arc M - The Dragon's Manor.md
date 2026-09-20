@@ -233,12 +233,16 @@ If the players follow the trail of blood, read:
 <p>The elk's chest rises and falls with shallow, labored breaths, its remaining eye staring blankly into the mists. Above it, the raven croaks softly, the somber sound echoing through the blanket of fog.</p>
 </div>
 
-The elk is a **dire elk** (use the statistics of a **giant elk**) with 1 hit point and five levels of exhaustion. A DC 12 Wisdom (Medicine) check reveals that the wound is infected and gangrenous, and that the elk is close to death. The infected wound can't be healed by any magical means short of a *regeneration* spell.
+The elk is a **dire elk** (use the statistics of a **giant elk**) with 1 hit point and five levels of exhaustion. A DC 12 Wisdom (Medicine) check reveals that the wound is infected and gangrenous, and that the elk is close to death.
 
 > [!info]+ **The Raven & the Elk**
 > The raven is the Roc of Mount Ghakis in disguise. While in this form, the roc uses the statistics of an ordinary **raven**, except it has an Intelligence score of 15 (+2), a Wisdom score of 20 (+5), a Charisma score of 14 (+2), and the hit points, proficiency bonus, and saving throw proficiencies of a **roc**.
 > 
-> The **dire elk** is one of Barovia's rarest creatures, and a beast once held sacred to the Huntress of the Ladies Three. If the players speak to the raven using the spell *speak with animals* or similar magic, it introduces itself solemnly as Turul, and shares only that it has come to stand vigil over the elk and mourn its passing.
+> The **dire elk** is one of Barovia's rarest creatures, and a beast once held sacred to the Huntress of the Ladies Three. If the players speak to the raven using the spell *speak with animals* or similar magic, it introduces itself solemnly as Turul, and shares only that it has come to stand vigil over the elk and mourn its passing. If the players attempt to speak with the elk, it will simply plead for help, its wounds and exhaustion too grievous for it to speak any more.
+> 
+> If the players heal the **dire elk**, the roc will aid them in their combat against the ghouls, retaining the form of a raven. If the players allow Wensencia to harvest the elk's organs, the roc will caw angrily and fly away.  
+
+
 
 > [!abstract]+ **The Stone Slab**
 > If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Weaver, and the three-pointed star the symbol of the Ladies Three.)

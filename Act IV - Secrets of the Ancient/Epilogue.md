@@ -14,7 +14,7 @@ When the players arrive at the crossroads following their return from Ravenloft,
 
 ***The Town of Vallaki***. When the players departed Vallaki in [[Arc U - Dreams of Dawn]], they left their friends to face an oncoming horde of undead. Through the visions of the Heart of Sorrow, they beheld flashes of Vallaki’s fight against Strahd’s army—visions of death and life alike. Now, as they return to Vallaki, how much of the town will they find standing—and how will the town greet them?
 ### 1a. The Odd Couple
-**When the players first return to I. Black Carriage (p. 37) after completing [[Arc U - Dreams of Dawn]], read:
+**When the players first return to I. Black Carriage (p. 37) after completing [[Arc U - Dreams of Dawn]],** read:
 
 <div class="description">
 <p>A familiar crossroads lies ahead, faintly illuminated in the morning sun. One branch leads west, toward Vallaki, and the other south, toward Barovia.</p> 
@@ -23,7 +23,7 @@ When the players arrive at the crossroads following their return from Ravenloft,
 
 The squat silhouette is Cyrus Belview, who is hiding behind the tree.  Cyrus is joined by the **wight** Lief Lipsiege.
 
-**If the players didn’t retrieve Pidlwick II from Castle Ravenloft in [[Arc P - Ravenloft Heist]], add:
+**If the players didn’t retrieve Pidlwick II from Castle Ravenloft in [[Arc P - Ravenloft Heist]],** add:
 
 <div class="description">
 <p>A moment later, something clinks and whirs faintly from the underbrush nearby.</p>
@@ -485,7 +485,7 @@ Shortly after Lady Wachter’s council, Muriel Vinshaw approaches the players al
 
 Muriel and Ezmerelda have learned, both from migrating flocks of ravens and traveling Vistani caravans, that—although Strahd has been defeated and Barovia freed—the Mists (or a near-identical phenomenon) still survive elsewhere, and that the Powers that entrapped Barovia may have ensnared other innocent settlements within them. (“It seems Barovia may not have been the only victim of the Mists," Ezmerelda says grimly. “I’ve heard tales of far-off lands spirited away—desert kingdoms, jungle temples, and sprawling cities where the living sleep forever.")
 
-Muriel, Ezmerelda, Elvir, and Ireena intend to travel to these lands with the aid of an item called a *mist talisman* that Ezmerelda obtained from a Vistani merchant. (See **Domains of Ravenloft (*Van Richten’s Guide to Ravenloft*, p. 61)** for a list of mist talismans that Ezmerelda might have obtained.) Upon their arrival in each land, Muriel intends to found new chapters of the Keepers of the Feather—and will need new members to help do so.
+Muriel, Ezmerelda, Elvir, and Ireena intend to travel to these lands with the aid of an item called a *mist talisman* that Ezmerelda obtained from a Vistani merchant. (See **Domains of Ravenloft (*Van Richten’s Guide to Ravenloft*, p. 61**) for a list of mist talismans that Ezmerelda might have obtained.) Upon their arrival in each land, Muriel intends to found new chapters of the Keepers of the Feather—and will need new members to help do so.
 
 The four have come to bid the players farewell—and, if they’re interested, to invite any of them to join their venture. (“So long as any of us are trapped in the Mists," Ireena says, with steely determination, “all of us are.")
 
