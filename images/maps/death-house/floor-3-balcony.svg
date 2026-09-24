@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 640" width="920" height="640">
+  <title>Death House - Third Floor (Balcony Landing)</title>
+  <desc>Player-safe diagram: balcony around stairwell, library, conservatory, four armor positions.</desc>
+  <style type="text/css"><![CDATA[
+    .wall { fill: #2a2520; stroke: #1a1510; stroke-width: 3; }
+    .floor { fill: #3d3530; stroke: #2a2018; stroke-width: 2; }
+    .rail { fill: none; stroke: #6b5c4c; stroke-width: 4; stroke-dasharray: 8 6; }
+    .rail-solid { fill: none; stroke: #5a4d3f; stroke-width: 5; }
+    .danger { fill: #1a1512; stroke: #8b4513; stroke-width: 2; }
+    .danger-label { fill: #c9a227; font-family: Georgia, serif; font-size: 15px; font-style: italic; }
+    .room { fill: #4a4238; stroke: #3a3228; stroke-width: 2; }
+    .label { fill: #e8dcc8; font-family: Georgia, serif; font-size: 18px; font-weight: bold; }
+    .sublabel { fill: #b8a990; font-family: Georgia, serif; font-size: 13px; }
+    .armor { fill: #3a3a42; stroke: #8a8a9a; stroke-width: 2; }
+    .armor-helm { fill: #2a2a32; stroke: #6a6a7a; stroke-width: 1.5; }
+    .stairs { fill: #353028; stroke: #5c5040; stroke-width: 2; }
+    .stair-line { stroke: #6b6050; stroke-width: 1.5; }
+  ]]></style>
+
+  <!-- Main balcony floor -->
+  <rect class="floor" x="40" y="40" width="840" height="560" rx="4"/>
+
+  <!-- Stairwell opening (three-story drop) -->
+  <ellipse class="danger" cx="460" cy="320" rx="140" ry="200"/>
+  <text class="danger-label" x="460" y="315" text-anchor="middle">Open stairwell</text>
+  <text class="danger-label" x="460" y="338" text-anchor="middle">(3 stories down)</text>
+
+  <!-- Railing around stairwell -->
+  <ellipse class="rail-solid" cx="460" cy="320" rx="168" ry="228" fill="none"/>
+
+  <!-- Stairs up (from below) -->
+  <path class="stairs" d="M 400 520 L 520 520 L 500 600 L 380 600 Z"/>
+  <line class="stair-line" x1="405" y1="535" x2="515" y2="535"/>
+  <line class="stair-line" x1="395" y1="555" x2="510" y2="555"/>
+  <line class="stair-line" x1="385" y1="575" x2="500" y2="575"/>
+  <text class="sublabel" x="460" y="548" text-anchor="middle">Stairs from Floor 2</text>
+
+  <!-- LIBRARY (west) -->
+  <rect class="room" x="40" y="120" width="200" height="280" rx="3"/>
+  <text class="label" x="140" y="210" text-anchor="middle">LIBRARY</text>
+  <text class="sublabel" x="140" y="235" text-anchor="middle">(open arch)</text>
+  <text class="sublabel" x="140" y="258" text-anchor="middle">desk, books, secret shelf</text>
+
+  <!-- CONSERVATORY (east) -->
+  <rect class="room" x="680" y="120" width="200" height="280" rx="3"/>
+  <text class="label" x="780" y="210" text-anchor="middle">CONSERVATORY</text>
+  <text class="sublabel" x="780" y="235" text-anchor="middle">(closed door)</text>
+  <text class="sublabel" x="780" y="258" text-anchor="middle">harpsichord</text>
+
+  <!-- Four suits of armor -->
+  <g transform="translate(248, 200)">
+    <rect class="armor" x="0" y="20" width="36" height="70" rx="2"/>
+    <rect class="armor-helm" x="6" y="0" width="24" height="22" rx="3"/>
+    <text class="sublabel" x="18" y="105" text-anchor="middle">armor</text>
+  </g>
+  <g transform="translate(248, 340)">
+    <rect class="armor" x="0" y="20" width="36" height="70" rx="2"/>
+    <rect class="armor-helm" x="6" y="0" width="24" height="22" rx="3"/>
+    <text class="sublabel" x="18" y="105" text-anchor="middle">armor</text>
+  </g>
+  <g transform="translate(615, 240)">
+    <rect class="armor" x="0" y="20" width="36" height="70" rx="2"/>
+    <rect class="armor-helm" x="6" y="0" width="24" height="22" rx="3"/>
+    <text class="sublabel" x="18" y="105" text-anchor="middle">armor</text>
+  </g>
+  <g transform="translate(400, 80)">
+    <rect class="armor" x="0" y="20" width="36" height="70" rx="2"/>
+    <rect class="armor-helm" x="6" y="0" width="24" height="22" rx="3"/>
+    <text class="sublabel" x="18" y="105" text-anchor="middle">armor</text>
+  </g>
+
+  <line class="rail" x1="40" y1="40" x2="880" y2="40"/>
+  <text class="sublabel" x="460" y="28" text-anchor="middle">outer wall / upper drop to street side (DM discretion)</text>
+</svg>
