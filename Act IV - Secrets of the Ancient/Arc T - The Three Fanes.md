@@ -673,10 +673,12 @@ This area is largely as described in <span class="citation">U5. Marina’s Monum
 <p>Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a stone monument.</p>
 <p>An ethereal, golden figure kneels before the monument.</p>
 </div>
+
 ![[Marina's Monument.png]]
 <span class="credit">"Marina's Monument" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The golden figure is the spirit of Sergei von Zarovich (use the statistics of a **phantom warrior**). 
+
 
 > [!lore]+ **Sergei’s Spirit**
 > When Strahd killed him at his wedding nearly four centuries ago, Sergei’s ghost awoke to find itself entrapped within the Mists, unable to pass on to the afterlife. As the Mists’ first ghost, Sergei has learned how to avoid the cycles of reincarnation that return Barovia’s souls to their next lives. Although Strahd has long searched for his soul, Sergei has also learned how to hide himself away from his brother’s eyes, too fearful—and ashamed—to allow Strahd to find him.
@@ -686,6 +688,11 @@ The golden figure is the spirit of Sergei von Zarovich (use the statistics of a 
 > When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Burgomaster Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
 >
 > Today, Sergei generally conceals himself near the border of the Deep Ethereal, so as to avoid the watchful eyes of Strahd’s **nightmare** and ghostly servants. However, he occasionally dares to visit Marina’s Monument, where he pays his respects to the woman he failed to save, and the woman his actions condemned. Sergei dreads the day that he might encounter Tatyana’s soul again—and hopes fervently that day will never come.
+
+
+![[Sergei.png]]
+<span class="credit">"Sergei von Zarovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 ### Sergei’s Surprise
 If the players draw Sergei’s attention, or otherwise fail to conceal their entry to this area, read:
 
