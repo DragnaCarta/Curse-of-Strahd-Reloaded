@@ -35,9 +35,9 @@ Before the players arrive, the ringmaster Rictavio reserves a room at the Blue W
 
 **The players arrive in Vallaki at dusk.**
 
-That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort.
+That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort. Father Lucian witnesses the theft, but does not identify the perpetrator in the dark.
 ## Neyavr 3
-At dawn, Father Lucian Petrovich discovers the missing bones. Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
+Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
 
 Izek Strazni and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin [[Arc G - The Strazni Siblings]] if Izek has not already seen Ireena.
 

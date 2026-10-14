@@ -1,3 +1,6 @@
+# Hotfix 2.0.1.16 (October 14, 2026)
+* Amended broken links
+* Added image of Sergei to [[Arc T - The Three Fanes]]
 # Patch 2.0.1.15 (August 20, 2026)
 * Amended various typos, broken links, and errors in formatting
 * Clarified that Ismark has the statistics of a **veteran** in [[Arc B - Welcome to Barovia]]

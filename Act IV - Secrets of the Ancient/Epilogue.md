@@ -262,7 +262,7 @@ If the players follow the butterfly, read:
 <p>A figure, wearing a cloak of pale blue, stands at the end of the alley, the ground beneath its feet frozen solid. The butterfly alights upon its shoulder, settling comfortably beside the figure’s neck.</p>  
 </div>
 
-The figure is a manifestation of the Dreamer. If she speaks, a player who spoke with her in [[#U3h. The Lonely Maid]] recognizes her voice.
+The figure is a manifestation of the Dreamer. If she speaks, a player who spoke with her in [[Arc U - Dreams of Dawn#U3h. The Lonely Maid|The Lonely Maid]] recognizes her voice.
 
 If not addressed first, the Dreamer greets the players and apologizes for watching them. She then removes the hood to her cloak, revealing a young woman’s features, pale violet eyes, slightly pointed ears, and snow-white hair that falls past her shoulders.
 
@@ -294,7 +294,7 @@ The Dreamer is grateful for any guidance or counsel the players can provide. Whe
 ## 3. Return to Krezk
 
 > [!abstract]+ **Cyrus’s Request**  
-> If the players escorted Cyrus to Vallaki, he approaches them following the [[#Festival of the Dawn]] to request their escort to Krezk and the Abbey of St. Markovia. “I will return a failure," he says mournfully, “but better to be a failure with family than a failure without. They deserve to know the truth, if nothing else."
+> If the players escorted Cyrus to Vallaki, he approaches them following the [[Epilogue#2. The Festival of the Dawn|Festival of the Dawn]] to request their escort to Krezk and the Abbey of St. Markovia. “I will return a failure," he says mournfully, “but better to be a failure with family than a failure without. They deserve to know the truth, if nothing else."
 ### 3a. Arrival at the Walls
 If the players return to the village of Krezk after defeating Strahd, they find the gate guarded by Zygfrek and Otto Belview.
 
