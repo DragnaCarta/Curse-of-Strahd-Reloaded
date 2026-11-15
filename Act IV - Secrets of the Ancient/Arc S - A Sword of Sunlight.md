@@ -1511,7 +1511,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 > * **Stage Five.** The player gains a **cambion’s** ***fire ray*** feature, and the flaw: “I exult in every opportunity for wickedness and perversion."
 > * **Stage Six.** The player transforms into a **cambion** under the DM’s control.  
 
-> [!info]+ **East Sarcophagus (Tomb of Khirad).**  
+> [!info]+ **North Sarcophagus (Tomb of Khirad).**  
 > If a player touches this sarcophagus, read:  
 >  
 > ---  
@@ -1867,7 +1867,7 @@ Patrina then attacks.
 <h2>Patrina, Vengeful Wraith</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 13  
+<strong>Armor Class</strong> 14  
 <br>
 <strong>Hit Points</strong> 285 (38d8 + 48)  
 <br>
@@ -1896,7 +1896,7 @@ Patrina then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +9, Int +11, Wis +8, Cha +9  
+<strong>Saving Throws</strong> Con +10, Int +12, Wis +9, Cha +10  
 <br>
 <strong>Skills</strong> Arcana +17, History +11, Insight +8, Perception +8  
 <br>
@@ -2210,7 +2210,7 @@ Neferon—as “Heinrich"—asks the players to identify any physical items they
 
 “Heinrich" is willing to allow the players to depart the Amber Temple with a magical item in exchange for a magical item “of equal or greater value," or "a secret of great power." (For example, the players might reveal the existence and true nature of the Keepers of the Feather, or the existence of the *Tome of Strahd*. Due to Elder Burebis' *modify memory* spell, players will not be able to offer the location of Soldav as their secret.)
 
-However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its radiant properties. "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
+However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its potential to produce sunlight (through the use of identify, because it's been lit, or by some other means). "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
 
 If the players refuse to disclose an item’s value, or if negotiations break down, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as [[#^heinrichsdiscipline|Heinrich's Discipline]] and [[#^neferonstactics|Neferon's Tactics]] above.
 

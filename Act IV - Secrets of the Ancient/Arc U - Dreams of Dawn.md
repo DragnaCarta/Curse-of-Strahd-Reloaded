@@ -933,6 +933,10 @@ When Strahd’s Mage phase is reduced to 0 hit points, read the following, modif
 <p>“You wish to dance?" he says. “Then let us dance."</p>
 </div>
 
+
+![[Strahd_Soldier.png]]
+<span class="credit">"Strahd the Soldier" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 In his Soldier phase, Strahd moves freely between <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K57. Tower Roof (p. 72)</span>, though he prefers to linger upon <span class="citation">K58. Bridge (p. 73)</span> and use his ***longsword*** and ***thunderous wave*** features to push players off of the bridge onto <span class="citation">K53. Rooftop (p. 71)</span>.
 
 > [!info]+ **Ascending the Walls**
