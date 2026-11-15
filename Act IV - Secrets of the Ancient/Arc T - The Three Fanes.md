@@ -113,7 +113,7 @@ Once summoned, the Huntress and/or Weaver are glad to answer the players’ ques
 > The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional properties:
 > * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. 
 > * You can use a bonus action to cause harmless emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While aflame, the spear sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
-> * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier, and the spear regains all expended uses at dawn.
+> * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier (with one cast for a modifier of 0 or below), and the spear regains all expended uses at dawn.
 
 > [!info]+ **Reconsecrating the Fanes**
 > For the players to reconsecrate the Fanes, the following events must come to pass
@@ -1139,7 +1139,7 @@ Baba Lysaga then attacks.
 > [!info]+ **Silverthorn Chain**
 > A length of *silverthorn chain* is lined with tiny silver thorns. A lycanthrope touching *silverthorn chain* can’t regenerate or transform.
 >
-> A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
+> A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. Treat spells that target creatures as having an effect on the chain. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
 
 > [!combat]- **Combat - The Witch**  
 > **Combat Level**: Bruising (phase one), Mild (phase two)
@@ -1651,7 +1651,7 @@ Soon after arriving, Arturi softly shares that he “still remembers" the camp a
 When the players are ready to begin, Arturi and Van Richten begin the blood rite. Read:
 
 <div class="description">
-<p>Arturi draws a knife from his boot, an obsidian-black blade glinting dully in the light. He seizes Van Richten’s left wrist and shakes his hand until the fingers open—then exposes his own palm and opens it as well.</p>
+<p>Arturi draws a knife from his boot, an obsidian-black blade glinting dully in the light. He seizes Van Richten’s left wrist and shakes his hand until the fingers open, cutting into the flesh of his palm with the blade—then exposes his own palm and opens it as well.</p>
 <p>With a sound clap, their hands clasp, Van Richten’s swinging to meet his. A heartbeat passes—and then both men pull away, hissing in pain as smoke billows from their hands.</p>
 </div>
 
@@ -1722,7 +1722,7 @@ It takes one minute, or ten rounds, for the wagons to be fully consumed in flame
 <p>The woods rustle with approaching footsteps. Slowly, hunched, shambling shapes emerge from the darkness.</p>
 </div>
 
-A new wave of undead appears at the beginning of the third round of combat, and at the beginning of each round thereafter, as follows:
+From a distance of 60ft, a new wave of undead appears at the beginning of the third round of combat, and at the beginning of each round thereafter, as follows:
 
 * **Round 3.** Thirteen **zombies**
 * **Round 4.** Six **ghouls**

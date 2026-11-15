@@ -1104,7 +1104,7 @@ The druids' circle is largely as described in <span class="citation">Y3. Druids'
 
 <div class="description">
 <p>A deep emerald light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
-<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
+<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs stand outside the ring of roots, looking inwards at the ritual, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
 </div>
 
 Just beside the entrance to the ring of black boulders that forms the **Druids’ Circle** and ten feet above the ground hovers Strahd von Zarovich, who is seated on his **nightmare** Beucephalus. As the players enter the circle, if Strahd notices them, read:
@@ -1163,7 +1163,7 @@ Unless the players intervene, the following scene then unfolds:
 
 Ludmilla then greets the players. If they have previously defeated Volenta in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
 
-As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
+As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from their position outside the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
 
 Ludmilla flees if attacked, using her ***misty step*** feature to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
 
@@ -1204,6 +1204,8 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
 > 
 > At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
+
+
 ## J5d. The Druidic Guards
 Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows** (see below).
 <br>
@@ -1216,7 +1218,7 @@ Immediately after the ritual begins, the two **druid assailants** and two **bers
 ## J5e. Ludmilla's Barricade
 Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
 ### The Shroud of Mist
-This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
+This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
  
 A non-undead creature that comes into contact with the mist for the first time on a turn must succeed on a DC 15 Constitution saving throw or take 10 (3d6) necrotic damage and be slowed until the start of its next turn. (It must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)
 

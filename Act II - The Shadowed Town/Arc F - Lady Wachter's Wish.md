@@ -50,6 +50,8 @@ Additionally, Stella's room is neither musty nor dark, and her bed is not fitted
 
 Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 113)</span> also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though Lady Wachter doesn't know its significance.
 
+***Cellar.*** The cellar no longer contains eight animated skeletons hidden beneath the earth.
+
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
 
 * Cantrips (at will): *light, toll the dead, thaumaturgy*
@@ -271,7 +273,7 @@ When the handoff is complete, Ernst advises the players to follow Izek as he lea
 > * **1:00 P.M.** The Baron’s cook delivers Izek a midday meal and a case of two bottles of wine in the Vallaki town square. Izek eats his lunch and begins drinking the first bottle of wine while the two **guards** patrol the surrounding area.
 > * **2:00 P.M.** Izek and the two **guards** visit three or four of Izek’s “spies” scattered across the town to receive reports of recent malicious unhappiness. 
 > * **4:00 P.M.** Izek and the two **guards** travel to the Sunset, Zarovich Gate, and Morning Gate (beginning with whichever gate is closest) to receive the guards’ reports and inspect the town’s defenses.
-> * **5:30 P.M.** Izek dismisses the two **guards** and travels alone to Lake Zarovich. He spends the remainder of the evening consuming the second bottle of wine and staring into space.
+> * **5:30 P.M.** Izek dismisses the two **guards** and heads to Blinsky Toys to try and pick up the doll he has commissioned. He then travels alone to Lake Zarovich. He spends the remainder of the evening consuming the second bottle of wine and staring into space.
 > * **10:00 P.M.** Izek returns to the burgomaster’s mansion and takes his evening meal, as well as a third bottle of wine, in his bedroom.
 > 
 >   Once Izek drinks the entire bottle of Lady Wachter’s poisoned wine, he suffers the **poisoned** condition for 1 hour afterward.
@@ -303,7 +305,7 @@ As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of 
 > 
 > If Izek detects the players, he demands to know whether the players have been following him and accuses them of being "spies and criminals." The players can deceive him with a successful DC 9 Charisma (Deception) check. On a failure, Izek directs any nearby guards to arrest the players to be locked in the stocks; if the players resist, or if there are no guards nearby, Izek attacks in an attempt to knock the players out himself.
 > 
-> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with Ireena. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
+> If the players are detected but successfully deceive Izek as to their intentions, and if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with Ireena. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
 ### 1. The Town Square
 <span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
 

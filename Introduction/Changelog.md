@@ -1,3 +1,21 @@
+# Patch 2.0.1.17 (November 15, 2026)
+* Amended various typos, broken links, and errors in formatting
+* Corrected outdated reference to Madam Eva being the one to invite players to Tser Pool in [[Act I Summary]]
+* Included Strahd's invitation to dinner in [[Act II Summary]] instead of Act III Summary
+* Clarified that the eight animated skeletons in the cellar of Wachterhaus are not present in [[Arc F - Lady Wachter's Wish]]
+* Included Izek's journey to Blinksy Toys in the schedule for his whereabouts in [[Arc F - Lady Wachter's Wish]]
+* Clarified that the hags will try and bring the fight to the outside in [[Arc H - The Lost Soul]] if it starts inside the windmill
+* Clarified that the hags are immune to their *amphibious cacophony* in [[Arc H - The Lost Soul]]
+* Clarified the language describing where the **beserkers** and **druid assailants** stand at the start of the ceremony in [[Arc J - The Stolen Gem]]
+* Clarified that there is no treasure to be found in Crypt 9 due to Pidlwick's ghost no longer being summoned in [[Arc P - Ravenloft Heist]]
+* Clarified that the wolves once loyal to Kiril will flee from the pack upon his demise in [[Arc Q - A Shining Beacon]]
+* Added that the *hunter's mark* feature of the *Spear of the Huntress* gives a baseline of one use per day, even if the wielder's Wisdom modifier is 0 or below.
+* Clarified that spells that would target a creature can target a *silverthorn chain*, in order for radiant damage to do damage to it.
+* Given the undead hordes a starting distance during Arturi and Van Richten's final rite in [[Arc T - The Three Fanes]]
+* Added an image of Strahd the Soldier in [[Arc U - Dreams of Dawn]]
+* Clarified that upon first revival from an amber shard, there is an understanding that this power came from the shard, in [[Amber Shards]]
+* Updated Patrina's demise in [[History of Barovia]] to be in line with [[Arc S - A Sword of Sunlight]]
+
 # Hotfix 2.0.1.16 (October 14, 2026)
 * Amended broken links
 * Added image of Sergei to [[Arc T - The Three Fanes]]

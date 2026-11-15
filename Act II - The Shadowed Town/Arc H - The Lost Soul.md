@@ -400,6 +400,8 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 > <hr>
 >
 > The area within the cloud of fog is heavily obscured. If the players enter the cloud of fog, after one minute their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+
+
 ## H7a. Raiding the Windmill
 The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
 
@@ -452,7 +454,7 @@ When Bella and Offalia arrive, they greet the players with awkward, overdramatic
 
 Assuming the players do not interfere, Bella sweeps across the room toward the front entrance to the windmill. She then pretends to inspect the hinges, obstructing the players’ exit, and complains, “Its squeaking is driving me mad!” 
 
-Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Bella, and Offalia then immediately move to attack. 
+Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Bella, and Offalia then immediately move to attack. Upon entering combat, Bella opens the front entrance to the windmill to bring the combat into the open, with the other hags following suit.
 
 If the players are defeated, Morgantha also feeds the two strongest players the concoctions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
 
@@ -501,7 +503,7 @@ Morgantha declines to explain her statement further, noting only that "darker po
 <span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Battle with the Hags
-The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
+The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. If the combat starts inside the windmill, the hags will quickly try and bring the fight into the open. The combatants fight as follows:
 
 > [!info]+ **Lair Actions**
 >
@@ -511,7 +513,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 >
 > - **_Warding Wind._** The coven casts _warding wind._
 > - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
+> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature (excluding the hags) within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
 > - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
 
 > [!info]+ **The Hag Coven**
@@ -676,7 +678,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 >
 > | Number of Players | Modification |
 > |-|-|
-> | 3 | Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage. |
+> | 3 | Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage. |
 > | 4 | Reduce the hags’ hit points to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage. |
 > | 6 | Increase the hags’ hit points to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage. |
 

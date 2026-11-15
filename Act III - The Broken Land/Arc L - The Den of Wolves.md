@@ -29,7 +29,7 @@ Before she leads the players to the den, Ezmerelda proposes the following plan:
 > If the players stole from Ezmerelda's wagon in [[Arc E - The Missing Vistana]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
 # L2. Lake Baratok
 
-The journey from the village of Kresk to Lake Baratok is three-and-one-falf miles long and takes one hour and ten minutes.
+The journey from the village of Kresk to Lake Baratok is three-and-one-half miles long and takes one hour and ten minutes.
 
 If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Arc E - The Missing Vistana]]. 
 

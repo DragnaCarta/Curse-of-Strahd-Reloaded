@@ -890,7 +890,7 @@ Kiril then attacks.
 > When Kiril falls, Bianca’s grief transforms into fury. She screams, and in a blind surge of rage she launches herself at the players, fighting with abandon until she is slain
 
 
-Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
+Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him, whilst the **wolves** that had joined Kiril's pack rapidly flee into the woods. Read:
 
 <div class="description">
 <p>Eight of the wolves stand higher—and then higher, rising upon their hind legs as fur falls away, muzzles compress into faces, and forelegs twist into arms.</p>

@@ -25,7 +25,7 @@ In this stage, the player is a mere possessor of the amber shard, likely unaware
 
 The first time that the player is reduced to 0 hit points and knocked unconscious while possessing the shard, a dark silhouette appears to them in a vision and offers to help them escape the specter of death and return to the fight. The silhouette names no price, and remains silent unless the player accepts their offer. 
 
-If the player accepts, they regain all of their hit points. The player then proceeds to Stage Two of the shard's corruption. If they decline, the vestige does not appear to them again unless the player falls unconscious in a particularly dire situation.
+If the player accepts, they regain all of their hit points, feeling the shard's unnatural power as the source of this revival. The player then proceeds to Stage Two of the shard's corruption. If they decline, the vestige does not appear to them again unless the player falls unconscious in a particularly dire situation.
 # Stage Two
 In this stage, the player is aware of the shard's unnatural power, but unable to contact the vestige for further aid.
 
